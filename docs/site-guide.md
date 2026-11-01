@@ -43,7 +43,7 @@ The chapter catalog appears immediately below search and is displayed when the p
 
 All 31 chapters appear in the catalog. Results start with 24 recipes; select **Show more recipes** to reveal the next 24. The count shows how many are visible out of the total, and changing a search or filter starts a fresh set.
 
-Recipe tiles use individually written descriptions based on each recipe’s ingredients and directions. These distinguish dishes and variants without generic promotional filler; the complete historical ingredient list is shown on the recipe page.
+Recipe cards show the chapter, title, and available contributor and page details. Descriptions and the complete historical ingredient list appear on the recipe page.
 
 ## Recipe pages
 
