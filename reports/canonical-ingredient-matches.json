@@ -7,6 +7,11 @@
     "unmatched": 517,
     "historical_alias": 108
   },
+  "review_summary": {
+    "unresolved_identity": 507,
+    "structural_heading": 8,
+    "stray_number": 2
+  },
   "matches": [
     {
       "recipe_id": "mg1930-p016-r01",
@@ -363,7 +368,8 @@
       "recipe_id": "mg1930-p017-r01",
       "recipe_title": "MACARONI WITH CARROTS AND EGGS",
       "display_text": "1 cup cooked carrot cubes",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p017-r01",
@@ -434,7 +440,8 @@
       "recipe_id": "mg1930-p017-r02",
       "recipe_title": "CHILDREN'S SALAD",
       "display_text": "salad dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p017-r02",
@@ -635,7 +642,8 @@
       "recipe_id": "mg1930-p017-r05",
       "recipe_title": "CHILDREN'S RAISIN CANDY",
       "display_text": "enough boiling water to mix stiff",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p017-r06",
@@ -732,7 +740,8 @@
       "recipe_id": "mg1930-p020-r02",
       "recipe_title": "GINGER ALE SODA",
       "display_text": "1 large tbsp. vanilla ice cream in each glass.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p020-r03",
@@ -1388,7 +1397,8 @@
       "recipe_id": "mg1930-p022-r01",
       "recipe_title": "SPICED BLOCKS",
       "display_text": "2 lemons, juice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p022-r01",
@@ -1472,7 +1482,8 @@
       "recipe_id": "mg1930-p022-r02",
       "recipe_title": "SOFT DRINK",
       "display_text": "1 bottle white rock",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p022-r02",
@@ -1972,7 +1983,8 @@
       "recipe_id": "mg1930-p024-r05",
       "recipe_title": "WAFFLES",
       "display_text": "[Level Measurements]",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "structural_heading"
     },
     {
       "recipe_id": "mg1930-p024-r05",
@@ -2212,7 +2224,8 @@
       "recipe_id": "mg1930-p025-r02",
       "recipe_title": "DELICIOUS WAFFLES",
       "display_text": "½ cup butter, melted and slightly cooled",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p025-r02",
@@ -2231,7 +2244,8 @@
       "recipe_id": "mg1930-p025-r03",
       "recipe_title": "EXCELLENT WAFFLES",
       "display_text": "2 cups bread flour, sifted 3 times",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p025-r03",
@@ -2289,7 +2303,8 @@
       "recipe_id": "mg1930-p025-r03",
       "recipe_title": "EXCELLENT WAFFLES",
       "display_text": "3 eggs beaten separately",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p025-r04",
@@ -2646,7 +2661,8 @@
       "recipe_id": "mg1930-p028-r03",
       "recipe_title": "BAKING POWDER BISCUIT",
       "display_text": "2 tablespoons fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p028-r03",
@@ -2704,7 +2720,8 @@
       "recipe_id": "mg1930-p028-r04",
       "recipe_title": "BAKING POWDER BISCUITS",
       "display_text": "2 tsp. baking powder (rounding) Royal",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p028-r04",
@@ -3360,7 +3377,8 @@
       "recipe_id": "mg1930-p032-r03",
       "recipe_title": "GINGER BREAD",
       "display_text": "½ cup butter and lard mixed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p032-r03",
@@ -5082,7 +5100,8 @@
       "recipe_id": "mg1930-p037-r01",
       "recipe_title": "DATE BREAD",
       "display_text": "1 package dates (about 8 oz.), pitted and chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p037-r01",
@@ -6336,7 +6355,8 @@
       "recipe_id": "mg1930-p039-r03",
       "recipe_title": "PEANUT BUTTER BREAD",
       "display_text": "1 jar peanut butter 6 oz.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p039-r03",
@@ -7798,7 +7818,8 @@
       "recipe_id": "mg1930-p044-r03",
       "recipe_title": "PRUNE - NUT MUFFINS",
       "display_text": "½ cup cooked prunes, drained and cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p044-r03",
@@ -7817,7 +7838,8 @@
       "recipe_id": "mg1930-p044-r03",
       "recipe_title": "PRUNE - NUT MUFFINS",
       "display_text": "2 tbsp. melted fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p044-r03",
@@ -8148,7 +8170,8 @@
       "recipe_id": "mg1930-p046-r02",
       "recipe_title": "SOUR CREAM DOUGHNUTS",
       "display_text": "3 eggs, beaten separately",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p046-r02",
@@ -8193,7 +8216,8 @@
       "recipe_id": "mg1930-p046-r02",
       "recipe_title": "SOUR CREAM DOUGHNUTS",
       "display_text": "1 tsp. baking powder added to enough flour to make soft dough",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p046-r03",
@@ -8316,7 +8340,8 @@
       "recipe_id": "mg1930-p048-r01",
       "recipe_title": "COCOANUT KISSES",
       "display_text": "2 cups cornflakes, Kellogg's",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p048-r01",
@@ -8465,7 +8490,8 @@
       "recipe_id": "mg1930-p048-r02",
       "recipe_title": "SOUR CREAM COCOANUT COOKIES",
       "display_text": "½ cup dates, cut finely",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p048-r02",
@@ -8666,7 +8692,8 @@
       "recipe_id": "mg1930-p048-r04",
       "recipe_title": "CHOCOLATE DROP COOKIES",
       "display_text": "1 cup walnutmeats cut fine",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p048-r04",
@@ -9595,7 +9622,8 @@
       "recipe_id": "mg1930-p050-r05",
       "recipe_title": "NUT AND RAISIN CAKES",
       "display_text": "1 level tsp. soda dissolved in a",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p050-r05",
@@ -9705,7 +9733,8 @@
       "recipe_id": "mg1930-p051-r01",
       "recipe_title": "HERMITS",
       "display_text": "3 cups flour, measured before sifting",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p051-r01",
@@ -11427,7 +11456,8 @@
       "recipe_id": "mg1930-p056-r02",
       "recipe_title": "MOLASSES COOKIES",
       "display_text": "flour to right consistency",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p056-r03",
@@ -11472,7 +11502,8 @@
       "recipe_id": "mg1930-p056-r03",
       "recipe_title": "CHOCOLATE DELIGHTS",
       "display_text": "1/2 cup candied cherries, pine-",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p056-r03",
@@ -11829,7 +11860,8 @@
       "recipe_id": "mg1930-p057-r02",
       "recipe_title": "RAISIN FILLED COOKIES",
       "display_text": "[Batter]",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "structural_heading"
     },
     {
       "recipe_id": "mg1930-p057-r02",
@@ -11926,7 +11958,8 @@
       "recipe_id": "mg1930-p057-r02",
       "recipe_title": "RAISIN FILLED COOKIES",
       "display_text": "[Filling]",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "structural_heading"
     },
     {
       "recipe_id": "mg1930-p057-r02",
@@ -12075,7 +12108,8 @@
       "recipe_id": "mg1930-p057-r03",
       "recipe_title": "SUGAR COOKIES",
       "display_text": "thin on board",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p058-r01",
@@ -12172,7 +12206,8 @@
       "recipe_id": "mg1930-p058-r01",
       "recipe_title": "SUGAR COOKIES",
       "display_text": "flour to roll soft",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p058-r02",
@@ -12594,13 +12629,15 @@
       "recipe_id": "mg1930-p060-r04",
       "recipe_title": "ICE BOX COOKIES",
       "display_text": "2½ cups sugar; white and brown",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p060-r04",
       "recipe_title": "ICE BOX COOKIES",
       "display_text": "juice of ½ lemon or extract",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p060-r04",
@@ -12658,7 +12695,8 @@
       "recipe_id": "mg1930-p060-r04",
       "recipe_title": "ICE BOX COOKIES",
       "display_text": "melted",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p060-r04",
@@ -12690,7 +12728,8 @@
       "recipe_id": "mg1930-p061-r01",
       "recipe_title": "BUTTER SCOTCH COOKIES",
       "display_text": "2 cups brown sugar 4",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p061-r01",
@@ -14061,7 +14100,8 @@
       "recipe_id": "mg1930-p065-r04",
       "recipe_title": "YELLOW ANGEL FOOD CAKE",
       "display_text": "1½ cups sugar, sifted twice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p065-r04",
@@ -14106,7 +14146,8 @@
       "recipe_id": "mg1930-p065-r04",
       "recipe_title": "YELLOW ANGEL FOOD CAKE",
       "display_text": "1½ cups flour, sifted twice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p065-r04",
@@ -14203,7 +14244,8 @@
       "recipe_id": "mg1930-p065-r05",
       "recipe_title": "YELLOW CAKE",
       "display_text": "7 egg whites, beaten slightly",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p065-r05",
@@ -14677,13 +14719,15 @@
       "recipe_id": "mg1930-p067-r01",
       "recipe_title": "SPONGE CAKE USING YOLKS ONLY",
       "display_text": "1½ cups flour, sifted before measuring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p067-r01",
       "recipe_title": "SPONGE CAKE USING YOLKS ONLY",
       "display_text": "1 tsp. flavoring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p067-r02",
@@ -15222,7 +15266,8 @@
       "recipe_id": "mg1930-p072-r03",
       "recipe_title": "APPLE SAUCE CAKE",
       "display_text": "2 tbsp. fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p072-r03",
@@ -15384,7 +15429,8 @@
       "recipe_id": "mg1930-p072-r04",
       "recipe_title": "BROWNIES",
       "display_text": "½ cup walnut meats cut in pieces",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p072-r04",
@@ -15572,7 +15618,8 @@
       "recipe_id": "mg1930-p073-r02",
       "recipe_title": "BROWNIES",
       "display_text": "Flavoring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p073-r02",
@@ -16683,7 +16730,8 @@
       "recipe_id": "mg1930-p075-r03",
       "recipe_title": "DEVIL'S FOOD CAKE",
       "display_text": "(each sq. one ounce)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p075-r04",
@@ -17092,7 +17140,8 @@
       "recipe_id": "mg1930-p076-r04",
       "recipe_title": "SIMPLE CHOCOLATE TWO LAYER CAKE",
       "display_text": "1 tsp. soda dissolved in 1/4 cup",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p076-r04",
@@ -17735,7 +17784,8 @@
       "recipe_id": "mg1930-p077-r04",
       "recipe_title": "COLONIAL CAKE",
       "display_text": "1 egg in cup, fill with sweet",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p077-r04",
@@ -18001,7 +18051,8 @@
       "recipe_id": "mg1930-p078-r02",
       "recipe_title": "DUTCH APPLE CAKE",
       "display_text": "4 apples, sliced",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p078-r02",
@@ -18072,7 +18123,8 @@
       "recipe_id": "mg1930-p078-r03",
       "recipe_title": "DELICATE CAKE",
       "display_text": "flavoring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p078-r03",
@@ -18247,7 +18299,8 @@
       "recipe_id": "mg1930-p078-r04",
       "recipe_title": "ENGLISH WHITE FRUIT CAKE",
       "display_text": "1 lemon rind grated",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p078-r04",
@@ -18357,7 +18410,8 @@
       "recipe_id": "mg1930-p079-r01",
       "recipe_title": "EASY CAKE -",
       "display_text": "Flavoring (amount unspecified)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p079-r02",
@@ -18441,7 +18495,8 @@
       "recipe_id": "mg1930-p079-r02",
       "recipe_title": "ENGLISH QUEENS CAKES",
       "display_text": "juice 1 lemon or 2 tsp. extract",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p079-r02",
@@ -18889,7 +18944,8 @@
       "recipe_id": "mg1930-p080-r01",
       "recipe_title": "FRUIT CAKE",
       "display_text": "1½ cups grated apple",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p080-r01",
@@ -19285,7 +19341,8 @@
       "recipe_id": "mg1930-p081-r01",
       "recipe_title": "GOLD MEDAL CAKE",
       "display_text": "1 tsp. flavoring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p081-r01",
@@ -19486,7 +19543,8 @@
       "recipe_id": "mg1930-p081-r03",
       "recipe_title": "GRANDMA'S SPECIAL CAKE (LARGE CAKE)",
       "display_text": "8 egg whites, beaten very stiff",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p081-r03",
@@ -19635,7 +19693,8 @@
       "recipe_id": "mg1930-p081-r04",
       "recipe_title": "PINEAPPLE FILLING",
       "display_text": "½ tsp. orange flavoring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p082-r01",
@@ -19680,7 +19739,8 @@
       "recipe_id": "mg1930-p082-r01",
       "recipe_title": "HOT MILK CAKE",
       "display_text": "2 eggs beaten separately",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p082-r01",
@@ -19920,7 +19980,8 @@
       "recipe_id": "mg1930-p082-r03",
       "recipe_title": "MOLASSES CAKE",
       "display_text": "2 tsp. soda dissolved in 1 cup",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p082-r03",
@@ -20134,7 +20195,8 @@
       "recipe_id": "mg1930-p082-r05",
       "recipe_title": "ORANGE CAKE",
       "display_text": "1 cup cream sour (slightly)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p082-r05",
@@ -20426,7 +20488,8 @@
       "recipe_id": "mg1930-p083-r03",
       "recipe_title": "PEANUT BARS",
       "display_text": "½ tsp. flavoring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p083-r03",
@@ -20484,7 +20547,8 @@
       "recipe_id": "mg1930-p083-r03",
       "recipe_title": "PEANUT BARS",
       "display_text": "Ground peanuts, for coating",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p083-r04",
@@ -21790,7 +21854,8 @@
       "recipe_id": "mg1930-p086-r02",
       "recipe_title": "SNOWBALLS",
       "display_text": "1 egg and 2 yolks",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p086-r02",
@@ -22043,7 +22108,8 @@
       "recipe_id": "mg1930-p087-r01",
       "recipe_title": "SOUR CREAM CAKE",
       "display_text": "1 egg and 1 egg yolk, placed in measuring cup",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p087-r01",
@@ -22387,7 +22453,8 @@
       "recipe_id": "mg1930-p087-r04",
       "recipe_title": "WHITE CAKE",
       "display_text": "1½ cupsflour",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p087-r04",
@@ -22445,7 +22512,8 @@
       "recipe_id": "mg1930-p087-r04",
       "recipe_title": "WHITE CAKE",
       "display_text": "1 tsp. flavoring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p088-r01",
@@ -22750,7 +22818,8 @@
       "recipe_id": "mg1930-p088-r04",
       "recipe_title": "WHITE CAKE",
       "display_text": "2½ cups flour before sifting",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p088-r04",
@@ -22795,13 +22864,15 @@
       "recipe_id": "mg1930-p088-r04",
       "recipe_title": "WHITE CAKE",
       "display_text": "4 egg whites beaten and added",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p092-r01",
       "recipe_title": "FIG FILLING",
       "display_text": "½ lb. figs, finely chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p092-r01",
@@ -23574,7 +23645,8 @@
       "recipe_id": "mg1930-p094-r02",
       "recipe_title": "FLUFFY BOILED ICING",
       "display_text": "Flavoring.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p094-r03",
@@ -23775,7 +23847,8 @@
       "recipe_id": "mg1930-p095-r01",
       "recipe_title": "LADY BALTIMORE ICING",
       "display_text": "Boiled icing (quantity not specified)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p095-r01",
@@ -23807,7 +23880,8 @@
       "recipe_id": "mg1930-p095-r01",
       "recipe_title": "LADY BALTIMORE ICING",
       "display_text": "6 figs, cut in shreds",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p095-r02",
@@ -23917,7 +23991,8 @@
       "recipe_id": "mg1930-p095-r04",
       "recipe_title": "RICH ICING",
       "display_text": "1 cup powdered sugar free from lumps.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p095-r05",
@@ -24573,7 +24648,8 @@
       "recipe_id": "mg1930-p100-r03",
       "recipe_title": "ORIENTALS",
       "display_text": "[Chocolate Creams]",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "structural_heading"
     },
     {
       "recipe_id": "mg1930-p100-r03",
@@ -24774,7 +24850,8 @@
       "recipe_id": "mg1930-p102-r01",
       "recipe_title": "APRICOT ICE CREAM",
       "display_text": "1 pt. milk, top",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p102-r01",
@@ -25079,7 +25156,8 @@
       "recipe_id": "mg1930-p102-r05",
       "recipe_title": "COLD DESSERT",
       "display_text": "Pink coloring, as needed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p103-r01",
@@ -25306,13 +25384,15 @@
       "recipe_id": "mg1930-p103-r04",
       "recipe_title": "LADY FINGERS - ICE CREAM",
       "display_text": "Sweetened whipped cream, optionally tinted",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p103-r04",
       "recipe_title": "LADY FINGERS - ICE CREAM",
       "display_text": "Chopped nuts, to garnish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p103-r04",
@@ -25604,7 +25684,8 @@
       "recipe_id": "mg1930-p104-r05",
       "recipe_title": "PEANUT BRITTLE ICE CREAM",
       "display_text": "½ lb. peanut brittle ground fine",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p104-r05",
@@ -25688,7 +25769,8 @@
       "recipe_id": "mg1930-p106-r01",
       "recipe_title": "CHARLOTTE RUSSE",
       "display_text": "artificial coloring",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p106-r01",
@@ -25759,7 +25841,8 @@
       "recipe_id": "mg1930-p106-r02",
       "recipe_title": "FRESH STRAWBERRY CHARLOTTE RUSSE",
       "display_text": "1 pt. fresh strawberries, carefully cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p106-r02",
@@ -25895,7 +25978,8 @@
       "recipe_id": "mg1930-p106-r04",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "1 small bottle Maraschino",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p106-r04",
@@ -25940,7 +26024,8 @@
       "recipe_id": "mg1930-p106-r04",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "1/2 cup pecans, cut or chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p106-r04",
@@ -25959,7 +26044,8 @@
       "recipe_id": "mg1930-p106-r04",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "12 marshmallows, cut in pieces",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p106-r04",
@@ -26186,13 +26272,15 @@
       "recipe_id": "mg1930-p107-r04",
       "recipe_title": "ICE BOX CAKE",
       "display_text": "½ lb. shelled almonds, blanched and ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p107-r04",
       "recipe_title": "ICE BOX CAKE",
       "display_text": "2 dozen macaroons, crushed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p107-r04",
@@ -26380,7 +26468,8 @@
       "recipe_id": "mg1930-p107-r06",
       "recipe_title": "PINEAPPLE ICE BOX CAKE",
       "display_text": "Whipped cream and maraschino cherries, to serve",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p108-r01",
@@ -26490,7 +26579,8 @@
       "recipe_id": "mg1930-p108-r02",
       "recipe_title": "PINEAPPLE DESSERT",
       "display_text": "½ lb. marshmallows, cut in small pieces",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p108-r02",
@@ -26600,7 +26690,8 @@
       "recipe_id": "mg1930-p108-r04",
       "recipe_title": "PINEAPPLE SALAD",
       "display_text": "½ lb. marshmallows, halved",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p108-r04",
@@ -26658,7 +26749,8 @@
       "recipe_id": "mg1930-p108-r05",
       "recipe_title": "ORANGE APPLE JELLY",
       "display_text": "1 pkg. prepared jelly powder (orange flavor)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p108-r05",
@@ -27353,7 +27445,8 @@
       "recipe_id": "mg1930-p113-r01",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup nut meats, coarse",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p113-r01",
@@ -27372,7 +27465,8 @@
       "recipe_id": "mg1930-p113-r01",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup dates, cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p113-r02",
@@ -27404,7 +27498,8 @@
       "recipe_id": "mg1930-p113-r02",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup nut meats, cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p113-r02",
@@ -27527,7 +27622,8 @@
       "recipe_id": "mg1930-p113-r03",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 box dates, cut up fine",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p113-r03",
@@ -27546,7 +27642,8 @@
       "recipe_id": "mg1930-p113-r03",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup nutmeats, cliopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p113-r04",
@@ -27617,7 +27714,8 @@
       "recipe_id": "mg1930-p113-r04",
       "recipe_title": "DATE PUDDING",
       "display_text": "1/4 cupflour",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p113-r05",
@@ -27805,13 +27903,15 @@
       "recipe_id": "mg1930-p113-r06",
       "recipe_title": "DATE PUDDING",
       "display_text": "4 beaten whites",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p113-r06",
       "recipe_title": "DATE PUDDING",
       "display_text": "4 beaten yolks",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p114-r01",
@@ -27921,7 +28021,8 @@
       "recipe_id": "mg1930-p114-r03",
       "recipe_title": "LEMON SPONGE CUSTARD",
       "display_text": "1 lemon, juice and grated rind",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p114-r03",
@@ -28005,7 +28106,8 @@
       "recipe_id": "mg1930-p114-r04",
       "recipe_title": "LEMON CREAM",
       "display_text": "1 tsp. lemon rind",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p114-r04",
@@ -28115,7 +28217,8 @@
       "recipe_id": "mg1930-p114-r06",
       "recipe_title": "PINEAPPLE TAPIOCA",
       "display_text": "2 cups water and juice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p114-r06",
@@ -28225,7 +28328,8 @@
       "recipe_id": "mg1930-p115-r01",
       "recipe_title": "ORANGE PARISIAN",
       "display_text": "¼ cup fresh mint, finely chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p115-r01",
@@ -28491,13 +28595,15 @@
       "recipe_id": "mg1930-p116-r01",
       "recipe_title": "CHEESE TORTE",
       "display_text": "Custard:",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "structural_heading"
     },
     {
       "recipe_id": "mg1930-p116-r01",
       "recipe_title": "CHEESE TORTE",
       "display_text": "1",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "stray_number"
     },
     {
       "recipe_id": "mg1930-p116-r01",
@@ -28516,7 +28622,8 @@
       "recipe_id": "mg1930-p116-r01",
       "recipe_title": "CHEESE TORTE",
       "display_text": "1 heaping tbsp. flour (more if",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p116-r01",
@@ -28535,7 +28642,8 @@
       "recipe_id": "mg1930-p116-r01",
       "recipe_title": "CHEESE TORTE",
       "display_text": "cheese is mushy)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p116-r01",
@@ -28775,7 +28883,8 @@
       "recipe_id": "mg1930-p116-r04",
       "recipe_title": "DATE DESSERT TORTE",
       "display_text": "1 cup seeded dates, cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p116-r04",
@@ -28898,7 +29007,8 @@
       "recipe_id": "mg1930-p116-r05",
       "recipe_title": "NUT TORTE",
       "display_text": "1½ cups graham cracker crumbs, rolled medium fine",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p116-r05",
@@ -29242,7 +29352,8 @@
       "recipe_id": "mg1930-p117-r04",
       "recipe_title": "DAINTY DESSERT",
       "display_text": "1 bottle cherries, maraschino",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p118-r01",
@@ -29443,13 +29554,15 @@
       "recipe_id": "mg1930-p120-r01",
       "recipe_title": "APPLE PUDDING",
       "display_text": "Sliced apples, enough to cover bottom of dish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p120-r01",
       "recipe_title": "APPLE PUDDING",
       "display_text": "Sugar and butter, to sprinkle over apples (amounts not specified)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p120-r01",
@@ -29546,7 +29659,8 @@
       "recipe_id": "mg1930-p120-r02",
       "recipe_title": "APPLE ROLL",
       "display_text": "4 medium apples",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p120-r02",
@@ -29578,7 +29692,8 @@
       "recipe_id": "mg1930-p120-r02",
       "recipe_title": "APPLE ROLL",
       "display_text": "rich biscuit dough",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p120-r03",
@@ -29636,7 +29751,8 @@
       "recipe_id": "mg1930-p120-r03",
       "recipe_title": "SCALLOPED APPLES",
       "display_text": "1 qt. tart apples, cubed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p120-r03",
@@ -29811,7 +29927,8 @@
       "recipe_id": "mg1930-p121-r01",
       "recipe_title": "BIRD NESTS",
       "display_text": "4 apples",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p121-r02",
@@ -29830,7 +29947,8 @@
       "recipe_id": "mg1930-p121-r02",
       "recipe_title": "CHERRY PUDDING",
       "display_text": "1 egg, placed in a cup, with milk added to fill cup",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p121-r02",
@@ -29888,7 +30006,8 @@
       "recipe_id": "mg1930-p121-r03",
       "recipe_title": "BROWN BETTY",
       "display_text": "Sliced apples",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p121-r03",
@@ -29946,13 +30065,15 @@
       "recipe_id": "mg1930-p121-r03",
       "recipe_title": "BROWN BETTY",
       "display_text": "Water, to moisten the bottom of the dish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p121-r04",
       "recipe_title": "CHERRY CUP PUDDING",
       "display_text": "[Batter]",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "structural_heading"
     },
     {
       "recipe_id": "mg1930-p121-r04",
@@ -30738,7 +30859,8 @@
       "recipe_id": "mg1930-p123-r01",
       "recipe_title": "STEAMED DATE AND NUT PUDDING",
       "display_text": "¾ lb. dates, cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p123-r01",
@@ -30900,13 +31022,15 @@
       "recipe_id": "mg1930-p123-r03",
       "recipe_title": "FRUIT FRITTERS",
       "display_text": "2 tbsp. Argo or Kingsford",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p123-r03",
       "recipe_title": "FRUIT FRITTERS",
       "display_text": "1 tsp. Mazola",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p123-r03",
@@ -30951,7 +31075,8 @@
       "recipe_id": "mg1930-p123-r03",
       "recipe_title": "FRUIT FRITTERS",
       "display_text": "1 cup prepared fruit",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p123-r03",
@@ -31217,7 +31342,8 @@
       "recipe_id": "mg1930-p124-r02",
       "recipe_title": "PEACH COBBLER",
       "display_text": "2 cups peaches, in bottom of basin",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p124-r02",
@@ -31600,7 +31726,8 @@
       "recipe_id": "mg1930-p125-r01",
       "recipe_title": "RASPBERRY PUDDING",
       "display_text": "2 tbsp. raspberry jam",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p125-r01",
@@ -31840,7 +31967,8 @@
       "recipe_id": "mg1930-p125-r03",
       "recipe_title": "STRAWBERRY MERINGUE",
       "display_text": "1 cup crushed berries",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p125-r03",
@@ -31937,7 +32065,8 @@
       "recipe_id": "mg1930-p125-r04",
       "recipe_title": "STEAMED MARMALADE PUDDING",
       "display_text": "6 tbsp. marmalade",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p125-r04",
@@ -31982,19 +32111,22 @@
       "recipe_id": "mg1930-p128-r01",
       "recipe_title": "CARAMEL WHIPPED CREAM",
       "display_text": "3 tbsp. Karo, blue or orange label",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p128-r02",
       "recipe_title": "CHOCOLATE SAUCE",
       "display_text": "4 sq. chocolate melted in double boiler",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p128-r02",
       "recipe_title": "CHOCOLATE SAUCE",
       "display_text": "4 tbsp. sugar-let melt, then add",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p128-r02",
@@ -32143,13 +32275,15 @@
       "recipe_id": "mg1930-p128-r04",
       "recipe_title": "FLUFFY FRUIT SAUCE",
       "display_text": "½ cup Karo, Red Label",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p128-r04",
       "recipe_title": "FLUFFY FRUIT SAUCE",
       "display_text": "1/4 cup juice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p128-r04",
@@ -32259,7 +32393,8 @@
       "recipe_id": "mg1930-p129-r02",
       "recipe_title": "LEMON PUDDING SAUCE",
       "display_text": "1 lemon,juice and grated rind",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p129-r02",
@@ -32421,7 +32556,8 @@
       "recipe_id": "mg1930-p130-r01",
       "recipe_title": "PASTE",
       "display_text": "[Large Recipe]",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "structural_heading"
     },
     {
       "recipe_id": "mg1930-p130-r01",
@@ -32713,7 +32849,8 @@
       "recipe_id": "mg1930-p131-r01",
       "recipe_title": "APPLE PIE",
       "display_text": "pastry",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p131-r01",
@@ -32732,7 +32869,8 @@
       "recipe_id": "mg1930-p131-r01",
       "recipe_title": "APPLE PIE",
       "display_text": "apples, rather tart",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p131-r01",
@@ -32933,7 +33071,8 @@
       "recipe_id": "mg1930-p131-r04",
       "recipe_title": "BUTTERSCOTCH PIE",
       "display_text": "1 baked pastry shell",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p131-r04",
@@ -33186,7 +33325,8 @@
       "recipe_id": "mg1930-p132-r02",
       "recipe_title": "COCOANUT CREAM PIE",
       "display_text": "pastry",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p132-r03",
@@ -33270,7 +33410,8 @@
       "recipe_id": "mg1930-p132-r04",
       "recipe_title": "CREAM PIE FILLING",
       "display_text": "2 yolks",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p132-r04",
@@ -33419,7 +33560,8 @@
       "recipe_id": "mg1930-p133-r01",
       "recipe_title": "LEMON FLUFF PIE FILLING",
       "display_text": "1 lemon, grated rind and juice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p133-r01",
@@ -33529,7 +33671,8 @@
       "recipe_id": "mg1930-p133-r02",
       "recipe_title": "LEMON PIE",
       "display_text": "1 baked pie crust",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p133-r03",
@@ -33587,7 +33730,8 @@
       "recipe_id": "mg1930-p133-r03",
       "recipe_title": "LEMON PIE FILLING",
       "display_text": "juice and grated rind of 1",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p133-r03",
@@ -33645,7 +33789,8 @@
       "recipe_id": "mg1930-p133-r04",
       "recipe_title": "LEMON PIE",
       "display_text": "1 lemon, juice and grated rind",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p133-r04",
@@ -33950,7 +34095,8 @@
       "recipe_id": "mg1930-p134-r02",
       "recipe_title": "LUNCHEON PIES",
       "display_text": "Whipped cream, to serve",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p134-r03",
@@ -33969,7 +34115,8 @@
       "recipe_id": "mg1930-p134-r03",
       "recipe_title": "ORANGE PIE",
       "display_text": "1 tsp. orange rind, grated",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p134-r03",
@@ -34079,7 +34226,8 @@
       "recipe_id": "mg1930-p134-r04",
       "recipe_title": "PINEAPPLE PIE",
       "display_text": "Plain or puff paste",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p134-r04",
@@ -34189,7 +34337,8 @@
       "recipe_id": "mg1930-p135-r01",
       "recipe_title": "PINEAPPLE PIE",
       "display_text": "1 cup chopped pineapple, strained",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p135-r01",
@@ -34819,7 +34968,8 @@
       "recipe_id": "mg1930-p136-r04",
       "recipe_title": "UNCOOKED CHILI SAUCE",
       "display_text": "2 small seeded peppers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p136-r04",
@@ -35111,7 +35261,8 @@
       "recipe_id": "mg1930-p137-r01",
       "recipe_title": "RELISH",
       "display_text": "12 cucumbers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p137-r01",
@@ -35286,13 +35437,15 @@
       "recipe_id": "mg1930-p137-r02",
       "recipe_title": "WINTER SALAD",
       "display_text": "2 qts. vinegar, dilute if very strong",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p137-r03",
       "recipe_title": "CORN RELISH",
       "display_text": "24 ears corn, kernels cut from cob",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p137-r03",
@@ -35376,7 +35529,8 @@
       "recipe_id": "mg1930-p137-r03",
       "recipe_title": "CORN RELISH",
       "display_text": "1½ qts. chopped cucumbers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p137-r03",
@@ -35577,7 +35731,8 @@
       "recipe_id": "mg1930-p137-r05",
       "recipe_title": "CUCUMBER RELISH",
       "display_text": "12 large cucumbers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p137-r05",
@@ -35661,25 +35816,29 @@
       "recipe_id": "mg1930-p138-r02",
       "recipe_title": "CELERY ICE PICKLES",
       "display_text": "Medium cucumbers, enough to fill the jars",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p138-r02",
       "recipe_title": "CELERY ICE PICKLES",
       "display_text": "1 large onion slice per jar",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p138-r02",
       "recipe_title": "CELERY ICE PICKLES",
       "display_text": "6 pieces fresh celery per jar",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p138-r02",
       "recipe_title": "CELERY ICE PICKLES",
       "display_text": "2 tsp. celery seed per jar",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p138-r02",
@@ -35724,7 +35883,8 @@
       "recipe_id": "mg1930-p138-r03",
       "recipe_title": "TURMERIC PICKLES",
       "display_text": "4 qts. peeled and sliced cucumbers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p138-r03",
@@ -35743,7 +35903,8 @@
       "recipe_id": "mg1930-p138-r04",
       "recipe_title": "OIL PICKLES",
       "display_text": "100 medium cucumbers, sliced",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p138-r04",
@@ -35840,7 +36001,8 @@
       "recipe_id": "mg1930-p138-r05",
       "recipe_title": "SLICED PICKLES",
       "display_text": "8 or 10 medium sized cucumbers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p138-r05",
@@ -35859,13 +36021,15 @@
       "recipe_id": "mg1930-p138-r05",
       "recipe_title": "SLICED PICKLES",
       "display_text": "2 stalks celery. Slice and let stand in salt water over night.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r01",
       "recipe_title": "SMALL CUCUMBER PICKLES",
       "display_text": "Small cucumbers, enough to fill jars",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r01",
@@ -35936,7 +36100,8 @@
       "recipe_id": "mg1930-p139-r02",
       "recipe_title": "ARISTOCRAT PICKLES",
       "display_text": "1 peck small cucumbers (about quarter-sized)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r02",
@@ -35968,7 +36133,8 @@
       "recipe_id": "mg1930-p139-r02",
       "recipe_title": "ARISTOCRAT PICKLES",
       "display_text": "3 red sweet peppers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r02",
@@ -36013,13 +36179,15 @@
       "recipe_id": "mg1930-p139-r02",
       "recipe_title": "ARISTOCRAT PICKLES",
       "display_text": "Strong salt brine, to cover vegetables",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r03",
       "recipe_title": "MUSTARD PICKLES",
       "display_text": "1 gallon cucumbers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r03",
@@ -36077,13 +36245,15 @@
       "recipe_id": "mg1930-p139-r04",
       "recipe_title": "CHUNK PICKLES",
       "display_text": "Cucumbers, as needed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r04",
       "recipe_title": "CHUNK PICKLES",
       "display_text": "Strong brine, for soaking",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r04",
@@ -36180,7 +36350,8 @@
       "recipe_id": "mg1930-p139-r05",
       "recipe_title": "CHUNK PICKLES",
       "display_text": "10 lbs. cucumbers, cut in chunks",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r05",
@@ -36303,7 +36474,8 @@
       "recipe_id": "mg1930-p139-r06",
       "recipe_title": "RIPE CUCUMBER PICKLES",
       "display_text": "Very ripe yellow cucumbers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p139-r06",
@@ -36452,7 +36624,8 @@
       "recipe_id": "mg1930-p140-r02",
       "recipe_title": "SPICED CURRANTS",
       "display_text": "3 lbs. fruit",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p140-r02",
@@ -36562,13 +36735,15 @@
       "recipe_id": "mg1930-p140-r03",
       "recipe_title": "CHERRY AND RASPBERRY CONSERVE",
       "display_text": "2 oranges, zest and juice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p140-r03",
       "recipe_title": "CHERRY AND RASPBERRY CONSERVE",
       "display_text": "2 lemons, zest and juice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p140-r03",
@@ -36600,7 +36775,8 @@
       "recipe_id": "mg1930-p140-r04",
       "recipe_title": "SPICED GOOSEBERRIES",
       "display_text": "2 qts. gooseberries, stemmed and washed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p140-r04",
@@ -36801,7 +36977,8 @@
       "recipe_id": "mg1930-p141-r02",
       "recipe_title": "PEACH CONSERVE",
       "display_text": "3 oranges, grated rind of 2, juice of 3",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p141-r02",
@@ -36833,7 +37010,8 @@
       "recipe_id": "mg1930-p141-r03",
       "recipe_title": "PINEAPPLE JAM",
       "display_text": "Pineapple, grated or ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p141-r03",
@@ -37073,7 +37251,8 @@
       "recipe_id": "mg1930-p142-r03",
       "recipe_title": "STRAWBERRY PRESERVES",
       "display_text": "4 cups berries",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p142-r03",
@@ -37092,7 +37271,8 @@
       "recipe_id": "mg1930-p142-r04",
       "recipe_title": "STRAWBERRY PRESERVES",
       "display_text": "2 qts. berries",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p142-r05",
@@ -37163,7 +37343,8 @@
       "recipe_id": "mg1930-p143-r01",
       "recipe_title": "PICKLED PEACHES",
       "display_text": "Peaches, peeled (1 qt. prepared)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p143-r01",
@@ -37221,7 +37402,8 @@
       "recipe_id": "mg1930-p143-r02",
       "recipe_title": "WATER MELON RIND PICKLES",
       "display_text": "Rind 1 large water melon",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p143-r02",
@@ -37305,7 +37487,8 @@
       "recipe_id": "mg1930-p143-r02",
       "recipe_title": "WATER MELON RIND PICKLES",
       "display_text": "bud",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p143-r02",
@@ -38013,7 +38196,8 @@
       "recipe_id": "mg1930-p147-r02",
       "recipe_title": "COOKED MAYONNAISE WITH OIL",
       "display_text": "1 cup oil, added gradually while hot",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p147-r03",
@@ -38669,7 +38853,8 @@
       "recipe_id": "mg1930-p148-r04",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "4 tbsp. pimento",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p148-r04",
@@ -38818,7 +39003,8 @@
       "recipe_id": "mg1930-p148-r05",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "1 pimento or 2 of a 10c jar",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p148-r05",
@@ -38850,7 +39036,8 @@
       "recipe_id": "mg1930-p148-r05",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "1 pickle, medium size",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p148-r05",
@@ -38908,7 +39095,8 @@
       "recipe_id": "mg1930-p148-r05",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "4 radishes,button size",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p148-r05",
@@ -38966,13 +39154,15 @@
       "recipe_id": "mg1930-p149-r01",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "3 sweet gherkins",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p149-r01",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "14 pimento",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p149-r01",
@@ -39004,7 +39194,8 @@
       "recipe_id": "mg1930-p149-r02",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "½ medium-sized pimento",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p149-r02",
@@ -39023,7 +39214,8 @@
       "recipe_id": "mg1930-p149-r02",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "½ medium-sized beet",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p149-r02",
@@ -39120,13 +39312,15 @@
       "recipe_id": "mg1930-p149-r03",
       "recipe_title": "ONE PT. 1000 ISLAND DRESSING",
       "display_text": "4 sweet pickles",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p149-r03",
       "recipe_title": "ONE PT. 1000 ISLAND DRESSING",
       "display_text": "2 slices pimento",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p149-r03",
@@ -39223,7 +39417,8 @@
       "recipe_id": "mg1930-p149-r04",
       "recipe_title": "DRESSING FOR CABBAGE SALAD",
       "display_text": "½ cup cream, sweet or sour",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p149-r04",
@@ -39450,13 +39645,15 @@
       "recipe_id": "mg1930-p152-r01",
       "recipe_title": "ADIRONDACK SALAD",
       "display_text": "4 sweet pickles, cut fine",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p152-r01",
       "recipe_title": "ADIRONDACK SALAD",
       "display_text": "½ can pimentos",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p152-r01",
@@ -39488,7 +39685,8 @@
       "recipe_id": "mg1930-p152-r02",
       "recipe_title": "ALMOND AND PICKLE SALAD",
       "display_text": "1 cup sweet cucumber pickles",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p152-r02",
@@ -39676,13 +39874,15 @@
       "recipe_id": "mg1930-p152-r04",
       "recipe_title": "DELICIOUS CANNED ASPARAGUS SALAD",
       "display_text": "Canned asparagus tips",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p152-r04",
       "recipe_title": "DELICIOUS CANNED ASPARAGUS SALAD",
       "display_text": "French dressing, to coat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p152-r04",
@@ -39805,7 +40005,8 @@
       "recipe_id": "mg1930-p153-r01",
       "recipe_title": "BREAKFAST SALAD",
       "display_text": "1 tomato slice, ½ inch thick, per serving",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p153-r01",
@@ -39850,13 +40051,15 @@
       "recipe_id": "mg1930-p153-r02",
       "recipe_title": "BUTTERFLY SALAD",
       "display_text": "Pineapple rings, halved",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p153-r02",
       "recipe_title": "BUTTERFLY SALAD",
       "display_text": "Dates, split lengthwise",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p153-r02",
@@ -40018,13 +40221,15 @@
       "recipe_id": "mg1930-p153-r03",
       "recipe_title": "CABBAGE IN SOUR CREAM DRESSING",
       "display_text": "Paprika, to finish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p153-r04",
       "recipe_title": "CABBAGE AND SHRIMP SALAD",
       "display_text": "1½ cups canned shrimp, cleaned",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p153-r04",
@@ -40095,7 +40300,8 @@
       "recipe_id": "mg1930-p153-r05",
       "recipe_title": "CALIFORNIA SALAD",
       "display_text": "6 or 8 radishes",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p153-r05",
@@ -40296,13 +40502,15 @@
       "recipe_id": "mg1930-p154-r01",
       "recipe_title": "OVERNIGHT WHITE CHERRY SALAD",
       "display_text": "½ pint cream, whipped, to fold in after dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1 can crab meat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p154-r02",
@@ -40334,7 +40542,8 @@
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1/4 of a green pepper or pimentos",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p154-r02",
@@ -40353,25 +40562,29 @@
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1 cup mayonnaise salad dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1 diced apple",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p154-r03",
       "recipe_title": "STUFFED CUCUMBER SALAD",
       "display_text": "Cucumbers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p154-r03",
       "recipe_title": "STUFFED CUCUMBER SALAD",
       "display_text": "2 boned sardines",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p154-r03",
@@ -40507,13 +40720,15 @@
       "recipe_id": "mg1930-p155-r01",
       "recipe_title": "MIXED FRUIT SALAD",
       "display_text": "½ cup orange pulp",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p155-r01",
       "recipe_title": "MIXED FRUIT SALAD",
       "display_text": "½ cup grapefruit pulp",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p155-r01",
@@ -40675,7 +40890,8 @@
       "recipe_id": "mg1930-p155-r03",
       "recipe_title": "GRAPEFRUIT SALAD",
       "display_text": "Grapefruit segments",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p155-r03",
@@ -40694,13 +40910,15 @@
       "recipe_id": "mg1930-p155-r03",
       "recipe_title": "GRAPEFRUIT SALAD",
       "display_text": "Celery curls",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p155-r03",
       "recipe_title": "GRAPEFRUIT SALAD",
       "display_text": "Glacé fruit dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p155-r04",
@@ -40745,7 +40963,8 @@
       "recipe_id": "mg1930-p155-r04",
       "recipe_title": "GLACÉ FRUIT DRESSING",
       "display_text": "1 tbsp. glacé plums",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p155-r04",
@@ -40868,13 +41087,15 @@
       "recipe_id": "mg1930-p155-r05",
       "recipe_title": "LOBSTER SALAD",
       "display_text": "Chilled tomatoes, quartered",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p155-r05",
       "recipe_title": "LOBSTER SALAD",
       "display_text": "Lobster coral, if available",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p155-r05",
@@ -40932,7 +41153,8 @@
       "recipe_id": "mg1930-p156-r01",
       "recipe_title": "ITALIAN SALAD",
       "display_text": "2 pimentos",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p156-r01",
@@ -40964,7 +41186,8 @@
       "recipe_id": "mg1930-p156-r02",
       "recipe_title": "MACARONI LUNCHEON SALAD",
       "display_text": "2 cups elbow macaroni, cooked and chilled",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p156-r02",
@@ -40996,7 +41219,8 @@
       "recipe_id": "mg1930-p156-r02",
       "recipe_title": "MACARONI LUNCHEON SALAD",
       "display_text": "¼ cup stuffed olives, sliced crosswise",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p156-r02",
@@ -41054,7 +41278,8 @@
       "recipe_id": "mg1930-p156-r03",
       "recipe_title": "NATURE'S THUMB PRINT SALAD",
       "display_text": "½ can lentils",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p156-r03",
@@ -41125,13 +41350,15 @@
       "recipe_id": "mg1930-p156-r05",
       "recipe_title": "PINEAPPLE - GRAPEFRUIT SALAD",
       "display_text": "Grapefruit sections, membranes removed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p156-r05",
       "recipe_title": "PINEAPPLE - GRAPEFRUIT SALAD",
       "display_text": "Pineapple pieces",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p156-r05",
@@ -41163,7 +41390,8 @@
       "recipe_id": "mg1930-p156-r06",
       "recipe_title": "PINEAPPLE SALAD",
       "display_text": "1 cup pineapple juice, drained from can",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p156-r06",
@@ -41195,7 +41423,8 @@
       "recipe_id": "mg1930-p156-r06",
       "recipe_title": "PINEAPPLE SALAD",
       "display_text": "1 package unflavored gelatin",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p156-r06",
@@ -41292,19 +41521,22 @@
       "recipe_id": "mg1930-p157-r01",
       "recipe_title": "PRINCESS SALAD",
       "display_text": "1 ripe tomato slice, peeled, per serving",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r01",
       "recipe_title": "PRINCESS SALAD",
       "display_text": "5 asparagus tips per serving",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r01",
       "recipe_title": "PRINCESS SALAD",
       "display_text": "Green-pepper strips",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r01",
@@ -41362,7 +41594,8 @@
       "recipe_id": "mg1930-p157-r02",
       "recipe_title": "POINSETTA SALAD",
       "display_text": "1 short asparagus spear per serving",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r02",
@@ -41537,7 +41770,8 @@
       "recipe_id": "mg1930-p157-r04",
       "recipe_title": "SHRIMP SALAD",
       "display_text": "2 cans shrimp, drained, cleaned and chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r04",
@@ -41556,7 +41790,8 @@
       "recipe_id": "mg1930-p157-r04",
       "recipe_title": "SHRIMP SALAD",
       "display_text": "1–2 cups celery, finely chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r04",
@@ -41588,7 +41823,8 @@
       "recipe_id": "mg1930-p157-r04",
       "recipe_title": "SHRIMP SALAD",
       "display_text": "2 tbsp. India relish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r04",
@@ -41607,13 +41843,15 @@
       "recipe_id": "mg1930-p157-r05",
       "recipe_title": "TUNA FISH SALAD",
       "display_text": "2 cups tuna fish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r05",
       "recipe_title": "TUNA FISH SALAD",
       "display_text": "½ pimento, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p157-r05",
@@ -41658,7 +41896,8 @@
       "recipe_id": "mg1930-p160-r01",
       "recipe_title": "MOLDED ASPARAGUS",
       "display_text": "1 bunch fresh asparagus",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p160-r01",
@@ -41768,7 +42007,8 @@
       "recipe_id": "mg1930-p160-r02",
       "recipe_title": "JELLIED CHICKEN SALAD",
       "display_text": "1 cup boiling chicken broth, free from fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p160-r02",
@@ -41800,7 +42040,8 @@
       "recipe_id": "mg1930-p160-r02",
       "recipe_title": "JELLIED CHICKEN SALAD",
       "display_text": "1 pimento, cut fine",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p160-r02",
@@ -42014,7 +42255,8 @@
       "recipe_id": "mg1930-p160-r05",
       "recipe_title": "FANCY SALAD",
       "display_text": "any fruit desired",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p161-r01",
@@ -42111,13 +42353,15 @@
       "recipe_id": "mg1930-p161-r01",
       "recipe_title": "FRUIT AND GINGER ALE SALAD",
       "display_text": "⅓ cup Malaga grapes, skinned, seeded and halved",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p161-r01",
       "recipe_title": "FRUIT AND GINGER ALE SALAD",
       "display_text": "⅓ cup apple, cored, pared and diced",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p161-r01",
@@ -42149,7 +42393,8 @@
       "recipe_id": "mg1930-p161-r02",
       "recipe_title": "GINGER ALE SALAD",
       "display_text": "1 package lemon-flavored gelatin",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p161-r02",
@@ -42207,7 +42452,8 @@
       "recipe_id": "mg1930-p161-r02",
       "recipe_title": "GINGER ALE SALAD",
       "display_text": "Grapefruit pieces",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p161-r02",
@@ -42226,7 +42472,8 @@
       "recipe_id": "mg1930-p161-r03",
       "recipe_title": "FROZEN FRUIT SALAD",
       "display_text": "1 can fruit for salad",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p161-r03",
@@ -42284,7 +42531,8 @@
       "recipe_id": "mg1930-p161-r03",
       "recipe_title": "FROZEN FRUIT SALAD",
       "display_text": "1 tbsp. salad dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p161-r03",
@@ -42316,7 +42564,8 @@
       "recipe_id": "mg1930-p161-r04",
       "recipe_title": "FROZEN PINEAPPLE AND CHEESE SALAD",
       "display_text": "Fruit salad dressing (4 tbsp. for mixing and more for serving)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p161-r04",
@@ -42712,7 +42961,8 @@
       "recipe_id": "mg1930-p162-r02",
       "recipe_title": "PARTY SALAD",
       "display_text": "1½ pimento, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p162-r02",
@@ -43420,7 +43670,8 @@
       "recipe_id": "mg1930-p164-r01",
       "recipe_title": "MOLDED VEGETABLE SALAD",
       "display_text": "1½ tbsp. mint sauce",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -43543,7 +43794,8 @@
       "recipe_id": "mg1930-p164-r02",
       "recipe_title": "VEGETABLE JELLO SALAD",
       "display_text": "1½ pimento (canned)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -43562,7 +43814,8 @@
       "recipe_id": "mg1930-p164-r02",
       "recipe_title": "VEGETABLE JELLO SALAD",
       "display_text": "2 tbsp. onion, rounded",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -43633,19 +43886,22 @@
       "recipe_id": "mg1930-p166-r02",
       "recipe_title": "EGG CREOLE SANDWICHES",
       "display_text": "½ hard-boiled egg, chopped, per sandwich",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p166-r02",
       "recipe_title": "EGG CREOLE SANDWICHES",
       "display_text": "1 sardine, shredded, per sandwich",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p166-r02",
       "recipe_title": "EGG CREOLE SANDWICHES",
       "display_text": "½ tbsp. chow-chow relish per sandwich",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p166-r02",
@@ -43755,7 +44011,8 @@
       "recipe_id": "mg1930-p166-r04",
       "recipe_title": "SANDWICHES",
       "display_text": "Orange juice, to moisten date filling",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p166-r04",
@@ -43800,7 +44057,8 @@
       "recipe_id": "mg1930-p166-r05",
       "recipe_title": "ROLLED ASPARAGUS SANDWICHES",
       "display_text": "1–2 cooked asparagus spears per sandwich",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p166-r05",
@@ -43819,7 +44077,8 @@
       "recipe_id": "mg1930-p166-r06",
       "recipe_title": "FRUIT AND CHEESE SANDWICHES",
       "display_text": "12 dates, cut into small pieces",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p166-r06",
@@ -43851,7 +44110,8 @@
       "recipe_id": "mg1930-p166-r06",
       "recipe_title": "FRUIT AND CHEESE SANDWICHES",
       "display_text": "1 banana, mashed to pulp",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p166-r06",
@@ -43909,7 +44169,8 @@
       "recipe_id": "mg1930-p167-r01",
       "recipe_title": "FRENCH TOAST CHICKEN SANDWICHES",
       "display_text": "seasoning",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p167-r01",
@@ -43941,7 +44202,8 @@
       "recipe_id": "mg1930-p167-r02",
       "recipe_title": "ROLLED SANDWICHES WITH CHEESE",
       "display_text": "Very fresh sandwich bread, cut lengthwise into thin slices",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p167-r02",
@@ -43960,7 +44222,8 @@
       "recipe_id": "mg1930-p167-r02",
       "recipe_title": "ROLLED SANDWICHES WITH CHEESE",
       "display_text": "Pimiento cheese spread",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p167-r02",
@@ -43992,13 +44255,15 @@
       "recipe_id": "mg1930-p167-r02",
       "recipe_title": "ROLLED SANDWICHES WITH CHEESE",
       "display_text": "Watercress, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p167-r02",
       "recipe_title": "ROLLED SANDWICHES WITH CHEESE",
       "display_text": "Spinach juice or green coloring, optional",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p167-r03",
@@ -44121,7 +44386,8 @@
       "recipe_id": "mg1930-p167-r04",
       "recipe_title": "LOBSTER SALAD SANDWICHES",
       "display_text": "Lobster meat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p167-r04",
@@ -44231,13 +44497,15 @@
       "recipe_id": "mg1930-p168-r02",
       "recipe_title": "DINTY MOORE SANDWICH",
       "display_text": "Butter two slices of bread. Place a slice of corned beef between,",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r01",
       "recipe_title": "SPANISH STEAK",
       "display_text": "Steak, cut 1½ inches thick",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r01",
@@ -44256,7 +44524,8 @@
       "recipe_id": "mg1930-p170-r01",
       "recipe_title": "SPANISH STEAK",
       "display_text": "Onions, thinly sliced",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r01",
@@ -44301,13 +44570,15 @@
       "recipe_id": "mg1930-p170-r02",
       "recipe_title": "DUTCH POT ROAST",
       "display_text": "4 lb. rump, shank or chuck, cut for stew",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r02",
       "recipe_title": "DUTCH POT ROAST",
       "display_text": "2 tbsp. bacon fat or drippings",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r02",
@@ -44417,13 +44688,15 @@
       "recipe_id": "mg1930-p170-r03",
       "recipe_title": "TOMALEE PIE",
       "display_text": "seasoning",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r03",
       "recipe_title": "TOMALEE PIE",
       "display_text": "2 tbsp. fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r03",
@@ -44442,7 +44715,8 @@
       "recipe_id": "mg1930-p170-r03",
       "recipe_title": "TOMALEE PIE",
       "display_text": "1 lb. chopped beef",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r03",
@@ -44461,13 +44735,15 @@
       "recipe_id": "mg1930-p170-r03",
       "recipe_title": "TOMALEE PIE",
       "display_text": "1 cup tomato juice",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r04",
       "recipe_title": "STEAK GRAVY",
       "display_text": "Pan drippings from broiled steak",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p170-r04",
@@ -44564,37 +44840,43 @@
       "recipe_id": "mg1930-p171-r02",
       "recipe_title": "POT ROAST",
       "display_text": "4 lb. cut of brisket",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p171-r03",
       "recipe_title": "MOCK DUCK",
       "display_text": "⅔ lb. top of round",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p171-r03",
       "recipe_title": "MOCK DUCK",
       "display_text": "Bread dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p171-r04",
       "recipe_title": "SAVORY BEEF LOAF",
       "display_text": "¼ lb. salt pork, diced fine",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p171-r04",
       "recipe_title": "SAVORY BEEF LOAF",
       "display_text": "2 lb. round steak, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p171-r04",
       "recipe_title": "SAVORY BEEF LOAF",
       "display_text": "½ cup Minute Tapioca, uncooked",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p171-r04",
@@ -44704,13 +44986,15 @@
       "recipe_id": "mg1930-p172-r01",
       "recipe_title": "MEAT PATTIES",
       "display_text": "1 lb. ground round steak",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p172-r01",
       "recipe_title": "MEAT PATTIES",
       "display_text": "Fat, for frying",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p172-r01",
@@ -44742,7 +45026,8 @@
       "recipe_id": "mg1930-p172-r02",
       "recipe_title": "MEAT BALLS",
       "display_text": "1½ lbs. round steak, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p172-r02",
@@ -44800,7 +45085,8 @@
       "recipe_id": "mg1930-p172-r02",
       "recipe_title": "MEAT BALLS",
       "display_text": "Butter and seasoning",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p172-r02",
@@ -45001,7 +45287,8 @@
       "recipe_id": "mg1930-p172-r04",
       "recipe_title": "LUNCHEON DISH",
       "display_text": "1 cup ham, ground, about ½ lb.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p172-r04",
@@ -45059,7 +45346,8 @@
       "recipe_id": "mg1930-p172-r05",
       "recipe_title": "BAKED SLICE OF HAM",
       "display_text": "Milk, sweet cider, or diluted peach-pickle juice, enough to cover",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p173-r01",
@@ -45117,7 +45405,8 @@
       "recipe_id": "mg1930-p173-r01",
       "recipe_title": "ESCALLOPED HAM AND POTATOES",
       "display_text": "1 tbsp. fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p173-r01",
@@ -45149,7 +45438,8 @@
       "recipe_id": "mg1930-p173-r02",
       "recipe_title": "BAKED SLICE OF PREMIUM HAM",
       "display_text": "1 slice ham, about 1 inch thick",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p173-r02",
@@ -45246,7 +45536,8 @@
       "recipe_id": "mg1930-p173-r03",
       "recipe_title": "HAM LOAF",
       "display_text": "1½ lbs. beef",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p173-r03",
@@ -45317,7 +45608,8 @@
       "recipe_id": "mg1930-p173-r04",
       "recipe_title": "HAM LOAF",
       "display_text": "1 lb. ham, raw",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p173-r04",
@@ -45336,7 +45628,8 @@
       "recipe_id": "mg1930-p173-r04",
       "recipe_title": "HAM LOAF",
       "display_text": "1 lb. fresh pork, lean",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p173-r04",
@@ -45355,7 +45648,8 @@
       "recipe_id": "mg1930-p174-r01",
       "recipe_title": "HAM LOAF",
       "display_text": "1 lb. fresh pork ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p174-r01",
@@ -45413,7 +45707,8 @@
       "recipe_id": "mg1930-p174-r02",
       "recipe_title": "SWIFT'S PREMIUM HAM LOAF",
       "display_text": "1 lb. lean fresh pork, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p174-r02",
@@ -45458,7 +45753,8 @@
       "recipe_id": "mg1930-p174-r02",
       "recipe_title": "SWIFT'S PREMIUM HAM LOAF",
       "display_text": "ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p174-r02",
@@ -45516,7 +45812,8 @@
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "1 Swift’s Premium ham, 10–12 lb.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p174-r03",
@@ -45548,13 +45845,15 @@
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "Currant jelly",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "Hot water, equal in volume to jelly",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p174-r03",
@@ -45573,7 +45872,8 @@
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "Cinnamon apple rings, optional garnish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p174-r04",
@@ -45670,7 +45970,8 @@
       "recipe_id": "mg1930-p175-r01",
       "recipe_title": "NEW ENGLAND STYLE SAUSAGE",
       "display_text": "1 lb. link sausage",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p175-r01",
@@ -45689,7 +45990,8 @@
       "recipe_id": "mg1930-p175-r01",
       "recipe_title": "NEW ENGLAND STYLE SAUSAGE",
       "display_text": "6 tart apples",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p175-r01",
@@ -45825,19 +46127,22 @@
       "recipe_id": "mg1930-p175-r03",
       "recipe_title": "SMOTHERED PORK CHOPS",
       "display_text": "Flour, if needed to thicken gravy",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p175-r03",
       "recipe_title": "SMOTHERED PORK CHOPS",
       "display_text": "Fat, for browning",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p175-r04",
       "recipe_title": "CREAMED PORK TENDERLOIN",
       "display_text": "Pork tenderloin, cubed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p175-r04",
@@ -45869,13 +46174,15 @@
       "recipe_id": "mg1930-p175-r04",
       "recipe_title": "CREAMED PORK TENDERLOIN",
       "display_text": "Pimientos, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p175-r04",
       "recipe_title": "CREAMED PORK TENDERLOIN",
       "display_text": "Toast, for serving",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p175-r05",
@@ -45920,7 +46227,8 @@
       "recipe_id": "mg1930-p175-r06",
       "recipe_title": "BAKED BREADED PORK CHOPS",
       "display_text": "6 pork chops crumbs",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p175-r06",
@@ -45952,13 +46260,15 @@
       "recipe_id": "mg1930-p176-r01",
       "recipe_title": "STUFFED PORK TENDERLOIN",
       "display_text": "4 pork tenderloins",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r01",
       "recipe_title": "STUFFED PORK TENDERLOIN",
       "display_text": "1 cup chopped apples",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r01",
@@ -46055,13 +46365,15 @@
       "recipe_id": "mg1930-p176-r02",
       "recipe_title": "STUFFED PORK TENDERLOIN",
       "display_text": "Pork tenderloin, split lengthwise",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r02",
       "recipe_title": "STUFFED PORK TENDERLOIN",
       "display_text": "Prepared bread dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r02",
@@ -46093,7 +46405,8 @@
       "recipe_id": "mg1930-p176-r03",
       "recipe_title": "MOCK CHICKEN LEGS",
       "display_text": "1 lb. veal, cut 1 inch thick",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r03",
@@ -46112,7 +46425,8 @@
       "recipe_id": "mg1930-p176-r03",
       "recipe_title": "MOCK CHICKEN LEGS",
       "display_text": "1 lb. pork, cut 1 inch thick",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r03",
@@ -46131,7 +46445,8 @@
       "recipe_id": "mg1930-p176-r03",
       "recipe_title": "MOCK CHICKEN LEGS",
       "display_text": "skewers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r03",
@@ -46163,7 +46478,8 @@
       "recipe_id": "mg1930-p176-r04",
       "recipe_title": "CITY CHICKEN",
       "display_text": "1 lb. pork steak",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r04",
@@ -46195,7 +46511,8 @@
       "recipe_id": "mg1930-p176-r05",
       "recipe_title": "VEAL CROQUETTES",
       "display_text": "3 cups ground veal, cooked and cold",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p176-r05",
@@ -46266,13 +46583,15 @@
       "recipe_id": "mg1930-p177-r01",
       "recipe_title": "TARTAR SAUCE",
       "display_text": "3 chopped small sweet pickles",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r01",
       "recipe_title": "TARTAR SAUCE",
       "display_text": "½ tsp. mustard, dry",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r01",
@@ -46330,13 +46649,15 @@
       "recipe_id": "mg1930-p177-r02",
       "recipe_title": "VEAL BIRDS ( BEEF BIRDS )",
       "display_text": "Veal cutlets or thin beef steak, ½ inch thick",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r02",
       "recipe_title": "VEAL BIRDS ( BEEF BIRDS )",
       "display_text": "½ loaf bread, moistened, for dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r02",
@@ -46368,7 +46689,8 @@
       "recipe_id": "mg1930-p177-r02",
       "recipe_title": "VEAL BIRDS ( BEEF BIRDS )",
       "display_text": "1 tsp. dried sage",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r02",
@@ -46387,7 +46709,8 @@
       "recipe_id": "mg1930-p177-r02",
       "recipe_title": "VEAL BIRDS ( BEEF BIRDS )",
       "display_text": "Fat for browning",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r02",
@@ -46419,7 +46742,8 @@
       "recipe_id": "mg1930-p177-r03",
       "recipe_title": "PRESSED VEAL",
       "display_text": "5 lbs. veal cooked in salted water with celery and onion until",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r04",
@@ -46438,7 +46762,8 @@
       "recipe_id": "mg1930-p177-r04",
       "recipe_title": "VEAL LOAF",
       "display_text": "3 lb. ground pork",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r04",
@@ -46457,7 +46782,8 @@
       "recipe_id": "mg1930-p177-r04",
       "recipe_title": "VEAL LOAF",
       "display_text": "4 rolled crackers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p177-r04",
@@ -46801,7 +47127,8 @@
       "recipe_id": "mg1930-p178-r04",
       "recipe_title": "CHIPPED BEEF AND CANNED CORN",
       "display_text": "½ lb. beef",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p178-r04",
@@ -46846,7 +47173,8 @@
       "recipe_id": "mg1930-p178-r04",
       "recipe_title": "CHIPPED BEEF AND CANNED CORN",
       "display_text": "1 cup crumbs, for topping",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p178-r04",
@@ -46865,25 +47193,29 @@
       "recipe_id": "mg1930-p178-r05",
       "recipe_title": "CHINESE MEAT LOAF",
       "display_text": "1½ lbs. chopped beef",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p178-r05",
       "recipe_title": "CHINESE MEAT LOAF",
       "display_text": "1 tbsp. melted fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p178-r05",
       "recipe_title": "CHINESE MEAT LOAF",
       "display_text": "2 cups fresh tomatoes, cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p178-r05",
       "recipe_title": "CHINESE MEAT LOAF",
       "display_text": "seasoning",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p178-r06",
@@ -46902,13 +47234,15 @@
       "recipe_id": "mg1930-p178-r06",
       "recipe_title": "MEAT LOAF FOR TWELVE",
       "display_text": "1 lb. beef",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p178-r06",
       "recipe_title": "MEAT LOAF FOR TWELVE",
       "display_text": "1 lb. fresh pork",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p178-r06",
@@ -46992,7 +47326,8 @@
       "recipe_id": "mg1930-p178-r06",
       "recipe_title": "MEAT LOAF FOR TWELVE",
       "display_text": "1 onion cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r01",
@@ -47011,13 +47346,15 @@
       "recipe_id": "mg1930-p179-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. lean pork, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "Onion, to season",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r01",
@@ -47127,7 +47464,8 @@
       "recipe_id": "mg1930-p179-r02",
       "recipe_title": "MEAT LOAF",
       "display_text": "4 tbsp. onion, finely chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r02",
@@ -47159,7 +47497,8 @@
       "recipe_id": "mg1930-p179-r02",
       "recipe_title": "MEAT LOAF",
       "display_text": "⅛ tsp. sage",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r02",
@@ -47178,7 +47517,8 @@
       "recipe_id": "mg1930-p179-r02",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. ground pork",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r02",
@@ -47236,7 +47576,8 @@
       "recipe_id": "mg1930-p179-r03",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ tsp. sage",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r03",
@@ -47281,7 +47622,8 @@
       "recipe_id": "mg1930-p179-r03",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. beef, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r03",
@@ -47300,7 +47642,8 @@
       "recipe_id": "mg1930-p179-r03",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. pork, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r03",
@@ -47371,7 +47714,8 @@
       "recipe_id": "mg1930-p179-r04",
       "recipe_title": "MEAT LOAF",
       "display_text": "1 lb. ground pork",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r04",
@@ -47390,7 +47734,8 @@
       "recipe_id": "mg1930-p179-r04",
       "recipe_title": "MEAT LOAF",
       "display_text": "1½ lbs. ground steak",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r04",
@@ -47409,7 +47754,8 @@
       "recipe_id": "mg1930-p179-r04",
       "recipe_title": "MEAT LOAF",
       "display_text": "1½ tsp. sage",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p179-r04",
@@ -47441,7 +47787,8 @@
       "recipe_id": "mg1930-p180-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "2 lbs. round steak, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r01",
@@ -47460,13 +47807,15 @@
       "recipe_id": "mg1930-p180-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. pork steak, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "1/2 to 3/4 cup tomato, crushed,",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r01",
@@ -47485,13 +47834,15 @@
       "recipe_id": "mg1930-p180-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "but not strained",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r02",
       "recipe_title": "CREAMED SWEETBREADS",
       "display_text": "1 lb. sweetbreads",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r02",
@@ -47575,7 +47926,8 @@
       "recipe_id": "mg1930-p180-r03",
       "recipe_title": "MEAT SOUFFLE",
       "display_text": "⅔ cup meat, put through food chopper",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r03",
@@ -47607,13 +47959,15 @@
       "recipe_id": "mg1930-p180-r04",
       "recipe_title": "FOR LEFT- OVER MEAT",
       "display_text": "Leftover cooked meat, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r04",
       "recipe_title": "FOR LEFT- OVER MEAT",
       "display_text": "1 egg per muffin-cup portion",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r04",
@@ -47658,7 +48012,8 @@
       "recipe_id": "mg1930-p180-r05",
       "recipe_title": "SHEPHERDS PIE",
       "display_text": "2 cups diced cooked meat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r05",
@@ -47703,7 +48058,8 @@
       "recipe_id": "mg1930-p180-r05",
       "recipe_title": "SHEPHERDS PIE",
       "display_text": "Leftover gravy, optional",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p180-r05",
@@ -47722,7 +48078,8 @@
       "recipe_id": "mg1930-p181-r01",
       "recipe_title": "LUNCHEON DISH",
       "display_text": "Cooked cold meat, preferably roast beef, diced",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p181-r01",
@@ -47767,19 +48124,22 @@
       "recipe_id": "mg1930-p181-r01",
       "recipe_title": "LUNCHEON DISH",
       "display_text": "Buttered toast, for serving",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p181-r02",
       "recipe_title": "LAMB AND STRING BEANS",
       "display_text": "7",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "stray_number"
     },
     {
       "recipe_id": "mg1930-p181-r02",
       "recipe_title": "LAMB AND STRING BEANS",
       "display_text": "1 lb. lamb breast",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p181-r02",
@@ -47798,13 +48158,15 @@
       "recipe_id": "mg1930-p181-r02",
       "recipe_title": "LAMB AND STRING BEANS",
       "display_text": "2 tbsp. fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p181-r02",
       "recipe_title": "LAMB AND STRING BEANS",
       "display_text": "1 lb. string beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p181-r02",
@@ -47849,7 +48211,8 @@
       "recipe_id": "mg1930-p182-r02",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "1 can red kidney beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r02",
@@ -47894,7 +48257,8 @@
       "recipe_id": "mg1930-p182-r02",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "½ box spaghetti",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r02",
@@ -47913,13 +48277,15 @@
       "recipe_id": "mg1930-p182-r02",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "1 tsp. chili powder",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r03",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "1 can kidney beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r03",
@@ -47977,19 +48343,22 @@
       "recipe_id": "mg1930-p182-r03",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "2 tbsp. chili powder (to taste)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r04",
       "recipe_title": "MEXICAN GOULASH",
       "display_text": "¾ lb. ground round steak",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r04",
       "recipe_title": "MEXICAN GOULASH",
       "display_text": "1 tbsp. bacon fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r04",
@@ -48047,7 +48416,8 @@
       "recipe_id": "mg1930-p182-r04",
       "recipe_title": "MEXICAN GOULASH",
       "display_text": "1 pkg. spaghetti, cooked in boiling salted water until tender",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r04",
@@ -48079,7 +48449,8 @@
       "recipe_id": "mg1930-p182-r04",
       "recipe_title": "MEXICAN GOULASH",
       "display_text": "½ cup water, if needed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r05",
@@ -48150,7 +48521,8 @@
       "recipe_id": "mg1930-p182-r05",
       "recipe_title": "CHOP SUEY",
       "display_text": "1 can bean sprouts, optional",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r05",
@@ -48169,7 +48541,8 @@
       "recipe_id": "mg1930-p182-r05",
       "recipe_title": "CHOP SUEY",
       "display_text": "Chop Suey Sauce",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p182-r05",
@@ -48201,13 +48574,15 @@
       "recipe_id": "mg1930-p183-r01",
       "recipe_title": "CHOP SUEY",
       "display_text": "Show You Chop Suey Sauce",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p183-r01",
       "recipe_title": "CHOP SUEY",
       "display_text": "1 lb. pork",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p183-r01",
@@ -48239,7 +48614,8 @@
       "recipe_id": "mg1930-p183-r01",
       "recipe_title": "CHOP SUEY",
       "display_text": "Bamboo Sprouts may be added",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p183-r01",
@@ -48310,7 +48686,8 @@
       "recipe_id": "mg1930-p183-r03",
       "recipe_title": "CHOP SUEY",
       "display_text": "½ lb. of veal or beef",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p183-r03",
@@ -48329,7 +48706,8 @@
       "recipe_id": "mg1930-p183-r03",
       "recipe_title": "CHOP SUEY",
       "display_text": "½ lb. lean pork",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p183-r03",
@@ -48387,13 +48765,15 @@
       "recipe_id": "mg1930-p183-r03",
       "recipe_title": "CHOP SUEY",
       "display_text": "6 tsp. chop suey sauce",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p183-r04",
       "recipe_title": "ITALIAN MACARONI",
       "display_text": "1 lb. beef, diced",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p183-r04",
@@ -48529,7 +48909,8 @@
       "recipe_id": "mg1930-p184-r01",
       "recipe_title": "MACARONI WITH CHIPPED BEEF",
       "display_text": "¼ lb. dried beef",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p184-r01",
@@ -48717,7 +49098,8 @@
       "recipe_id": "mg1930-p184-r03",
       "recipe_title": "MACARONI WITH VEGETABLES",
       "display_text": "1 lb. round steak",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p184-r03",
@@ -48788,7 +49170,8 @@
       "recipe_id": "mg1930-p184-r03",
       "recipe_title": "MACARONI WITH VEGETABLES",
       "display_text": "1 pt. water, boiling",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p184-r03",
@@ -48820,7 +49203,8 @@
       "recipe_id": "mg1930-p185-r01",
       "recipe_title": "NOODLE RING",
       "display_text": "1 box Richelieu noodles, fine cut",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p185-r01",
@@ -48878,7 +49262,8 @@
       "recipe_id": "mg1930-p185-r02",
       "recipe_title": "LEFTOVER HAM",
       "display_text": "1 pkg. noodles",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p185-r02",
@@ -48962,7 +49347,8 @@
       "recipe_id": "mg1930-p185-r03",
       "recipe_title": "CREAMED NOODLE WITH CHEESE",
       "display_text": "Noodles",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p185-r03",
@@ -49033,13 +49419,15 @@
       "recipe_id": "mg1930-p185-r03",
       "recipe_title": "CREAMED NOODLE WITH CHEESE",
       "display_text": "4 tbsp. buttered crumbs",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p185-r04",
       "recipe_title": "SPAGHETTI WITH MEAT AND VEGETABLES",
       "display_text": "½ cup uncooked spaghetti",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p185-r04",
@@ -49136,7 +49524,8 @@
       "recipe_id": "mg1930-p186-r01",
       "recipe_title": "NUT LOAF",
       "display_text": "[Meat Substitute]",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "structural_heading"
     },
     {
       "recipe_id": "mg1930-p186-r01",
@@ -49155,7 +49544,8 @@
       "recipe_id": "mg1930-p186-r01",
       "recipe_title": "NUT LOAF",
       "display_text": "1 cup cooked vegetables ( any variety, rice is very good)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p186-r01",
@@ -49187,7 +49577,8 @@
       "recipe_id": "mg1930-p186-r02",
       "recipe_title": "SPAGHETTI KING",
       "display_text": "½ lb. package spaghetti",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p186-r02",
@@ -49206,7 +49597,8 @@
       "recipe_id": "mg1930-p186-r02",
       "recipe_title": "SPAGHETTI KING",
       "display_text": "1 small can tuna fish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p186-r02",
@@ -49251,7 +49643,8 @@
       "recipe_id": "mg1930-p186-r03",
       "recipe_title": "SPAGHETTI",
       "display_text": "1 pkg. spaghetti",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p186-r03",
@@ -49387,7 +49780,8 @@
       "recipe_id": "mg1930-p186-r04",
       "recipe_title": "SPAGHETTI RAREBIT",
       "display_text": "2 cans spaghetti",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p186-r04",
@@ -49406,19 +49800,22 @@
       "recipe_id": "mg1930-p186-r05",
       "recipe_title": "SPAGHETTI WITH ROUND STEAK",
       "display_text": "Spaghetti, enough for desired servings",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p186-r05",
       "recipe_title": "SPAGHETTI WITH ROUND STEAK",
       "display_text": "Ground round steak, about ½ lb. per ½ lb. dry pasta",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p186-r05",
       "recipe_title": "SPAGHETTI WITH ROUND STEAK",
       "display_text": "Cooking fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p186-r05",
@@ -49437,7 +49834,8 @@
       "recipe_id": "mg1930-p187-r01",
       "recipe_title": "SPAGHETTI WITH MUSHROOMS",
       "display_text": "1 cup spaghetti",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p187-r01",
@@ -49521,7 +49919,8 @@
       "recipe_id": "mg1930-p187-r02",
       "recipe_title": "CREOLE SPAGHETTI",
       "display_text": "2 tbsp. fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p187-r02",
@@ -49540,13 +49939,15 @@
       "recipe_id": "mg1930-p187-r02",
       "recipe_title": "CREOLE SPAGHETTI",
       "display_text": "1 lb. beef, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p187-r02",
       "recipe_title": "CREOLE SPAGHETTI",
       "display_text": "1 pkg. spaghetti, cooked",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p187-r03",
@@ -49669,13 +50070,15 @@
       "recipe_id": "mg1930-p187-r04",
       "recipe_title": "SPANISH RICE",
       "display_text": "1 can chili con carne",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p187-r04",
       "recipe_title": "SPANISH RICE",
       "display_text": "½ lb. sausage",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p187-r04",
@@ -50032,7 +50435,8 @@
       "recipe_id": "mg1930-p188-r03",
       "recipe_title": "CASSEROLE OF RICE AND MEAT",
       "display_text": "2 cups chopped, cooked meat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p188-r03",
@@ -50207,7 +50611,8 @@
       "recipe_id": "mg1930-p189-r02",
       "recipe_title": "CHEESE AND RICE RING",
       "display_text": "4 eggs, beaten separately",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p189-r02",
@@ -50369,7 +50774,8 @@
       "recipe_id": "mg1930-p189-r04",
       "recipe_title": "CHEESE FONDU",
       "display_text": "pinch of cayenne",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p189-r04",
@@ -50388,7 +50794,8 @@
       "recipe_id": "mg1930-p192-r01",
       "recipe_title": "EGG AND CHEESE DAINTY",
       "display_text": "1 plain rusk or crisp toast, crumbled",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p192-r01",
@@ -50641,7 +51048,8 @@
       "recipe_id": "mg1930-p192-r04",
       "recipe_title": "HORSE RADISH EGGS",
       "display_text": "Bread rounds, 12",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p192-r04",
@@ -50673,13 +51081,15 @@
       "recipe_id": "mg1930-p193-r01",
       "recipe_title": "ROAST TURKEY AND DRESSING",
       "display_text": "1 turkey, about 12–14 lb.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p193-r01",
       "recipe_title": "ROAST TURKEY AND DRESSING",
       "display_text": "8–10 cups dry bread cubes for dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p193-r01",
@@ -50776,13 +51186,15 @@
       "recipe_id": "mg1930-p193-r01",
       "recipe_title": "ROAST TURKEY AND DRESSING",
       "display_text": "Turkey giblets, optional",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p193-r02",
       "recipe_title": "WILD DUCK",
       "display_text": "1 cleaned wild duck",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p193-r02",
@@ -50801,19 +51213,22 @@
       "recipe_id": "mg1930-p193-r02",
       "recipe_title": "WILD DUCK",
       "display_text": "Bacon strips, for lining and topping",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p193-r02",
       "recipe_title": "WILD DUCK",
       "display_text": "Prepared bread dressing, enough to fill cavity",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p193-r03",
       "recipe_title": "PHEASANT",
       "display_text": "1 cleaned pheasant",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p193-r03",
@@ -50845,7 +51260,8 @@
       "recipe_id": "mg1930-p193-r04",
       "recipe_title": "RABBIT",
       "display_text": "1 dressed rabbit, jointed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p193-r04",
@@ -51007,7 +51423,8 @@
       "recipe_id": "mg1930-p194-r01",
       "recipe_title": "CHICKEN MOUSSE",
       "display_text": "1½ cups diced cooked white chicken meat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p194-r01",
@@ -51104,7 +51521,8 @@
       "recipe_id": "mg1930-p194-r02",
       "recipe_title": "CHICKEN A LA KING",
       "display_text": "1 cooked chicken, meat diced",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p194-r02",
@@ -51123,7 +51541,8 @@
       "recipe_id": "mg1930-p194-r02",
       "recipe_title": "CHICKEN A LA KING",
       "display_text": "2 tbsp. chicken fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p194-r02",
@@ -51272,7 +51691,8 @@
       "recipe_id": "mg1930-p194-r03",
       "recipe_title": "TIMBLES, CHICKEN OR VEAL",
       "display_text": "1 cup chopped meat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p194-r03",
@@ -51304,7 +51724,8 @@
       "recipe_id": "mg1930-p194-r04",
       "recipe_title": "SAUCE BECHAMEL",
       "display_text": "6 peppercorns",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p194-r04",
@@ -51349,7 +51770,8 @@
       "recipe_id": "mg1930-p194-r04",
       "recipe_title": "SAUCE BECHAMEL",
       "display_text": "1 parsley sprig",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p194-r04",
@@ -51433,13 +51855,15 @@
       "recipe_id": "mg1930-p195-r01",
       "recipe_title": "BAKED BASS",
       "display_text": "finely",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p195-r02",
       "recipe_title": "BAKED FISH",
       "display_text": "Lake Trout or White Fish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p195-r02",
@@ -51484,7 +51908,8 @@
       "recipe_id": "mg1930-p195-r03",
       "recipe_title": "COD FISH BALLS",
       "display_text": "1 can flaked cod fish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p195-r03",
@@ -51516,7 +51941,8 @@
       "recipe_id": "mg1930-p195-r04",
       "recipe_title": "BROILED WHITEFISH",
       "display_text": "Fresh whitefish, 2½–3 lbs.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p195-r04",
@@ -51587,13 +52013,15 @@
       "recipe_id": "mg1930-p195-r05",
       "recipe_title": "CREAMED CRABMEAT WITH MUSHROOMS",
       "display_text": "1 qt. flaked crabmeat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p195-r05",
       "recipe_title": "CREAMED CRABMEAT WITH MUSHROOMS",
       "display_text": "2 cups rich cream sauce",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p195-r05",
@@ -51664,7 +52092,8 @@
       "recipe_id": "mg1930-p196-r01",
       "recipe_title": "CRAB MEAT A LA NEWBERG",
       "display_text": "1½ cups crab meat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p196-r01",
@@ -51735,7 +52164,8 @@
       "recipe_id": "mg1930-p196-r02",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "1½ cups boiled lobster",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p196-r02",
@@ -51780,7 +52210,8 @@
       "recipe_id": "mg1930-p196-r02",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "3/4 cup madeira or sherry wine",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p196-r02",
@@ -51799,7 +52230,8 @@
       "recipe_id": "mg1930-p196-r02",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "1 cup cream, heavy",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p196-r02",
@@ -51818,7 +52250,8 @@
       "recipe_id": "mg1930-p196-r03",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "2 cans lobsters, small",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p196-r03",
@@ -51837,7 +52270,8 @@
       "recipe_id": "mg1930-p196-r03",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "2 cans pimentos",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p196-r03",
@@ -51895,7 +52329,8 @@
       "recipe_id": "mg1930-p196-r04",
       "recipe_title": "OYSTER PAN ROAST",
       "display_text": "1 pt. Olympia oysters (small)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p196-r04",
@@ -51966,31 +52401,36 @@
       "recipe_id": "mg1930-p196-r05",
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Butter a Pyrex baking dish and put some butter in the bottom.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r01",
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Shucked oysters",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r01",
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Coarsely crushed crackers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r01",
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Butter, melted and in small pieces",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r01",
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Cream, to moisten",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r01",
@@ -52009,7 +52449,8 @@
       "recipe_id": "mg1930-p197-r02",
       "recipe_title": "SHRIMPS BAKED WITH TOMATOES",
       "display_text": "1 pt. shrimps, cleaned",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r02",
@@ -52119,7 +52560,8 @@
       "recipe_id": "mg1930-p197-r03",
       "recipe_title": "DEVILED SHRIMP",
       "display_text": "6 eggs, hard cooked",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r03",
@@ -52164,7 +52606,8 @@
       "recipe_id": "mg1930-p197-r03",
       "recipe_title": "DEVILED SHRIMP",
       "display_text": "¾ cup crumbs",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r03",
@@ -52209,7 +52652,8 @@
       "recipe_id": "mg1930-p197-r04",
       "recipe_title": "SHRIMP A LA CREOLE",
       "display_text": "2 pimentoes",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p197-r04",
@@ -52306,7 +52750,8 @@
       "recipe_id": "mg1930-p197-r04",
       "recipe_title": "SHRIMP A LA CREOLE",
       "display_text": "1 can shrimps",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p198-r01",
@@ -52637,7 +53082,8 @@
       "recipe_id": "mg1930-p198-r04",
       "recipe_title": "RING OF SALMON",
       "display_text": "⅛ tsp. ground mace",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p198-r04",
@@ -52669,7 +53115,8 @@
       "recipe_id": "mg1930-p199-r01",
       "recipe_title": "CREAMED TUNA FISH",
       "display_text": "1 can tuna, flaked",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p199-r01",
@@ -52740,7 +53187,8 @@
       "recipe_id": "mg1930-p199-r01",
       "recipe_title": "CREAMED TUNA FISH",
       "display_text": "Cream sauce, enough to coat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p199-r02",
@@ -52759,7 +53207,8 @@
       "recipe_id": "mg1930-p199-r02",
       "recipe_title": "CALIFORNIA CHICKEN PIE",
       "display_text": "1 can tuna (chicken of the sea)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p199-r02",
@@ -52817,7 +53266,8 @@
       "recipe_id": "mg1930-p199-r03",
       "recipe_title": "BAKED TUNA FISH AND MACARONI",
       "display_text": "1 can tuna fish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p199-r03",
@@ -52862,7 +53312,8 @@
       "recipe_id": "mg1930-p202-r01",
       "recipe_title": "DEVILED APPLES",
       "display_text": "Large baking apples",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p202-r01",
@@ -52894,13 +53345,15 @@
       "recipe_id": "mg1930-p202-r02",
       "recipe_title": "NEW ENGLAND BAKED BEANS",
       "display_text": "3 cups navy beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p202-r02",
       "recipe_title": "NEW ENGLAND BAKED BEANS",
       "display_text": "1½ lb. salt pork",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p202-r02",
@@ -52932,7 +53385,8 @@
       "recipe_id": "mg1930-p202-r03",
       "recipe_title": "BAKED BEANS",
       "display_text": "2 qts. navy beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p202-r03",
@@ -52951,7 +53405,8 @@
       "recipe_id": "mg1930-p202-r03",
       "recipe_title": "BAKED BEANS",
       "display_text": "Salt pork (small piece for soup, plus 1½ lb. for beans)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p202-r03",
@@ -53022,7 +53477,8 @@
       "recipe_id": "mg1930-p202-r03",
       "recipe_title": "BAKED BEANS",
       "display_text": "1 cup oyster cocktail sauce (for sauce)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p202-r03",
@@ -53041,7 +53497,8 @@
       "recipe_id": "mg1930-p202-r04",
       "recipe_title": "BAKED KIDNEY BEANS",
       "display_text": "1 can Heinz kidney beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p202-r04",
@@ -53073,7 +53530,8 @@
       "recipe_id": "mg1930-p203-r01",
       "recipe_title": "SOUR BEANS",
       "display_text": "1 qt. beans ( wax are best)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p203-r01",
@@ -53170,7 +53628,8 @@
       "recipe_id": "mg1930-p203-r02",
       "recipe_title": "LUNCHEON BEANS AND SPAGHETTI",
       "display_text": "2 cups lima beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p203-r02",
@@ -53189,7 +53648,8 @@
       "recipe_id": "mg1930-p203-r02",
       "recipe_title": "LUNCHEON BEANS AND SPAGHETTI",
       "display_text": "3 cups cooked spaghetti",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p203-r02",
@@ -53299,7 +53759,8 @@
       "recipe_id": "mg1930-p203-r03",
       "recipe_title": "SCALLOPED LIMA BEANS",
       "display_text": "2 cups cooked lima beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p203-r03",
@@ -53331,7 +53792,8 @@
       "recipe_id": "mg1930-p203-r04",
       "recipe_title": "SCALLOPED LIMA BEANS",
       "display_text": "2 cups dry lima beans",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p203-r04",
@@ -53350,7 +53812,8 @@
       "recipe_id": "mg1930-p203-r04",
       "recipe_title": "SCALLOPED LIMA BEANS",
       "display_text": "1 can pimento",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p203-r04",
@@ -53395,7 +53858,8 @@
       "recipe_id": "mg1930-p204-r01",
       "recipe_title": "BEETS WITH SOUR SAUCE",
       "display_text": "8 beets",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r01",
@@ -53414,13 +53878,15 @@
       "recipe_id": "mg1930-p204-r01",
       "recipe_title": "BEETS WITH SOUR SAUCE",
       "display_text": "½ cup reserved beet-cooking liquid",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r01",
       "recipe_title": "BEETS WITH SOUR SAUCE",
       "display_text": "Sour sauce (see accompanying recipe)",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r02",
@@ -53530,7 +53996,8 @@
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Small beets",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r03",
@@ -53549,7 +54016,8 @@
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Sardines or caviar, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r03",
@@ -53568,19 +54036,22 @@
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Onion, finely chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Sweet gherkins, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Mayonnaise and pimiento strips, to garnish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r04",
@@ -53742,7 +54213,8 @@
       "recipe_id": "mg1930-p204-r06",
       "recipe_title": "SCALLOPED CABBAGE",
       "display_text": "2½ cups cooked shredded",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p204-r06",
@@ -53826,7 +54298,8 @@
       "recipe_id": "mg1930-p204-r06",
       "recipe_title": "SCALLOPED CABBAGE",
       "display_text": "2 tsp. poultry dressing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r01",
@@ -53858,19 +54331,22 @@
       "recipe_id": "mg1930-p205-r01",
       "recipe_title": "CARROTS AU GRATIN",
       "display_text": "1 tbsp. green pepper, finely chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r01",
       "recipe_title": "CARROTS AU GRATIN",
       "display_text": "1 tbsp. onion, finely chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r01",
       "recipe_title": "CARROTS AU GRATIN",
       "display_text": "¾ cup stock",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r01",
@@ -53902,7 +54378,8 @@
       "recipe_id": "mg1930-p205-r01",
       "recipe_title": "CARROTS AU GRATIN",
       "display_text": "Buttered crumbs",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r02",
@@ -53921,7 +54398,8 @@
       "recipe_id": "mg1930-p205-r02",
       "recipe_title": "CARROT FRITTERS",
       "display_text": "Prepared fritter batter",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r02",
@@ -53979,13 +54457,15 @@
       "recipe_id": "mg1930-p205-r03",
       "recipe_title": "GLAZED CARROTS",
       "display_text": "Peas, to serve, optional",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r05",
       "recipe_title": "SCALLOPED CAULIFLOWER WITH MUSHROOMS",
       "display_text": "2 large cauliflowers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r05",
@@ -54004,7 +54484,8 @@
       "recipe_id": "mg1930-p205-r05",
       "recipe_title": "SCALLOPED CAULIFLOWER WITH MUSHROOMS",
       "display_text": "1 small onion, finely minced",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r05",
@@ -54049,7 +54530,8 @@
       "recipe_id": "mg1930-p205-r05",
       "recipe_title": "SCALLOPED CAULIFLOWER WITH MUSHROOMS",
       "display_text": "½ cup mushroom liquor",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p205-r05",
@@ -54536,7 +55018,8 @@
       "recipe_id": "mg1930-p206-r05",
       "recipe_title": "SPANISH CORN PUDDING",
       "display_text": "2 tbsp. pimento, chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p206-r05",
@@ -54672,7 +55155,8 @@
       "recipe_id": "mg1930-p207-r02",
       "recipe_title": "CORN AND CHEESE SOUFFLE",
       "display_text": "2 tbsp. flour, about",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p207-r02",
@@ -54808,7 +55292,8 @@
       "recipe_id": "mg1930-p207-r04",
       "recipe_title": "EGG PLANT VEGETABLE DISH",
       "display_text": "2½ cups chopped egg plant",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p207-r04",
@@ -54827,7 +55312,8 @@
       "recipe_id": "mg1930-p207-r04",
       "recipe_title": "EGG PLANT VEGETABLE DISH",
       "display_text": "2½ cups chopped apples",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p207-r04",
@@ -54846,7 +55332,8 @@
       "recipe_id": "mg1930-p207-r05",
       "recipe_title": "SCALLOPED EGGPLANT",
       "display_text": "1 eggplant",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p207-r05",
@@ -54865,25 +55352,29 @@
       "recipe_id": "mg1930-p207-r05",
       "recipe_title": "SCALLOPED EGGPLANT",
       "display_text": "small onion, finely chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p207-r05",
       "recipe_title": "SCALLOPED EGGPLANT",
       "display_text": "seasonings",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p207-r05",
       "recipe_title": "SCALLOPED EGGPLANT",
       "display_text": "2 tbsp. fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p208-r01",
       "recipe_title": "WILTED LETTUCE",
       "display_text": "Lettuce, shredded",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p208-r01",
@@ -54993,7 +55484,8 @@
       "recipe_id": "mg1930-p208-r02",
       "recipe_title": "MUSHROOM WOODCHUCK",
       "display_text": "1 can pimentos",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p208-r02",
@@ -55090,7 +55582,8 @@
       "recipe_id": "mg1930-p208-r03",
       "recipe_title": "PARSNIP PATTIES",
       "display_text": "Fat, for sautéing",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p208-r04",
@@ -55200,7 +55693,8 @@
       "recipe_id": "mg1930-p208-r05",
       "recipe_title": "PEPPERS WITH FISH STUFFING",
       "display_text": "1 cup flaked, cooked fish",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p208-r05",
@@ -55323,7 +55817,8 @@
       "recipe_id": "mg1930-p209-r02",
       "recipe_title": "STUFFED BAKED POTATOES",
       "display_text": "6 tbsp. finely minced, uncooked",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p209-r02",
@@ -55381,7 +55876,8 @@
       "recipe_id": "mg1930-p209-r03",
       "recipe_title": "POTATO CHOWDER",
       "display_text": "½ lb. Swift's Premium bacon, cut in squares",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p209-r03",
@@ -55582,7 +56078,8 @@
       "recipe_id": "mg1930-p210-r01",
       "recipe_title": "POTATOES, EGG TIMBALES",
       "display_text": "chopped",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p210-r01",
@@ -55731,7 +56228,8 @@
       "recipe_id": "mg1930-p210-r03",
       "recipe_title": "SWEET POTATOES",
       "display_text": "Hot water, to loosen mash",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p210-r03",
@@ -55750,7 +56248,8 @@
       "recipe_id": "mg1930-p210-r03",
       "recipe_title": "SWEET POTATOES",
       "display_text": "Salt and other seasoning, to taste",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p210-r03",
@@ -55834,7 +56333,8 @@
       "recipe_id": "mg1930-p210-r04",
       "recipe_title": "SWEET POTATOES EN SURPRISE",
       "display_text": "12 cooked sausages",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p210-r04",
@@ -55918,7 +56418,8 @@
       "recipe_id": "mg1930-p211-r02",
       "recipe_title": "SWEET POTATOES AND SAUSAGES",
       "display_text": "1 pound sausage",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p211-r03",
@@ -55950,7 +56451,8 @@
       "recipe_id": "mg1930-p211-r03",
       "recipe_title": "STUFFED SWEET POTATO",
       "display_text": "1 cup sausage meat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p211-r04",
@@ -56216,13 +56718,15 @@
       "recipe_id": "mg1930-p212-r02",
       "recipe_title": "BAKED ONIONS",
       "display_text": "Medium onions, all about the same size, skins on",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p212-r03",
       "recipe_title": "ONION SOUFFLE",
       "display_text": "1 cup cream sauce",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p212-r03",
@@ -56436,25 +56940,29 @@
       "recipe_id": "mg1930-p213-r01",
       "recipe_title": "BAKED SQUASH WITH SAUSAGE",
       "display_text": "Winter squash, halved and seeded",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p213-r01",
       "recipe_title": "BAKED SQUASH WITH SAUSAGE",
       "display_text": "Link or bulk sausage",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p213-r01",
       "recipe_title": "BAKED SQUASH WITH SAUSAGE",
       "display_text": "Salt, pepper and butter, to season",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p213-r02",
       "recipe_title": "HUBBARD SQUASH IN CASSEROLE",
       "display_text": "Butter casserole. Slice into it a layer of squash, small pieces.",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p213-r03",
@@ -56499,7 +57007,8 @@
       "recipe_id": "mg1930-p213-r03",
       "recipe_title": "BAKED SUMMER SQUASH",
       "display_text": "1 lb. summer squash",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p213-r03",
@@ -56531,7 +57040,8 @@
       "recipe_id": "mg1930-p213-r04",
       "recipe_title": "BAKED SAUER KRAUT",
       "display_text": "1 can sauer kraut",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p213-r04",
@@ -56628,13 +57138,15 @@
       "recipe_id": "mg1930-p213-r05",
       "recipe_title": "TOMATO AND CABBAGE MULLIGAN",
       "display_text": "2 sweet peppers",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p213-r05",
       "recipe_title": "TOMATO AND CABBAGE MULLIGAN",
       "display_text": "buttered crumbs",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p214-r01",
@@ -56718,7 +57230,8 @@
       "recipe_id": "mg1930-p214-r02",
       "recipe_title": "VEGETABLE DISH FOR OVEN MEAL",
       "display_text": "Tomatoes, fresh or canned",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p214-r02",
@@ -56828,7 +57341,8 @@
       "recipe_id": "mg1930-p214-r03",
       "recipe_title": "VEGETABLE HASH",
       "display_text": "1 lb. round steak, ground",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p214-r03",
@@ -56847,7 +57361,8 @@
       "recipe_id": "mg1930-p214-r03",
       "recipe_title": "VEGETABLE HASH",
       "display_text": "2 Holland rusks",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p214-r03",
@@ -56879,7 +57394,8 @@
       "recipe_id": "mg1930-p214-r04",
       "recipe_title": "CREAM OF MUSHROOM SOUP",
       "display_text": "1 can mushrooms, cut up",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p214-r05",
@@ -56937,7 +57453,8 @@
       "recipe_id": "mg1930-p214-r05",
       "recipe_title": "CREAM OF ONION SOUP",
       "display_text": "2 tbsp. bacon fat",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p214-r05",
@@ -56995,7 +57512,8 @@
       "recipe_id": "mg1930-p215-r01",
       "recipe_title": "CREAM LIQUID LIFE SOUP",
       "display_text": "1 tin Liquid Life",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p215-r01",
@@ -57053,7 +57571,8 @@
       "recipe_id": "mg1930-p215-r02",
       "recipe_title": "CHICKEN SOUP",
       "display_text": "⅓ cup rice, washed",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p215-r02",
@@ -57085,7 +57604,8 @@
       "recipe_id": "mg1930-p071-r01",
       "recipe_title": "Providence Muffins",
       "display_text": "½ cup bran",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p071-r01",
@@ -57403,7 +57923,8 @@
       "recipe_id": "mg1930-p173-r05",
       "recipe_title": "SWIFT'S PREMIUM HAM SMOTHERED IN MUSHROOMS",
       "display_text": "1 slice Swift’s Premium Savor-tite ham, about ½ inch thick",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p173-r05",
@@ -57422,7 +57943,8 @@
       "recipe_id": "mg1930-p173-r05",
       "recipe_title": "SWIFT'S PREMIUM HAM SMOTHERED IN MUSHROOMS",
       "display_text": "Mushrooms, fresh or canned",
-      "match_kind": "unmatched"
+      "match_kind": "unmatched",
+      "review_class": "unresolved_identity"
     },
     {
       "recipe_id": "mg1930-p173-r05",

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import csv
 import hashlib
 import json
 import re
@@ -111,7 +112,13 @@ def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int
         if candidate != target:
             result["match_kind"] = "historical_alias"
         return result
-    return {"match_kind": "unmatched"}
+    text = line.strip()
+    review_class = "unresolved_identity"
+    if re.fullmatch(r"\[[^\]]+\]", text) or re.fullmatch(r"[A-Za-z][A-Za-z ,'-]+:", text):
+        review_class = "structural_heading"
+    elif re.fullmatch(r"\d+", text):
+        review_class = "stray_number"
+    return {"match_kind": "unmatched", "review_class": review_class}
 
 
 def make_recipe(source: dict, numeric_id: int, registry: dict[str, dict], redirects: dict[int, int]) -> tuple[dict, list[dict]]:
@@ -185,9 +192,26 @@ def main() -> None:
     digest = hashlib.sha256(recipes_path.read_bytes()).hexdigest()
     matches = [row for recipe_rows in report for row in recipe_rows]
     counts = Counter(row["match_kind"] for row in matches)
+    review_summary = Counter(row.get("review_class", "") for row in matches if row["match_kind"] == "unmatched")
     report_path = ROOT / "reports" / "canonical-ingredient-matches.json"
     report_path.parent.mkdir(exist_ok=True)
-    report_path.write_text(json.dumps({"source": SOURCE.name, "registry": str(args.registry), "summary": dict(counts), "matches": matches}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    report_path.write_text(json.dumps({"source": SOURCE.name, "registry": str(args.registry), "summary": dict(counts), "review_summary": dict(review_summary), "matches": matches}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    queue: dict[tuple[str, str], list[dict]] = defaultdict(list)
+    for row in matches:
+        if row["match_kind"] == "unmatched":
+            queue[(row["review_class"], row["display_text"])].append(row)
+    queue_path = ROOT / "reports" / "ingredient-review-queue.csv"
+    with queue_path.open("w", newline="", encoding="utf-8") as handle:
+        writer = csv.DictWriter(handle, fieldnames=["review_class", "display_text", "occurrences", "recipe_ids", "recipe_titles"])
+        writer.writeheader()
+        for (review_class, display_text), rows in sorted(queue.items(), key=lambda item: (-len(item[1]), item[0][1].casefold())):
+            writer.writerow({
+                "review_class": review_class,
+                "display_text": display_text,
+                "occurrences": len(rows),
+                "recipe_ids": "; ".join(row["recipe_id"] for row in rows),
+                "recipe_titles": "; ".join(row["recipe_title"] for row in rows),
+            })
     edition = {"schema_version": 3, "edition": args.edition, "created_at": public["created_at"], "recipes": len(records), "recipes_with_captured_originals": 0, "files": {"recipes.json": digest}}
     (OUTPUT / "edition.json").write_text(json.dumps(edition, indent=2) + "\n", encoding="utf-8")
     print(f"Built {len(records)} recipes; ingredient matching: {dict(counts)}")
