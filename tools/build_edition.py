@@ -50,9 +50,9 @@ def ingredient_candidates(line: str) -> list[str]:
     value = re.sub(r"\b(?:cups?|c\.?|tablespoons?|tbsp\.?|teaspoons?|tsp\.?|pounds?|lbs?\.?|ounces?|oz\.?|quarts?|qts?\.?|pints?|pt\.?|gallons?|cans?|packages?|pkg\.?|slices?)\b", "", value)
     value = re.sub(r"\([^)]*\)", "", value)
     identity_value = value
-    value = re.sub(r"\b(?:scalded|melted|softened|beaten|sifted|chopped|diced|minced|ground|grated|cooked|cold|hot|fresh|small|large|medium|optional|if desired|to taste|for garnish|stiff|separated|well|heaping|level|scant|thin|light|rounding|fine|cut|whipped|creamed|sliced|added|dissolved|crumbled|drained|blanched|shelled|tinted|sweetened|canned|ripe|prepared|unbeaten|whole|times)\b", "", value)
+    value = re.sub(r"\b(?:scalded|melted|softened|beaten|sifted|chopped|diced|minced|ground|grated|cooked|cold|hot|fresh|small|large|medium|optional|if desired|to taste|for garnish|stiff|separated|well|heaping|level|scant|thin|light|rounding|fine|cut|whipped|creamed|sliced|added|dissolved|crumbled|drained|blanched|shelled|tinted|sweetened|canned|ripe|prepared|unbeaten|whole|times|crushed|shredded|peeled|quartered|halved|skinned|seeded|buttered|rolled|stuffed|freshly|carefully|uncooked|hard-boiled|boiled|flaked)\b", "", value)
     value = re.sub(r"\s+", " ", value).strip(" ,;.-")
-    value = re.split(r"\b(?:enough|for|as needed|to make|to cover|to bind|per serving)\b", value, maxsplit=1)[0].strip(" ,;.-")
+    value = re.split(r"\b(?:enough|for|as needed|to make|to cover|to bind|to serve|to season|to moisten|to coat|per serving)\b", value, maxsplit=1)[0].strip(" ,;.-")
     candidates = [normalized(identity_value), normalized(value)]
     if " of " in value:
         candidates.append(normalized(value.rsplit(" of ", 1)[-1]))

@@ -2,13 +2,13 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3378,
-    "extension": 974,
-    "unmatched": 218,
+    "alias": 3385,
+    "extension": 983,
+    "unmatched": 202,
     "historical_alias": 126
   },
   "review_summary": {
-    "unresolved_identity": 208,
+    "unresolved_identity": 192,
     "structural_heading": 8,
     "stray_number": 2
   },
@@ -10414,14 +10414,14 @@
       "recipe_id": "mg1930-p052-r01",
       "recipe_title": "OATMEAL COOKIES",
       "display_text": "2 scant cups rolled oats",
-      "alias_normalized": "rolled oats",
+      "alias_normalized": "oats",
       "ingredient_id": 521,
       "canonical_name": "aveia",
       "canonical_name_normalized": "aveia",
       "display_name_en": null,
       "display_name_pt": "aveia",
       "match_kind": "alias",
-      "matched_term": "rolled-oats"
+      "matched_term": "oats"
     },
     {
       "recipe_id": "mg1930-p052-r01",
@@ -26567,8 +26567,14 @@
       "recipe_id": "mg1930-p107-r04",
       "recipe_title": "ICE BOX CAKE",
       "display_text": "2 dozen macaroons, crushed",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2089,
+      "canonical_name": "macaroons",
+      "canonical_name_normalized": "macaroons",
+      "display_name_en": "macaroons",
+      "display_name_pt": "macaroons",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "macaroons"
     },
     {
       "recipe_id": "mg1930-p107-r04",
@@ -26756,8 +26762,14 @@
       "recipe_id": "mg1930-p107-r06",
       "recipe_title": "PINEAPPLE ICE BOX CAKE",
       "display_text": "Whipped cream and maraschino cherries, to serve",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2016,
+      "canonical_name": "maraschino cherries",
+      "canonical_name_normalized": "maraschino-cherries",
+      "display_name_en": "maraschino cherries",
+      "display_name_pt": "cerejas marrasquino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "maraschino-cherries"
     },
     {
       "recipe_id": "mg1930-p108-r01",
@@ -27095,7 +27107,7 @@
       "display_name_pt": "abacaxi",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "crushed-pineapple"
+      "matched_term": "pineapple"
     },
     {
       "recipe_id": "mg1930-p109-r01",
@@ -30479,8 +30491,14 @@
       "recipe_id": "mg1930-p121-r03",
       "recipe_title": "BROWN BETTY",
       "display_text": "Water, to moisten the bottom of the dish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "water",
+      "ingredient_id": 52,
+      "canonical_name": "água",
+      "canonical_name_normalized": "agua",
+      "display_name_en": null,
+      "display_name_pt": "água",
+      "match_kind": "alias",
+      "matched_term": "water"
     },
     {
       "recipe_id": "mg1930-p121-r04",
@@ -34569,8 +34587,14 @@
       "recipe_id": "mg1930-p134-r02",
       "recipe_title": "LUNCHEON PIES",
       "display_text": "Whipped cream, to serve",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2025,
+      "canonical_name": "cream",
+      "canonical_name_normalized": "cream",
+      "display_name_en": "cream",
+      "display_name_pt": "creme",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream"
     },
     {
       "recipe_id": "mg1930-p134-r03",
@@ -37949,8 +37973,14 @@
       "recipe_id": "mg1930-p143-r01",
       "recipe_title": "PICKLED PEACHES",
       "display_text": "Peaches, peeled (1 qt. prepared)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2113,
+      "canonical_name": "peaches",
+      "canonical_name_normalized": "peaches",
+      "display_name_en": "peaches",
+      "display_name_pt": "pessegos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peaches"
     },
     {
       "recipe_id": "mg1930-p143-r01",
@@ -40565,8 +40595,14 @@
       "recipe_id": "mg1930-p152-r04",
       "recipe_title": "DELICIOUS CANNED ASPARAGUS SALAD",
       "display_text": "French dressing, to coat",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2007,
+      "canonical_name": "French dressing",
+      "canonical_name_normalized": "french-dressing",
+      "display_name_en": "French dressing",
+      "display_name_pt": "molho frances",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "french-dressing"
     },
     {
       "recipe_id": "mg1930-p152-r04",
@@ -41849,8 +41885,14 @@
       "recipe_id": "mg1930-p155-r05",
       "recipe_title": "LOBSTER SALAD",
       "display_text": "Chilled tomatoes, quartered",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "tomatoes",
+      "ingredient_id": 884,
+      "canonical_name": "tomate",
+      "canonical_name_normalized": "tomate",
+      "display_name_en": null,
+      "display_name_pt": "tomate",
+      "match_kind": "alias",
+      "matched_term": "tomatoes"
     },
     {
       "recipe_id": "mg1930-p155-r05",
@@ -41993,8 +42035,14 @@
       "recipe_id": "mg1930-p156-r02",
       "recipe_title": "MACARONI LUNCHEON SALAD",
       "display_text": "¼ cup stuffed olives, sliced crosswise",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2041,
+      "canonical_name": "olives",
+      "canonical_name_normalized": "olives",
+      "display_name_en": "olives",
+      "display_name_pt": "azeitonas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "olives"
     },
     {
       "recipe_id": "mg1930-p156-r02",
@@ -44762,8 +44810,14 @@
       "recipe_id": "mg1930-p166-r02",
       "recipe_title": "EGG CREOLE SANDWICHES",
       "display_text": "½ hard-boiled egg, chopped, per sandwich",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg",
+      "ingredient_id": 10,
+      "canonical_name": "ovo",
+      "canonical_name_normalized": "ovo",
+      "display_name_en": null,
+      "display_name_pt": "ovo",
+      "match_kind": "alias",
+      "matched_term": "egg"
     },
     {
       "recipe_id": "mg1930-p166-r02",
@@ -44899,8 +44953,14 @@
       "recipe_id": "mg1930-p166-r04",
       "recipe_title": "SANDWICHES",
       "display_text": "Orange juice, to moisten date filling",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "orange juice",
+      "ingredient_id": 103,
+      "canonical_name": "suco de laranja",
+      "canonical_name_normalized": "suco-de-laranja",
+      "display_name_en": null,
+      "display_name_pt": "suco de laranja",
+      "match_kind": "alias",
+      "matched_term": "orange-juice"
     },
     {
       "recipe_id": "mg1930-p166-r04",
@@ -48481,8 +48541,14 @@
       "recipe_id": "mg1930-p179-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "Onion, to season",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "onion",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onion"
     },
     {
       "recipe_id": "mg1930-p179-r01",
@@ -49002,8 +49068,14 @@
       "recipe_id": "mg1930-p180-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "1/2 to 3/4 cup tomato, crushed,",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "tomato",
+      "ingredient_id": 884,
+      "canonical_name": "tomate",
+      "canonical_name_normalized": "tomate",
+      "display_name_en": null,
+      "display_name_pt": "tomate",
+      "match_kind": "alias",
+      "matched_term": "tomato"
     },
     {
       "recipe_id": "mg1930-p180-r01",
@@ -53941,8 +54013,14 @@
       "recipe_id": "mg1930-p197-r01",
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Cream, to moisten",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2025,
+      "canonical_name": "cream",
+      "canonical_name_normalized": "cream",
+      "display_name_en": "cream",
+      "display_name_pt": "creme",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream"
     },
     {
       "recipe_id": "mg1930-p197-r01",
@@ -56125,8 +56203,14 @@
       "recipe_id": "mg1930-p205-r03",
       "recipe_title": "GLAZED CARROTS",
       "display_text": "Peas, to serve, optional",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2026,
+      "canonical_name": "peas",
+      "canonical_name_normalized": "peas",
+      "display_name_en": "peas",
+      "display_name_pt": "ervilhas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peas"
     },
     {
       "recipe_id": "mg1930-p205-r05",
@@ -57089,8 +57173,14 @@
       "recipe_id": "mg1930-p208-r01",
       "recipe_title": "WILTED LETTUCE",
       "display_text": "Lettuce, shredded",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2005,
+      "canonical_name": "lettuce",
+      "canonical_name_normalized": "lettuce",
+      "display_name_en": "lettuce",
+      "display_name_pt": "alface",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lettuce"
     },
     {
       "recipe_id": "mg1930-p208-r01",
@@ -58706,8 +58796,14 @@
       "recipe_id": "mg1930-p213-r01",
       "recipe_title": "BAKED SQUASH WITH SAUSAGE",
       "display_text": "Salt, pepper and butter, to season",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "butter",
+      "ingredient_id": 9,
+      "canonical_name": "manteiga",
+      "canonical_name_normalized": "manteiga",
+      "display_name_en": null,
+      "display_name_pt": "manteiga",
+      "match_kind": "alias",
+      "matched_term": "butter"
     },
     {
       "recipe_id": "mg1930-p213-r02",

@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "created_at": "2026-11-01T21:44:00.329851+00:00",
+  "created_at": "2026-11-01T21:46:17.372261+00:00",
   "recipes": [
     {
       "id": 1,
@@ -9094,9 +9094,9 @@
         "light brown sugar",
         "nozes",
         "nuts",
+        "oats",
         "ovos",
         "raisins",
-        "rolled oats",
         "sal",
         "salt",
         "uvas passas"
@@ -23123,6 +23123,7 @@
         "eggs",
         "lady fingers",
         "ladyfingers",
+        "macaroons",
         "manteiga",
         "ovos",
         "powdered sugar",
@@ -23166,6 +23167,7 @@
         7,
         9,
         18,
+        2089,
         2093,
         2094
       ]
@@ -23269,11 +23271,14 @@
         "baunilha",
         "biscoitos champanhe",
         "butter",
+        "cerejas marrasquino",
         "clara",
         "egg whites",
         "grated orange zest",
         "ladyfingers",
         "manteiga",
+        "maraschino cherries",
+        "maraschino cherries",
         "orange zest",
         "orange zest",
         "pineapple",
@@ -23323,6 +23328,7 @@
         9,
         87,
         204,
+        2016,
         2029,
         2094,
         2095
@@ -23705,7 +23711,6 @@
         "cooked rice",
         "cream",
         "creme",
-        "crushed pineapple",
         "extrato de limao",
         "gelatina",
         "gelatine",
@@ -26812,6 +26817,7 @@
       "translations": {},
       "ingredient_search_terms": [
         "acucar",
+        "agua",
         "apples",
         "bread crumbs",
         "bread crumbs",
@@ -26826,6 +26832,7 @@
         "sliced apples",
         "sugar",
         "sugar to taste",
+        "water",
         "water to moisten the bottom of the dish"
       ],
       "yield": null,
@@ -26866,6 +26873,7 @@
         3,
         5,
         9,
+        52,
         123,
         2132
       ]
@@ -30618,6 +30626,8 @@
         "butter",
         "chopped nuts",
         "cornstarch",
+        "cream",
+        "creme",
         "egg yolks",
         "for shells 112 cups flour and 12 cup lard",
         "gema",
@@ -30676,7 +30686,8 @@
         52,
         2001,
         2003,
-        2019
+        2019,
+        2025
       ]
     },
     {
@@ -36143,13 +36154,16 @@
       "ingredient_search_terms": [
         "alface",
         "canned asparagus tips",
+        "french dressing",
+        "french dressing",
         "french dressing to coat",
         "lettuce",
         "lettuce leaves",
         "lettuce leaves",
         "maionese",
         "mayonnaise",
-        "mayonnaise for serving"
+        "mayonnaise for serving",
+        "molho frances"
       ],
       "yield": null,
       "prep_time": null,
@@ -36185,7 +36199,8 @@
       },
       "canonical_ingredient_ids": [
         127,
-        2005
+        2005,
+        2007
       ]
     },
     {
@@ -37347,7 +37362,9 @@
         "pepino",
         "pepper",
         "pimenta",
-        "salt and pepper"
+        "salt and pepper",
+        "tomate",
+        "tomatoes"
       ],
       "yield": null,
       "prep_time": null,
@@ -37389,6 +37406,7 @@
       "canonical_ingredient_ids": [
         127,
         531,
+        884,
         2005,
         2007,
         2036
@@ -37490,6 +37508,7 @@
         "14 cup stuffed olives sliced crosswise",
         "2 cups elbow macaroni cooked and chilled",
         "3 hard boiled eggs chopped",
+        "azeitonas",
         "chopped celery",
         "eggs",
         "elbow macaroni",
@@ -37497,6 +37516,7 @@
         "macarrao",
         "maionese",
         "mayonnaise",
+        "olives",
         "ovos",
         "sal",
         "salsao",
@@ -37542,7 +37562,8 @@
         45,
         127,
         1021,
-        2012
+        2012,
+        2041
       ]
     },
     {
@@ -39961,9 +39982,11 @@
         "butter and sandwich bread",
         "chow chow relish",
         "chow chow relish",
+        "egg",
         "maionese",
         "mayonnaise",
         "mayonnaise to bind",
+        "ovo",
         "pao",
         "relish chow chow",
         "sardine",
@@ -40004,6 +40027,7 @@
         ]
       },
       "canonical_ingredient_ids": [
+        10,
         127,
         1126,
         2148,
@@ -40091,10 +40115,12 @@
         "mayonnaise to bind",
         "nozes",
         "nuts",
+        "orange juice",
         "orange juice to moisten date filling",
         "pao",
         "pitted dates and nuts alternative filling",
-        "sandwich bread"
+        "sandwich bread",
+        "suco de laranja"
       ],
       "yield": null,
       "prep_time": null,
@@ -40130,6 +40156,7 @@
         ]
       },
       "canonical_ingredient_ids": [
+        103,
         127,
         1126,
         2003
@@ -43939,11 +43966,13 @@
         "bread",
         "carne de porco",
         "carne moida",
+        "cebola",
         "eggs",
         "ground beef",
         "juice of 12 lemon",
         "lemon",
         "limao",
+        "onion",
         "onion to season",
         "ovos",
         "pao",
@@ -43990,6 +44019,7 @@
       "canonical_ingredient_ids": [
         18,
         531,
+        667,
         704,
         1126,
         2006,
@@ -44324,7 +44354,9 @@
         "pork steak",
         "round steak",
         "round steak",
-        "salt and pepper"
+        "salt and pepper",
+        "tomate",
+        "tomato"
       ],
       "yield": null,
       "prep_time": null,
@@ -44363,6 +44395,7 @@
       "canonical_ingredient_ids": [
         521,
         531,
+        884,
         2137,
         2157
       ]
@@ -49087,7 +49120,9 @@
       "ingredient_search_terms": [
         "butter melted and in small pieces",
         "coarsely crushed crackers",
+        "cream",
         "cream to moisten",
+        "creme",
         "ostras",
         "oysters",
         "paprica",
@@ -49130,6 +49165,7 @@
       },
       "canonical_ingredient_ids": [
         1115,
+        2025,
         2147
       ]
     },
@@ -51147,7 +51183,9 @@
         "butter",
         "carrots",
         "cenoura",
+        "ervilhas",
         "manteiga",
+        "peas",
         "peas to serve optional",
         "sugar"
       ],
@@ -51187,7 +51225,8 @@
       "canonical_ingredient_ids": [
         3,
         9,
-        668
+        668,
+        2026
       ]
     },
     {
@@ -52108,10 +52147,12 @@
       "description": "A vegetables and soups recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "alface",
         "bacon",
         "bacon chopped",
         "eggs",
         "hard boiled eggs diced",
+        "lettuce",
         "lettuce shredded",
         "ovos",
         "pepper",
@@ -52158,7 +52199,8 @@
         18,
         531,
         655,
-        689
+        689,
+        2005
       ]
     },
     {
@@ -53745,8 +53787,10 @@
       "description": "A vegetables and soups recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "butter",
         "linguica",
         "link or bulk sausage",
+        "manteiga",
         "salt pepper and butter to season",
         "sausage",
         "winter squash halved and seeded"
@@ -53783,6 +53827,7 @@
         ]
       },
       "canonical_ingredient_ids": [
+        9,
         2139
       ]
     },
