@@ -51,7 +51,7 @@ Every recipe page provides:
 
 - an ingredients list separate from directions;
 - adjustable text size;
-- a print action with a paper-focused layout; and
+- a print action with the cookbook title and compiler at the top, plus a source citation and full HathiTrust URL; and
 - the Version 8 source ID, PDF page, printed page, and contributor where available.
 
 The site currently publishes the English Version 8 text. Portuguese recipe translations are a planned derived edition, not an on-page machine-translation feature.

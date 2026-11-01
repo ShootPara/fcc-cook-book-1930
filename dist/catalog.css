@@ -6,3 +6,14 @@
 @media(max-width:760px){.catalog summary{display:block;font-size:26px}.catalog summary span:last-child{display:block;margin-top:4px}}
 
 .show-more{display:block;margin:24px auto 0}.show-more[hidden]{display:none}
+
+.print-heading,.print-source-url{display:none}
+.book-citation{margin-top:20px;padding-top:14px;border-top:1px solid var(--line);font-size:15px;line-height:1.5}
+.book-citation a{display:inline-block;margin-top:8px}
+@media print{
+ .print-heading{display:block;border-bottom:1px solid #000;padding-bottom:10px;margin-bottom:16px;font-size:12pt;line-height:1.4;break-inside:avoid;break-after:avoid}
+ .print-book-title{font-size:16pt;font-weight:700}
+ .book-citation{font-size:10pt;break-inside:avoid}
+ .book-citation a{color:#000}
+ .print-source-url{display:block;overflow-wrap:anywhere;font-size:9pt;margin-top:4px}
+}
