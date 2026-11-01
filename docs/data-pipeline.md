@@ -28,7 +28,7 @@ It preserves every Version 8 display line, derives search terms from valid regis
 
 `config/mayflower-ingredient-extensions.json` is the separate, version-controlled registry for unmistakable Mayflower ingredients absent from R5. It assigns stable IDs above the R5 range and records English, Portuguese, and historical aliases. It never overwrites an existing R5 term and never changes the R5 SQLite file.
 
-The latest generated report resolves 3,293 ingredient lines through R5 aliases, 104 through explicit historical aliases, and 520 through the Mayflower extension registry. The remaining 779 lines are intentionally marked unmatched rather than silently forced into potentially incorrect canonical identities. Most require either a reviewed historical alias or a genuinely new canonical term. The report is the review queue.
+The latest generated report resolves 3,231 ingredient lines through R5 aliases, 104 through explicit historical aliases, and 660 through the Mayflower extension registry. The remaining 701 lines are intentionally marked unmatched rather than silently forced into potentially incorrect canonical identities. Most require either a reviewed historical alias or a genuinely new canonical term. The report is the review queue.
 
 ## Validation
 

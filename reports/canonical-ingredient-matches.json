@@ -2,9 +2,9 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3293,
-    "extension": 520,
-    "unmatched": 779,
+    "alias": 3231,
+    "extension": 660,
+    "unmatched": 701,
     "historical_alias": 104
   },
   "matches": [
@@ -699,7 +699,14 @@
       "recipe_id": "mg1930-p020-r01",
       "recipe_title": "CHOCOLATE EGG AND MILK SHAKE",
       "display_text": "2½ tbsp. chocolate syrup",
-      "match_kind": "unmatched"
+      "ingredient_id": 2059,
+      "canonical_name": "chocolate syrup",
+      "canonical_name_normalized": "chocolate-syrup",
+      "display_name_en": "chocolate syrup",
+      "display_name_pt": "xarope de chocolate",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chocolate-syrup"
     },
     {
       "recipe_id": "mg1930-p020-r01",
@@ -1263,7 +1270,14 @@
       "recipe_id": "mg1930-p021-r05",
       "recipe_title": "PINEAPPLEADE",
       "display_text": "1 cup canned pineapple juice",
-      "match_kind": "unmatched"
+      "ingredient_id": 2061,
+      "canonical_name": "pineapple juice",
+      "canonical_name_normalized": "pineapple-juice",
+      "display_name_en": "pineapple juice",
+      "display_name_pt": "suco de abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple-juice"
     },
     {
       "recipe_id": "mg1930-p021-r05",
@@ -1651,14 +1665,14 @@
       "recipe_id": "mg1930-p024-r01",
       "recipe_title": "SOUR MILK GRIDDLE CAKES",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p024-r01",
@@ -2273,7 +2287,14 @@
       "recipe_id": "mg1930-p025-r04",
       "recipe_title": "WAFFLES, EASY",
       "display_text": "1½ cups sour milk or buttermilk",
-      "match_kind": "unmatched"
+      "ingredient_id": 2055,
+      "canonical_name": "buttermilk",
+      "canonical_name_normalized": "buttermilk",
+      "display_name_en": "buttermilk",
+      "display_name_pt": "leitelho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "buttermilk"
     },
     {
       "recipe_id": "mg1930-p025-r04",
@@ -3329,14 +3350,14 @@
       "recipe_id": "mg1930-p032-r03",
       "recipe_title": "GINGER BREAD",
       "display_text": "½ cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p032-r03",
@@ -3485,14 +3506,14 @@
       "recipe_id": "mg1930-p032-r04",
       "recipe_title": "SOFT MOLASSES GINGERBREAD",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p032-r04",
@@ -3693,14 +3714,14 @@
       "recipe_id": "mg1930-p033-r02",
       "recipe_title": "GINGERBREAD SOFT",
       "display_text": "¼ tsp. soda with the sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p033-r02",
@@ -3914,7 +3935,14 @@
       "recipe_id": "mg1930-p033-r04",
       "recipe_title": "SOFT GINGER BREAD",
       "display_text": "1 cup sour milk or buttermilk",
-      "match_kind": "unmatched"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p033-r04",
@@ -3998,14 +4026,14 @@
       "recipe_id": "mg1930-p035-r01",
       "recipe_title": "STEAMED BROWN BREAD",
       "display_text": "2 cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p035-r01",
@@ -4037,14 +4065,14 @@
       "recipe_id": "mg1930-p035-r01",
       "recipe_title": "STEAMED BROWN BREAD",
       "display_text": "3 cups graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p035-r01",
@@ -4115,14 +4143,14 @@
       "recipe_id": "mg1930-p035-r02",
       "recipe_title": "BROWN BREAD",
       "display_text": "2 cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p035-r02",
@@ -4154,14 +4182,14 @@
       "recipe_id": "mg1930-p035-r02",
       "recipe_title": "BROWN BREAD",
       "display_text": "4 cups graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p035-r02",
@@ -4219,14 +4247,14 @@
       "recipe_id": "mg1930-p035-r03",
       "recipe_title": "BROWN BREAD",
       "display_text": "1½ cups Graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p035-r03",
@@ -4245,27 +4273,27 @@
       "recipe_id": "mg1930-p035-r03",
       "recipe_title": "BROWN BREAD",
       "display_text": "1 cup bread flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2057,
+      "canonical_name": "bread flour",
+      "canonical_name_normalized": "bread-flour",
+      "display_name_en": "bread flour",
+      "display_name_pt": "farinha de pao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bread-flour"
     },
     {
       "recipe_id": "mg1930-p035-r03",
       "recipe_title": "BROWN BREAD",
       "display_text": "1½ cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p035-r03",
@@ -4323,14 +4351,14 @@
       "recipe_id": "mg1930-p035-r04",
       "recipe_title": "BROWN BREAD",
       "display_text": "3 cups graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p035-r04",
@@ -4362,14 +4390,14 @@
       "recipe_id": "mg1930-p035-r04",
       "recipe_title": "BROWN BREAD",
       "display_text": "1½ cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p035-r04",
@@ -4596,7 +4624,14 @@
       "recipe_id": "mg1930-p036-r02",
       "recipe_title": "GRAPENUT BREAD",
       "display_text": "2 cups buttermilk",
-      "match_kind": "unmatched"
+      "ingredient_id": 2055,
+      "canonical_name": "buttermilk",
+      "canonical_name_normalized": "buttermilk",
+      "display_name_en": "buttermilk",
+      "display_name_pt": "leitelho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "buttermilk"
     },
     {
       "recipe_id": "mg1930-p036-r02",
@@ -4719,14 +4754,14 @@
       "recipe_id": "mg1930-p036-r03",
       "recipe_title": "JOHNNY CAKE",
       "display_text": "1¼ cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p036-r03",
@@ -4849,14 +4884,14 @@
       "recipe_id": "mg1930-p036-r04",
       "recipe_title": "SPIDER CORN CAKE",
       "display_text": "1 cup sweet milk and 1 cup sour milk, or 2 cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p036-r05",
@@ -5050,14 +5085,14 @@
       "recipe_id": "mg1930-p037-r01",
       "recipe_title": "DATE BREAD",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p037-r02",
@@ -5141,14 +5176,14 @@
       "recipe_id": "mg1930-p037-r02",
       "recipe_title": "DATE AND NUT BREAD",
       "display_text": "1½ cups bread flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2057,
+      "canonical_name": "bread flour",
+      "canonical_name_normalized": "bread-flour",
+      "display_name_en": "bread flour",
+      "display_name_pt": "farinha de pao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bread-flour"
     },
     {
       "recipe_id": "mg1930-p037-r02",
@@ -5258,39 +5293,53 @@
       "recipe_id": "mg1930-p037-r03",
       "recipe_title": "GRAHAM PRUNE BREAD",
       "display_text": "1 cup thick sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p037-r03",
       "recipe_title": "GRAHAM PRUNE BREAD",
       "display_text": "1 cup stewed prunes, cut fine",
-      "match_kind": "unmatched"
+      "ingredient_id": 2062,
+      "canonical_name": "prunes",
+      "canonical_name_normalized": "prunes",
+      "display_name_en": "prunes",
+      "display_name_pt": "ameixas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "stewed-prunes"
     },
     {
       "recipe_id": "mg1930-p037-r03",
       "recipe_title": "GRAHAM PRUNE BREAD",
       "display_text": "½ cup prune juice",
-      "match_kind": "unmatched"
+      "ingredient_id": 2063,
+      "canonical_name": "prune juice",
+      "canonical_name_normalized": "prune-juice",
+      "display_name_en": "prune juice",
+      "display_name_pt": "suco de ameixa seca",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "prune-juice"
     },
     {
       "recipe_id": "mg1930-p037-r03",
       "recipe_title": "GRAHAM PRUNE BREAD",
       "display_text": "1½ cups bread flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2057,
+      "canonical_name": "bread flour",
+      "canonical_name_normalized": "bread-flour",
+      "display_name_en": "bread flour",
+      "display_name_pt": "farinha de pao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bread-flour"
     },
     {
       "recipe_id": "mg1930-p037-r03",
@@ -5309,14 +5358,14 @@
       "recipe_id": "mg1930-p037-r03",
       "recipe_title": "GRAHAM PRUNE BREAD",
       "display_text": "1 cup graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p037-r04",
@@ -5335,14 +5384,14 @@
       "recipe_id": "mg1930-p037-r04",
       "recipe_title": "GRAHAM BREAD",
       "display_text": "2 cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p037-r04",
@@ -5387,14 +5436,14 @@
       "recipe_id": "mg1930-p037-r04",
       "recipe_title": "GRAHAM BREAD",
       "display_text": "2½ cups graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p037-r04",
@@ -5452,14 +5501,14 @@
       "recipe_id": "mg1930-p037-r05",
       "recipe_title": "GRAHAM BREAD",
       "display_text": "2 cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p037-r05",
@@ -5952,14 +6001,14 @@
       "recipe_id": "mg1930-p038-r05",
       "recipe_title": "NUT BROWN BREAD",
       "display_text": "2 cups graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p038-r05",
@@ -5978,14 +6027,14 @@
       "recipe_id": "mg1930-p038-r05",
       "recipe_title": "NUT BROWN BREAD",
       "display_text": "1 tsp. soda in 1½ cups sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p038-r05",
@@ -6160,7 +6209,14 @@
       "recipe_id": "mg1930-p039-r02",
       "recipe_title": "QUICK NUT BREAD",
       "display_text": "2 tbsp. melted Crisco",
-      "match_kind": "unmatched"
+      "ingredient_id": 2065,
+      "canonical_name": "shortening",
+      "canonical_name_normalized": "shortening",
+      "display_name_en": "shortening",
+      "display_name_pt": "gordura vegetal",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "crisco"
     },
     {
       "recipe_id": "mg1930-p039-r02",
@@ -6192,14 +6248,14 @@
       "recipe_id": "mg1930-p039-r03",
       "recipe_title": "PEANUT BUTTER BREAD",
       "display_text": "2 cups bread flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2057,
+      "canonical_name": "bread flour",
+      "canonical_name_normalized": "bread-flour",
+      "display_name_en": "bread flour",
+      "display_name_pt": "farinha de pao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bread-flour"
     },
     {
       "recipe_id": "mg1930-p039-r03",
@@ -6289,14 +6345,14 @@
       "recipe_id": "mg1930-p039-r04",
       "recipe_title": "PEANUT BUTTER BREAD",
       "display_text": "1 cup peanut butter",
-      "alias_normalized": "butter",
-      "ingredient_id": 9,
-      "canonical_name": "manteiga",
-      "canonical_name_normalized": "manteiga",
-      "display_name_en": null,
-      "display_name_pt": "manteiga",
-      "match_kind": "alias",
-      "matched_term": "butter"
+      "ingredient_id": 2066,
+      "canonical_name": "peanut butter",
+      "canonical_name_normalized": "peanut-butter",
+      "display_name_en": "peanut butter",
+      "display_name_pt": "pasta de amendoim",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peanut-butter"
     },
     {
       "recipe_id": "mg1930-p039-r04",
@@ -6601,14 +6657,14 @@
       "recipe_id": "mg1930-p042-r02",
       "recipe_title": "\" MUFFINS FOR TWO \"",
       "display_text": "1 heaping tbsp. Crisco or lard",
-      "ingredient_id": 2019,
-      "canonical_name": "lard",
-      "canonical_name_normalized": "lard",
-      "display_name_en": "lard",
-      "display_name_pt": "banha",
+      "ingredient_id": 2065,
+      "canonical_name": "shortening",
+      "canonical_name_normalized": "shortening",
+      "display_name_en": "shortening",
+      "display_name_pt": "gordura vegetal",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "lard"
+      "matched_term": "crisco"
     },
     {
       "recipe_id": "mg1930-p042-r02",
@@ -6776,7 +6832,14 @@
       "recipe_id": "mg1930-p042-r04",
       "recipe_title": "BLUEBERRY MUFFINS",
       "display_text": "1 cup canned or fresh blueberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2067,
+      "canonical_name": "blueberries",
+      "canonical_name_normalized": "blueberries",
+      "display_name_en": "blueberries",
+      "display_name_pt": "mirtilos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "blueberries"
     },
     {
       "recipe_id": "mg1930-p042-r04",
@@ -6795,14 +6858,14 @@
       "recipe_id": "mg1930-p042-r04",
       "recipe_title": "BLUEBERRY MUFFINS",
       "display_text": "2 cups bread flour (measure before sifting)",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2057,
+      "canonical_name": "bread flour",
+      "canonical_name_normalized": "bread-flour",
+      "display_name_en": "bread flour",
+      "display_name_pt": "farinha de pao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bread-flour"
     },
     {
       "recipe_id": "mg1930-p042-r04",
@@ -6886,7 +6949,14 @@
       "recipe_id": "mg1930-p042-r05",
       "recipe_title": "BLUEBERRY MUFFINS",
       "display_text": "1 cup huckleberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2068,
+      "canonical_name": "huckleberries",
+      "canonical_name_normalized": "huckleberries",
+      "display_name_en": "huckleberries",
+      "display_name_pt": "huckleberries",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "huckleberries"
     },
     {
       "recipe_id": "mg1930-p042-r05",
@@ -6931,7 +7001,14 @@
       "recipe_id": "mg1930-p043-r01",
       "recipe_title": "12 MINUTE BRAN BISCUIT",
       "display_text": "⅓ cup Bran-Pillsbury's",
-      "match_kind": "unmatched"
+      "ingredient_id": 2069,
+      "canonical_name": "bran cereal",
+      "canonical_name_normalized": "bran-cereal",
+      "display_name_en": "bran cereal",
+      "display_name_pt": "cereal de farelo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bran-pillsbury-s"
     },
     {
       "recipe_id": "mg1930-p043-r01",
@@ -7060,14 +7137,14 @@
       "recipe_id": "mg1930-p043-r02",
       "recipe_title": "CORN MEAL GEMS",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p043-r02",
@@ -7242,14 +7319,14 @@
       "recipe_id": "mg1930-p043-r04",
       "recipe_title": "CORN MEAL MUFFINS OR JOHNNY CAKE",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p043-r04",
@@ -7411,14 +7488,14 @@
       "recipe_id": "mg1930-p044-r01",
       "recipe_title": "GRAHAM GEMS",
       "display_text": "1 cup graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p044-r01",
@@ -7800,14 +7877,14 @@
       "recipe_id": "mg1930-p044-r05",
       "recipe_title": "WHITE MUFFINS",
       "display_text": "1½ cups white bread flour (measured before sifting)",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2057,
+      "canonical_name": "bread flour",
+      "canonical_name_normalized": "bread-flour",
+      "display_name_en": "bread flour",
+      "display_name_pt": "farinha de pao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bread-flour"
     },
     {
       "recipe_id": "mg1930-p044-r05",
@@ -7878,14 +7955,14 @@
       "recipe_id": "mg1930-p046-r01",
       "recipe_title": "DOUGHNUTS",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p046-r01",
@@ -8027,14 +8104,14 @@
       "recipe_id": "mg1930-p046-r02",
       "recipe_title": "SOUR CREAM DOUGHNUTS",
       "display_text": "½ cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p046-r02",
@@ -8487,14 +8564,14 @@
       "recipe_id": "mg1930-p048-r04",
       "recipe_title": "CHOCOLATE DROP COOKIES",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p048-r04",
@@ -9078,7 +9155,14 @@
       "recipe_id": "mg1930-p050-r01",
       "recipe_title": "MOTHER'S JUMBLES",
       "display_text": "1 cup currants",
-      "match_kind": "unmatched"
+      "ingredient_id": 2071,
+      "canonical_name": "currants",
+      "canonical_name_normalized": "currants",
+      "display_name_en": "currants",
+      "display_name_pt": "groselhas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "currants"
     },
     {
       "recipe_id": "mg1930-p050-r01",
@@ -9110,7 +9194,14 @@
       "recipe_id": "mg1930-p050-r01",
       "recipe_title": "MOTHER'S JUMBLES",
       "display_text": "1 cup buttermilk",
-      "match_kind": "unmatched"
+      "ingredient_id": 2055,
+      "canonical_name": "buttermilk",
+      "canonical_name_normalized": "buttermilk",
+      "display_name_en": "buttermilk",
+      "display_name_pt": "leitelho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "buttermilk"
     },
     {
       "recipe_id": "mg1930-p050-r02",
@@ -9194,14 +9285,14 @@
       "recipe_id": "mg1930-p050-r02",
       "recipe_title": "FRUIT JUMBLES",
       "display_text": "½ lb. currants or raisins",
-      "ingredient_id": 2001,
-      "canonical_name": "raisins",
-      "canonical_name_normalized": "raisins",
-      "display_name_en": "raisins",
-      "display_name_pt": "uvas-passas",
+      "ingredient_id": 2071,
+      "canonical_name": "currants",
+      "canonical_name_normalized": "currants",
+      "display_name_en": "currants",
+      "display_name_pt": "groselhas secas",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "raisins"
+      "matched_term": "currants"
     },
     {
       "recipe_id": "mg1930-p050-r02",
@@ -9674,14 +9765,14 @@
       "recipe_id": "mg1930-p051-r02",
       "recipe_title": "HERMITS",
       "display_text": "½ cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p051-r02",
@@ -9856,14 +9947,14 @@
       "recipe_id": "mg1930-p051-r03",
       "recipe_title": "HERMITS",
       "display_text": "5 tbsp. sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p051-r03",
@@ -9921,14 +10012,14 @@
       "recipe_id": "mg1930-p051-r04",
       "recipe_title": "ROLLED OATS CQOKIES",
       "display_text": "½ cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p051-r04",
@@ -10584,14 +10675,14 @@
       "recipe_id": "mg1930-p052-r04",
       "recipe_title": "OATMEAL COOKIES",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p052-r04",
@@ -11208,14 +11299,14 @@
       "recipe_id": "mg1930-p056-r02",
       "recipe_title": "MOLASSES COOKIES",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p056-r02",
@@ -11454,14 +11545,14 @@
       "recipe_id": "mg1930-p056-r04",
       "recipe_title": "MOLASSES GINGER COOKIES",
       "display_text": "3 tbsp. sour milk or vinegar",
-      "alias_normalized": "vinegar",
-      "ingredient_id": 655,
-      "canonical_name": "vinagre",
-      "canonical_name_normalized": "vinagre",
-      "display_name_en": null,
-      "display_name_pt": "vinagre",
-      "match_kind": "alias",
-      "matched_term": "vinegar"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p056-r04",
@@ -11700,14 +11791,14 @@
       "recipe_id": "mg1930-p057-r02",
       "recipe_title": "RAISIN FILLED COOKIES",
       "display_text": "3/4 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p057-r02",
@@ -12081,14 +12172,14 @@
       "recipe_id": "mg1930-p058-r02",
       "recipe_title": "SOUR MILK COOKIES",
       "display_text": "⅔ cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p060-r01",
@@ -13000,14 +13091,14 @@
       "recipe_id": "mg1930-p061-r05",
       "recipe_title": "YUM -YUM COOKIES",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p061-r05",
@@ -13611,7 +13702,14 @@
       "recipe_id": "mg1930-p064-r03",
       "recipe_title": "ECONOMY ANGEL FOOD CAKE",
       "display_text": "¼ tsp. almond or rose extract",
-      "match_kind": "unmatched"
+      "ingredient_id": 2093,
+      "canonical_name": "almonds",
+      "canonical_name_normalized": "almonds",
+      "display_name_en": "almonds",
+      "display_name_pt": "amendoas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "almond"
     },
     {
       "recipe_id": "mg1930-p065-r01",
@@ -14077,7 +14175,14 @@
       "recipe_id": "mg1930-p066-r01",
       "recipe_title": "FRUIT ANGEL FOOD CAKE",
       "display_text": "1 tsp. almond extract",
-      "match_kind": "unmatched"
+      "ingredient_id": 2074,
+      "canonical_name": "almond extract",
+      "canonical_name_normalized": "almond-extract",
+      "display_name_en": "almond extract",
+      "display_name_pt": "extrato de amendoa",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "almond-extract"
     },
     {
       "recipe_id": "mg1930-p066-r01",
@@ -14096,7 +14201,14 @@
       "recipe_id": "mg1930-p066-r01",
       "recipe_title": "FRUIT ANGEL FOOD CAKE",
       "display_text": "¼ cup candied cherries, cut fine",
-      "match_kind": "unmatched"
+      "ingredient_id": 2072,
+      "canonical_name": "candied cherries",
+      "canonical_name_normalized": "candied-cherries",
+      "display_name_en": "candied cherries",
+      "display_name_pt": "cerejas cristalizadas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "candied-cherries"
     },
     {
       "recipe_id": "mg1930-p066-r02",
@@ -14569,7 +14681,14 @@
       "recipe_id": "mg1930-p067-r02",
       "recipe_title": "SPONGE CAKE",
       "display_text": "1 tsp. lemon flavoring",
-      "match_kind": "unmatched"
+      "ingredient_id": 2075,
+      "canonical_name": "lemon flavoring",
+      "canonical_name_normalized": "lemon-flavoring",
+      "display_name_en": "lemon flavoring",
+      "display_name_pt": "aroma de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-flavoring"
     },
     {
       "recipe_id": "mg1930-p067-r03",
@@ -15574,14 +15693,14 @@
       "recipe_id": "mg1930-p074-r01",
       "recipe_title": "CHOCOLATE LOAF CAKE",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p074-r01",
@@ -15795,14 +15914,14 @@
       "recipe_id": "mg1930-p074-r03",
       "recipe_title": "COCOA CAKE",
       "display_text": "1/2 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p074-r03",
@@ -15912,14 +16031,14 @@
       "recipe_id": "mg1930-p074-r04",
       "recipe_title": "CHOCOLATE CAKE",
       "display_text": "½ cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p074-r04",
@@ -16146,14 +16265,14 @@
       "recipe_id": "mg1930-p075-r01",
       "recipe_title": "DEVIL'S FOOD",
       "display_text": "½ cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p075-r01",
@@ -16237,7 +16356,14 @@
       "recipe_id": "mg1930-p075-r02",
       "recipe_title": "QUICK DEVIL'S FOOD",
       "display_text": "½ cup milk, sour",
-      "match_kind": "unmatched"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "milk-sour"
     },
     {
       "recipe_id": "mg1930-p075-r02",
@@ -16457,14 +16583,14 @@
       "recipe_id": "mg1930-p075-r04",
       "recipe_title": "COCOA CAKE",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p075-r04",
@@ -16665,14 +16791,14 @@
       "recipe_id": "mg1930-p076-r01",
       "recipe_title": "HOT WATER CHOCOLATE CAKE",
       "display_text": "1/2 cup sour milk or cream",
-      "ingredient_id": 2025,
-      "canonical_name": "cream",
-      "canonical_name_normalized": "cream",
-      "display_name_en": "cream",
-      "display_name_pt": "creme",
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cream"
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p076-r01",
@@ -16931,14 +17057,14 @@
       "recipe_id": "mg1930-p076-r04",
       "recipe_title": "SIMPLE CHOCOLATE TWO LAYER CAKE",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p076-r04",
@@ -17308,14 +17434,14 @@
       "recipe_id": "mg1930-p077-r02",
       "recipe_title": "RED DEVIL'S FOOD CAKE",
       "display_text": "½ cup thick sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p077-r02",
@@ -17956,13 +18082,27 @@
       "recipe_id": "mg1930-p078-r04",
       "recipe_title": "ENGLISH WHITE FRUIT CAKE",
       "display_text": "6 oz. currants",
-      "match_kind": "unmatched"
+      "ingredient_id": 2071,
+      "canonical_name": "currants",
+      "canonical_name_normalized": "currants",
+      "display_name_en": "currants",
+      "display_name_pt": "groselhas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "currants"
     },
     {
       "recipe_id": "mg1930-p078-r04",
       "recipe_title": "ENGLISH WHITE FRUIT CAKE",
       "display_text": "4 oz. mixed peel",
-      "match_kind": "unmatched"
+      "ingredient_id": 2076,
+      "canonical_name": "mixed peel",
+      "canonical_name_normalized": "mixed-peel",
+      "display_name_en": "mixed peel",
+      "display_name_pt": "casca de frutas cristalizada",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mixed-peel"
     },
     {
       "recipe_id": "mg1930-p078-r04",
@@ -18167,7 +18307,14 @@
       "recipe_id": "mg1930-p079-r02",
       "recipe_title": "ENGLISH QUEENS CAKES",
       "display_text": "3 oz. currants",
-      "match_kind": "unmatched"
+      "ingredient_id": 2071,
+      "canonical_name": "currants",
+      "canonical_name_normalized": "currants",
+      "display_name_en": "currants",
+      "display_name_pt": "groselhas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "currants"
     },
     {
       "recipe_id": "mg1930-p079-r02",
@@ -18569,7 +18716,14 @@
       "recipe_id": "mg1930-p080-r01",
       "recipe_title": "FRUIT CAKE",
       "display_text": "½ cup citron",
-      "match_kind": "unmatched"
+      "ingredient_id": 2073,
+      "canonical_name": "citron",
+      "canonical_name_normalized": "citron",
+      "display_name_en": "citron",
+      "display_name_pt": "cidrao cristalizado",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "citron"
     },
     {
       "recipe_id": "mg1930-p080-r01",
@@ -19489,14 +19643,14 @@
       "recipe_id": "mg1930-p082-r02",
       "recipe_title": "MOLASSES CAKE",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p082-r02",
@@ -20345,7 +20499,14 @@
       "recipe_id": "mg1930-p084-r01",
       "recipe_title": "PECAN CHRISTMAS CAKE",
       "display_text": "1 qt. pecan meats",
-      "match_kind": "unmatched"
+      "ingredient_id": 2077,
+      "canonical_name": "pecans",
+      "canonical_name_normalized": "pecans",
+      "display_name_en": "pecans",
+      "display_name_pt": "nozes-peca",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pecan-meats"
     },
     {
       "recipe_id": "mg1930-p084-r01",
@@ -20416,7 +20577,14 @@
       "recipe_id": "mg1930-p084-r01",
       "recipe_title": "PECAN CHRISTMAS CAKE",
       "display_text": "1½ wine glass brandy",
-      "match_kind": "unmatched"
+      "ingredient_id": 2078,
+      "canonical_name": "brandy",
+      "canonical_name_normalized": "brandy",
+      "display_name_en": "brandy",
+      "display_name_pt": "conhaque",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "brandy"
     },
     {
       "recipe_id": "mg1930-p084-r02",
@@ -20461,7 +20629,14 @@
       "recipe_id": "mg1930-p084-r02",
       "recipe_title": "HOT WATER SPICE CAKE",
       "display_text": "1/2 cup Karo",
-      "match_kind": "unmatched"
+      "ingredient_id": 2079,
+      "canonical_name": "corn syrup",
+      "canonical_name_normalized": "corn-syrup",
+      "display_name_en": "corn syrup",
+      "display_name_pt": "xarope de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "karo"
     },
     {
       "recipe_id": "mg1930-p084-r02",
@@ -20597,14 +20772,14 @@
       "recipe_id": "mg1930-p084-r03",
       "recipe_title": "SPICE CAKE",
       "display_text": "1 generous cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p084-r03",
@@ -20753,14 +20928,14 @@
       "recipe_id": "mg1930-p085-r01",
       "recipe_title": "SOUR MILK SPICE CAKE",
       "display_text": "1 cup buttermilk or sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2055,
+      "canonical_name": "buttermilk",
+      "canonical_name_normalized": "buttermilk",
+      "display_name_en": "buttermilk",
+      "display_name_pt": "leitelho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "buttermilk"
     },
     {
       "recipe_id": "mg1930-p085-r01",
@@ -21071,14 +21246,14 @@
       "recipe_id": "mg1930-p085-r04",
       "recipe_title": "SPICE CAKE WITH BROWN SUGAR FROSTING",
       "display_text": "With Sour Milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p085-r04",
@@ -21149,14 +21324,14 @@
       "recipe_id": "mg1930-p085-r04",
       "recipe_title": "SPICE CAKE WITH BROWN SUGAR FROSTING",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p085-r04",
@@ -21597,7 +21772,14 @@
       "recipe_id": "mg1930-p086-r04",
       "recipe_title": "STRAWBERRY CAKE",
       "display_text": "1 cup strawberry jam",
-      "match_kind": "unmatched"
+      "ingredient_id": 2080,
+      "canonical_name": "strawberry jam",
+      "canonical_name_normalized": "strawberry-jam",
+      "display_name_en": "strawberry jam",
+      "display_name_pt": "geleia de morango",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "strawberry-jam"
     },
     {
       "recipe_id": "mg1930-p086-r04",
@@ -21668,14 +21850,14 @@
       "recipe_id": "mg1930-p086-r04",
       "recipe_title": "STRAWBERRY CAKE",
       "display_text": "½ cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p086-r04",
@@ -21992,7 +22174,14 @@
       "recipe_id": "mg1930-p087-r03",
       "recipe_title": "WHITE CAKE THREE LAYERS",
       "display_text": "2 tsp. lemon flavoring",
-      "match_kind": "unmatched"
+      "ingredient_id": 2075,
+      "canonical_name": "lemon flavoring",
+      "canonical_name_normalized": "lemon-flavoring",
+      "display_name_en": "lemon flavoring",
+      "display_name_pt": "aroma de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-flavoring"
     },
     {
       "recipe_id": "mg1930-p087-r03",
@@ -22743,7 +22932,14 @@
       "recipe_id": "mg1930-p092-r05",
       "recipe_title": "STRAWBERRY FILLING FOR CAKE",
       "display_text": "1 cup ripe strawberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2081,
+      "canonical_name": "strawberries",
+      "canonical_name_normalized": "strawberries",
+      "display_name_en": "strawberries",
+      "display_name_pt": "morangos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "strawberries"
     },
     {
       "recipe_id": "mg1930-p092-r05",
@@ -23035,7 +23231,14 @@
       "recipe_id": "mg1930-p093-r06",
       "recipe_title": "CREAM COCOA ICING",
       "display_text": "1/4 cup Crisco",
-      "match_kind": "unmatched"
+      "ingredient_id": 2065,
+      "canonical_name": "shortening",
+      "canonical_name_normalized": "shortening",
+      "display_name_en": "shortening",
+      "display_name_pt": "gordura vegetal",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "crisco"
     },
     {
       "recipe_id": "mg1930-p093-r06",
@@ -23132,7 +23335,14 @@
       "recipe_id": "mg1930-p094-r01",
       "recipe_title": "COMFORT ICING",
       "display_text": "½ cup light corn syrup",
-      "match_kind": "unmatched"
+      "ingredient_id": 2079,
+      "canonical_name": "corn syrup",
+      "canonical_name_normalized": "corn-syrup",
+      "display_name_en": "corn syrup",
+      "display_name_pt": "xarope de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "light-corn-syrup"
     },
     {
       "recipe_id": "mg1930-p094-r01",
@@ -23752,7 +23962,14 @@
       "recipe_id": "mg1930-p098-r03",
       "recipe_title": "CARAMELS",
       "display_text": "1¾ cups light Karo syrup",
-      "match_kind": "unmatched"
+      "ingredient_id": 2079,
+      "canonical_name": "corn syrup",
+      "canonical_name_normalized": "corn-syrup",
+      "display_name_en": "corn syrup",
+      "display_name_pt": "xarope de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "light-karo-syrup"
     },
     {
       "recipe_id": "mg1930-p098-r03",
@@ -23849,7 +24066,14 @@
       "recipe_id": "mg1930-p098-r04",
       "recipe_title": "CHOCOLATE ORANGE CREAM WAFERS",
       "display_text": "3/4 cup finely cut crystallized orange peel",
-      "match_kind": "unmatched"
+      "ingredient_id": 2083,
+      "canonical_name": "crystallized orange peel",
+      "canonical_name_normalized": "crystallized-orange-peel",
+      "display_name_en": "crystallized orange peel",
+      "display_name_pt": "casca de laranja cristalizada",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "crystallized-orange-peel"
     },
     {
       "recipe_id": "mg1930-p099-r01",
@@ -23894,7 +24118,14 @@
       "recipe_id": "mg1930-p099-r01",
       "recipe_title": "DE LEON CREAMS",
       "display_text": "½ cup candied orange peel",
-      "match_kind": "unmatched"
+      "ingredient_id": 2083,
+      "canonical_name": "crystallized orange peel",
+      "canonical_name_normalized": "crystallized-orange-peel",
+      "display_name_en": "crystallized orange peel",
+      "display_name_pt": "casca de laranja cristalizada",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "candied-orange-peel"
     },
     {
       "recipe_id": "mg1930-p099-r02",
@@ -23913,7 +24144,14 @@
       "recipe_id": "mg1930-p099-r02",
       "recipe_title": "CREOLE PRALINES",
       "display_text": "½ cup pecan halves",
-      "match_kind": "unmatched"
+      "ingredient_id": 2077,
+      "canonical_name": "pecans",
+      "canonical_name_normalized": "pecans",
+      "display_name_en": "pecans",
+      "display_name_pt": "nozes-peca",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pecan-halves"
     },
     {
       "recipe_id": "mg1930-p099-r03",
@@ -24140,14 +24378,14 @@
       "recipe_id": "mg1930-p100-r02",
       "recipe_title": "PEANUT BUTTER FUDGE",
       "display_text": "2 heaping tbsp. peanut butter",
-      "alias_normalized": "butter",
-      "ingredient_id": 9,
-      "canonical_name": "manteiga",
-      "canonical_name_normalized": "manteiga",
-      "display_name_en": null,
-      "display_name_pt": "manteiga",
-      "match_kind": "alias",
-      "matched_term": "butter"
+      "ingredient_id": 2066,
+      "canonical_name": "peanut butter",
+      "canonical_name_normalized": "peanut-butter",
+      "display_name_en": "peanut butter",
+      "display_name_pt": "pasta de amendoim",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peanut-butter"
     },
     {
       "recipe_id": "mg1930-p100-r03",
@@ -24185,7 +24423,14 @@
       "recipe_id": "mg1930-p100-r03",
       "recipe_title": "ORIENTALS",
       "display_text": "½ tsp. glycerine",
-      "match_kind": "unmatched"
+      "ingredient_id": 2084,
+      "canonical_name": "glycerine",
+      "canonical_name_normalized": "glycerine",
+      "display_name_en": "glycerine",
+      "display_name_pt": "glicerina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "glycerine"
     },
     {
       "recipe_id": "mg1930-p100-r03",
@@ -24204,7 +24449,14 @@
       "recipe_id": "mg1930-p100-r03",
       "recipe_title": "ORIENTALS",
       "display_text": "6 drops acetic acid",
-      "match_kind": "unmatched"
+      "ingredient_id": 2085,
+      "canonical_name": "acetic acid",
+      "canonical_name_normalized": "acetic-acid",
+      "display_name_en": "acetic acid",
+      "display_name_pt": "acido acetico",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "acetic-acid"
     },
     {
       "recipe_id": "mg1930-p100-r03",
@@ -24262,7 +24514,14 @@
       "recipe_id": "mg1930-p100-r04",
       "recipe_title": "SEA FOAM",
       "display_text": "½ cup Karo syrup",
-      "match_kind": "unmatched"
+      "ingredient_id": 2079,
+      "canonical_name": "corn syrup",
+      "canonical_name_normalized": "corn-syrup",
+      "display_name_en": "corn syrup",
+      "display_name_pt": "xarope de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "karo-syrup"
     },
     {
       "recipe_id": "mg1930-p100-r04",
@@ -24294,7 +24553,14 @@
       "recipe_id": "mg1930-p102-r01",
       "recipe_title": "APRICOT ICE CREAM",
       "display_text": "1 large can apricots",
-      "match_kind": "unmatched"
+      "ingredient_id": 2086,
+      "canonical_name": "apricots",
+      "canonical_name_normalized": "apricots",
+      "display_name_en": "apricots",
+      "display_name_pt": "damascos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apricots"
     },
     {
       "recipe_id": "mg1930-p102-r01",
@@ -24428,7 +24694,14 @@
       "recipe_id": "mg1930-p102-r03",
       "recipe_title": "BAKED INDIVIDUAL ALASKA",
       "display_text": "1 sponge cake",
-      "match_kind": "unmatched"
+      "ingredient_id": 2087,
+      "canonical_name": "sponge cake",
+      "canonical_name_normalized": "sponge-cake",
+      "display_name_en": "sponge cake",
+      "display_name_pt": "pao de lo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sponge-cake"
     },
     {
       "recipe_id": "mg1930-p102-r04",
@@ -24525,20 +24798,27 @@
       "recipe_id": "mg1930-p102-r05",
       "recipe_title": "COLD DESSERT",
       "display_text": "Chocolate sauce",
-      "match_kind": "unmatched"
+      "ingredient_id": 2088,
+      "canonical_name": "chocolate sauce",
+      "canonical_name_normalized": "chocolate-sauce",
+      "display_name_en": "chocolate sauce",
+      "display_name_pt": "molho de chocolate",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chocolate-sauce"
     },
     {
       "recipe_id": "mg1930-p102-r05",
       "recipe_title": "COLD DESSERT",
       "display_text": "Vanilla ice cream",
-      "ingredient_id": 2025,
-      "canonical_name": "cream",
-      "canonical_name_normalized": "cream",
-      "display_name_en": "cream",
-      "display_name_pt": "creme",
+      "ingredient_id": 2060,
+      "canonical_name": "vanilla ice cream",
+      "canonical_name_normalized": "vanilla-ice-cream",
+      "display_name_en": "vanilla ice cream",
+      "display_name_pt": "sorvete de baunilha",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cream"
+      "matched_term": "vanilla-ice-cream"
     },
     {
       "recipe_id": "mg1930-p102-r05",
@@ -25277,7 +25557,14 @@
       "recipe_id": "mg1930-p106-r03",
       "recipe_title": "DATE AND MACAROON DESSERT",
       "display_text": "½ lb. macaroons",
-      "match_kind": "unmatched"
+      "ingredient_id": 2089,
+      "canonical_name": "macaroons",
+      "canonical_name_normalized": "macaroons",
+      "display_name_en": "macaroons",
+      "display_name_pt": "macaroons",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "macaroons"
     },
     {
       "recipe_id": "mg1930-p106-r03",
@@ -25309,7 +25596,14 @@
       "recipe_id": "mg1930-p106-r04",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "1 pkg. lemon Jello",
-      "match_kind": "unmatched"
+      "ingredient_id": 2090,
+      "canonical_name": "lemon gelatin dessert",
+      "canonical_name_normalized": "lemon-gelatin-dessert",
+      "display_name_en": "lemon gelatin dessert",
+      "display_name_pt": "gelatina de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-jello"
     },
     {
       "recipe_id": "mg1930-p106-r04",
@@ -25481,7 +25775,14 @@
       "recipe_id": "mg1930-p107-r03",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "½ lb. vanilla wafers",
-      "match_kind": "unmatched"
+      "ingredient_id": 2091,
+      "canonical_name": "vanilla wafers",
+      "canonical_name_normalized": "vanilla-wafers",
+      "display_name_en": "vanilla wafers",
+      "display_name_pt": "biscoitos de baunilha",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "vanilla-wafers"
     },
     {
       "recipe_id": "mg1930-p107-r03",
@@ -25500,7 +25801,14 @@
       "recipe_id": "mg1930-p107-r03",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "2 bananas",
-      "match_kind": "unmatched"
+      "ingredient_id": 2092,
+      "canonical_name": "bananas",
+      "canonical_name_normalized": "bananas",
+      "display_name_en": "bananas",
+      "display_name_pt": "bananas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bananas"
     },
     {
       "recipe_id": "mg1930-p107-r03",
@@ -25596,7 +25904,14 @@
       "recipe_id": "mg1930-p107-r04",
       "recipe_title": "ICE BOX CAKE",
       "display_text": "18 lady fingers",
-      "match_kind": "unmatched"
+      "ingredient_id": 2094,
+      "canonical_name": "ladyfingers",
+      "canonical_name_normalized": "ladyfingers",
+      "display_name_en": "ladyfingers",
+      "display_name_pt": "biscoitos champanhe",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lady-fingers"
     },
     {
       "recipe_id": "mg1930-p107-r05",
@@ -25680,7 +25995,14 @@
       "recipe_id": "mg1930-p107-r06",
       "recipe_title": "PINEAPPLE ICE BOX CAKE",
       "display_text": "36 ladyfingers",
-      "match_kind": "unmatched"
+      "ingredient_id": 2094,
+      "canonical_name": "ladyfingers",
+      "canonical_name_normalized": "ladyfingers",
+      "display_name_en": "ladyfingers",
+      "display_name_pt": "biscoitos champanhe",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ladyfingers"
     },
     {
       "recipe_id": "mg1930-p107-r06",
@@ -25737,7 +26059,14 @@
       "recipe_id": "mg1930-p107-r06",
       "recipe_title": "PINEAPPLE ICE BOX CAKE",
       "display_text": "Grated orange zest",
-      "match_kind": "unmatched"
+      "ingredient_id": 2095,
+      "canonical_name": "orange zest",
+      "canonical_name_normalized": "orange-zest",
+      "display_name_en": "orange zest",
+      "display_name_pt": "raspas de laranja",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "orange-zest"
     },
     {
       "recipe_id": "mg1930-p107-r06",
@@ -25788,7 +26117,14 @@
       "recipe_id": "mg1930-p108-r01",
       "recipe_title": "MACAROON CHOCOLATE PUDDING",
       "display_text": "12 macaroons",
-      "match_kind": "unmatched"
+      "ingredient_id": 2089,
+      "canonical_name": "macaroons",
+      "canonical_name_normalized": "macaroons",
+      "display_name_en": "macaroons",
+      "display_name_pt": "macaroons",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "macaroons"
     },
     {
       "recipe_id": "mg1930-p108-r01",
@@ -26024,7 +26360,14 @@
       "recipe_id": "mg1930-p109-r01",
       "recipe_title": "RICE AND PINEAPPLE BAVARIAN CREAM",
       "display_text": "1½ cups pineapple juice",
-      "match_kind": "unmatched"
+      "ingredient_id": 2061,
+      "canonical_name": "pineapple juice",
+      "canonical_name_normalized": "pineapple-juice",
+      "display_name_en": "pineapple juice",
+      "display_name_pt": "suco de abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple-juice"
     },
     {
       "recipe_id": "mg1930-p109-r01",
@@ -26269,7 +26612,14 @@
       "recipe_id": "mg1930-p109-r03",
       "recipe_title": "TAPIOCA ICEBOX DESSERT",
       "display_text": "2 dozen lady fingers",
-      "match_kind": "unmatched"
+      "ingredient_id": 2094,
+      "canonical_name": "ladyfingers",
+      "canonical_name_normalized": "ladyfingers",
+      "display_name_en": "ladyfingers",
+      "display_name_pt": "biscoitos champanhe",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lady-fingers"
     },
     {
       "recipe_id": "mg1930-p112-r01",
@@ -28226,7 +28576,14 @@
       "recipe_id": "mg1930-p117-r01",
       "recipe_title": "MAPLE NUT TORTE",
       "display_text": "10 macaroons",
-      "match_kind": "unmatched"
+      "ingredient_id": 2089,
+      "canonical_name": "macaroons",
+      "canonical_name_normalized": "macaroons",
+      "display_name_en": "macaroons",
+      "display_name_pt": "macaroons",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "macaroons"
     },
     {
       "recipe_id": "mg1930-p117-r01",
@@ -28245,7 +28602,14 @@
       "recipe_id": "mg1930-p117-r01",
       "recipe_title": "MAPLE NUT TORTE",
       "display_text": "Lady fingers (to line the mold)",
-      "match_kind": "unmatched"
+      "ingredient_id": 2094,
+      "canonical_name": "ladyfingers",
+      "canonical_name_normalized": "ladyfingers",
+      "display_name_en": "ladyfingers",
+      "display_name_pt": "biscoitos champanhe",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lady-fingers"
     },
     {
       "recipe_id": "mg1930-p117-r02",
@@ -28386,7 +28750,14 @@
       "recipe_id": "mg1930-p117-r03",
       "recipe_title": "SCHAUM TARTE",
       "display_text": "1 quart strawberries or other fruit",
-      "match_kind": "unmatched"
+      "ingredient_id": 2081,
+      "canonical_name": "strawberries",
+      "canonical_name_normalized": "strawberries",
+      "display_name_en": "strawberries",
+      "display_name_pt": "morangos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "strawberries"
     },
     {
       "recipe_id": "mg1930-p117-r03",
@@ -28456,7 +28827,14 @@
       "recipe_id": "mg1930-p118-r01",
       "recipe_title": "STRAWBERRY CREAM PUFFS",
       "display_text": "1 qt. strawberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2081,
+      "canonical_name": "strawberries",
+      "canonical_name_normalized": "strawberries",
+      "display_name_en": "strawberries",
+      "display_name_pt": "morangos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "strawberries"
     },
     {
       "recipe_id": "mg1930-p118-r01",
@@ -28572,7 +28950,14 @@
       "recipe_id": "mg1930-p118-r02",
       "recipe_title": "STRAWBERRY MERINGUE CAKE",
       "display_text": "1 qt. fresh strawberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2081,
+      "canonical_name": "strawberries",
+      "canonical_name_normalized": "strawberries",
+      "display_name_en": "strawberries",
+      "display_name_pt": "morangos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "strawberries"
     },
     {
       "recipe_id": "mg1930-p118-r02",
@@ -28900,7 +29285,14 @@
       "recipe_id": "mg1930-p120-r04",
       "recipe_title": "APRICOT BREAD PUDDING",
       "display_text": "A few apricots",
-      "match_kind": "unmatched"
+      "ingredient_id": 2086,
+      "canonical_name": "apricots",
+      "canonical_name_normalized": "apricots",
+      "display_name_en": "apricots",
+      "display_name_pt": "damascos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apricots"
     },
     {
       "recipe_id": "mg1930-p121-r01",
@@ -29221,14 +29613,14 @@
       "recipe_id": "mg1930-p121-r05",
       "recipe_title": "STEAMED CHERRY PUDDING",
       "display_text": "1 cup sour milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
-      "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p121-r05",
@@ -29876,14 +30268,14 @@
       "recipe_id": "mg1930-p123-r01",
       "recipe_title": "STEAMED DATE AND NUT PUDDING",
       "display_text": "3 cups bread flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2057,
+      "canonical_name": "bread flour",
+      "canonical_name_normalized": "bread-flour",
+      "display_name_en": "bread flour",
+      "display_name_pt": "farinha de pao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bread-flour"
     },
     {
       "recipe_id": "mg1930-p123-r01",
@@ -30576,7 +30968,14 @@
       "recipe_id": "mg1930-p124-r04",
       "recipe_title": "PRUNE WHIP",
       "display_text": "⅓ lb. or 1 dozen prunes",
-      "match_kind": "unmatched"
+      "ingredient_id": 2062,
+      "canonical_name": "prunes",
+      "canonical_name_normalized": "prunes",
+      "display_name_en": "prunes",
+      "display_name_pt": "ameixas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "prunes"
     },
     {
       "recipe_id": "mg1930-p124-r04",
@@ -31506,7 +31905,14 @@
       "recipe_id": "mg1930-p129-r04",
       "recipe_title": "STRAWBERRY WHIP",
       "display_text": "1 cup strawberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2081,
+      "canonical_name": "strawberries",
+      "canonical_name_normalized": "strawberries",
+      "display_name_en": "strawberries",
+      "display_name_pt": "morangos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "strawberries"
     },
     {
       "recipe_id": "mg1930-p129-r04",
@@ -33298,7 +33704,14 @@
       "recipe_id": "mg1930-p135-r01",
       "recipe_title": "PINEAPPLE PIE",
       "display_text": "½ cup pineapple juice",
-      "match_kind": "unmatched"
+      "ingredient_id": 2061,
+      "canonical_name": "pineapple juice",
+      "canonical_name_normalized": "pineapple-juice",
+      "display_name_en": "pineapple juice",
+      "display_name_pt": "suco de abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple-juice"
     },
     {
       "recipe_id": "mg1930-p135-r01",
@@ -35301,7 +35714,14 @@
       "recipe_id": "mg1930-p140-r01",
       "recipe_title": "CURRANT RELISH",
       "display_text": "5 qts. currants",
-      "match_kind": "unmatched"
+      "ingredient_id": 2071,
+      "canonical_name": "currants",
+      "canonical_name_normalized": "currants",
+      "display_name_en": "currants",
+      "display_name_pt": "groselhas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "currants"
     },
     {
       "recipe_id": "mg1930-p140-r01",
@@ -35417,7 +35837,14 @@
       "recipe_id": "mg1930-p140-r03",
       "recipe_title": "CHERRY AND RASPBERRY CONSERVE",
       "display_text": "1 box cherries or currants",
-      "match_kind": "unmatched"
+      "ingredient_id": 2071,
+      "canonical_name": "currants",
+      "canonical_name_normalized": "currants",
+      "display_name_en": "currants",
+      "display_name_pt": "groselhas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "currants"
     },
     {
       "recipe_id": "mg1930-p140-r03",
@@ -35570,7 +35997,14 @@
       "recipe_id": "mg1930-p140-r05",
       "recipe_title": "MINT JELLY",
       "display_text": "1 package lemon Jello",
-      "match_kind": "unmatched"
+      "ingredient_id": 2090,
+      "canonical_name": "lemon gelatin dessert",
+      "canonical_name_normalized": "lemon-gelatin-dessert",
+      "display_name_en": "lemon gelatin dessert",
+      "display_name_pt": "gelatina de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-jello"
     },
     {
       "recipe_id": "mg1930-p140-r05",
@@ -35838,7 +36272,14 @@
       "recipe_id": "mg1930-p142-r02",
       "recipe_title": "RHUBARB AND FIG PRESERVES",
       "display_text": "3/4 lb. candied orange peel",
-      "match_kind": "unmatched"
+      "ingredient_id": 2083,
+      "canonical_name": "crystallized orange peel",
+      "canonical_name_normalized": "crystallized-orange-peel",
+      "display_name_en": "crystallized orange peel",
+      "display_name_pt": "casca de laranja cristalizada",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "candied-orange-peel"
     },
     {
       "recipe_id": "mg1930-p142-r02",
@@ -35934,7 +36375,14 @@
       "recipe_id": "mg1930-p142-r05",
       "recipe_title": "STRAWBERRY AND PINEAPPLE JAM",
       "display_text": "2 cups canned strawberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2081,
+      "canonical_name": "strawberries",
+      "canonical_name_normalized": "strawberries",
+      "display_name_en": "strawberries",
+      "display_name_pt": "morangos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "strawberries"
     },
     {
       "recipe_id": "mg1930-p142-r05",
@@ -38300,7 +38748,14 @@
       "recipe_id": "mg1930-p152-r02",
       "recipe_title": "ALMOND AND PICKLE SALAD",
       "display_text": "1 cup pineapple juice",
-      "match_kind": "unmatched"
+      "ingredient_id": 2061,
+      "canonical_name": "pineapple juice",
+      "canonical_name_normalized": "pineapple-juice",
+      "display_name_en": "pineapple juice",
+      "display_name_pt": "suco de abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple-juice"
     },
     {
       "recipe_id": "mg1930-p152-r03",
@@ -38358,7 +38813,14 @@
       "recipe_id": "mg1930-p152-r03",
       "recipe_title": "ALMOND PINEAPPLE SALAD",
       "display_text": "Dressing: 4 tbsp. pineapple juice",
-      "match_kind": "unmatched"
+      "ingredient_id": 2061,
+      "canonical_name": "pineapple juice",
+      "canonical_name_normalized": "pineapple-juice",
+      "display_name_en": "pineapple juice",
+      "display_name_pt": "suco de abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple-juice"
     },
     {
       "recipe_id": "mg1930-p152-r03",
@@ -38447,7 +38909,14 @@
       "recipe_id": "mg1930-p152-r05",
       "recipe_title": "RIPE BANANA SALAD",
       "display_text": "Ripe bananas",
-      "match_kind": "unmatched"
+      "ingredient_id": 2092,
+      "canonical_name": "bananas",
+      "canonical_name_normalized": "bananas",
+      "display_name_en": "bananas",
+      "display_name_pt": "bananas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bananas"
     },
     {
       "recipe_id": "mg1930-p152-r05",
@@ -39195,7 +39664,14 @@
       "recipe_id": "mg1930-p155-r01",
       "recipe_title": "MIXED FRUIT SALAD",
       "display_text": "½ cup sliced bananas",
-      "match_kind": "unmatched"
+      "ingredient_id": 2092,
+      "canonical_name": "bananas",
+      "canonical_name_normalized": "bananas",
+      "display_name_en": "bananas",
+      "display_name_pt": "bananas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bananas"
     },
     {
       "recipe_id": "mg1930-p155-r02",
@@ -39413,7 +39889,14 @@
       "recipe_id": "mg1930-p155-r04",
       "recipe_title": "GLACÉ FRUIT DRESSING",
       "display_text": "1 tbsp. glacé apricots",
-      "match_kind": "unmatched"
+      "ingredient_id": 2086,
+      "canonical_name": "apricots",
+      "canonical_name_normalized": "apricots",
+      "display_name_en": "apricots",
+      "display_name_pt": "damascos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apricots"
     },
     {
       "recipe_id": "mg1930-p155-r04",
@@ -40348,7 +40831,14 @@
       "recipe_id": "mg1930-p160-r02",
       "recipe_title": "JELLIED CHICKEN SALAD",
       "display_text": "½ pkg. Lemon Jello",
-      "match_kind": "unmatched"
+      "ingredient_id": 2090,
+      "canonical_name": "lemon gelatin dessert",
+      "canonical_name_normalized": "lemon-gelatin-dessert",
+      "display_name_en": "lemon gelatin dessert",
+      "display_name_pt": "gelatina de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-jello"
     },
     {
       "recipe_id": "mg1930-p160-r02",
@@ -40502,7 +40992,14 @@
       "recipe_id": "mg1930-p160-r05",
       "recipe_title": "FANCY SALAD",
       "display_text": "2 pkg. lemon Jello",
-      "match_kind": "unmatched"
+      "ingredient_id": 2090,
+      "canonical_name": "lemon gelatin dessert",
+      "canonical_name_normalized": "lemon-gelatin-dessert",
+      "display_name_en": "lemon gelatin dessert",
+      "display_name_pt": "gelatina de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-jello"
     },
     {
       "recipe_id": "mg1930-p160-r05",
@@ -40534,7 +41031,14 @@
       "recipe_id": "mg1930-p160-r05",
       "recipe_title": "FANCY SALAD",
       "display_text": "6 macaroons",
-      "match_kind": "unmatched"
+      "ingredient_id": 2089,
+      "canonical_name": "macaroons",
+      "canonical_name_normalized": "macaroons",
+      "display_name_en": "macaroons",
+      "display_name_pt": "macaroons",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "macaroons"
     },
     {
       "recipe_id": "mg1930-p160-r05",
@@ -40809,7 +41313,14 @@
       "recipe_id": "mg1930-p161-r03",
       "recipe_title": "FROZEN FRUIT SALAD",
       "display_text": "2 diced bananas",
-      "match_kind": "unmatched"
+      "ingredient_id": 2092,
+      "canonical_name": "bananas",
+      "canonical_name_normalized": "bananas",
+      "display_name_en": "bananas",
+      "display_name_pt": "bananas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bananas"
     },
     {
       "recipe_id": "mg1930-p161-r03",
@@ -41191,7 +41702,14 @@
       "recipe_id": "mg1930-p162-r02",
       "recipe_title": "PARTY SALAD",
       "display_text": "1 box lemon Jello",
-      "match_kind": "unmatched"
+      "ingredient_id": 2090,
+      "canonical_name": "lemon gelatin dessert",
+      "canonical_name_normalized": "lemon-gelatin-dessert",
+      "display_name_en": "lemon gelatin dessert",
+      "display_name_pt": "gelatina de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-jello"
     },
     {
       "recipe_id": "mg1930-p162-r02",
@@ -42041,7 +42559,14 @@
       "recipe_id": "mg1930-p164-r02",
       "recipe_title": "VEGETABLE JELLO SALAD",
       "display_text": "1 pkg. lemon jello",
-      "match_kind": "unmatched"
+      "ingredient_id": 2090,
+      "canonical_name": "lemon gelatin dessert",
+      "canonical_name_normalized": "lemon-gelatin-dessert",
+      "display_name_en": "lemon gelatin dessert",
+      "display_name_pt": "gelatina de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-jello"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -42699,7 +43224,14 @@
       "recipe_id": "mg1930-p168-r01",
       "recipe_title": "ORANGE SANDWICHES",
       "display_text": "1 cup crystallized orange peel",
-      "match_kind": "unmatched"
+      "ingredient_id": 2083,
+      "canonical_name": "crystallized orange peel",
+      "canonical_name_normalized": "crystallized-orange-peel",
+      "display_name_en": "crystallized orange peel",
+      "display_name_pt": "casca de laranja cristalizada",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "crystallized-orange-peel"
     },
     {
       "recipe_id": "mg1930-p168-r02",
@@ -44399,7 +44931,14 @@
       "recipe_id": "mg1930-p176-r01",
       "recipe_title": "STUFFED PORK TENDERLOIN",
       "display_text": "1 cup cooked prunes",
-      "match_kind": "unmatched"
+      "ingredient_id": 2062,
+      "canonical_name": "prunes",
+      "canonical_name_normalized": "prunes",
+      "display_name_en": "prunes",
+      "display_name_pt": "ameixas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cooked-prunes"
     },
     {
       "recipe_id": "mg1930-p176-r01",
@@ -55245,14 +55784,14 @@
       "recipe_id": "mg1930-p071-r01",
       "recipe_title": "Providence Muffins",
       "display_text": "½ cup graham flour",
-      "alias_normalized": "flour",
-      "ingredient_id": 4,
-      "canonical_name": "farinha de trigo",
-      "canonical_name_normalized": "farinha-de-trigo",
-      "display_name_en": null,
-      "display_name_pt": "farinha de trigo",
-      "match_kind": "alias",
-      "matched_term": "flour"
+      "ingredient_id": 2064,
+      "canonical_name": "Graham flour",
+      "canonical_name_normalized": "graham-flour",
+      "display_name_en": "Graham flour",
+      "display_name_pt": "farinha graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-flour"
     },
     {
       "recipe_id": "mg1930-p071-r01",
@@ -55316,14 +55855,14 @@
       "recipe_id": "mg1930-p071-r01",
       "recipe_title": "Providence Muffins",
       "display_text": "1 tablespoon peanut butter",
-      "alias_normalized": "butter",
-      "ingredient_id": 9,
-      "canonical_name": "manteiga",
-      "canonical_name_normalized": "manteiga",
-      "display_name_en": null,
-      "display_name_pt": "manteiga",
-      "match_kind": "alias",
-      "matched_term": "butter"
+      "ingredient_id": 2066,
+      "canonical_name": "peanut butter",
+      "canonical_name_normalized": "peanut-butter",
+      "display_name_en": "peanut butter",
+      "display_name_pt": "pasta de amendoim",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peanut-butter"
     },
     {
       "recipe_id": "mg1930-p071-r01",
@@ -55511,7 +56050,14 @@
       "recipe_id": "mg1930-p071-r03",
       "recipe_title": "Fudge Frosting",
       "display_text": "2 tablespoons corn syrup",
-      "match_kind": "unmatched"
+      "ingredient_id": 2079,
+      "canonical_name": "corn syrup",
+      "canonical_name_normalized": "corn-syrup",
+      "display_name_en": "corn syrup",
+      "display_name_pt": "xarope de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "corn-syrup"
     },
     {
       "recipe_id": "mg1930-p071-r03",
