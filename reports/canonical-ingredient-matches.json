@@ -2,13 +2,13 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3384,
-    "extension": 795,
-    "unmatched": 391,
+    "alias": 3380,
+    "extension": 924,
+    "unmatched": 266,
     "historical_alias": 126
   },
   "review_summary": {
-    "unresolved_identity": 381,
+    "unresolved_identity": 256,
     "structural_heading": 8,
     "stray_number": 2
   },
@@ -11624,14 +11624,14 @@
       "recipe_id": "mg1930-p056-r03",
       "recipe_title": "CHOCOLATE DELIGHTS",
       "display_text": "apple or raisins",
-      "ingredient_id": 2001,
-      "canonical_name": "raisins",
-      "canonical_name_normalized": "raisins",
-      "display_name_en": "raisins",
-      "display_name_pt": "uvas-passas",
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "raisins"
+      "matched_term": "apple"
     },
     {
       "recipe_id": "mg1930-p056-r03",
@@ -18207,8 +18207,14 @@
       "recipe_id": "mg1930-p078-r02",
       "recipe_title": "DUTCH APPLE CAKE",
       "display_text": "4 apples, sliced",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p078-r02",
@@ -19106,8 +19112,14 @@
       "recipe_id": "mg1930-p080-r01",
       "recipe_title": "FRUIT CAKE",
       "display_text": "1½ cups grated apple",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apple"
     },
     {
       "recipe_id": "mg1930-p080-r01",
@@ -27025,8 +27037,14 @@
       "recipe_id": "mg1930-p108-r05",
       "recipe_title": "ORANGE APPLE JELLY",
       "display_text": "1 pkg. prepared jelly powder (orange flavor)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2145,
+      "canonical_name": "jelly powder",
+      "canonical_name_normalized": "jelly-powder",
+      "display_name_en": "jelly powder",
+      "display_name_pt": "po para geleia",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "prepared-jelly-powder"
     },
     {
       "recipe_id": "mg1930-p108-r05",
@@ -29890,15 +29908,27 @@
       "recipe_id": "mg1930-p120-r01",
       "recipe_title": "APPLE PUDDING",
       "display_text": "Sliced apples, enough to cover bottom of dish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p120-r01",
       "recipe_title": "APPLE PUDDING",
       "display_text": "Sugar and butter, to sprinkle over apples (amounts not specified)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p120-r01",
@@ -29995,8 +30025,14 @@
       "recipe_id": "mg1930-p120-r02",
       "recipe_title": "APPLE ROLL",
       "display_text": "4 medium apples",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p120-r02",
@@ -30087,8 +30123,14 @@
       "recipe_id": "mg1930-p120-r03",
       "recipe_title": "SCALLOPED APPLES",
       "display_text": "1 qt. tart apples, cubed",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "tart-apples"
     },
     {
       "recipe_id": "mg1930-p120-r03",
@@ -30263,8 +30305,14 @@
       "recipe_id": "mg1930-p121-r01",
       "recipe_title": "BIRD NESTS",
       "display_text": "4 apples",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p121-r02",
@@ -30348,8 +30396,14 @@
       "recipe_id": "mg1930-p121-r03",
       "recipe_title": "BROWN BETTY",
       "display_text": "Sliced apples",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p121-r03",
@@ -31377,8 +31431,14 @@
       "recipe_id": "mg1930-p123-r03",
       "recipe_title": "FRUIT FRITTERS",
       "display_text": "1 tsp. Mazola",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2152,
+      "canonical_name": "corn oil",
+      "canonical_name_normalized": "corn-oil",
+      "display_name_en": "corn oil",
+      "display_name_pt": "oleo de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mazola"
     },
     {
       "recipe_id": "mg1930-p123-r03",
@@ -38367,14 +38427,14 @@
       "recipe_id": "mg1930-p146-r05",
       "recipe_title": "MAZOLA MAYONNAISE",
       "display_text": "1 cup Mazola oil",
-      "alias_normalized": "oil",
-      "ingredient_id": 1,
-      "canonical_name": "óleo",
-      "canonical_name_normalized": "oleo",
-      "display_name_en": null,
-      "display_name_pt": "óleo",
-      "match_kind": "alias",
-      "matched_term": "oil"
+      "ingredient_id": 2152,
+      "canonical_name": "corn oil",
+      "canonical_name_normalized": "corn-oil",
+      "display_name_en": "corn oil",
+      "display_name_pt": "oleo de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mazola"
     },
     {
       "recipe_id": "mg1930-p146-r05",
@@ -38445,14 +38505,14 @@
       "recipe_id": "mg1930-p147-r01",
       "recipe_title": "MAYONNAISE",
       "display_text": "3/4 cup Mazola oil",
-      "alias_normalized": "oil",
-      "ingredient_id": 1,
-      "canonical_name": "óleo",
-      "canonical_name_normalized": "oleo",
-      "display_name_en": null,
-      "display_name_pt": "óleo",
-      "match_kind": "alias",
-      "matched_term": "oil"
+      "ingredient_id": 2152,
+      "canonical_name": "corn oil",
+      "canonical_name_normalized": "corn-oil",
+      "display_name_en": "corn oil",
+      "display_name_pt": "oleo de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mazola"
     },
     {
       "recipe_id": "mg1930-p147-r01",
@@ -39303,8 +39363,14 @@
       "recipe_id": "mg1930-p148-r04",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "4 tbsp. pimento",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p148-r04",
@@ -39375,14 +39441,14 @@
       "recipe_id": "mg1930-p148-r04",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "½ cup Mazola oil",
-      "alias_normalized": "oil",
-      "ingredient_id": 1,
-      "canonical_name": "óleo",
-      "canonical_name_normalized": "oleo",
-      "display_name_en": null,
-      "display_name_pt": "óleo",
-      "match_kind": "alias",
-      "matched_term": "oil"
+      "ingredient_id": 2152,
+      "canonical_name": "corn oil",
+      "canonical_name_normalized": "corn-oil",
+      "display_name_en": "corn oil",
+      "display_name_pt": "oleo de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mazola"
     },
     {
       "recipe_id": "mg1930-p148-r04",
@@ -39453,8 +39519,14 @@
       "recipe_id": "mg1930-p148-r05",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "1 pimento or 2 of a 10c jar",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p148-r05",
@@ -39611,8 +39683,14 @@
       "recipe_id": "mg1930-p149-r01",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "14 pimento",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p149-r01",
@@ -39644,8 +39722,14 @@
       "recipe_id": "mg1930-p149-r02",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "½ medium-sized pimento",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p149-r02",
@@ -39769,8 +39853,14 @@
       "recipe_id": "mg1930-p149-r03",
       "recipe_title": "ONE PT. 1000 ISLAND DRESSING",
       "display_text": "2 slices pimento",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p149-r03",
@@ -40108,8 +40198,14 @@
       "recipe_id": "mg1930-p152-r01",
       "recipe_title": "ADIRONDACK SALAD",
       "display_text": "½ can pimentos",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimentos"
     },
     {
       "recipe_id": "mg1930-p152-r01",
@@ -40141,8 +40237,14 @@
       "recipe_id": "mg1930-p152-r02",
       "recipe_title": "ALMOND AND PICKLE SALAD",
       "display_text": "1 cup sweet cucumber pickles",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2134,
+      "canonical_name": "sweet cucumber pickles",
+      "canonical_name_normalized": "sweet-cucumber-pickles",
+      "display_name_en": "sweet cucumber pickles",
+      "display_name_pt": "picles doces de pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sweet-cucumber-pickles"
     },
     {
       "recipe_id": "mg1930-p152-r02",
@@ -40983,8 +41085,14 @@
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1 can crab meat",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2124,
+      "canonical_name": "crab meat",
+      "canonical_name_normalized": "crab-meat",
+      "display_name_en": "crab meat",
+      "display_name_pt": "carne de caranguejo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "crab-meat"
     },
     {
       "recipe_id": "mg1930-p154-r02",
@@ -41016,8 +41124,14 @@
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1/4 of a green pepper or pimentos",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimentos"
     },
     {
       "recipe_id": "mg1930-p154-r02",
@@ -41049,8 +41163,14 @@
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1 diced apple",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apple"
     },
     {
       "recipe_id": "mg1930-p154-r03",
@@ -41063,8 +41183,14 @@
       "recipe_id": "mg1930-p154-r03",
       "recipe_title": "STUFFED CUCUMBER SALAD",
       "display_text": "2 boned sardines",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2148,
+      "canonical_name": "sardines",
+      "canonical_name_normalized": "sardines",
+      "display_name_en": "sardines",
+      "display_name_pt": "sardinhas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sardines"
     },
     {
       "recipe_id": "mg1930-p154-r03",
@@ -41645,8 +41771,14 @@
       "recipe_id": "mg1930-p156-r01",
       "recipe_title": "ITALIAN SALAD",
       "display_text": "2 pimentos",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimentos"
     },
     {
       "recipe_id": "mg1930-p156-r01",
@@ -41921,8 +42053,14 @@
       "recipe_id": "mg1930-p156-r06",
       "recipe_title": "PINEAPPLE SALAD",
       "display_text": "1 package unflavored gelatin",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2143,
+      "canonical_name": "unflavored gelatin",
+      "canonical_name_normalized": "unflavored-gelatin",
+      "display_name_en": "unflavored gelatin",
+      "display_name_pt": "gelatina sem sabor",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "unflavored-gelatin"
     },
     {
       "recipe_id": "mg1930-p156-r06",
@@ -42032,8 +42170,14 @@
       "recipe_id": "mg1930-p157-r01",
       "recipe_title": "PRINCESS SALAD",
       "display_text": "5 asparagus tips per serving",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2121,
+      "canonical_name": "asparagus",
+      "canonical_name_normalized": "asparagus",
+      "display_name_en": "asparagus",
+      "display_name_pt": "aspargos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "asparagus"
     },
     {
       "recipe_id": "mg1930-p157-r01",
@@ -42098,8 +42242,14 @@
       "recipe_id": "mg1930-p157-r02",
       "recipe_title": "POINSETTA SALAD",
       "display_text": "1 short asparagus spear per serving",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2121,
+      "canonical_name": "asparagus",
+      "canonical_name_normalized": "asparagus",
+      "display_name_en": "asparagus",
+      "display_name_pt": "aspargos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "asparagus-spear"
     },
     {
       "recipe_id": "mg1930-p157-r02",
@@ -42353,15 +42503,27 @@
       "recipe_id": "mg1930-p157-r05",
       "recipe_title": "TUNA FISH SALAD",
       "display_text": "2 cups tuna fish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2128,
+      "canonical_name": "tuna",
+      "canonical_name_normalized": "tuna",
+      "display_name_en": "tuna",
+      "display_name_pt": "atum",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "tuna-fish"
     },
     {
       "recipe_id": "mg1930-p157-r05",
       "recipe_title": "TUNA FISH SALAD",
       "display_text": "½ pimento, chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p157-r05",
@@ -42406,8 +42568,14 @@
       "recipe_id": "mg1930-p160-r01",
       "recipe_title": "MOLDED ASPARAGUS",
       "display_text": "1 bunch fresh asparagus",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2121,
+      "canonical_name": "asparagus",
+      "canonical_name_normalized": "asparagus",
+      "display_name_en": "asparagus",
+      "display_name_pt": "aspargos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "asparagus"
     },
     {
       "recipe_id": "mg1930-p160-r01",
@@ -42550,8 +42718,14 @@
       "recipe_id": "mg1930-p160-r02",
       "recipe_title": "JELLIED CHICKEN SALAD",
       "display_text": "1 pimento, cut fine",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p160-r02",
@@ -42870,8 +43044,14 @@
       "recipe_id": "mg1930-p161-r01",
       "recipe_title": "FRUIT AND GINGER ALE SALAD",
       "display_text": "⅓ cup apple, cored, pared and diced",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apple"
     },
     {
       "recipe_id": "mg1930-p161-r01",
@@ -42903,8 +43083,14 @@
       "recipe_id": "mg1930-p161-r02",
       "recipe_title": "GINGER ALE SALAD",
       "display_text": "1 package lemon-flavored gelatin",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2090,
+      "canonical_name": "lemon gelatin dessert",
+      "canonical_name_normalized": "lemon-gelatin-dessert",
+      "display_name_en": "lemon gelatin dessert",
+      "display_name_pt": "gelatina de limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon-flavored-gelatin"
     },
     {
       "recipe_id": "mg1930-p161-r02",
@@ -43471,8 +43657,14 @@
       "recipe_id": "mg1930-p162-r02",
       "recipe_title": "PARTY SALAD",
       "display_text": "1½ pimento, chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p162-r02",
@@ -44310,8 +44502,14 @@
       "recipe_id": "mg1930-p164-r02",
       "recipe_title": "VEGETABLE JELLO SALAD",
       "display_text": "1½ pimento (canned)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -44415,8 +44613,14 @@
       "recipe_id": "mg1930-p166-r02",
       "recipe_title": "EGG CREOLE SANDWICHES",
       "display_text": "1 sardine, shredded, per sandwich",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2148,
+      "canonical_name": "sardines",
+      "canonical_name_normalized": "sardines",
+      "display_name_en": "sardines",
+      "display_name_pt": "sardinhas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sardine"
     },
     {
       "recipe_id": "mg1930-p166-r02",
@@ -45255,8 +45459,14 @@
       "recipe_id": "mg1930-p170-r03",
       "recipe_title": "TOMALEE PIE",
       "display_text": "1 lb. chopped beef",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chopped-beef"
     },
     {
       "recipe_id": "mg1930-p170-r03",
@@ -46100,8 +46310,14 @@
       "recipe_id": "mg1930-p173-r03",
       "recipe_title": "HAM LOAF",
       "display_text": "1½ lbs. beef",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p173-r03",
@@ -46198,8 +46414,14 @@
       "recipe_id": "mg1930-p173-r04",
       "recipe_title": "HAM LOAF",
       "display_text": "1 lb. fresh pork, lean",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "fresh-pork"
     },
     {
       "recipe_id": "mg1930-p173-r04",
@@ -46218,8 +46440,14 @@
       "recipe_id": "mg1930-p174-r01",
       "recipe_title": "HAM LOAF",
       "display_text": "1 lb. fresh pork ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p174-r01",
@@ -46277,8 +46505,14 @@
       "recipe_id": "mg1930-p174-r02",
       "recipe_title": "SWIFT'S PREMIUM HAM LOAF",
       "display_text": "1 lb. lean fresh pork, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p174-r02",
@@ -46540,8 +46774,14 @@
       "recipe_id": "mg1930-p175-r01",
       "recipe_title": "NEW ENGLAND STYLE SAUSAGE",
       "display_text": "1 lb. link sausage",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2139,
+      "canonical_name": "sausage",
+      "canonical_name_normalized": "sausage",
+      "display_name_en": "sausage",
+      "display_name_pt": "linguica",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "link-sausage"
     },
     {
       "recipe_id": "mg1930-p175-r01",
@@ -46560,8 +46800,14 @@
       "recipe_id": "mg1930-p175-r01",
       "recipe_title": "NEW ENGLAND STYLE SAUSAGE",
       "display_text": "6 tart apples",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "tart-apples"
     },
     {
       "recipe_id": "mg1930-p175-r01",
@@ -46744,8 +46990,14 @@
       "recipe_id": "mg1930-p175-r04",
       "recipe_title": "CREAMED PORK TENDERLOIN",
       "display_text": "Pimientos, chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimientos"
     },
     {
       "recipe_id": "mg1930-p175-r04",
@@ -46836,15 +47088,27 @@
       "recipe_id": "mg1930-p176-r01",
       "recipe_title": "STUFFED PORK TENDERLOIN",
       "display_text": "4 pork tenderloins",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p176-r01",
       "recipe_title": "STUFFED PORK TENDERLOIN",
       "display_text": "1 cup chopped apples",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p176-r01",
@@ -47007,8 +47271,14 @@
       "recipe_id": "mg1930-p176-r03",
       "recipe_title": "MOCK CHICKEN LEGS",
       "display_text": "1 lb. pork, cut 1 inch thick",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p176-r03",
@@ -47060,8 +47330,14 @@
       "recipe_id": "mg1930-p176-r04",
       "recipe_title": "CITY CHICKEN",
       "display_text": "1 lb. pork steak",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork-steak"
     },
     {
       "recipe_id": "mg1930-p176-r04",
@@ -47283,8 +47559,14 @@
       "recipe_id": "mg1930-p177-r02",
       "recipe_title": "VEAL BIRDS ( BEEF BIRDS )",
       "display_text": "1 tsp. dried sage",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2151,
+      "canonical_name": "sage",
+      "canonical_name_normalized": "sage",
+      "display_name_en": "sage",
+      "display_name_pt": "salvia",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "dried-sage"
     },
     {
       "recipe_id": "mg1930-p177-r02",
@@ -47362,8 +47644,14 @@
       "recipe_id": "mg1930-p177-r04",
       "recipe_title": "VEAL LOAF",
       "display_text": "3 lb. ground pork",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ground-pork"
     },
     {
       "recipe_id": "mg1930-p177-r04",
@@ -47727,8 +48015,14 @@
       "recipe_id": "mg1930-p178-r04",
       "recipe_title": "CHIPPED BEEF AND CANNED CORN",
       "display_text": "½ lb. beef",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p178-r04",
@@ -47793,8 +48087,14 @@
       "recipe_id": "mg1930-p178-r05",
       "recipe_title": "CHINESE MEAT LOAF",
       "display_text": "1½ lbs. chopped beef",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chopped-beef"
     },
     {
       "recipe_id": "mg1930-p178-r05",
@@ -47840,15 +48140,27 @@
       "recipe_id": "mg1930-p178-r06",
       "recipe_title": "MEAT LOAF FOR TWELVE",
       "display_text": "1 lb. beef",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p178-r06",
       "recipe_title": "MEAT LOAF FOR TWELVE",
       "display_text": "1 lb. fresh pork",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "fresh-pork"
     },
     {
       "recipe_id": "mg1930-p178-r06",
@@ -47958,8 +48270,14 @@
       "recipe_id": "mg1930-p179-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. lean pork, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p179-r01",
@@ -48115,8 +48433,14 @@
       "recipe_id": "mg1930-p179-r02",
       "recipe_title": "MEAT LOAF",
       "display_text": "⅛ tsp. sage",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2151,
+      "canonical_name": "sage",
+      "canonical_name_normalized": "sage",
+      "display_name_en": "sage",
+      "display_name_pt": "salvia",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sage"
     },
     {
       "recipe_id": "mg1930-p179-r02",
@@ -48135,8 +48459,14 @@
       "recipe_id": "mg1930-p179-r02",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. ground pork",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ground-pork"
     },
     {
       "recipe_id": "mg1930-p179-r02",
@@ -48194,8 +48524,14 @@
       "recipe_id": "mg1930-p179-r03",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ tsp. sage",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2151,
+      "canonical_name": "sage",
+      "canonical_name_normalized": "sage",
+      "display_name_en": "sage",
+      "display_name_pt": "salvia",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sage"
     },
     {
       "recipe_id": "mg1930-p179-r03",
@@ -48240,8 +48576,14 @@
       "recipe_id": "mg1930-p179-r03",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. beef, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p179-r03",
@@ -48260,8 +48602,14 @@
       "recipe_id": "mg1930-p179-r03",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. pork, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p179-r03",
@@ -48332,8 +48680,14 @@
       "recipe_id": "mg1930-p179-r04",
       "recipe_title": "MEAT LOAF",
       "display_text": "1 lb. ground pork",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ground-pork"
     },
     {
       "recipe_id": "mg1930-p179-r04",
@@ -48372,8 +48726,14 @@
       "recipe_id": "mg1930-p179-r04",
       "recipe_title": "MEAT LOAF",
       "display_text": "1½ tsp. sage",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2151,
+      "canonical_name": "sage",
+      "canonical_name_normalized": "sage",
+      "display_name_en": "sage",
+      "display_name_pt": "salvia",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sage"
     },
     {
       "recipe_id": "mg1930-p179-r04",
@@ -48425,8 +48785,14 @@
       "recipe_id": "mg1930-p180-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. pork steak, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork-steak"
     },
     {
       "recipe_id": "mg1930-p180-r01",
@@ -48459,8 +48825,14 @@
       "recipe_id": "mg1930-p180-r02",
       "recipe_title": "CREAMED SWEETBREADS",
       "display_text": "1 lb. sweetbreads",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2142,
+      "canonical_name": "sweetbreads",
+      "canonical_name_normalized": "sweetbreads",
+      "display_name_en": "sweetbreads",
+      "display_name_pt": "miudos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sweetbreads"
     },
     {
       "recipe_id": "mg1930-p180-r02",
@@ -48702,8 +49074,14 @@
       "recipe_id": "mg1930-p181-r01",
       "recipe_title": "LUNCHEON DISH",
       "display_text": "Cooked cold meat, preferably roast beef, diced",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p181-r01",
@@ -48762,8 +49140,14 @@
       "recipe_id": "mg1930-p181-r02",
       "recipe_title": "LAMB AND STRING BEANS",
       "display_text": "1 lb. lamb breast",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2138,
+      "canonical_name": "lamb",
+      "canonical_name_normalized": "lamb",
+      "display_name_en": "lamb",
+      "display_name_pt": "cordeiro",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lamb-breast"
     },
     {
       "recipe_id": "mg1930-p181-r02",
@@ -48789,8 +49173,14 @@
       "recipe_id": "mg1930-p181-r02",
       "recipe_title": "LAMB AND STRING BEANS",
       "display_text": "1 lb. string beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2140,
+      "canonical_name": "string beans",
+      "canonical_name_normalized": "string-beans",
+      "display_name_en": "string beans",
+      "display_name_pt": "feijao verde",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "string-beans"
     },
     {
       "recipe_id": "mg1930-p181-r02",
@@ -48835,8 +49225,14 @@
       "recipe_id": "mg1930-p182-r02",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "1 can red kidney beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2126,
+      "canonical_name": "kidney beans",
+      "canonical_name_normalized": "kidney-beans",
+      "display_name_en": "kidney beans",
+      "display_name_pt": "feijao vermelho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "red-kidney-beans"
     },
     {
       "recipe_id": "mg1930-p182-r02",
@@ -48881,8 +49277,14 @@
       "recipe_id": "mg1930-p182-r02",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "½ box spaghetti",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p182-r02",
@@ -48901,15 +49303,27 @@
       "recipe_id": "mg1930-p182-r02",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "1 tsp. chili powder",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2150,
+      "canonical_name": "chili powder",
+      "canonical_name_normalized": "chili-powder",
+      "display_name_en": "chili powder",
+      "display_name_pt": "pimenta chili",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chili-powder"
     },
     {
       "recipe_id": "mg1930-p182-r03",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "1 can kidney beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2126,
+      "canonical_name": "kidney beans",
+      "canonical_name_normalized": "kidney-beans",
+      "display_name_en": "kidney beans",
+      "display_name_pt": "feijao vermelho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "kidney-beans"
     },
     {
       "recipe_id": "mg1930-p182-r03",
@@ -48967,8 +49381,14 @@
       "recipe_id": "mg1930-p182-r03",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "2 tbsp. chili powder (to taste)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2150,
+      "canonical_name": "chili powder",
+      "canonical_name_normalized": "chili-powder",
+      "display_name_en": "chili powder",
+      "display_name_pt": "pimenta chili",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chili-powder"
     },
     {
       "recipe_id": "mg1930-p182-r04",
@@ -49046,8 +49466,14 @@
       "recipe_id": "mg1930-p182-r04",
       "recipe_title": "MEXICAN GOULASH",
       "display_text": "1 pkg. spaghetti, cooked in boiling salted water until tender",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p182-r04",
@@ -49092,14 +49518,14 @@
       "recipe_id": "mg1930-p182-r05",
       "recipe_title": "CHOP SUEY",
       "display_text": "¼ lb. pork or bacon",
-      "alias_normalized": "bacon",
-      "ingredient_id": 689,
-      "canonical_name": "bacon",
-      "canonical_name_normalized": "bacon",
-      "display_name_en": null,
-      "display_name_pt": "bacon",
-      "match_kind": "alias",
-      "matched_term": "bacon"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p182-r05",
@@ -49157,8 +49583,14 @@
       "recipe_id": "mg1930-p182-r05",
       "recipe_title": "CHOP SUEY",
       "display_text": "1 can bean sprouts, optional",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2122,
+      "canonical_name": "bean sprouts",
+      "canonical_name_normalized": "bean-sprouts",
+      "display_name_en": "bean sprouts",
+      "display_name_pt": "brotos de feijao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bean-sprouts"
     },
     {
       "recipe_id": "mg1930-p182-r05",
@@ -49217,8 +49649,14 @@
       "recipe_id": "mg1930-p183-r01",
       "recipe_title": "CHOP SUEY",
       "display_text": "1 lb. pork",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p183-r01",
@@ -49322,8 +49760,14 @@
       "recipe_id": "mg1930-p183-r03",
       "recipe_title": "CHOP SUEY",
       "display_text": "½ lb. of veal or beef",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p183-r03",
@@ -49342,8 +49786,14 @@
       "recipe_id": "mg1930-p183-r03",
       "recipe_title": "CHOP SUEY",
       "display_text": "½ lb. lean pork",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2137,
+      "canonical_name": "pork",
+      "canonical_name_normalized": "pork",
+      "display_name_en": "pork",
+      "display_name_pt": "carne de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork"
     },
     {
       "recipe_id": "mg1930-p183-r03",
@@ -49408,8 +49858,14 @@
       "recipe_id": "mg1930-p183-r04",
       "recipe_title": "ITALIAN MACARONI",
       "display_text": "1 lb. beef, diced",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p183-r04",
@@ -49545,8 +50001,14 @@
       "recipe_id": "mg1930-p184-r01",
       "recipe_title": "MACARONI WITH CHIPPED BEEF",
       "display_text": "¼ lb. dried beef",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p184-r01",
@@ -49845,8 +50307,14 @@
       "recipe_id": "mg1930-p185-r01",
       "recipe_title": "NOODLE RING",
       "display_text": "1 box Richelieu noodles, fine cut",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2144,
+      "canonical_name": "noodles",
+      "canonical_name_normalized": "noodles",
+      "display_name_en": "noodles",
+      "display_name_pt": "macarrao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "noodles"
     },
     {
       "recipe_id": "mg1930-p185-r01",
@@ -49904,8 +50372,14 @@
       "recipe_id": "mg1930-p185-r02",
       "recipe_title": "LEFTOVER HAM",
       "display_text": "1 pkg. noodles",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2144,
+      "canonical_name": "noodles",
+      "canonical_name_normalized": "noodles",
+      "display_name_en": "noodles",
+      "display_name_pt": "macarrao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "noodles"
     },
     {
       "recipe_id": "mg1930-p185-r02",
@@ -49989,8 +50463,14 @@
       "recipe_id": "mg1930-p185-r03",
       "recipe_title": "CREAMED NOODLE WITH CHEESE",
       "display_text": "Noodles",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2144,
+      "canonical_name": "noodles",
+      "canonical_name_normalized": "noodles",
+      "display_name_en": "noodles",
+      "display_name_pt": "macarrao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "noodles"
     },
     {
       "recipe_id": "mg1930-p185-r03",
@@ -50068,8 +50548,14 @@
       "recipe_id": "mg1930-p185-r04",
       "recipe_title": "SPAGHETTI WITH MEAT AND VEGETABLES",
       "display_text": "½ cup uncooked spaghetti",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p185-r04",
@@ -50219,8 +50705,14 @@
       "recipe_id": "mg1930-p186-r02",
       "recipe_title": "SPAGHETTI KING",
       "display_text": "½ lb. package spaghetti",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p186-r02",
@@ -50239,8 +50731,14 @@
       "recipe_id": "mg1930-p186-r02",
       "recipe_title": "SPAGHETTI KING",
       "display_text": "1 small can tuna fish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2128,
+      "canonical_name": "tuna",
+      "canonical_name_normalized": "tuna",
+      "display_name_en": "tuna",
+      "display_name_pt": "atum",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "tuna-fish"
     },
     {
       "recipe_id": "mg1930-p186-r02",
@@ -50285,8 +50783,14 @@
       "recipe_id": "mg1930-p186-r03",
       "recipe_title": "SPAGHETTI",
       "display_text": "1 pkg. spaghetti",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p186-r03",
@@ -50422,8 +50926,14 @@
       "recipe_id": "mg1930-p186-r04",
       "recipe_title": "SPAGHETTI RAREBIT",
       "display_text": "2 cans spaghetti",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p186-r04",
@@ -50442,8 +50952,14 @@
       "recipe_id": "mg1930-p186-r05",
       "recipe_title": "SPAGHETTI WITH ROUND STEAK",
       "display_text": "Spaghetti, enough for desired servings",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p186-r05",
@@ -50476,8 +50992,14 @@
       "recipe_id": "mg1930-p187-r01",
       "recipe_title": "SPAGHETTI WITH MUSHROOMS",
       "display_text": "1 cup spaghetti",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p187-r01",
@@ -50581,15 +51103,27 @@
       "recipe_id": "mg1930-p187-r02",
       "recipe_title": "CREOLE SPAGHETTI",
       "display_text": "1 lb. beef, chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2136,
+      "canonical_name": "beef",
+      "canonical_name_normalized": "beef",
+      "display_name_en": "beef",
+      "display_name_pt": "carne bovina",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beef"
     },
     {
       "recipe_id": "mg1930-p187-r02",
       "recipe_title": "CREOLE SPAGHETTI",
       "display_text": "1 pkg. spaghetti, cooked",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p187-r03",
@@ -50712,15 +51246,27 @@
       "recipe_id": "mg1930-p187-r04",
       "recipe_title": "SPANISH RICE",
       "display_text": "1 can chili con carne",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2123,
+      "canonical_name": "chili con carne",
+      "canonical_name_normalized": "chili-con-carne",
+      "display_name_en": "chili con carne",
+      "display_name_pt": "chili com carne",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chili-con-carne"
     },
     {
       "recipe_id": "mg1930-p187-r04",
       "recipe_title": "SPANISH RICE",
       "display_text": "½ lb. sausage",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2139,
+      "canonical_name": "sausage",
+      "canonical_name_normalized": "sausage",
+      "display_name_en": "sausage",
+      "display_name_pt": "linguica",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sausage"
     },
     {
       "recipe_id": "mg1930-p187-r04",
@@ -51729,8 +52275,14 @@
       "recipe_id": "mg1930-p193-r01",
       "recipe_title": "ROAST TURKEY AND DRESSING",
       "display_text": "1 turkey, about 12–14 lb.",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2149,
+      "canonical_name": "turkey",
+      "canonical_name_normalized": "turkey",
+      "display_name_en": "turkey",
+      "display_name_pt": "peru",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "turkey"
     },
     {
       "recipe_id": "mg1930-p193-r01",
@@ -51841,8 +52393,14 @@
       "recipe_id": "mg1930-p193-r02",
       "recipe_title": "WILD DUCK",
       "display_text": "1 cleaned wild duck",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2130,
+      "canonical_name": "wild duck",
+      "canonical_name_normalized": "wild-duck",
+      "display_name_en": "wild duck",
+      "display_name_pt": "pato selvagem",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "wild-duck"
     },
     {
       "recipe_id": "mg1930-p193-r02",
@@ -51875,8 +52433,14 @@
       "recipe_id": "mg1930-p193-r03",
       "recipe_title": "PHEASANT",
       "display_text": "1 cleaned pheasant",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2129,
+      "canonical_name": "pheasant",
+      "canonical_name_normalized": "pheasant",
+      "display_name_en": "pheasant",
+      "display_name_pt": "faisao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pheasant"
     },
     {
       "recipe_id": "mg1930-p193-r03",
@@ -52574,8 +53138,14 @@
       "recipe_id": "mg1930-p195-r03",
       "recipe_title": "COD FISH BALLS",
       "display_text": "1 can flaked cod fish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2125,
+      "canonical_name": "codfish",
+      "canonical_name_normalized": "codfish",
+      "display_name_en": "codfish",
+      "display_name_pt": "bacalhau",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "flaked-cod-fish"
     },
     {
       "recipe_id": "mg1930-p195-r03",
@@ -52679,8 +53249,14 @@
       "recipe_id": "mg1930-p195-r05",
       "recipe_title": "CREAMED CRABMEAT WITH MUSHROOMS",
       "display_text": "1 qt. flaked crabmeat",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2124,
+      "canonical_name": "crab meat",
+      "canonical_name_normalized": "crab-meat",
+      "display_name_en": "crab meat",
+      "display_name_pt": "carne de caranguejo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "crabmeat"
     },
     {
       "recipe_id": "mg1930-p195-r05",
@@ -52758,8 +53334,14 @@
       "recipe_id": "mg1930-p196-r01",
       "recipe_title": "CRAB MEAT A LA NEWBERG",
       "display_text": "1½ cups crab meat",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2124,
+      "canonical_name": "crab meat",
+      "canonical_name_normalized": "crab-meat",
+      "display_name_en": "crab meat",
+      "display_name_pt": "carne de caranguejo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "crab-meat"
     },
     {
       "recipe_id": "mg1930-p196-r01",
@@ -52830,8 +53412,14 @@
       "recipe_id": "mg1930-p196-r02",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "1½ cups boiled lobster",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2153,
+      "canonical_name": "lobster",
+      "canonical_name_normalized": "lobster",
+      "display_name_en": "lobster",
+      "display_name_pt": "lagosta",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lobster"
     },
     {
       "recipe_id": "mg1930-p196-r02",
@@ -52922,8 +53510,14 @@
       "recipe_id": "mg1930-p196-r03",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "2 cans lobsters, small",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2153,
+      "canonical_name": "lobster",
+      "canonical_name_normalized": "lobster",
+      "display_name_en": "lobster",
+      "display_name_pt": "lagosta",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lobsters"
     },
     {
       "recipe_id": "mg1930-p196-r03",
@@ -52942,8 +53536,14 @@
       "recipe_id": "mg1930-p196-r03",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "2 cans pimentos",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimentos"
     },
     {
       "recipe_id": "mg1930-p196-r03",
@@ -53001,8 +53601,14 @@
       "recipe_id": "mg1930-p196-r04",
       "recipe_title": "OYSTER PAN ROAST",
       "display_text": "1 pt. Olympia oysters (small)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2147,
+      "canonical_name": "oysters",
+      "canonical_name_normalized": "oysters",
+      "display_name_en": "oysters",
+      "display_name_pt": "ostras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "oysters"
     },
     {
       "recipe_id": "mg1930-p196-r04",
@@ -53080,8 +53686,14 @@
       "recipe_id": "mg1930-p197-r01",
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Shucked oysters",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2147,
+      "canonical_name": "oysters",
+      "canonical_name_normalized": "oysters",
+      "display_name_en": "oysters",
+      "display_name_pt": "ostras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "oysters"
     },
     {
       "recipe_id": "mg1930-p197-r01",
@@ -53793,8 +54405,14 @@
       "recipe_id": "mg1930-p199-r01",
       "recipe_title": "CREAMED TUNA FISH",
       "display_text": "1 can tuna, flaked",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2128,
+      "canonical_name": "tuna",
+      "canonical_name_normalized": "tuna",
+      "display_name_en": "tuna",
+      "display_name_pt": "atum",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "tuna"
     },
     {
       "recipe_id": "mg1930-p199-r01",
@@ -53885,8 +54503,14 @@
       "recipe_id": "mg1930-p199-r02",
       "recipe_title": "CALIFORNIA CHICKEN PIE",
       "display_text": "1 can tuna (chicken of the sea)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2128,
+      "canonical_name": "tuna",
+      "canonical_name_normalized": "tuna",
+      "display_name_en": "tuna",
+      "display_name_pt": "atum",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "tuna"
     },
     {
       "recipe_id": "mg1930-p199-r02",
@@ -53944,8 +54568,14 @@
       "recipe_id": "mg1930-p199-r03",
       "recipe_title": "BAKED TUNA FISH AND MACARONI",
       "display_text": "1 can tuna fish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2128,
+      "canonical_name": "tuna",
+      "canonical_name_normalized": "tuna",
+      "display_name_en": "tuna",
+      "display_name_pt": "atum",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "tuna-fish"
     },
     {
       "recipe_id": "mg1930-p199-r03",
@@ -53990,8 +54620,14 @@
       "recipe_id": "mg1930-p202-r01",
       "recipe_title": "DEVILED APPLES",
       "display_text": "Large baking apples",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p202-r01",
@@ -54167,8 +54803,14 @@
       "recipe_id": "mg1930-p202-r03",
       "recipe_title": "BAKED BEANS",
       "display_text": "1 cup oyster cocktail sauce (for sauce)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2147,
+      "canonical_name": "oysters",
+      "canonical_name_normalized": "oysters",
+      "display_name_en": "oysters",
+      "display_name_pt": "ostras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "oyster"
     },
     {
       "recipe_id": "mg1930-p202-r03",
@@ -54187,8 +54829,14 @@
       "recipe_id": "mg1930-p202-r04",
       "recipe_title": "BAKED KIDNEY BEANS",
       "display_text": "1 can Heinz kidney beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2126,
+      "canonical_name": "kidney beans",
+      "canonical_name_normalized": "kidney-beans",
+      "display_name_en": "kidney beans",
+      "display_name_pt": "feijao vermelho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "kidney-beans"
     },
     {
       "recipe_id": "mg1930-p202-r04",
@@ -54318,8 +54966,14 @@
       "recipe_id": "mg1930-p203-r02",
       "recipe_title": "LUNCHEON BEANS AND SPAGHETTI",
       "display_text": "2 cups lima beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2155,
+      "canonical_name": "lima beans",
+      "canonical_name_normalized": "lima-beans",
+      "display_name_en": "lima beans",
+      "display_name_pt": "feijao lima",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lima-beans"
     },
     {
       "recipe_id": "mg1930-p203-r02",
@@ -54338,8 +54992,14 @@
       "recipe_id": "mg1930-p203-r02",
       "recipe_title": "LUNCHEON BEANS AND SPAGHETTI",
       "display_text": "3 cups cooked spaghetti",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2133,
+      "canonical_name": "spaghetti",
+      "canonical_name_normalized": "spaghetti",
+      "display_name_en": "spaghetti",
+      "display_name_pt": "espaguete",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "spaghetti"
     },
     {
       "recipe_id": "mg1930-p203-r02",
@@ -54449,8 +55109,14 @@
       "recipe_id": "mg1930-p203-r03",
       "recipe_title": "SCALLOPED LIMA BEANS",
       "display_text": "2 cups cooked lima beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2155,
+      "canonical_name": "lima beans",
+      "canonical_name_normalized": "lima-beans",
+      "display_name_en": "lima beans",
+      "display_name_pt": "feijao lima",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lima-beans"
     },
     {
       "recipe_id": "mg1930-p203-r03",
@@ -54482,8 +55148,14 @@
       "recipe_id": "mg1930-p203-r04",
       "recipe_title": "SCALLOPED LIMA BEANS",
       "display_text": "2 cups dry lima beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2155,
+      "canonical_name": "lima beans",
+      "canonical_name_normalized": "lima-beans",
+      "display_name_en": "lima beans",
+      "display_name_pt": "feijao lima",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lima-beans"
     },
     {
       "recipe_id": "mg1930-p203-r04",
@@ -54502,8 +55174,14 @@
       "recipe_id": "mg1930-p203-r04",
       "recipe_title": "SCALLOPED LIMA BEANS",
       "display_text": "1 can pimento",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p203-r04",
@@ -54706,8 +55384,14 @@
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Sardines or caviar, chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2148,
+      "canonical_name": "sardines",
+      "canonical_name_normalized": "sardines",
+      "display_name_en": "sardines",
+      "display_name_pt": "sardinhas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sardines"
     },
     {
       "recipe_id": "mg1930-p204-r03",
@@ -55166,8 +55850,14 @@
       "recipe_id": "mg1930-p205-r05",
       "recipe_title": "SCALLOPED CAULIFLOWER WITH MUSHROOMS",
       "display_text": "2 large cauliflowers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2154,
+      "canonical_name": "cauliflower",
+      "canonical_name_normalized": "cauliflower",
+      "display_name_en": "cauliflower",
+      "display_name_pt": "couve-flor",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cauliflowers"
     },
     {
       "recipe_id": "mg1930-p205-r05",
@@ -55732,8 +56422,14 @@
       "recipe_id": "mg1930-p206-r05",
       "recipe_title": "SPANISH CORN PUDDING",
       "display_text": "2 tbsp. pimento, chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimento"
     },
     {
       "recipe_id": "mg1930-p206-r05",
@@ -56038,8 +56734,14 @@
       "recipe_id": "mg1930-p207-r04",
       "recipe_title": "EGG PLANT VEGETABLE DISH",
       "display_text": "2½ cups chopped apples",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p207-r04",
@@ -56216,8 +56918,14 @@
       "recipe_id": "mg1930-p208-r02",
       "recipe_title": "MUSHROOM WOODCHUCK",
       "display_text": "1 can pimentos",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimentos"
     },
     {
       "recipe_id": "mg1930-p208-r02",
@@ -57065,8 +57773,14 @@
       "recipe_id": "mg1930-p210-r04",
       "recipe_title": "SWEET POTATOES EN SURPRISE",
       "display_text": "12 cooked sausages",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2139,
+      "canonical_name": "sausage",
+      "canonical_name_normalized": "sausage",
+      "display_name_en": "sausage",
+      "display_name_pt": "linguica",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sausages"
     },
     {
       "recipe_id": "mg1930-p210-r04",
@@ -57150,8 +57864,14 @@
       "recipe_id": "mg1930-p211-r02",
       "recipe_title": "SWEET POTATOES AND SAUSAGES",
       "display_text": "1 pound sausage",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2139,
+      "canonical_name": "sausage",
+      "canonical_name_normalized": "sausage",
+      "display_name_en": "sausage",
+      "display_name_pt": "linguica",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sausage"
     },
     {
       "recipe_id": "mg1930-p211-r03",
@@ -57183,8 +57903,14 @@
       "recipe_id": "mg1930-p211-r03",
       "recipe_title": "STUFFED SWEET POTATO",
       "display_text": "1 cup sausage meat",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2139,
+      "canonical_name": "sausage",
+      "canonical_name_normalized": "sausage",
+      "display_name_en": "sausage",
+      "display_name_pt": "linguica",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sausage"
     },
     {
       "recipe_id": "mg1930-p211-r04",
@@ -57685,8 +58411,14 @@
       "recipe_id": "mg1930-p213-r01",
       "recipe_title": "BAKED SQUASH WITH SAUSAGE",
       "display_text": "Link or bulk sausage",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2139,
+      "canonical_name": "sausage",
+      "canonical_name_normalized": "sausage",
+      "display_name_en": "sausage",
+      "display_name_pt": "linguica",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sausage"
     },
     {
       "recipe_id": "mg1930-p213-r01",
@@ -57745,8 +58477,14 @@
       "recipe_id": "mg1930-p213-r03",
       "recipe_title": "BAKED SUMMER SQUASH",
       "display_text": "1 lb. summer squash",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2141,
+      "canonical_name": "summer squash",
+      "canonical_name_normalized": "summer-squash",
+      "display_name_en": "summer squash",
+      "display_name_pt": "abobrinha de verao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "summer-squash"
     },
     {
       "recipe_id": "mg1930-p213-r03",
@@ -57778,8 +58516,14 @@
       "recipe_id": "mg1930-p213-r04",
       "recipe_title": "BAKED SAUER KRAUT",
       "display_text": "1 can sauer kraut",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2127,
+      "canonical_name": "sauerkraut",
+      "canonical_name_normalized": "sauerkraut",
+      "display_name_en": "sauerkraut",
+      "display_name_pt": "chucrute",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sauer-kraut"
     },
     {
       "recipe_id": "mg1930-p213-r04",
@@ -58099,8 +58843,14 @@
       "recipe_id": "mg1930-p214-r03",
       "recipe_title": "VEGETABLE HASH",
       "display_text": "2 Holland rusks",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2146,
+      "canonical_name": "rusk",
+      "canonical_name_normalized": "rusk",
+      "display_name_en": "rusk",
+      "display_name_pt": "torrada seca",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "holland-rusks"
     },
     {
       "recipe_id": "mg1930-p214-r03",
