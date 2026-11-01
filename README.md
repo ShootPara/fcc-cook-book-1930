@@ -17,6 +17,7 @@ python tools/build_edition.py
 node check-edition.mjs
 node check-caching.mjs
 node check-ingredient-matches.mjs
+node check-accessibility.mjs
 ```
 - `docs/` — site use, accessibility, build, and data-status documentation.
 
