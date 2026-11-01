@@ -3,7 +3,8 @@
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
     "alias": 3171,
-    "unmatched": 1525
+    "unmatched": 1427,
+    "historical_alias": 98
   },
   "matches": [
     {
@@ -1437,7 +1438,14 @@
       "recipe_id": "mg1930-p024-r01",
       "recipe_title": "SOUR MILK GRIDDLE CAKES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p024-r01",
@@ -2683,7 +2691,14 @@
       "recipe_id": "mg1930-p029-r04",
       "recipe_title": "SHORT CAKE SOUR MILK",
       "display_text": "1 level tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p029-r04",
@@ -3142,7 +3157,14 @@
       "recipe_id": "mg1930-p032-r04",
       "recipe_title": "SOFT MOLASSES GINGERBREAD",
       "display_text": "1¾ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p032-r04",
@@ -3491,7 +3513,14 @@
       "recipe_id": "mg1930-p033-r03",
       "recipe_title": "SOFT GINGER BREAD",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p033-r03",
@@ -3581,7 +3610,14 @@
       "recipe_id": "mg1930-p033-r04",
       "recipe_title": "SOFT GINGER BREAD",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p033-r04",
@@ -3645,7 +3681,14 @@
       "recipe_id": "mg1930-p035-r01",
       "recipe_title": "STEAMED BROWN BREAD",
       "display_text": "2 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p035-r01",
@@ -3722,7 +3765,14 @@
       "recipe_id": "mg1930-p035-r02",
       "recipe_title": "BROWN BREAD",
       "display_text": "2 level tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p035-r02",
@@ -3890,7 +3940,14 @@
       "recipe_id": "mg1930-p035-r03",
       "recipe_title": "BROWN BREAD",
       "display_text": "1½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p035-r03",
@@ -3967,7 +4024,14 @@
       "recipe_id": "mg1930-p035-r04",
       "recipe_title": "BROWN BREAD",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p035-r04",
@@ -4031,7 +4095,14 @@
       "recipe_id": "mg1930-p035-r05",
       "recipe_title": "BOSTON STEAMED BROWN BREAD",
       "display_text": "2 level tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p035-r05",
@@ -4172,7 +4243,14 @@
       "recipe_id": "mg1930-p036-r02",
       "recipe_title": "GRAPENUT BREAD",
       "display_text": "2 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p036-r02",
@@ -4268,7 +4346,14 @@
       "recipe_id": "mg1930-p036-r03",
       "recipe_title": "JOHNNY CAKE",
       "display_text": "1 tsp. soda (mixed into sour milk)",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p036-r03",
@@ -4351,7 +4436,14 @@
       "recipe_id": "mg1930-p036-r04",
       "recipe_title": "SPIDER CORN CAKE",
       "display_text": "Soda (amount before tsp. illegible in scan; per cup of sour milk)",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p036-r04",
@@ -4827,7 +4919,14 @@
       "recipe_id": "mg1930-p037-r04",
       "recipe_title": "GRAHAM BREAD",
       "display_text": "1½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p037-r04",
@@ -5826,7 +5925,14 @@
       "recipe_id": "mg1930-p039-r05",
       "recipe_title": "WHOLE WHEAT BREAD",
       "display_text": "2 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p039-r05",
@@ -6388,7 +6494,14 @@
       "recipe_id": "mg1930-p043-r02",
       "recipe_title": "CORN MEAL GEMS",
       "display_text": "½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p043-r02",
@@ -6633,7 +6746,14 @@
       "recipe_id": "mg1930-p043-r04",
       "recipe_title": "CORN MEAL MUFFINS OR JOHNNY CAKE",
       "display_text": "½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p043-r05",
@@ -7189,7 +7309,14 @@
       "recipe_id": "mg1930-p046-r01",
       "recipe_title": "DOUGHNUTS",
       "display_text": "1 tsp. soda (in sour milk)",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p046-r01",
@@ -7408,7 +7535,14 @@
       "recipe_id": "mg1930-p046-r03",
       "recipe_title": "SWEET MILK DOUGHNUTS",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p046-r03",
@@ -7477,7 +7611,14 @@
       "recipe_id": "mg1930-p048-r02",
       "recipe_title": "SOUR CREAM COCOANUT COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p048-r02",
@@ -8259,7 +8400,14 @@
       "recipe_id": "mg1930-p050-r01",
       "recipe_title": "MOTHER'S JUMBLES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p050-r01",
@@ -8516,7 +8664,14 @@
       "recipe_id": "mg1930-p050-r04",
       "recipe_title": "HUB COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p050-r04",
@@ -8856,7 +9011,14 @@
       "recipe_id": "mg1930-p051-r02",
       "recipe_title": "HERMITS",
       "display_text": "1 tsp. soda (in milk)",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p051-r02",
@@ -8977,7 +9139,14 @@
       "recipe_id": "mg1930-p051-r03",
       "recipe_title": "HERMITS",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p051-r03",
@@ -9028,7 +9197,14 @@
       "recipe_id": "mg1930-p051-r04",
       "recipe_title": "ROLLED OATS CQOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p051-r04",
@@ -9357,7 +9533,14 @@
       "recipe_id": "mg1930-p052-r02",
       "recipe_title": "OATMEAL COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p052-r03",
@@ -9453,7 +9636,14 @@
       "recipe_id": "mg1930-p052-r03",
       "recipe_title": "OATMEAL DROP CAKES",
       "display_text": "1 scant tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p052-r03",
@@ -9621,7 +9811,14 @@
       "recipe_id": "mg1930-p052-r04",
       "recipe_title": "OATMEAL COOKIES",
       "display_text": "1 teaspoon soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p052-r04",
@@ -9653,7 +9850,14 @@
       "recipe_id": "mg1930-p052-r05",
       "recipe_title": "CHOCOLATE ROCKS",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p052-r05",
@@ -9924,7 +10128,14 @@
       "recipe_id": "mg1930-p053-r02",
       "recipe_title": "ROCKS",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p053-r02",
@@ -9962,7 +10173,14 @@
       "recipe_id": "mg1930-p053-r03",
       "recipe_title": "SOUR CREAM COOKIES",
       "display_text": "¼ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p053-r03",
@@ -10130,7 +10348,14 @@
       "recipe_id": "mg1930-p056-r01",
       "recipe_title": "COCOANUT COOKIES",
       "display_text": "½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p056-r02",
@@ -10175,7 +10400,14 @@
       "recipe_id": "mg1930-p056-r02",
       "recipe_title": "MOLASSES COOKIES",
       "display_text": "1 heaping tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p056-r02",
@@ -10380,7 +10612,14 @@
       "recipe_id": "mg1930-p056-r04",
       "recipe_title": "MOLASSES GINGER COOKIES",
       "display_text": "2 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p056-r04",
@@ -10451,7 +10690,14 @@
       "recipe_id": "mg1930-p056-r05",
       "recipe_title": "MOLASSES COOKIES",
       "display_text": "2 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p056-r05",
@@ -10605,7 +10851,14 @@
       "recipe_id": "mg1930-p057-r02",
       "recipe_title": "RAISIN FILLED COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p057-r02",
@@ -10804,7 +11057,14 @@
       "recipe_id": "mg1930-p058-r01",
       "recipe_title": "SUGAR COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p058-r01",
@@ -10887,7 +11147,14 @@
       "recipe_id": "mg1930-p058-r02",
       "recipe_title": "SOUR MILK COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p058-r02",
@@ -10976,7 +11243,14 @@
       "recipe_id": "mg1930-p060-r01",
       "recipe_title": "BUTTERSCOTCH COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p060-r01",
@@ -11104,7 +11378,14 @@
       "recipe_id": "mg1930-p060-r02",
       "recipe_title": "ICE BOX COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p060-r02",
@@ -11129,7 +11410,14 @@
       "recipe_id": "mg1930-p060-r03",
       "recipe_title": "SLICED LOAF COOKIES",
       "display_text": "1 level tbsp. soda (scant)",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p060-r03",
@@ -11257,7 +11545,14 @@
       "recipe_id": "mg1930-p060-r04",
       "recipe_title": "ICE BOX COOKIES",
       "display_text": "1 teaspoon soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p060-r04",
@@ -11306,7 +11601,14 @@
       "recipe_id": "mg1930-p061-r01",
       "recipe_title": "BUTTER SCOTCH COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p061-r01",
@@ -11453,7 +11755,14 @@
       "recipe_id": "mg1930-p061-r03",
       "recipe_title": "ICE BOX COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p061-r03",
@@ -11729,7 +12038,14 @@
       "recipe_id": "mg1930-p061-r05",
       "recipe_title": "YUM -YUM COOKIES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p062-r01",
@@ -11992,7 +12308,14 @@
       "recipe_id": "mg1930-p062-r03",
       "recipe_title": "MOLASSES CREAM BARS",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p062-r03",
@@ -13290,7 +13613,14 @@
       "recipe_id": "mg1930-p072-r01",
       "recipe_title": "APPLE SAUCE CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p072-r01",
@@ -13405,7 +13735,14 @@
       "recipe_id": "mg1930-p072-r02",
       "recipe_title": "APPLE SAUCE CAKE",
       "display_text": "1 scant tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p072-r02",
@@ -13443,7 +13780,14 @@
       "recipe_id": "mg1930-p072-r03",
       "recipe_title": "APPLE SAUCE CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p072-r03",
@@ -14009,7 +14353,14 @@
       "recipe_id": "mg1930-p074-r01",
       "recipe_title": "CHOCOLATE LOAF CAKE",
       "display_text": "1 tsp. soda (sift with flour)",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p074-r01",
@@ -14210,7 +14561,14 @@
       "recipe_id": "mg1930-p074-r03",
       "recipe_title": "COCOA CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p074-r03",
@@ -14313,7 +14671,14 @@
       "recipe_id": "mg1930-p074-r04",
       "recipe_title": "CHOCOLATE CAKE",
       "display_text": "½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p074-r04",
@@ -14624,7 +14989,14 @@
       "recipe_id": "mg1930-p075-r02",
       "recipe_title": "QUICK DEVIL'S FOOD",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p075-r02",
@@ -14734,7 +15106,14 @@
       "recipe_id": "mg1930-p075-r03",
       "recipe_title": "DEVIL'S FOOD CAKE",
       "display_text": "1 level tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p075-r03",
@@ -14850,7 +15229,14 @@
       "recipe_id": "mg1930-p075-r04",
       "recipe_title": "COCOA CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p075-r04",
@@ -15012,7 +15398,14 @@
       "recipe_id": "mg1930-p076-r01",
       "recipe_title": "HOT WATER CHOCOLATE CAKE",
       "display_text": "1 level tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p076-r01",
@@ -15141,7 +15534,14 @@
       "recipe_id": "mg1930-p076-r03",
       "recipe_title": "CHOCOLATE CAKE",
       "display_text": "1 level tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p076-r03",
@@ -15393,7 +15793,14 @@
       "recipe_id": "mg1930-p076-r05",
       "recipe_title": "DEVIL'S FOOD CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p076-r05",
@@ -15522,7 +15929,14 @@
       "recipe_id": "mg1930-p077-r01",
       "recipe_title": "CHOCOLATE CAKE",
       "display_text": "1 teaspoon soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p077-r01",
@@ -15658,7 +16072,14 @@
       "recipe_id": "mg1930-p077-r02",
       "recipe_title": "RED DEVIL'S FOOD CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p077-r02",
@@ -15897,7 +16318,14 @@
       "recipe_id": "mg1930-p078-r01",
       "recipe_title": "DATE CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p078-r01",
@@ -16753,7 +17181,14 @@
       "recipe_id": "mg1930-p080-r01",
       "recipe_title": "FRUIT CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p080-r01",
@@ -17093,7 +17528,14 @@
       "recipe_id": "mg1930-p080-r04",
       "recipe_title": "HOT WATER GINGER CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p080-r04",
@@ -17913,7 +18355,14 @@
       "recipe_id": "mg1930-p082-r04",
       "recipe_title": "MOLASSES CUP CAKES",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p082-r04",
@@ -17971,7 +18420,14 @@
       "recipe_id": "mg1930-p082-r05",
       "recipe_title": "ORANGE CAKE",
       "display_text": "1/4 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p082-r05",
@@ -18633,7 +19089,14 @@
       "recipe_id": "mg1930-p084-r02",
       "recipe_title": "HOT WATER SPICE CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p084-r02",
@@ -18820,7 +19283,14 @@
       "recipe_id": "mg1930-p085-r01",
       "recipe_title": "SOUR MILK SPICE CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p085-r01",
@@ -19239,7 +19709,14 @@
       "recipe_id": "mg1930-p085-r04",
       "recipe_title": "SPICE CAKE WITH BROWN SUGAR FROSTING",
       "display_text": "1 tsp. soda (in milk)",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p085-r04",
@@ -19368,7 +19845,14 @@
       "recipe_id": "mg1930-p086-r01",
       "recipe_title": "SOUR CREAM CAKE",
       "display_text": "1/4 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p086-r01",
@@ -19549,7 +20033,14 @@
       "recipe_id": "mg1930-p086-r03",
       "recipe_title": "SOUR CREAM CUP CAKES",
       "display_text": "½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p086-r03",
@@ -19638,7 +20129,14 @@
       "recipe_id": "mg1930-p086-r04",
       "recipe_title": "STRAWBERRY CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p086-r04",
@@ -19747,7 +20245,14 @@
       "recipe_id": "mg1930-p087-r01",
       "recipe_title": "SOUR CREAM CAKE",
       "display_text": "½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p087-r01",
@@ -19824,7 +20329,14 @@
       "recipe_id": "mg1930-p087-r02",
       "recipe_title": "TEA CAKE",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p087-r02",
@@ -20010,7 +20522,14 @@
       "recipe_id": "mg1930-p087-r04",
       "recipe_title": "WHITE CAKE",
       "display_text": "1½ tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p087-r04",
@@ -21217,7 +21736,14 @@
       "recipe_id": "mg1930-p094-r04",
       "recipe_title": "INCH HIGH ICING",
       "display_text": "1 tsp. granulated gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p094-r04",
@@ -22623,7 +23149,14 @@
       "recipe_id": "mg1930-p103-r05",
       "recipe_title": "MAPLE MOUSSE",
       "display_text": "1 tbsp. gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p104-r01",
@@ -22808,7 +23341,14 @@
       "recipe_id": "mg1930-p104-r05",
       "recipe_title": "PEANUT BRITTLE ICE CREAM",
       "display_text": "1 tbsp. Knox Gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p104-r05",
@@ -22896,7 +23436,14 @@
       "recipe_id": "mg1930-p106-r02",
       "recipe_title": "FRESH STRAWBERRY CHARLOTTE RUSSE",
       "display_text": "1 envelope sparkling gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p106-r02",
@@ -23248,7 +23795,14 @@
       "recipe_id": "mg1930-p107-r05",
       "recipe_title": "MAPLE GELATINE PUDDING",
       "display_text": "2 tbsp. Knox gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p107-r05",
@@ -23387,7 +23941,14 @@
       "recipe_id": "mg1930-p108-r01",
       "recipe_title": "MACAROON CHOCOLATE PUDDING",
       "display_text": "1 tbsp. Knox gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p108-r01",
@@ -23645,7 +24206,14 @@
       "recipe_id": "mg1930-p109-r01",
       "recipe_title": "RICE AND PINEAPPLE BAVARIAN CREAM",
       "display_text": "1 envelope Knox sparkling gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p109-r01",
@@ -23792,7 +24360,14 @@
       "recipe_id": "mg1930-p109-r03",
       "recipe_title": "TAPIOCA ICEBOX DESSERT",
       "display_text": "2 tbsp. Knox gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p109-r03",
@@ -25563,7 +26138,14 @@
       "recipe_id": "mg1930-p117-r01",
       "recipe_title": "MAPLE NUT TORTE",
       "display_text": "Gelatine (amount not stated in source)",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p117-r01",
@@ -26556,7 +27138,14 @@
       "recipe_id": "mg1930-p121-r05",
       "recipe_title": "STEAMED CHERRY PUDDING",
       "display_text": "1 tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p121-r05",
@@ -26995,7 +27584,14 @@
       "recipe_id": "mg1930-p122-r05",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 scant tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p122-r05",
@@ -34933,7 +35529,14 @@
       "recipe_id": "mg1930-p152-r02",
       "recipe_title": "ALMOND AND PICKLE SALAD",
       "display_text": "2 tbsp. gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p152-r02",
@@ -36803,7 +37406,14 @@
       "recipe_id": "mg1930-p161-r01",
       "recipe_title": "FRUIT AND GINGER ALE SALAD",
       "display_text": "1½ tbsp. gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p161-r01",
@@ -37044,7 +37654,14 @@
       "recipe_id": "mg1930-p161-r05",
       "recipe_title": "SPARKLING FRENCH DRESSING",
       "display_text": "½ pkg. sweetened and flavored red gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p161-r05",
@@ -37231,7 +37848,14 @@
       "recipe_id": "mg1930-p162-r02",
       "recipe_title": "PARTY SALAD",
       "display_text": "1 tbsp. gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p162-r02",
@@ -37346,7 +37970,14 @@
       "recipe_id": "mg1930-p162-r03",
       "recipe_title": "SALMON SALAD",
       "display_text": "1 envelope Knox gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p162-r03",
@@ -37525,7 +38156,14 @@
       "recipe_id": "mg1930-p163-r01",
       "recipe_title": "JELLIED SALMON",
       "display_text": "1 tbsp. granulated gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p163-r01",
@@ -37648,7 +38286,14 @@
       "recipe_id": "mg1930-p163-r02",
       "recipe_title": "TOMATO ASPIC",
       "display_text": "2 tbsp. gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p163-r02",
@@ -37738,7 +38383,14 @@
       "recipe_id": "mg1930-p163-r03",
       "recipe_title": "TOMATO CHEESE SALAD",
       "display_text": "1 tbsp. Knox gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p163-r03",
@@ -37821,7 +38473,14 @@
       "recipe_id": "mg1930-p163-r04",
       "recipe_title": "MOLDED TOMATO SALAD",
       "display_text": "2 tbsp. gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p163-r04",
@@ -37840,7 +38499,14 @@
       "recipe_id": "mg1930-p164-r01",
       "recipe_title": "MOLDED VEGETABLE SALAD",
       "display_text": "2 tbsp. Knox gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p164-r01",
@@ -37929,7 +38595,14 @@
       "recipe_id": "mg1930-p164-r02",
       "recipe_title": "VEGETABLE JELLO SALAD",
       "display_text": "1 tbsp. Knox gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -44555,7 +45228,14 @@
       "recipe_id": "mg1930-p194-r01",
       "recipe_title": "CHICKEN MOUSSE",
       "display_text": "2 tbsp. gelatine",
-      "match_kind": "unmatched"
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
+      "display_name_en": null,
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "gelatine"
     },
     {
       "recipe_id": "mg1930-p194-r01",
@@ -46279,7 +46959,14 @@
       "recipe_id": "mg1930-p202-r03",
       "recipe_title": "BAKED BEANS",
       "display_text": "2 large tsp. soda",
-      "match_kind": "unmatched"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p202-r03",

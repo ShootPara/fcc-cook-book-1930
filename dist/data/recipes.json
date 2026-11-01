@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "created_at": "2026-11-01T21:07:06.321825+00:00",
+  "created_at": "2026-11-01T21:09:06.880431+00:00",
   "recipes": [
     {
       "id": 1,
@@ -1654,13 +1654,15 @@
         "1 cup sour milk",
         "1 egg well beaten",
         "1 tsp soda",
+        "bicarbonato",
         "farinha de trigo",
         "flour",
         "leite",
         "milk",
         "pinch salt",
         "sal",
-        "salt"
+        "salt",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -1698,7 +1700,8 @@
       "canonical_ingredient_ids": [
         4,
         8,
-        45
+        45,
+        78
       ]
     },
     {
@@ -2892,10 +2895,12 @@
         "2 heaping tbsp shortening",
         "2 tbsp sugar",
         "acucar",
+        "bicarbonato",
         "farinha de trigo",
         "flour",
         "gordura vegetal",
         "shortening",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -2933,6 +2938,7 @@
       "canonical_ingredient_ids": [
         3,
         4,
+        78,
         606
       ]
     },
@@ -3280,6 +3286,7 @@
         "2 tsp ginger",
         "214 cups flour",
         "acucar",
+        "bicarbonato",
         "butter",
         "farinha de trigo",
         "flour",
@@ -3292,6 +3299,7 @@
         "molasses",
         "sal",
         "salt",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -3336,6 +3344,7 @@
         8,
         9,
         45,
+        78,
         1120,
         1123
       ]
@@ -3535,6 +3544,7 @@
         "2 eggs",
         "acucar",
         "agua",
+        "bicarbonato",
         "boiling water",
         "canela",
         "cinnamon",
@@ -3548,6 +3558,7 @@
         "molasses",
         "ovos",
         "shortening",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -3595,6 +3606,7 @@
         5,
         18,
         52,
+        78,
         606,
         1120,
         1123
@@ -3623,6 +3635,7 @@
         "2 eggs",
         "4 cups flour",
         "acucar",
+        "bicarbonato",
         "butter",
         "canela",
         "cinnamon",
@@ -3636,6 +3649,7 @@
         "molasses",
         "ovos",
         "raisins if desired",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -3682,6 +3696,7 @@
         5,
         9,
         18,
+        78,
         1120,
         1123
       ]
@@ -3706,6 +3721,7 @@
         "23 cup raisins",
         "3 cups graham flour",
         "3 tbsp shortening",
+        "bicarbonato",
         "egg",
         "farinha de trigo",
         "flour",
@@ -3715,7 +3731,8 @@
         "milk",
         "molasses",
         "ovo",
-        "shortening"
+        "shortening",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -3754,6 +3771,7 @@
         4,
         8,
         10,
+        78,
         606,
         1120
       ]
@@ -3783,6 +3801,7 @@
         "4 cups graham flour",
         "acucar mascavo",
         "baking powder",
+        "bicarbonato",
         "brown sugar",
         "eggs",
         "farinha de trigo",
@@ -3797,6 +3816,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "white flour"
       ],
       "yield": null,
@@ -3843,6 +3863,7 @@
         8,
         18,
         45,
+        78,
         217,
         606,
         1120
@@ -3867,13 +3888,15 @@
         "112 tsp soda",
         "12 cup molasses",
         "12 tsp cream tartar",
+        "bicarbonato",
         "farinha de trigo",
         "flour",
         "leite",
         "melaco",
         "milk",
         "molasses",
-        "salt raisins"
+        "salt raisins",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -3913,6 +3936,7 @@
       "canonical_ingredient_ids": [
         4,
         8,
+        78,
         1120
       ]
     },
@@ -3936,6 +3960,7 @@
         "14 cup sugar",
         "3 cups graham flour",
         "acucar",
+        "bicarbonato",
         "farinha de trigo",
         "flour",
         "leite",
@@ -3945,6 +3970,7 @@
         "raisins or nuts",
         "sal",
         "salt",
+        "soda",
         "sugar",
         "white flour"
       ],
@@ -3989,6 +4015,7 @@
         4,
         8,
         45,
+        78,
         1120
       ]
     },
@@ -4011,6 +4038,7 @@
         "2 level tsp soda",
         "2 tbsp shortening",
         "3 cups butter milk",
+        "bicarbonato",
         "farinha de trigo",
         "gordura vegetal",
         "leite",
@@ -4020,6 +4048,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "white flour"
       ],
       "yield": null,
@@ -4060,6 +4089,7 @@
         4,
         8,
         45,
+        78,
         606,
         1120
       ]
@@ -4163,6 +4193,7 @@
         "2 tsp soda",
         "4 cups flour",
         "acucar",
+        "bicarbonato",
         "butter",
         "farinha de trigo",
         "flour",
@@ -4170,6 +4201,7 @@
         "pinch salt",
         "sal",
         "salt",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -4212,7 +4244,8 @@
         3,
         4,
         9,
-        45
+        45,
+        78
       ]
     },
     {
@@ -4239,6 +4272,7 @@
         "2 tbsp sugar",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "farinha de trigo",
         "fermento em po",
         "flour",
@@ -4248,6 +4282,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -4293,6 +4328,7 @@
         6,
         8,
         45,
+        78,
         606
       ]
     },
@@ -4314,10 +4350,12 @@
         "12 cup flour",
         "2 tbsp sugar",
         "acucar",
+        "bicarbonato",
         "farinha de trigo",
         "flour",
         "leite",
         "milk",
+        "soda",
         "soda amount before tsp illegible in scan per cup of sour milk",
         "sugar"
       ],
@@ -4357,7 +4395,8 @@
       "canonical_ingredient_ids": [
         3,
         4,
-        8
+        8,
+        78
       ]
     },
     {
@@ -4718,6 +4757,7 @@
         "2 tbsp melted butter or lard",
         "212 cups graham flour",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "egg",
         "farinha de trigo",
@@ -4727,6 +4767,7 @@
         "milk",
         "molasses",
         "ovo",
+        "soda",
         "white flour"
       ],
       "yield": null,
@@ -4769,6 +4810,7 @@
         4,
         8,
         10,
+        78,
         217,
         1120
       ]
@@ -5557,6 +5599,7 @@
         "2 tsp soda",
         "312 cups whole wheat flour",
         "acucar",
+        "bicarbonato",
         "egg",
         "farinha de trigo",
         "flour",
@@ -5569,6 +5612,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "sugar",
         "white flour"
       ],
@@ -5615,6 +5659,7 @@
         8,
         10,
         45,
+        78,
         606,
         1120
       ]
@@ -6104,6 +6149,7 @@
         "12 tsp soda",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "egg",
         "farinha de trigo",
         "fermento em po",
@@ -6112,6 +6158,7 @@
         "ovo",
         "sal",
         "salt",
+        "soda",
         "sugar",
         "white flour"
       ],
@@ -6157,7 +6204,8 @@
         6,
         8,
         10,
-        45
+        45,
+        78
       ]
     },
     {
@@ -6266,6 +6314,7 @@
         "2 eggs",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "butter",
         "eggs",
         "farinha de trigo",
@@ -6276,6 +6325,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "sugar",
         "white flour"
       ],
@@ -6323,7 +6373,8 @@
         8,
         9,
         18,
-        45
+        45,
+        78
       ]
     },
     {
@@ -6810,6 +6861,7 @@
         "3 cups flour or enough to handle",
         "acucar",
         "baunilha",
+        "bicarbonato",
         "egg",
         "farinha de trigo",
         "flour",
@@ -6818,6 +6870,7 @@
         "noz moscada",
         "nutmeg",
         "ovo",
+        "soda",
         "sugar",
         "vanilla"
       ],
@@ -6866,6 +6919,7 @@
         4,
         8,
         10,
+        78,
         204,
         774
       ]
@@ -6977,6 +7031,7 @@
         "2 tsp cream tartar",
         "6 tbsp melted butter",
         "acucar",
+        "bicarbonato",
         "butter",
         "eggs",
         "farinha de trigo",
@@ -6988,6 +7043,7 @@
         "sal",
         "salt",
         "sift flour",
+        "soda",
         "sugar",
         "sweet milk"
       ],
@@ -7033,7 +7089,8 @@
         8,
         9,
         18,
-        45
+        45,
+        78
       ]
     },
     {
@@ -7113,6 +7170,7 @@
         "4 cups flour",
         "acucar",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "butter",
         "creme de leite",
@@ -7126,6 +7184,7 @@
         "nutmeg",
         "orange",
         "ovos",
+        "soda",
         "sugar",
         "whipping cream"
       ],
@@ -7174,6 +7233,7 @@
         9,
         18,
         56,
+        78,
         217,
         774,
         1017
@@ -7707,12 +7767,14 @@
         "112 cups sugar",
         "12 cup butter",
         "acucar",
+        "bicarbonato",
         "butter",
         "egg",
         "farinha de trigo",
         "flour",
         "manteiga",
         "ovo",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -7754,7 +7816,8 @@
         3,
         4,
         9,
-        10
+        10,
+        78
       ]
     },
     {
@@ -7931,6 +7994,7 @@
         "212 cups flour",
         "3 eggs",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "butter",
         "eggs",
@@ -7939,7 +8003,8 @@
         "manteiga",
         "ovos",
         "sal",
-        "salt"
+        "salt",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -7979,6 +8044,7 @@
         9,
         18,
         45,
+        78,
         217
       ]
     },
@@ -8182,6 +8248,7 @@
         "12 cup sour milk",
         "12 cup walnut meats",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "cloves cinnamon and nutmeg",
         "egg",
@@ -8193,7 +8260,8 @@
         "noz moscada",
         "nutmeg",
         "ovo",
-        "shortening"
+        "shortening",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -8236,6 +8304,7 @@
         4,
         8,
         10,
+        78,
         217,
         606,
         774
@@ -8265,6 +8334,7 @@
         "3 4 cup shortening",
         "5 tbsp sour milk",
         "baunilha",
+        "bicarbonato",
         "canela",
         "cinnamon",
         "eggs",
@@ -8273,6 +8343,7 @@
         "milk",
         "ovos",
         "shortening",
+        "soda",
         "vanilla"
       ],
       "yield": null,
@@ -8317,6 +8388,7 @@
         5,
         8,
         18,
+        78,
         204,
         606
       ]
@@ -8347,6 +8419,7 @@
         "2 eggs",
         "acucar mascavo claro",
         "aveia",
+        "bicarbonato",
         "butter",
         "canela",
         "cinnamon",
@@ -8361,7 +8434,8 @@
         "ovos",
         "rolled oats",
         "sal",
-        "salt"
+        "salt",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -8407,6 +8481,7 @@
         9,
         18,
         45,
+        78,
         521,
         1132
       ]
@@ -8535,6 +8610,7 @@
         "5 tbsp sweet milk",
         "acucar mascavo",
         "aveia",
+        "bicarbonato",
         "brown sugar",
         "canela",
         "cinnamon",
@@ -8548,6 +8624,7 @@
         "oatmeal",
         "ovos",
         "shortening",
+        "soda",
         "sweet milk"
       ],
       "yield": null,
@@ -8592,6 +8669,7 @@
         5,
         8,
         18,
+        78,
         217,
         521,
         606,
@@ -8627,6 +8705,7 @@
         "aveia",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "canela",
         "cinnamon",
         "eggs",
@@ -8639,6 +8718,7 @@
         "oatmeal",
         "ovos",
         "shortening",
+        "soda",
         "sugar",
         "vanilla"
       ],
@@ -8689,6 +8769,7 @@
         6,
         8,
         18,
+        78,
         204,
         521,
         606
@@ -8721,6 +8802,7 @@
         "acucar",
         "aveia",
         "baking powder",
+        "bicarbonato",
         "canela",
         "cinnamon",
         "eggs",
@@ -8738,6 +8820,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -8788,6 +8871,7 @@
         8,
         18,
         45,
+        78,
         521,
         606,
         774
@@ -8819,6 +8903,7 @@
         "acucar mascavo claro",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "butter",
         "chocolate",
         "egg",
@@ -8830,6 +8915,7 @@
         "light brown sugar",
         "manteiga",
         "ovo",
+        "soda",
         "sweet milk",
         "vanilla"
       ],
@@ -8876,6 +8962,7 @@
         8,
         9,
         10,
+        78,
         204,
         360,
         1132
@@ -8980,6 +9067,7 @@
         "23 cup butter",
         "acucar mascavo",
         "baunilha",
+        "bicarbonato",
         "brown sugar",
         "butter",
         "canela",
@@ -8991,6 +9079,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "vanilla"
       ],
       "yield": null,
@@ -9037,6 +9126,7 @@
         9,
         18,
         45,
+        78,
         204,
         217
       ]
@@ -9063,6 +9153,7 @@
         "312 tsp baking powder",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "butter",
         "creme azedo sour cream",
         "egg",
@@ -9071,6 +9162,7 @@
         "flour",
         "manteiga",
         "ovo",
+        "soda",
         "sour cream",
         "sour cream",
         "sugar"
@@ -9116,6 +9208,7 @@
         6,
         9,
         10,
+        78,
         1119
       ]
     },
@@ -9143,6 +9236,7 @@
         "acucar",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "butter",
         "creme azedo sour cream",
         "eggs",
@@ -9151,6 +9245,7 @@
         "flour",
         "manteiga",
         "ovos",
+        "soda",
         "sour cream",
         "sour cream",
         "sugar",
@@ -9199,6 +9294,7 @@
         6,
         9,
         18,
+        78,
         204,
         1119
       ]
@@ -9223,6 +9319,7 @@
         "1 heaping tsp soda",
         "1 tsp ginger",
         "acucar",
+        "bicarbonato",
         "flour to right consistency",
         "gengibre",
         "ginger",
@@ -9230,6 +9327,7 @@
         "melaco",
         "milk",
         "molasses",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -9268,6 +9366,7 @@
       "canonical_ingredient_ids": [
         3,
         8,
+        78,
         1120,
         1123
       ]
@@ -9378,6 +9477,7 @@
         "2 tsp soda",
         "3 tbsp sour milk or vinegar",
         "acucar",
+        "bicarbonato",
         "eggs",
         "gengibre",
         "ginger",
@@ -9386,6 +9486,7 @@
         "molasses",
         "ovos",
         "shortening",
+        "soda",
         "sugar",
         "vinagre",
         "vinegar"
@@ -9428,6 +9529,7 @@
       "canonical_ingredient_ids": [
         3,
         18,
+        78,
         606,
         655,
         1120,
@@ -9456,6 +9558,7 @@
         "2 tsp soda",
         "acucar mascavo",
         "agua",
+        "bicarbonato",
         "brown sugar",
         "butter",
         "flour enough to make them stiff enough to roll thin",
@@ -9466,6 +9569,7 @@
         "molasses",
         "sal",
         "salt",
+        "soda",
         "water"
       ],
       "yield": null,
@@ -9508,6 +9612,7 @@
         9,
         45,
         52,
+        78,
         217,
         1120,
         1123
@@ -9612,6 +9717,7 @@
         "acucar mascavo",
         "agua",
         "batter",
+        "bicarbonato",
         "brown sugar",
         "canela",
         "cinnamon",
@@ -9624,6 +9730,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "sugar",
         "water"
       ],
@@ -9675,6 +9782,7 @@
         8,
         45,
         52,
+        78,
         217,
         606
       ]
@@ -9780,6 +9888,7 @@
         "8 tbsp sweet milk",
         "acucar mascavo",
         "baking powder",
+        "bicarbonato",
         "brown sugar",
         "eggs",
         "fermento em po",
@@ -9788,6 +9897,7 @@
         "noz moscada",
         "nutmeg",
         "ovos",
+        "soda",
         "sweet milk"
       ],
       "yield": null,
@@ -9830,6 +9940,7 @@
         6,
         8,
         18,
+        78,
         217,
         774
       ]
@@ -9854,6 +9965,7 @@
         "2 cups sugar",
         "23 cup sour milk",
         "acucar",
+        "bicarbonato",
         "eggs",
         "flour enough to roll",
         "leite",
@@ -9861,6 +9973,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -9902,7 +10015,8 @@
         3,
         8,
         18,
-        45
+        45,
+        78
       ]
     },
     {
@@ -9927,11 +10041,13 @@
         "4 cups flour",
         "acucar mascavo",
         "and nuts",
+        "bicarbonato",
         "brown sugar",
         "butter",
         "farinha de trigo",
         "flour",
-        "manteiga"
+        "manteiga",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -9972,6 +10088,7 @@
       "canonical_ingredient_ids": [
         4,
         9,
+        78,
         217
       ]
     },
@@ -9999,6 +10116,7 @@
         "4 cups unsifted flour",
         "acucar",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "butter",
         "canela",
@@ -10010,6 +10128,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "white sugar"
       ],
       "yield": null,
@@ -10056,6 +10175,7 @@
         9,
         18,
         45,
+        78,
         217
       ]
     },
@@ -10083,6 +10203,7 @@
         "acucar mascavo",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "brown sugar",
         "eggs",
         "farinha de trigo",
@@ -10091,6 +10212,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "vanilla"
       ],
       "yield": null,
@@ -10134,6 +10256,7 @@
         6,
         18,
         45,
+        78,
         204,
         217
       ]
@@ -10158,6 +10281,7 @@
         "3 eggs well beaten",
         "6 cups of flour",
         "about 1 lb nucoa nut oleo",
+        "bicarbonato",
         "canela",
         "cinnamon",
         "farinha de trigo",
@@ -10165,7 +10289,8 @@
         "juice of 12 lemon or extract",
         "melted",
         "oleo",
-        "oleo"
+        "oleo",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -10207,7 +10332,8 @@
       "canonical_ingredient_ids": [
         1,
         4,
-        5
+        5,
+        78
       ]
     },
     {
@@ -10231,10 +10357,12 @@
         "2 eggs beaten whole",
         "4 cups flour",
         "and cocoanut",
+        "bicarbonato",
         "butter",
         "farinha de trigo",
         "flour",
-        "manteiga"
+        "manteiga",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -10274,7 +10402,8 @@
       },
       "canonical_ingredient_ids": [
         4,
-        9
+        9,
+        78
       ]
     },
     {
@@ -10380,6 +10509,7 @@
         "2 eggs",
         "312 cups flour",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "butter",
         "eggs",
@@ -10388,7 +10518,8 @@
         "manteiga",
         "ovos",
         "sal",
-        "salt"
+        "salt",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -10431,6 +10562,7 @@
         9,
         18,
         45,
+        78,
         217
       ]
     },
@@ -10539,6 +10671,7 @@
         "212 cups flour",
         "3 4 cup butter or other shortening",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "canela",
         "cinnamon",
@@ -10553,7 +10686,8 @@
         "ovos",
         "sal",
         "salt",
-        "shortening"
+        "shortening",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -10601,6 +10735,7 @@
         8,
         18,
         45,
+        78,
         217,
         606,
         774
@@ -10776,6 +10911,7 @@
         "3 4 cup water",
         "acucar",
         "agua",
+        "bicarbonato",
         "canela",
         "cinnamon",
         "eggs",
@@ -10786,6 +10922,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "sugar",
         "water"
       ],
@@ -10834,6 +10971,7 @@
         18,
         45,
         52,
+        78,
         1120
       ]
     },
@@ -12041,12 +12179,14 @@
         "12 cup seeded raisins",
         "2 cups flour",
         "acucar",
+        "bicarbonato",
         "butter",
         "farinha de trigo",
         "flour",
         "manteiga",
         "noz moscada",
         "nutmeg",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -12086,6 +12226,7 @@
         3,
         4,
         9,
+        78,
         774
       ]
     },
@@ -12110,6 +12251,7 @@
         "134 cups flour",
         "14 cup butter",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "butter",
         "canela",
@@ -12118,7 +12260,8 @@
         "flour",
         "manteiga",
         "sal",
-        "salt"
+        "salt",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -12161,6 +12304,7 @@
         5,
         9,
         45,
+        78,
         217
       ]
     },
@@ -12188,6 +12332,7 @@
         "2 tbsp fat",
         "23 cup raisins",
         "acucar mascavo",
+        "bicarbonato",
         "brown sugar",
         "canela",
         "cinnamon",
@@ -12196,7 +12341,8 @@
         "noz moscada",
         "nutmeg",
         "sal",
-        "salt"
+        "salt",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -12240,6 +12386,7 @@
         4,
         5,
         45,
+        78,
         217,
         774
       ]
@@ -12645,6 +12792,7 @@
         "2 squares bakers chocolate melted",
         "34 cup shortening butter and lard",
         "acucar",
+        "bicarbonato",
         "chocolate",
         "eggs",
         "farinha de trigo",
@@ -12656,6 +12804,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "sugar",
         "vanilla and salt"
       ],
@@ -12701,6 +12850,7 @@
         8,
         18,
         45,
+        78,
         360,
         606
       ]
@@ -12813,6 +12963,7 @@
         "acucar",
         "agua",
         "baunilha",
+        "bicarbonato",
         "butter",
         "cacau em po",
         "cocoa",
@@ -12825,6 +12976,7 @@
         "ovo",
         "sal",
         "salt",
+        "soda",
         "sugar",
         "vanilla",
         "water"
@@ -12875,6 +13027,7 @@
         10,
         45,
         52,
+        78,
         85,
         204
       ]
@@ -12901,6 +13054,7 @@
         "2 tbsp cocoa dissolved in 12 cup boiling water",
         "acucar mascavo",
         "agua",
+        "bicarbonato",
         "boiling water",
         "brown sugar",
         "egg",
@@ -12908,7 +13062,8 @@
         "flour",
         "leite",
         "milk",
-        "ovo"
+        "ovo",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -12950,6 +13105,7 @@
         8,
         10,
         52,
+        78,
         217
       ]
     },
@@ -13157,6 +13313,7 @@
         "agua",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "butter",
         "chocolate",
         "egg",
@@ -13165,6 +13322,7 @@
         "flour",
         "manteiga",
         "ovo",
+        "soda",
         "sugar",
         "vanilla",
         "water"
@@ -13214,6 +13372,7 @@
         9,
         10,
         52,
+        78,
         204,
         360
       ]
@@ -13242,6 +13401,7 @@
         "2 sq melted chocolate",
         "acucar",
         "baunilha",
+        "bicarbonato",
         "chocolate",
         "each sq one ounce",
         "eggs",
@@ -13253,6 +13413,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "sugar",
         "sweet milk",
         "vanilla"
@@ -13308,6 +13469,7 @@
         8,
         18,
         45,
+        78,
         204,
         360,
         606
@@ -13338,6 +13500,7 @@
         "acucar",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "cacau em po",
         "cocoa",
         "eggs",
@@ -13349,6 +13512,7 @@
         "milk",
         "ovos",
         "shortening",
+        "soda",
         "sugar",
         "vanilla"
       ],
@@ -13395,6 +13559,7 @@
         6,
         8,
         18,
+        78,
         85,
         204,
         606
@@ -13426,6 +13591,7 @@
         "acucar",
         "agua",
         "baking powder",
+        "bicarbonato",
         "boiling water",
         "butter",
         "cacau em po",
@@ -13438,6 +13604,7 @@
         "ovo",
         "sal",
         "salt",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -13484,6 +13651,7 @@
         10,
         45,
         52,
+        78,
         85
       ]
     },
@@ -13569,6 +13737,7 @@
         "acucar",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "butter",
         "eggs",
         "farinha de trigo",
@@ -13577,6 +13746,7 @@
         "leite",
         "manteiga",
         "ovos",
+        "soda",
         "sugar",
         "sweet milk",
         "vanilla"
@@ -13624,6 +13794,7 @@
         8,
         9,
         18,
+        78,
         204
       ]
     },
@@ -13744,6 +13915,7 @@
         "agua",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "boiling water",
         "butter",
         "chocolate",
@@ -13754,6 +13926,7 @@
         "pinch salt",
         "sal",
         "salt",
+        "soda",
         "sugar",
         "vanilla",
         "water"
@@ -13805,6 +13978,7 @@
         9,
         45,
         52,
+        78,
         204,
         360
       ]
@@ -13832,6 +14006,7 @@
         "14 cake chocolate",
         "acucar",
         "baunilha",
+        "bicarbonato",
         "butter",
         "chocolate",
         "egg",
@@ -13844,6 +14019,7 @@
         "pinch salt",
         "sal",
         "salt",
+        "soda",
         "sugar",
         "vanilla"
       ],
@@ -13891,6 +14067,7 @@
         9,
         10,
         45,
+        78,
         204,
         360
       ]
@@ -13923,6 +14100,7 @@
         "agua",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "boiling water",
         "cake flour",
         "cake flour",
@@ -13937,6 +14115,7 @@
         "sal",
         "salt",
         "shortening",
+        "soda",
         "sugar",
         "vanilla"
       ],
@@ -13986,6 +14165,7 @@
         18,
         45,
         52,
+        78,
         204,
         360,
         606,
@@ -14170,6 +14350,7 @@
         "acucar",
         "agua",
         "baking powder",
+        "bicarbonato",
         "boiling water",
         "butter",
         "egg",
@@ -14180,6 +14361,7 @@
         "ovo",
         "sal",
         "salt",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -14227,7 +14409,8 @@
         9,
         10,
         45,
-        52
+        52,
+        78
       ]
     },
     {
@@ -14914,6 +15097,7 @@
         "4 tsp chocolate or cocoa",
         "acucar",
         "baunilha",
+        "bicarbonato",
         "butter",
         "cacau em po",
         "canela",
@@ -14924,6 +15108,7 @@
         "flour",
         "manteiga",
         "ovo",
+        "soda",
         "sugar",
         "vanilla"
       ],
@@ -14974,6 +15159,7 @@
         5,
         9,
         10,
+        78,
         85,
         204
       ]
@@ -15169,6 +15355,7 @@
         "14 cup butter",
         "acucar",
         "agua",
+        "bicarbonato",
         "boiling water",
         "butter",
         "canela",
@@ -15180,6 +15367,7 @@
         "manteiga",
         "melaco",
         "molasses",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -15224,6 +15412,7 @@
         5,
         9,
         52,
+        78,
         1120,
         1123
       ]
@@ -15816,6 +16005,7 @@
         "agua",
         "baking powder",
         "baunilha",
+        "bicarbonato",
         "boiling water",
         "butter",
         "canela",
@@ -15828,6 +16018,7 @@
         "melaco",
         "molasses",
         "ovos",
+        "soda",
         "sugar",
         "vanilla"
       ],
@@ -15877,6 +16068,7 @@
         9,
         18,
         52,
+        78,
         204,
         1120
       ]
@@ -15905,6 +16097,7 @@
         "3 tsp baking powder",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "butter",
         "farinha de trigo",
         "fermento em po",
@@ -15912,6 +16105,7 @@
         "manteiga",
         "sal",
         "salt",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -15956,7 +16150,8 @@
         4,
         6,
         9,
-        45
+        45,
+        78
       ]
     },
     {
@@ -16399,6 +16594,7 @@
         "acucar",
         "agua",
         "and lemon extract",
+        "bicarbonato",
         "boiling water",
         "butter",
         "canela",
@@ -16410,6 +16606,7 @@
         "manteiga",
         "melaco",
         "molasses",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -16456,6 +16653,7 @@
         9,
         12,
         52,
+        78,
         1120
       ]
     },
@@ -16580,6 +16778,7 @@
         "2 scant cups flour",
         "acucar mascavo",
         "baking powder",
+        "bicarbonato",
         "brown sugar",
         "canela",
         "cinnamon",
@@ -16595,7 +16794,8 @@
         "ovos",
         "sal",
         "salt",
-        "shortening"
+        "shortening",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -16644,6 +16844,7 @@
         8,
         18,
         45,
+        78,
         217,
         606,
         774
@@ -16841,6 +17042,7 @@
         "4 eggs save 1 yolk for frosting",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "butter",
         "canela",
         "cinnamon",
@@ -16854,6 +17056,7 @@
         "ovos",
         "scant tsp cinnamon",
         "scant tsp cloves",
+        "soda",
         "sugar",
         "sweet milk",
         "with sour milk",
@@ -16913,7 +17116,8 @@
         6,
         8,
         9,
-        18
+        18,
+        78
       ]
     },
     {
@@ -16938,6 +17142,7 @@
         "2 eggs",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "creme azedo sour cream",
         "eggs",
         "farinha de trigo",
@@ -16946,6 +17151,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "sour cream",
         "sour cream",
         "sugar"
@@ -16991,6 +17197,7 @@
         6,
         18,
         45,
+        78,
         1119
       ]
     },
@@ -17091,6 +17298,7 @@
         "3 4 cup sugar",
         "acucar",
         "baunilha",
+        "bicarbonato",
         "creme azedo sour cream",
         "eggs",
         "farinha de trigo",
@@ -17098,6 +17306,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "sour cream",
         "sour cream",
         "sugar",
@@ -17144,6 +17353,7 @@
         4,
         18,
         45,
+        78,
         204,
         1119
       ]
@@ -17173,6 +17383,7 @@
         "2 eggs",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "butter",
         "canela",
         "cinnamon",
@@ -17184,6 +17395,7 @@
         "manteiga",
         "milk",
         "ovos",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -17231,7 +17443,8 @@
         6,
         8,
         9,
-        18
+        18,
+        78
       ]
     },
     {
@@ -17254,12 +17467,14 @@
         "12 tsp soda",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "farinha de trigo",
         "fermento em po",
         "flour",
         "pinch salt",
         "sal",
         "salt",
+        "soda",
         "sour cream enough to fill that measuring cup",
         "sugar"
       ],
@@ -17302,7 +17517,8 @@
         3,
         4,
         6,
-        45
+        45,
+        78
       ]
     },
     {
@@ -17332,6 +17548,7 @@
         "acucar",
         "agua",
         "baking powder",
+        "bicarbonato",
         "butter",
         "canela",
         "cinnamon",
@@ -17345,6 +17562,7 @@
         "ovos",
         "sal",
         "salt",
+        "soda",
         "sugar",
         "water"
       ],
@@ -17396,6 +17614,7 @@
         18,
         45,
         52,
+        78,
         1120
       ]
     },
@@ -17493,12 +17712,14 @@
         "2 egg whites",
         "acucar",
         "baking powder",
+        "bicarbonato",
         "clara",
         "creme azedo sour cream",
         "egg whites",
         "fermento em po",
         "sal",
         "salt",
+        "soda",
         "sour cream",
         "sour cream",
         "sugar"
@@ -17543,6 +17764,7 @@
         3,
         6,
         45,
+        78,
         87,
         1119
       ]
@@ -18915,6 +19137,8 @@
         "baunilha",
         "clara",
         "egg whites",
+        "gelatina",
+        "gelatine",
         "sugar",
         "vanilla",
         "water"
@@ -18957,7 +19181,8 @@
         3,
         52,
         87,
-        204
+        204,
+        546
       ]
     },
     {
@@ -20671,6 +20896,8 @@
         "1 tbsp gelatine",
         "12 pt cream whipped",
         "2 egg whites beaten stiff",
+        "gelatina",
+        "gelatine",
         "sal",
         "salt"
       ],
@@ -20708,7 +20935,8 @@
         ]
       },
       "canonical_ingredient_ids": [
-        45
+        45,
+        546
       ]
     },
     {
@@ -20973,6 +21201,8 @@
         "2 bottles whipped cream",
         "3 tbsp cold water",
         "agua",
+        "gelatina",
+        "knox gelatine",
         "water"
       ],
       "yield": null,
@@ -21008,7 +21238,8 @@
         ]
       },
       "canonical_ingredient_ids": [
-        52
+        52,
+        546
       ]
     },
     {
@@ -21094,6 +21325,8 @@
         "acucar confeiteiro",
         "clara",
         "egg whites",
+        "gelatina",
+        "gelatine",
         "leite",
         "milk",
         "powdered sugar"
@@ -21135,7 +21368,8 @@
       "canonical_ingredient_ids": [
         7,
         8,
-        87
+        87,
+        546
       ]
     },
     {
@@ -21540,7 +21774,9 @@
         "agua",
         "creme de leite",
         "eggs",
+        "gelatina",
         "heavy cream",
+        "knox gelatine",
         "ovos",
         "sal",
         "salt",
@@ -21584,7 +21820,8 @@
         18,
         45,
         52,
-        56
+        56,
+        546
       ]
     },
     {
@@ -21677,6 +21914,8 @@
         "12 macaroons",
         "agua",
         "chocolate",
+        "gelatina",
+        "knox gelatine",
         "sal",
         "salt",
         "water"
@@ -21718,7 +21957,8 @@
       "canonical_ingredient_ids": [
         45,
         52,
-        360
+        360,
+        546
       ]
     },
     {
@@ -21979,6 +22219,8 @@
         "acucar",
         "agua",
         "arroz",
+        "gelatina",
+        "gelatine",
         "rice",
         "sugar",
         "water"
@@ -22022,6 +22264,7 @@
       "canonical_ingredient_ids": [
         3,
         52,
+        546,
         938
       ]
     },
@@ -22115,6 +22358,8 @@
         "baunilha",
         "creme de leite",
         "eggs",
+        "gelatina",
+        "knox gelatine",
         "leite",
         "milk",
         "ovos",
@@ -22169,7 +22414,8 @@
         52,
         56,
         204,
-        355
+        355,
+        546
       ]
     },
     {
@@ -23985,6 +24231,8 @@
         "34 cup chopped nuts",
         "agua",
         "eggs",
+        "gelatina",
+        "gelatine",
         "gelatine amount not stated in source",
         "lady fingers to line the mold",
         "ovos",
@@ -24028,7 +24276,8 @@
       },
       "canonical_ingredient_ids": [
         18,
-        52
+        52,
+        546
       ]
     },
     {
@@ -24972,6 +25221,7 @@
         "2 cups canned cherries drained",
         "2 cups flour",
         "acucar",
+        "bicarbonato",
         "butter",
         "canela",
         "cinnamon",
@@ -24986,6 +25236,7 @@
         "ovo",
         "sal",
         "salt",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -25035,6 +25286,7 @@
         9,
         10,
         45,
+        78,
         774
       ]
     },
@@ -25365,6 +25617,7 @@
         "113 cups flour",
         "acucar",
         "agua",
+        "bicarbonato",
         "boiling water",
         "butter",
         "egg",
@@ -25373,6 +25626,7 @@
         "grated orange peel",
         "manteiga",
         "ovo",
+        "soda",
         "sugar"
       ],
       "yield": null,
@@ -25416,7 +25670,8 @@
         4,
         9,
         10,
-        52
+        52,
+        78
       ]
     },
     {
@@ -33336,6 +33591,8 @@
         "acucar",
         "almonds",
         "amendoas",
+        "gelatina",
+        "gelatine",
         "sugar",
         "vinagre",
         "vinegar"
@@ -33377,6 +33634,7 @@
       },
       "canonical_ingredient_ids": [
         3,
+        546,
         655,
         741
       ]
@@ -35587,6 +35845,8 @@
         "acucar",
         "agua",
         "boiling water",
+        "gelatina",
+        "gelatine",
         "lemon juice",
         "pinch salt",
         "sal",
@@ -35638,7 +35898,8 @@
         3,
         45,
         52,
-        267
+        267,
+        546
       ]
     },
     {
@@ -35844,6 +36105,8 @@
         "2 tbsp lemon juice",
         "agua",
         "boiling water",
+        "gelatina",
+        "gelatine",
         "lemon juice",
         "oleo",
         "paprica",
@@ -35892,6 +36155,7 @@
         45,
         52,
         267,
+        546,
         1115
       ]
     },
@@ -36008,6 +36272,8 @@
         "acucar",
         "agua",
         "celery",
+        "gelatina",
+        "gelatine",
         "lemon juice",
         "sal",
         "salsao",
@@ -36062,6 +36328,7 @@
         45,
         52,
         267,
+        546,
         655,
         1021
       ]
@@ -36094,7 +36361,9 @@
         "dry mustard",
         "dry mustard",
         "eggs",
+        "gelatina",
         "juice 1 lemon",
+        "knox gelatine",
         "leite",
         "manteiga",
         "milk",
@@ -36151,6 +36420,7 @@
         18,
         45,
         52,
+        546,
         1115,
         1139
       ]
@@ -36245,6 +36515,8 @@
         "egg",
         "farinha de trigo",
         "flour",
+        "gelatina",
+        "gelatine",
         "leite",
         "lemon juice",
         "manteiga",
@@ -36309,6 +36581,7 @@
         45,
         52,
         267,
+        546,
         639,
         1115
       ]
@@ -36334,6 +36607,8 @@
         "acucar confeiteiro",
         "agua",
         "dash cayenne pepper",
+        "gelatina",
+        "gelatine",
         "pepper",
         "pimenta",
         "powdered sugar",
@@ -36382,6 +36657,7 @@
         45,
         52,
         531,
+        546,
         884
       ]
     },
@@ -36408,6 +36684,8 @@
         "celery",
         "cream cheese",
         "cream cheese",
+        "gelatina",
+        "knox gelatine",
         "salsao",
         "water"
       ],
@@ -36448,6 +36726,7 @@
       "canonical_ingredient_ids": [
         52,
         307,
+        546,
         1021
       ]
     },
@@ -36473,6 +36752,8 @@
         "celery",
         "cream cheese",
         "cream cheese",
+        "gelatina",
+        "gelatine",
         "maionese",
         "mayonnaise",
         "onion",
@@ -36516,6 +36797,7 @@
       "canonical_ingredient_ids": [
         127,
         307,
+        546,
         667,
         1021
       ]
@@ -36545,6 +36827,8 @@
         "agua",
         "carrots",
         "cenoura",
+        "gelatina",
+        "knox gelatine",
         "paprica",
         "paprika",
         "sal",
@@ -36593,6 +36877,7 @@
       "canonical_ingredient_ids": [
         45,
         52,
+        546,
         655,
         668,
         1115
@@ -36627,6 +36912,8 @@
         "acucar",
         "agua",
         "boiling water",
+        "gelatina",
+        "knox gelatine",
         "lemon juice",
         "sal",
         "salt",
@@ -36684,6 +36971,7 @@
         45,
         52,
         267,
+        546,
         655
       ]
     },
@@ -44111,6 +44399,8 @@
         "caldo de galinha",
         "chicken stock",
         "dash paprika and celery salt",
+        "gelatina",
+        "gelatine",
         "sal",
         "salt",
         "water"
@@ -44155,6 +44445,7 @@
       "canonical_ingredient_ids": [
         45,
         52,
+        546,
         743
       ]
     },
@@ -45970,6 +46261,7 @@
         "2 tbsp molasses for sauce",
         "agua",
         "bacon and onion for layering",
+        "bicarbonato",
         "boiling water",
         "catsup",
         "ketchup",
@@ -45980,7 +46272,8 @@
         "pepper",
         "pimenta",
         "salt and pepper",
-        "salt pork small piece for soup plus 112 lb for beans"
+        "salt pork small piece for soup plus 112 lb for beans",
+        "soda"
       ],
       "yield": null,
       "prep_time": null,
@@ -46024,6 +46317,7 @@
       },
       "canonical_ingredient_ids": [
         52,
+        78,
         531,
         617,
         639,

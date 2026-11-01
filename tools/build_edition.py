@@ -19,6 +19,14 @@ SOURCE = ROOT / "source" / "mayflower-recipes-v8-edited.json"
 OUTPUT = ROOT / "dist" / "data"
 DEFAULT_REGISTRY = Path(r"D:\Projects\Online\recipes\generated\backups\live-20261027-r5-descriptions.sqlite")
 
+# Historical cookbook terms whose meanings are unambiguous in this culinary context.
+# Values are normalized R5 registry aliases; additions remain visible in the report.
+HISTORICAL_ALIASES = {
+    "soda": "baking-soda",
+    "gelatine": "gelatina",
+    "knox-gelatine": "gelatina",
+}
+
 
 def normalized(value: str) -> str:
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
@@ -67,15 +75,18 @@ def load_registry(path: Path) -> tuple[dict[str, dict], dict[int, int]]:
 
 def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int, int]) -> dict:
     for candidate in ingredient_candidates(line):
-        if candidate not in registry:
+        target = HISTORICAL_ALIASES.get(candidate, candidate)
+        if target not in registry:
             continue
-        result = dict(registry[candidate])
+        result = dict(registry[target])
         ingredient_id = result["ingredient_id"]
         if ingredient_id in redirects:
             result["redirected_from"] = ingredient_id
             result["ingredient_id"] = redirects[ingredient_id]
             result["match_kind"] = "redirect"
         result["matched_term"] = candidate
+        if candidate != target:
+            result["match_kind"] = "historical_alias"
         return result
     return {"match_kind": "unmatched"}
 
