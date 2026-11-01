@@ -43,7 +43,7 @@ The chapter catalog appears immediately below search and is displayed when the p
 
 All 31 chapters appear in the catalog. Results start with 24 recipes; select **Show more recipes** to reveal the next 24. The count shows how many are visible out of the total, and changing a search or filter starts a fresh set.
 
-Recipe cards show the chapter, title, and available contributor and page details. Descriptions and the complete historical ingredient list appear on the recipe page.
+Recipe cards show the chapter, title, a short description, and available contributor and page details. The recipe detail screen goes directly from the title to ingredients and directions.
 
 ## Recipe pages
 
