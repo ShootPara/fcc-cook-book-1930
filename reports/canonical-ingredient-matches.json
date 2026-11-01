@@ -2,14 +2,14 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3385,
-    "extension": 983,
-    "unmatched": 202,
+    "alias": 3388,
+    "extension": 992,
+    "unmatched": 190,
     "historical_alias": 126
   },
   "review_summary": {
     "underspecified_ingredient": 82,
-    "unresolved_food_identity": 92,
+    "unresolved_food_identity": 80,
     "branded_or_proprietary_reference": 9,
     "structural_heading": 8,
     "textual_fragment": 9,
@@ -25645,15 +25645,27 @@
       "recipe_id": "mg1930-p103-r04",
       "recipe_title": "LADY FINGERS - ICE CREAM",
       "display_text": "Sweetened whipped cream, optionally tinted",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2025,
+      "canonical_name": "cream",
+      "canonical_name_normalized": "cream",
+      "display_name_en": "cream",
+      "display_name_pt": "creme",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream"
     },
     {
       "recipe_id": "mg1930-p103-r04",
       "recipe_title": "LADY FINGERS - ICE CREAM",
       "display_text": "Chopped nuts, to garnish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2003,
+      "canonical_name": "nuts",
+      "canonical_name_normalized": "nuts",
+      "display_name_en": "nuts",
+      "display_name_pt": "nozes",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "nuts"
     },
     {
       "recipe_id": "mg1930-p103-r04",
@@ -36379,8 +36391,14 @@
       "recipe_id": "mg1930-p138-r02",
       "recipe_title": "CELERY ICE PICKLES",
       "display_text": "6 pieces fresh celery per jar",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "celery",
+      "ingredient_id": 1021,
+      "canonical_name": "salsão",
+      "canonical_name_normalized": "salsao",
+      "display_name_en": null,
+      "display_name_pt": "salsão",
+      "match_kind": "alias",
+      "matched_term": "celery"
     },
     {
       "recipe_id": "mg1930-p138-r02",
@@ -40591,8 +40609,14 @@
       "recipe_id": "mg1930-p152-r04",
       "recipe_title": "DELICIOUS CANNED ASPARAGUS SALAD",
       "display_text": "Canned asparagus tips",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2121,
+      "canonical_name": "asparagus",
+      "canonical_name_normalized": "asparagus",
+      "display_name_en": "asparagus",
+      "display_name_pt": "aspargos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "asparagus"
     },
     {
       "recipe_id": "mg1930-p152-r04",
@@ -40780,8 +40804,14 @@
       "recipe_id": "mg1930-p153-r02",
       "recipe_title": "BUTTERFLY SALAD",
       "display_text": "Pineapple rings, halved",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2029,
+      "canonical_name": "pineapple",
+      "canonical_name_normalized": "pineapple",
+      "display_name_en": "pineapple",
+      "display_name_pt": "abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple"
     },
     {
       "recipe_id": "mg1930-p153-r02",
@@ -41685,8 +41715,14 @@
       "recipe_id": "mg1930-p155-r03",
       "recipe_title": "GRAPEFRUIT SALAD",
       "display_text": "Grapefruit segments",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2114,
+      "canonical_name": "grapefruit",
+      "canonical_name_normalized": "grapefruit",
+      "display_name_en": "grapefruit",
+      "display_name_pt": "toranja",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "grapefruit"
     },
     {
       "recipe_id": "mg1930-p155-r03",
@@ -42188,8 +42224,14 @@
       "recipe_id": "mg1930-p156-r05",
       "recipe_title": "PINEAPPLE - GRAPEFRUIT SALAD",
       "display_text": "Pineapple pieces",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2029,
+      "canonical_name": "pineapple",
+      "canonical_name_normalized": "pineapple",
+      "display_name_en": "pineapple",
+      "display_name_pt": "abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple"
     },
     {
       "recipe_id": "mg1930-p156-r05",
@@ -42390,8 +42432,14 @@
       "recipe_id": "mg1930-p157-r01",
       "recipe_title": "PRINCESS SALAD",
       "display_text": "Green-pepper strips",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "green pepper",
+      "ingredient_id": 931,
+      "canonical_name": "pimentão",
+      "canonical_name_normalized": "pimentao",
+      "display_name_en": null,
+      "display_name_pt": "pimentão",
+      "match_kind": "alias",
+      "matched_term": "green-pepper"
     },
     {
       "recipe_id": "mg1930-p157-r01",
@@ -43355,8 +43403,14 @@
       "recipe_id": "mg1930-p161-r02",
       "recipe_title": "GINGER ALE SALAD",
       "display_text": "Grapefruit pieces",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2114,
+      "canonical_name": "grapefruit",
+      "canonical_name_normalized": "grapefruit",
+      "display_name_en": "grapefruit",
+      "display_name_pt": "toranja",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "grapefruit"
     },
     {
       "recipe_id": "mg1930-p161-r02",
@@ -45008,8 +45062,14 @@
       "recipe_id": "mg1930-p166-r05",
       "recipe_title": "ROLLED ASPARAGUS SANDWICHES",
       "display_text": "1–2 cooked asparagus spears per sandwich",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2121,
+      "canonical_name": "asparagus",
+      "canonical_name_normalized": "asparagus",
+      "display_name_en": "asparagus",
+      "display_name_pt": "aspargos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "asparagus-spears"
     },
     {
       "recipe_id": "mg1930-p166-r05",
@@ -52710,8 +52770,14 @@
       "recipe_id": "mg1930-p193-r02",
       "recipe_title": "WILD DUCK",
       "display_text": "Bacon strips, for lining and topping",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "bacon",
+      "ingredient_id": 689,
+      "canonical_name": "bacon",
+      "canonical_name_normalized": "bacon",
+      "display_name_en": null,
+      "display_name_pt": "bacon",
+      "match_kind": "alias",
+      "matched_term": "bacon"
     },
     {
       "recipe_id": "mg1930-p193-r02",
@@ -55787,8 +55853,14 @@
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Mayonnaise and pimiento strips, to garnish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimiento"
     },
     {
       "recipe_id": "mg1930-p204-r04",

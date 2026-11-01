@@ -37,7 +37,6 @@ unresolved_food_identity,1/4 cupflour,1,mg1930-p113-r04,DATE PUDDING
 underspecified_ingredient,1½ cups diced cooked white chicken meat,1,mg1930-p194-r01,CHICKEN MOUSSE
 unresolved_food_identity,1½ cupsflour,1,mg1930-p087-r04,WHITE CAKE
 unresolved_food_identity,1½ lbs. ground steak,1,mg1930-p179-r04,MEAT LOAF
-unresolved_food_identity,1–2 cooked asparagus spears per sandwich,1,mg1930-p166-r05,ROLLED ASPARAGUS SANDWICHES
 unresolved_food_identity,"1–2 cups celery, finely chopped",1,mg1930-p157-r04,SHRIMP SALAD
 underspecified_ingredient,"2 cups chopped, cooked meat",1,mg1930-p188-r03,CASSEROLE OF RICE AND MEAT
 underspecified_ingredient,2 cups diced cooked meat,1,mg1930-p180-r05,SHEPHERDS PIE
@@ -67,7 +66,6 @@ unresolved_food_identity,4 rolled crackers,1,mg1930-p177-r04,VEAL LOAF
 unresolved_food_identity,4 sq. chocolate melted in double boiler,1,mg1930-p128-r02,CHOCOLATE SAUCE
 underspecified_ingredient,4 tbsp. buttered crumbs,1,mg1930-p185-r03,CREAMED NOODLE WITH CHEESE
 unresolved_food_identity,"4 tbsp. sugar-let melt, then add",1,mg1930-p128-r02,CHOCOLATE SAUCE
-unresolved_food_identity,6 pieces fresh celery per jar,1,mg1930-p138-r02,CELERY ICE PICKLES
 unresolved_food_identity,"6 tbsp. finely minced, uncooked",1,mg1930-p209-r02,STUFFED BAKED POTATOES
 branded_or_proprietary_reference,6 tsp. chop suey sauce,1,mg1930-p183-r03,CHOP SUEY
 stray_number,7,1,mg1930-p181-r02,LAMB AND STRING BEANS
@@ -80,7 +78,6 @@ structural_heading,[Meat Substitute],1,mg1930-p186-r01,NUT LOAF
 underspecified_ingredient,any fruit desired,1,mg1930-p160-r05,FANCY SALAD
 unresolved_food_identity,"apples, rather tart",1,mg1930-p131-r01,APPLE PIE
 underspecified_ingredient,artificial coloring,1,mg1930-p106-r01,CHARLOTTE RUSSE
-unresolved_food_identity,"Bacon strips, for lining and topping",1,mg1930-p193-r02,WILD DUCK
 unresolved_food_identity,Bamboo Sprouts may be added,1,mg1930-p183-r01,CHOP SUEY
 underspecified_ingredient,Boiled icing (quantity not specified),1,mg1930-p095-r01,LADY BALTIMORE ICING
 underspecified_ingredient,Bread dressing,1,mg1930-p171-r03,MOCK DUCK
@@ -95,11 +92,9 @@ unresolved_food_identity,"Butter, melted and in small pieces",1,mg1930-p197-r01,
 underspecified_ingredient,Buttered crumbs,1,mg1930-p205-r01,CARROTS AU GRATIN
 underspecified_ingredient,buttered crumbs,1,mg1930-p213-r05,TOMATO AND CABBAGE MULLIGAN
 unresolved_food_identity,"Buttered toast, for serving",1,mg1930-p181-r01,LUNCHEON DISH
-unresolved_food_identity,Canned asparagus tips,1,mg1930-p152-r04,DELICIOUS CANNED ASPARAGUS SALAD
 textual_fragment,cheese is mushy),1,mg1930-p116-r01,CHEESE TORTE
 branded_or_proprietary_reference,Chop Suey Sauce,1,mg1930-p182-r05,CHOP SUEY
 textual_fragment,chopped,1,mg1930-p210-r01,"POTATOES, EGG TIMBALES"
-unresolved_food_identity,"Chopped nuts, to garnish",1,mg1930-p103-r04,LADY FINGERS - ICE CREAM
 unresolved_food_identity,"Cinnamon apple rings, optional garnish",1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
 unresolved_food_identity,Coarsely crushed crackers,1,mg1930-p197-r01,SCALLOPED OYSTERS
 underspecified_ingredient,Cooking fat,1,mg1930-p186-r05,SPAGHETTI WITH ROUND STEAK
@@ -123,10 +118,7 @@ underspecified_ingredient,"Flour, if needed to thicken gravy",1,mg1930-p175-r03,
 unresolved_food_identity,"Fresh whitefish, 2½–3 lbs.",1,mg1930-p195-r04,BROILED WHITEFISH
 underspecified_ingredient,Fruit salad dressing (4 tbsp. for mixing and more for serving),1,mg1930-p161-r04,FROZEN PINEAPPLE AND CHEESE SALAD
 underspecified_ingredient,Glacé fruit dressing,1,mg1930-p155-r03,GRAPEFRUIT SALAD
-unresolved_food_identity,Grapefruit pieces,1,mg1930-p161-r02,GINGER ALE SALAD
 unresolved_food_identity,"Grapefruit sections, membranes removed",1,mg1930-p156-r05,PINEAPPLE - GRAPEFRUIT SALAD
-unresolved_food_identity,Grapefruit segments,1,mg1930-p155-r03,GRAPEFRUIT SALAD
-unresolved_food_identity,Green-pepper strips,1,mg1930-p157-r01,PRINCESS SALAD
 textual_fragment,ground,1,mg1930-p174-r02,SWIFT'S PREMIUM HAM LOAF
 unresolved_food_identity,"Ground peanuts, for coating",1,mg1930-p083-r03,PEANUT BARS
 unresolved_food_identity,"Ground round steak, about ½ lb. per ½ lb. dry pasta",1,mg1930-p186-r05,SPAGHETTI WITH ROUND STEAK
@@ -139,7 +131,6 @@ underspecified_ingredient,"Leftover cooked meat, chopped",1,mg1930-p180-r04,FOR 
 underspecified_ingredient,"Leftover gravy, optional",1,mg1930-p180-r05,SHEPHERDS PIE
 unresolved_food_identity,"Lobster coral, if available",1,mg1930-p155-r05,LOBSTER SALAD
 underspecified_ingredient,Lobster meat,1,mg1930-p167-r04,LOBSTER SALAD SANDWICHES
-unresolved_food_identity,"Mayonnaise and pimiento strips, to garnish",1,mg1930-p204-r03,STUFFED BEETS
 unresolved_food_identity,"Medium onions, all about the same size, skins on",1,mg1930-p212-r02,BAKED ONIONS
 textual_fragment,melted,1,mg1930-p060-r04,ICE BOX COOKIES
 underspecified_ingredient,"Milk, sweet cider, or diluted peach-pickle juice, enough to cover",1,mg1930-p172-r05,BAKED SLICE OF HAM
@@ -150,8 +141,6 @@ unresolved_food_identity,Pan drippings from broiled steak,1,mg1930-p170-r04,STEA
 unresolved_food_identity,"Paprika, to finish",1,mg1930-p153-r03,CABBAGE IN SOUR CREAM DRESSING
 unresolved_food_identity,Pimiento cheese spread,1,mg1930-p167-r02,ROLLED SANDWICHES WITH CHEESE
 unresolved_food_identity,pinch of cayenne,1,mg1930-p189-r04,CHEESE FONDU
-unresolved_food_identity,Pineapple pieces,1,mg1930-p156-r05,PINEAPPLE - GRAPEFRUIT SALAD
-unresolved_food_identity,"Pineapple rings, halved",1,mg1930-p153-r02,BUTTERFLY SALAD
 unresolved_food_identity,"Pineapple, grated or ground",1,mg1930-p141-r03,PINEAPPLE JAM
 underspecified_ingredient,"Pink coloring, as needed",1,mg1930-p102-r05,COLD DESSERT
 unresolved_food_identity,Plain or puff paste,1,mg1930-p134-r04,PINEAPPLE PIE
@@ -173,7 +162,6 @@ underspecified_ingredient,"Spinach juice or green coloring, optional",1,mg1930-p
 unresolved_food_identity,"Steak, cut 1½ inches thick",1,mg1930-p170-r01,SPANISH STEAK
 underspecified_ingredient,"Strong brine, for soaking",1,mg1930-p139-r04,CHUNK PICKLES
 underspecified_ingredient,"Strong salt brine, to cover vegetables",1,mg1930-p139-r02,ARISTOCRAT PICKLES
-unresolved_food_identity,"Sweetened whipped cream, optionally tinted",1,mg1930-p103-r04,LADY FINGERS - ICE CREAM
 textual_fragment,thin on board,1,mg1930-p057-r03,SUGAR COOKIES
 unresolved_food_identity,"Toast, for serving",1,mg1930-p175-r04,CREAMED PORK TENDERLOIN
 unresolved_food_identity,"Tomatoes, fresh or canned",1,mg1930-p214-r02,VEGETABLE DISH FOR OVEN MEAL

@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "created_at": "2026-11-01T21:48:03.690945+00:00",
+  "created_at": "2026-11-01T21:49:32.259609+00:00",
   "recipes": [
     {
       "id": 1,
@@ -22146,6 +22146,8 @@
         "cream",
         "creme",
         "ladyfingers",
+        "nozes",
+        "nuts",
         "sweetened whipped cream optionally tinted"
       ],
       "yield": null,
@@ -22183,6 +22185,7 @@
         ]
       },
       "canonical_ingredient_ids": [
+        2003,
         2025,
         2094,
         2101
@@ -32209,6 +32212,7 @@
         "6 pieces fresh celery per jar",
         "acucar",
         "cebola",
+        "celery",
         "celery seed",
         "celery seed",
         "cucumber",
@@ -32217,6 +32221,7 @@
         "onion",
         "pepino",
         "sal",
+        "salsao",
         "salt",
         "sementes de aipo",
         "sugar",
@@ -32261,6 +32266,7 @@
         45,
         655,
         667,
+        1021,
         1122,
         2036
       ]
@@ -36153,6 +36159,8 @@
       "translations": {},
       "ingredient_search_terms": [
         "alface",
+        "asparagus",
+        "aspargos",
         "canned asparagus tips",
         "french dressing",
         "french dressing",
@@ -36200,7 +36208,8 @@
       "canonical_ingredient_ids": [
         127,
         2005,
-        2007
+        2007,
+        2121
       ]
     },
     {
@@ -36359,6 +36368,7 @@
       "description": "A salads recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "abacaxi",
         "alface",
         "azeitonas",
         "dates split lengthwise",
@@ -36373,6 +36383,7 @@
         "pimiento",
         "pimiento strips",
         "pimiento strips",
+        "pineapple",
         "pineapple rings halved",
         "stuffed olives sliced"
       ],
@@ -36413,6 +36424,7 @@
       "canonical_ingredient_ids": [
         127,
         2005,
+        2029,
         2034,
         2041
       ]
@@ -37213,10 +37225,12 @@
         "celery curls",
         "celery curls",
         "glace fruit dressing",
+        "grapefruit",
         "grapefruit segments",
         "lettuce",
         "lettuce leaves",
-        "lettuce leaves"
+        "lettuce leaves",
+        "toranja"
       ],
       "yield": null,
       "prep_time": null,
@@ -37250,7 +37264,8 @@
       },
       "canonical_ingredient_ids": [
         2005,
-        2037
+        2037,
+        2114
       ]
     },
     {
@@ -37709,6 +37724,7 @@
       "description": "A salads recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "abacaxi",
         "alface",
         "cream",
         "creme",
@@ -37716,6 +37732,7 @@
         "lettuce",
         "lettuce leaves",
         "lettuce leaves",
+        "pineapple",
         "pineapple pieces",
         "sweetened whipped cream"
       ],
@@ -37753,7 +37770,8 @@
       },
       "canonical_ingredient_ids": [
         2005,
-        2025
+        2025,
+        2029
       ]
     },
     {
@@ -37872,11 +37890,13 @@
         "aspargos",
         "french dressing",
         "french dressing",
+        "green pepper",
         "green pepper strips",
         "lettuce",
         "lettuce leaves",
         "lettuce leaves",
         "molho frances",
+        "pimentao",
         "pimentao",
         "pimiento",
         "pimiento strips",
@@ -37918,6 +37938,7 @@
       },
       "canonical_ingredient_ids": [
         884,
+        931,
         2005,
         2007,
         2034,
@@ -38729,6 +38750,7 @@
         "gelatina de limao",
         "ginger ale",
         "ginger ale",
+        "grapefruit",
         "grapefruit pieces",
         "grapes",
         "grapes",
@@ -38737,6 +38759,7 @@
         "lemon gelatin dessert",
         "pineapple",
         "pineapple diced",
+        "toranja",
         "uvas",
         "water"
       ],
@@ -38781,7 +38804,8 @@
         2038,
         2050,
         2090,
-        2092
+        2092,
+        2114
       ]
     },
     {
@@ -40176,6 +40200,9 @@
       "translations": {},
       "ingredient_search_terms": [
         "12 cooked asparagus spears per sandwich",
+        "asparagus",
+        "asparagus spears",
+        "aspargos",
         "bread",
         "maionese",
         "manteiga",
@@ -40221,7 +40248,8 @@
       "canonical_ingredient_ids": [
         9,
         127,
-        1126
+        1126,
+        2121
       ]
     },
     {
@@ -47812,6 +47840,7 @@
       "ingredient_search_terms": [
         "1 cleaned wild duck",
         "1 onion or carrot for parboiling",
+        "bacon",
         "bacon strips for lining and topping",
         "cebola",
         "onion",
@@ -47854,6 +47883,7 @@
       },
       "canonical_ingredient_ids": [
         667,
+        689,
         2130
       ]
     },
@@ -50745,6 +50775,8 @@
         "onion finely chopped",
         "ovos",
         "picles doces",
+        "pimentao",
+        "pimiento",
         "sardines",
         "sardines or caviar chopped",
         "sardinhas",
@@ -50794,6 +50826,7 @@
       "canonical_ingredient_ids": [
         18,
         655,
+        2034,
         2148,
         2161,
         2165
