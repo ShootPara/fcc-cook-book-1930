@@ -44,7 +44,7 @@ def slug(value: str) -> str:
 def ingredient_candidates(line: str) -> list[str]:
     """Produce conservative identity candidates without altering display text."""
     value = line.lower()
-    value = re.sub(r"^\s*(?:\d+(?:[./]\d+)?|[½¼¾⅓⅔⅛⅜⅝⅞]+|one|two|three)\s*", "", value)
+    value = re.sub(r"^\s*(?:\d+(?:[./]\d+|[½¼¾⅓⅔⅛⅜⅝⅞�])?|[½¼¾⅓⅔⅛⅜⅝⅞]+|one|two|three)\s*", "", value)
     value = re.sub(r"\b(?:cups?|c\.?|tablespoons?|tbsp\.?|teaspoons?|tsp\.?|pounds?|lbs?\.?|ounces?|oz\.?|quarts?|qts?\.?|pints?|pt\.?|gallons?|cans?|packages?|pkg\.?|slices?)\b", "", value)
     value = re.sub(r"\([^)]*\)", "", value)
     identity_value = value

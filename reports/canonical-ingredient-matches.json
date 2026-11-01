@@ -2,9 +2,9 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3325,
-    "extension": 691,
-    "unmatched": 572,
+    "alias": 3326,
+    "extension": 745,
+    "unmatched": 517,
     "historical_alias": 108
   },
   "matches": [
@@ -2308,14 +2308,14 @@
       "recipe_id": "mg1930-p025-r04",
       "recipe_title": "WAFFLES, EASY",
       "display_text": "1½ cups sour milk or buttermilk",
-      "ingredient_id": 2055,
-      "canonical_name": "buttermilk",
-      "canonical_name_normalized": "buttermilk",
-      "display_name_en": "buttermilk",
-      "display_name_pt": "leitelho",
+      "ingredient_id": 2056,
+      "canonical_name": "sour milk",
+      "canonical_name_normalized": "sour-milk",
+      "display_name_en": "sour milk",
+      "display_name_pt": "leite azedo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "buttermilk"
+      "matched_term": "sour-milk"
     },
     {
       "recipe_id": "mg1930-p025-r04",
@@ -21244,7 +21244,14 @@
       "recipe_id": "mg1930-p085-r02",
       "recipe_title": "SWEET MILK SPICE CAKE",
       "display_text": "2 tsp. mixed spices",
-      "match_kind": "unmatched"
+      "ingredient_id": 2107,
+      "canonical_name": "pickling spices",
+      "canonical_name_normalized": "pickling-spices",
+      "display_name_en": "pickling spices",
+      "display_name_pt": "especiarias para conserva",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mixed-spices"
     },
     {
       "recipe_id": "mg1930-p085-r02",
@@ -25033,7 +25040,14 @@
       "recipe_id": "mg1930-p102-r05",
       "recipe_title": "COLD DESSERT",
       "display_text": "Cherry, for garnish",
-      "match_kind": "unmatched"
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cherry"
     },
     {
       "recipe_id": "mg1930-p102-r05",
@@ -25123,7 +25137,14 @@
       "recipe_id": "mg1930-p103-r01",
       "recipe_title": "GRAPE FRUIT SHERBET",
       "display_text": "2 large, or 3 smaller grape fruit",
-      "match_kind": "unmatched"
+      "ingredient_id": 2114,
+      "canonical_name": "grapefruit",
+      "canonical_name_normalized": "grapefruit",
+      "display_name_en": "grapefruit",
+      "display_name_pt": "toranja",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "grape-fruit"
     },
     {
       "recipe_id": "mg1930-p103-r02",
@@ -25297,7 +25318,14 @@
       "recipe_id": "mg1930-p103-r04",
       "recipe_title": "LADY FINGERS - ICE CREAM",
       "display_text": "1 maraschino cherry per serving",
-      "match_kind": "unmatched"
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cherry"
     },
     {
       "recipe_id": "mg1930-p103-r05",
@@ -25886,7 +25914,14 @@
       "recipe_id": "mg1930-p106-r04",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "cherries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cherries"
     },
     {
       "recipe_id": "mg1930-p106-r04",
@@ -26746,7 +26781,14 @@
       "recipe_id": "mg1930-p109-r02",
       "recipe_title": "JELLIED RHUBARB",
       "display_text": "1 qt. diced rhubarb",
-      "match_kind": "unmatched"
+      "ingredient_id": 2097,
+      "canonical_name": "rhubarb",
+      "canonical_name_normalized": "rhubarb",
+      "display_name_en": "rhubarb",
+      "display_name_pt": "ruibarbo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "rhubarb"
     },
     {
       "recipe_id": "mg1930-p109-r02",
@@ -27012,7 +27054,14 @@
       "recipe_id": "mg1930-p112-r02",
       "recipe_title": "CRANBERRY SAUCE",
       "display_text": "1 qt. cranberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2098,
+      "canonical_name": "cranberries",
+      "canonical_name_normalized": "cranberries",
+      "display_name_en": "cranberries",
+      "display_name_pt": "cranberries",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cranberries"
     },
     {
       "recipe_id": "mg1930-p112-r02",
@@ -27226,7 +27275,14 @@
       "recipe_id": "mg1930-p112-r05",
       "recipe_title": "DATE DELIGHT",
       "display_text": "1 lb. graham crackers",
-      "match_kind": "unmatched"
+      "ingredient_id": 2099,
+      "canonical_name": "graham crackers",
+      "canonical_name_normalized": "graham-crackers",
+      "display_name_en": "graham crackers",
+      "display_name_pt": "biscoitos graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-crackers"
     },
     {
       "recipe_id": "mg1930-p112-r05",
@@ -27761,7 +27817,14 @@
       "recipe_id": "mg1930-p114-r01",
       "recipe_title": "GRAHAM CRACKER PUDDING",
       "display_text": "1½ cups graham crackers",
-      "match_kind": "unmatched"
+      "ingredient_id": 2099,
+      "canonical_name": "graham crackers",
+      "canonical_name_normalized": "graham-crackers",
+      "display_name_en": "graham crackers",
+      "display_name_pt": "biscoitos graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-crackers"
     },
     {
       "recipe_id": "mg1930-p114-r01",
@@ -28136,7 +28199,14 @@
       "recipe_id": "mg1930-p115-r01",
       "recipe_title": "ORANGE PARISIAN",
       "display_text": "2 fresh pears, or 4 canned pear halves",
-      "match_kind": "unmatched"
+      "ingredient_id": 2100,
+      "canonical_name": "pears",
+      "canonical_name_normalized": "pears",
+      "display_name_en": "pears",
+      "display_name_pt": "peras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pears"
     },
     {
       "recipe_id": "mg1930-p115-r01",
@@ -29159,7 +29229,14 @@
       "recipe_id": "mg1930-p117-r04",
       "recipe_title": "DAINTY DESSERT",
       "display_text": "12 cream puff shells",
-      "match_kind": "unmatched"
+      "ingredient_id": 2096,
+      "canonical_name": "cream puff shells",
+      "canonical_name_normalized": "cream-puff-shells",
+      "display_name_en": "cream puff shells",
+      "display_name_pt": "cascas de profiterole",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream-puff-shells"
     },
     {
       "recipe_id": "mg1930-p117-r04",
@@ -29210,7 +29287,14 @@
       "recipe_id": "mg1930-p118-r01",
       "recipe_title": "STRAWBERRY CREAM PUFFS",
       "display_text": "12 cream puff shells",
-      "match_kind": "unmatched"
+      "ingredient_id": 2096,
+      "canonical_name": "cream puff shells",
+      "canonical_name_normalized": "cream-puff-shells",
+      "display_name_en": "cream puff shells",
+      "display_name_pt": "cascas de profiterole",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream-puff-shells"
     },
     {
       "recipe_id": "mg1930-p118-r02",
@@ -29597,7 +29681,14 @@
       "recipe_id": "mg1930-p120-r04",
       "recipe_title": "APRICOT BREAD PUDDING",
       "display_text": "Syrup from 1 can Del Monte peaches",
-      "match_kind": "unmatched"
+      "ingredient_id": 2113,
+      "canonical_name": "peaches",
+      "canonical_name_normalized": "peaches",
+      "display_name_en": "peaches",
+      "display_name_pt": "pessegos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peaches"
     },
     {
       "recipe_id": "mg1930-p120-r04",
@@ -30036,7 +30127,14 @@
       "recipe_id": "mg1930-p121-r05",
       "recipe_title": "STEAMED CHERRY PUDDING",
       "display_text": "2 cups canned cherries, drained",
-      "match_kind": "unmatched"
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cherries"
     },
     {
       "recipe_id": "mg1930-p121-r05",
@@ -30510,7 +30608,14 @@
       "recipe_id": "mg1930-p122-r05",
       "recipe_title": "DATE PUDDING",
       "display_text": "grated orange peel",
-      "match_kind": "unmatched"
+      "ingredient_id": 2095,
+      "canonical_name": "orange zest",
+      "canonical_name_normalized": "orange-zest",
+      "display_name_en": "orange zest",
+      "display_name_pt": "raspas de laranja",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "orange-peel"
     },
     {
       "recipe_id": "mg1930-p123-r01",
@@ -34207,7 +34312,14 @@
       "recipe_id": "mg1930-p135-r02",
       "recipe_title": "PUMPKIN PIE",
       "display_text": "1¼ cups pumpkin",
-      "match_kind": "unmatched"
+      "ingredient_id": 2102,
+      "canonical_name": "pumpkin",
+      "canonical_name_normalized": "pumpkin",
+      "display_name_en": "pumpkin",
+      "display_name_pt": "abobora",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pumpkin"
     },
     {
       "recipe_id": "mg1930-p135-r02",
@@ -34226,7 +34338,14 @@
       "recipe_id": "mg1930-p135-r03",
       "recipe_title": "PUMPKIN PIE",
       "display_text": "2 cups stewed pumpkin",
-      "match_kind": "unmatched"
+      "ingredient_id": 2102,
+      "canonical_name": "pumpkin",
+      "canonical_name_normalized": "pumpkin",
+      "display_name_en": "pumpkin",
+      "display_name_pt": "abobora",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "stewed-pumpkin"
     },
     {
       "recipe_id": "mg1930-p135-r03",
@@ -34310,7 +34429,14 @@
       "recipe_id": "mg1930-p135-r04",
       "recipe_title": "RHUBARB CUSTARD PIE",
       "display_text": "2 cups diced rhubarb",
-      "match_kind": "unmatched"
+      "ingredient_id": 2097,
+      "canonical_name": "rhubarb",
+      "canonical_name_normalized": "rhubarb",
+      "display_name_en": "rhubarb",
+      "display_name_pt": "ruibarbo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "rhubarb"
     },
     {
       "recipe_id": "mg1930-p135-r04",
@@ -34407,7 +34533,14 @@
       "recipe_id": "mg1930-p136-r01",
       "recipe_title": "COCKTAIL SAUCE",
       "display_text": "1 tsp. horseradish",
-      "match_kind": "unmatched"
+      "ingredient_id": 2103,
+      "canonical_name": "horseradish",
+      "canonical_name_normalized": "horseradish",
+      "display_name_en": "horseradish",
+      "display_name_pt": "raiz-forte",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "horseradish"
     },
     {
       "recipe_id": "mg1930-p136-r01",
@@ -34692,7 +34825,14 @@
       "recipe_id": "mg1930-p136-r04",
       "recipe_title": "UNCOOKED CHILI SAUCE",
       "display_text": "1 cup white mustard seed",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "white-mustard-seed"
     },
     {
       "recipe_id": "mg1930-p136-r04",
@@ -34789,7 +34929,14 @@
       "recipe_id": "mg1930-p136-r05",
       "recipe_title": "CHILI SAUCE",
       "display_text": "½ cup white mustard seed",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "white-mustard-seed"
     },
     {
       "recipe_id": "mg1930-p136-r05",
@@ -34970,7 +35117,14 @@
       "recipe_id": "mg1930-p137-r01",
       "recipe_title": "RELISH",
       "display_text": "1 tsp. black mustard seed",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "black-mustard-seed"
     },
     {
       "recipe_id": "mg1930-p137-r01",
@@ -34989,7 +35143,14 @@
       "recipe_id": "mg1930-p137-r01",
       "recipe_title": "RELISH",
       "display_text": "1 tsp. yellow mustard seed",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "yellow-mustard-seed"
     },
     {
       "recipe_id": "mg1930-p137-r01",
@@ -35034,7 +35195,14 @@
       "recipe_id": "mg1930-p137-r02",
       "recipe_title": "WINTER SALAD",
       "display_text": "1 tbsp. turmeric",
-      "match_kind": "unmatched"
+      "ingredient_id": 2105,
+      "canonical_name": "turmeric",
+      "canonical_name_normalized": "turmeric",
+      "display_name_en": "turmeric",
+      "display_name_pt": "curcuma",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "turmeric"
     },
     {
       "recipe_id": "mg1930-p137-r02",
@@ -35053,7 +35221,14 @@
       "recipe_id": "mg1930-p137-r02",
       "recipe_title": "WINTER SALAD",
       "display_text": "2 tbsp. mustard seed",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mustard-seed"
     },
     {
       "recipe_id": "mg1930-p137-r02",
@@ -35233,7 +35408,14 @@
       "recipe_id": "mg1930-p137-r03",
       "recipe_title": "CORN RELISH",
       "display_text": "3 tbsp. mustard seed",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mustard-seed"
     },
     {
       "recipe_id": "mg1930-p137-r03",
@@ -35278,7 +35460,14 @@
       "recipe_id": "mg1930-p137-r04",
       "recipe_title": "CORN RELISH",
       "display_text": "4 tbsp. mustard seed",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mustard-seed"
     },
     {
       "recipe_id": "mg1930-p137-r04",
@@ -35586,7 +35775,14 @@
       "recipe_id": "mg1930-p138-r04",
       "recipe_title": "OIL PICKLES",
       "display_text": "1 oz. white mustard seed",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "white-mustard-seed"
     },
     {
       "recipe_id": "mg1930-p138-r04",
@@ -35727,7 +35923,14 @@
       "recipe_id": "mg1930-p139-r01",
       "recipe_title": "SMALL CUCUMBER PICKLES",
       "display_text": "Pickling spices, to taste",
-      "match_kind": "unmatched"
+      "ingredient_id": 2107,
+      "canonical_name": "pickling spices",
+      "canonical_name_normalized": "pickling-spices",
+      "display_name_en": "pickling spices",
+      "display_name_pt": "especiarias para conserva",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pickling-spices"
     },
     {
       "recipe_id": "mg1930-p139-r02",
@@ -35771,7 +35974,14 @@
       "recipe_id": "mg1930-p139-r02",
       "recipe_title": "ARISTOCRAT PICKLES",
       "display_text": "1 tbsp. yellow mustard seeds",
-      "match_kind": "unmatched"
+      "ingredient_id": 2104,
+      "canonical_name": "mustard seed",
+      "canonical_name_normalized": "mustard-seed",
+      "display_name_en": "mustard seed",
+      "display_name_pt": "semente de mostarda",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mustard-seeds"
     },
     {
       "recipe_id": "mg1930-p139-r02",
@@ -35892,7 +36102,14 @@
       "recipe_id": "mg1930-p139-r04",
       "recipe_title": "CHUNK PICKLES",
       "display_text": "Pinch powdered alum (historical ingredient; omit in edited preparation)",
-      "match_kind": "unmatched"
+      "ingredient_id": 2108,
+      "canonical_name": "alum",
+      "canonical_name_normalized": "alum",
+      "display_name_en": "alum",
+      "display_name_pt": "alumen",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "powdered-alum"
     },
     {
       "recipe_id": "mg1930-p139-r04",
@@ -36008,7 +36225,14 @@
       "recipe_id": "mg1930-p139-r05",
       "recipe_title": "CHUNK PICKLES",
       "display_text": "Small piece alum",
-      "match_kind": "unmatched"
+      "ingredient_id": 2108,
+      "canonical_name": "alum",
+      "canonical_name_normalized": "alum",
+      "display_name_en": "alum",
+      "display_name_pt": "alumen",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "alum"
     },
     {
       "recipe_id": "mg1930-p139-r05",
@@ -36085,7 +36309,14 @@
       "recipe_id": "mg1930-p139-r06",
       "recipe_title": "RIPE CUCUMBER PICKLES",
       "display_text": "2 tsp. powdered alum (historical ingredient; omitted in edited preparation)",
-      "match_kind": "unmatched"
+      "ingredient_id": 2108,
+      "canonical_name": "alum",
+      "canonical_name_normalized": "alum",
+      "display_name_en": "alum",
+      "display_name_pt": "alumen",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "powdered-alum"
     },
     {
       "recipe_id": "mg1930-p139-r06",
@@ -36305,13 +36536,27 @@
       "recipe_id": "mg1930-p140-r03",
       "recipe_title": "CHERRY AND RASPBERRY CONSERVE",
       "display_text": "1 box raspberries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2109,
+      "canonical_name": "raspberries",
+      "canonical_name_normalized": "raspberries",
+      "display_name_en": "raspberries",
+      "display_name_pt": "framboesas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "raspberries"
     },
     {
       "recipe_id": "mg1930-p140-r03",
       "recipe_title": "CHERRY AND RASPBERRY CONSERVE",
       "display_text": "1 qt. rhubarb, chopped",
-      "match_kind": "unmatched"
+      "ingredient_id": 2097,
+      "canonical_name": "rhubarb",
+      "canonical_name_normalized": "rhubarb",
+      "display_name_en": "rhubarb",
+      "display_name_pt": "ruibarbo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "rhubarb"
     },
     {
       "recipe_id": "mg1930-p140-r03",
@@ -36465,13 +36710,27 @@
       "recipe_id": "mg1930-p140-r05",
       "recipe_title": "MINT JELLY",
       "display_text": "½ cup green cherries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2112,
+      "canonical_name": "green cherries",
+      "canonical_name_normalized": "green-cherries",
+      "display_name_en": "green cherries",
+      "display_name_pt": "cerejas verdes",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "green-cherries"
     },
     {
       "recipe_id": "mg1930-p141-r01",
       "recipe_title": "PEAR JAM",
       "display_text": "4 lbs. pears",
-      "match_kind": "unmatched"
+      "ingredient_id": 2100,
+      "canonical_name": "pears",
+      "canonical_name_normalized": "pears",
+      "display_name_en": "pears",
+      "display_name_pt": "peras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pears"
     },
     {
       "recipe_id": "mg1930-p141-r01",
@@ -36529,7 +36788,14 @@
       "recipe_id": "mg1930-p141-r02",
       "recipe_title": "PEACH CONSERVE",
       "display_text": "3 lbs. peaches, cut fine",
-      "match_kind": "unmatched"
+      "ingredient_id": 2113,
+      "canonical_name": "peaches",
+      "canonical_name_normalized": "peaches",
+      "display_name_en": "peaches",
+      "display_name_pt": "pessegos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peaches"
     },
     {
       "recipe_id": "mg1930-p141-r02",
@@ -36586,7 +36852,14 @@
       "recipe_id": "mg1930-p141-r04",
       "recipe_title": "PEACH CONSERVE",
       "display_text": "5 lbs. peaches",
-      "match_kind": "unmatched"
+      "ingredient_id": 2113,
+      "canonical_name": "peaches",
+      "canonical_name_normalized": "peaches",
+      "display_name_en": "peaches",
+      "display_name_pt": "pessegos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peaches"
     },
     {
       "recipe_id": "mg1930-p141-r04",
@@ -36644,7 +36917,14 @@
       "recipe_id": "mg1930-p141-r05",
       "recipe_title": "ORANGE MARMALADE",
       "display_text": "1 grapefruit",
-      "match_kind": "unmatched"
+      "ingredient_id": 2114,
+      "canonical_name": "grapefruit",
+      "canonical_name_normalized": "grapefruit",
+      "display_name_en": "grapefruit",
+      "display_name_pt": "toranja",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "grapefruit"
     },
     {
       "recipe_id": "mg1930-p141-r05",
@@ -36689,7 +36969,14 @@
       "recipe_id": "mg1930-p142-r01",
       "recipe_title": "ORANGE MARMALADE",
       "display_text": "3 yellow skinned grapefruit",
-      "match_kind": "unmatched"
+      "ingredient_id": 2114,
+      "canonical_name": "grapefruit",
+      "canonical_name_normalized": "grapefruit",
+      "display_name_en": "grapefruit",
+      "display_name_pt": "toranja",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "grapefruit"
     },
     {
       "recipe_id": "mg1930-p142-r01",
@@ -36721,7 +37008,14 @@
       "recipe_id": "mg1930-p142-r02",
       "recipe_title": "RHUBARB AND FIG PRESERVES",
       "display_text": "4 lbs. rhubarb",
-      "match_kind": "unmatched"
+      "ingredient_id": 2097,
+      "canonical_name": "rhubarb",
+      "canonical_name_normalized": "rhubarb",
+      "display_name_en": "rhubarb",
+      "display_name_pt": "ruibarbo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "rhubarb"
     },
     {
       "recipe_id": "mg1930-p142-r02",
@@ -36843,7 +37137,14 @@
       "recipe_id": "mg1930-p142-r05",
       "recipe_title": "STRAWBERRY AND PINEAPPLE JAM",
       "display_text": "½ cup commercial pectin",
-      "match_kind": "unmatched"
+      "ingredient_id": 2115,
+      "canonical_name": "commercial pectin",
+      "canonical_name_normalized": "commercial-pectin",
+      "display_name_en": "commercial pectin",
+      "display_name_pt": "pectina comercial",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "commercial-pectin"
     },
     {
       "recipe_id": "mg1930-p142-r05",
@@ -36868,7 +37169,14 @@
       "recipe_id": "mg1930-p143-r01",
       "recipe_title": "PICKLED PEACHES",
       "display_text": "3 whole cloves per peach",
-      "match_kind": "unmatched"
+      "ingredient_id": 2113,
+      "canonical_name": "peaches",
+      "canonical_name_normalized": "peaches",
+      "display_name_en": "peaches",
+      "display_name_pt": "pessegos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peach"
     },
     {
       "recipe_id": "mg1930-p143-r01",
@@ -36945,7 +37253,14 @@
       "recipe_id": "mg1930-p143-r02",
       "recipe_title": "WATER MELON RIND PICKLES",
       "display_text": "1 pkg. mixed spices",
-      "match_kind": "unmatched"
+      "ingredient_id": 2107,
+      "canonical_name": "pickling spices",
+      "canonical_name_normalized": "pickling-spices",
+      "display_name_en": "pickling spices",
+      "display_name_pt": "especiarias para conserva",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mixed-spices"
     },
     {
       "recipe_id": "mg1930-p143-r02",
@@ -36964,7 +37279,14 @@
       "recipe_id": "mg1930-p143-r02",
       "recipe_title": "WATER MELON RIND PICKLES",
       "display_text": "stick cinnamon, cloves, cassia",
-      "match_kind": "unmatched"
+      "ingredient_id": 2116,
+      "canonical_name": "cassia",
+      "canonical_name_normalized": "cassia",
+      "display_name_en": "cassia",
+      "display_name_pt": "cassia",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cassia"
     },
     {
       "recipe_id": "mg1930-p143-r02",
@@ -37119,7 +37441,14 @@
       "recipe_id": "mg1930-p146-r01",
       "recipe_title": "FRENCH DRESSING",
       "display_text": "5 drops Tobasco sauce",
-      "match_kind": "unmatched"
+      "ingredient_id": 2117,
+      "canonical_name": "Tabasco sauce",
+      "canonical_name_normalized": "tabasco-sauce",
+      "display_name_en": "Tabasco sauce",
+      "display_name_pt": "molho Tabasco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "tobasco-sauce"
     },
     {
       "recipe_id": "mg1930-p146-r02",
@@ -39450,7 +39779,14 @@
       "recipe_id": "mg1930-p152-r05",
       "recipe_title": "RIPE BANANA SALAD",
       "display_text": "Red cherries (for garnish)",
-      "match_kind": "unmatched"
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cherries"
     },
     {
       "recipe_id": "mg1930-p153-r01",
@@ -39791,13 +40127,27 @@
       "recipe_id": "mg1930-p153-r06",
       "recipe_title": "CHERRY SALAD",
       "display_text": "1 can pitted cherries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cherries"
     },
     {
       "recipe_id": "mg1930-p153-r06",
       "recipe_title": "CHERRY SALAD",
       "display_text": "½ pecan meat per cherry",
-      "match_kind": "unmatched"
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cherry"
     },
     {
       "recipe_id": "mg1930-p153-r06",
@@ -39842,7 +40192,14 @@
       "recipe_id": "mg1930-p154-r01",
       "recipe_title": "OVERNIGHT WHITE CHERRY SALAD",
       "display_text": "1 No. 2 can pears",
-      "match_kind": "unmatched"
+      "ingredient_id": 2100,
+      "canonical_name": "pears",
+      "canonical_name_normalized": "pears",
+      "display_name_en": "pears",
+      "display_name_pt": "peras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pears"
     },
     {
       "recipe_id": "mg1930-p154-r01",
@@ -40362,7 +40719,14 @@
       "recipe_id": "mg1930-p155-r04",
       "recipe_title": "GLACÉ FRUIT DRESSING",
       "display_text": "1 tbsp. glacé cherries",
-      "match_kind": "unmatched"
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cherries"
     },
     {
       "recipe_id": "mg1930-p155-r04",
@@ -41069,7 +41433,14 @@
       "recipe_id": "mg1930-p157-r03",
       "recipe_title": "SNOW SALAD",
       "display_text": "1 can pears",
-      "match_kind": "unmatched"
+      "ingredient_id": 2100,
+      "canonical_name": "pears",
+      "canonical_name_normalized": "pears",
+      "display_name_en": "pears",
+      "display_name_pt": "peras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pears"
     },
     {
       "recipe_id": "mg1930-p157-r03",
@@ -50257,7 +50628,14 @@
       "recipe_id": "mg1930-p192-r04",
       "recipe_title": "HORSE RADISH EGGS",
       "display_text": "1 tbsp. freshly grated horseradish",
-      "match_kind": "unmatched"
+      "ingredient_id": 2103,
+      "canonical_name": "horseradish",
+      "canonical_name_normalized": "horseradish",
+      "display_name_en": "horseradish",
+      "display_name_pt": "raiz-forte",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "horseradish"
     },
     {
       "recipe_id": "mg1930-p192-r04",
@@ -50913,7 +51291,14 @@
       "recipe_id": "mg1930-p194-r04",
       "recipe_title": "SAUCE BECHAMEL",
       "display_text": "1½ cups chicken or veal stock",
-      "match_kind": "unmatched"
+      "alias_normalized": "chicken",
+      "ingredient_id": 1027,
+      "canonical_name": "frango",
+      "canonical_name_normalized": "frango",
+      "display_name_en": null,
+      "display_name_pt": "frango",
+      "match_kind": "alias",
+      "matched_term": "chicken"
     },
     {
       "recipe_id": "mg1930-p194-r04",
