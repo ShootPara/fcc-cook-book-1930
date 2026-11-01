@@ -26,6 +26,8 @@ HISTORICAL_ALIASES = {
     "soda": "baking-soda",
     "gelatine": "gelatina",
     "knox-gelatine": "gelatina",
+    "alspice": "allspice",
+    "cream-tartar": "cream-of-tartar",
 }
 
 
@@ -44,11 +46,13 @@ def ingredient_candidates(line: str) -> list[str]:
     value = re.sub(r"^\s*(?:\d+(?:[./]\d+)?|[½¼¾⅓⅔⅛⅜⅝⅞]+|one|two|three)\s*", "", value)
     value = re.sub(r"\b(?:cups?|c\.?|tablespoons?|tbsp\.?|teaspoons?|tsp\.?|pounds?|lbs?\.?|ounces?|oz\.?|quarts?|qts?\.?|pints?|pt\.?|gallons?|cans?|packages?|pkg\.?|slices?|cloves?)\b", "", value)
     value = re.sub(r"\([^)]*\)", "", value)
-    value = re.sub(r"\b(?:scalded|melted|softened|beaten|sifted|chopped|diced|minced|ground|grated|cooked|cold|hot|fresh|small|large|medium|optional|if desired|to taste|for garnish)\b", "", value)
+    value = re.sub(r"\b(?:scalded|melted|softened|beaten|sifted|chopped|diced|minced|ground|grated|cooked|cold|hot|fresh|small|large|medium|optional|if desired|to taste|for garnish|stiff|separated|well|heaping|level|scant|thin|light|rounding|fine)\b", "", value)
     value = re.sub(r"\s+", " ", value).strip(" ,;.-")
     candidates = [normalized(value)]
     if " of " in value:
         candidates.append(normalized(value.rsplit(" of ", 1)[-1]))
+    if " or " in value:
+        candidates.extend(normalized(part) for part in value.split(" or "))
     words = value.split()
     for width in (3, 2, 1):
         if len(words) >= width:
