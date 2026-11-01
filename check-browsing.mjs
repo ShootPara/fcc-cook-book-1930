@@ -48,7 +48,7 @@ vm.runInContext('search()', context);
 assert.equal(get('result-count').textContent, 'Showing 0 of 0 recipes');
 assert.equal(get('show-more').hidden, true);
 get('search').value = '';
-get('chapter').value = '';
+get('all-chapters').onclick();
 vm.runInContext('search()', context);
 assert.equal(get('cards').children.length, 24);
 assert.equal(get('show-more').hidden, false);

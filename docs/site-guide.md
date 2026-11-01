@@ -31,13 +31,9 @@ apple -sugar
 
 finds recipes that mention apple but do not mention sugar in the searchable recipe text.
 
-### Advanced search
+### Browse by chapter
 
-Open **Advanced search options** to:
-
-- limit results to one historical chapter;
-- show only recipes with a contributor name or printed page; and
-- include edition notes and source metadata in the search.
+Choose a chapter in the cookbook catalog to filter the recipes. Select **All chapters** to return to the complete collection.
 
 The chapter catalog appears immediately below search and is displayed when the page opens. Select its heading to collapse it when you want more room for results. Choosing a chapter applies that chapter as a filter and returns the visitor to the top of the recipe list.
 
