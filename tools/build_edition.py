@@ -154,6 +154,23 @@ def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int
     return {"match_kind": "unmatched", "review_class": review_class}
 
 
+def card_description(source: dict) -> str:
+    """Create a compact, source-derived catalog summary without rewriting the recipe."""
+    highlights = []
+    for line in source["ingredients"]:
+        text = re.sub(r"\s+", " ", line).strip(" ,;.-")
+        if not text or text.startswith("[") or re.fullmatch(r"\d+", text):
+            continue
+        highlights.append(text)
+        if len(highlights) == 3:
+            break
+    if not highlights:
+        return f"A 1930 {source['chapter'].lower()} recipe."
+    joined = ", ".join(highlights[:2]) if len(highlights) < 3 else f"{highlights[0]}, {highlights[1]}, and {highlights[2]}"
+    summary = f"A 1930 recipe featuring {joined}."
+    return summary if len(summary) <= 180 else f"A 1930 recipe featuring {highlights[0]} and {highlights[1]}."
+
+
 def make_recipe(source: dict, numeric_id: int, registry: dict[str, dict], redirects: dict[int, int]) -> tuple[dict, list[dict]]:
     title = source["title"].strip()
     chapter = source["chapter"].strip()
@@ -165,7 +182,7 @@ def make_recipe(source: dict, numeric_id: int, registry: dict[str, dict], redire
             continue
         canonical_ids.append(match["ingredient_id"])
         search_terms.update(filter(None, [match.get("canonical_name"), match.get("display_name_en"), match.get("display_name_pt"), match.get("matched_term")]))
-    description = f"A {chapter.lower()} recipe from the 1930 Mayflower Guild cookbook."
+    description = card_description(source)
     original_locator = "; ".join(filter(None, [f"PDF page {source['page']}" if source.get("page") else None, f"printed page {source['printed_page']}" if source.get("printed_page") else None]))
     record = {
         "id": numeric_id,

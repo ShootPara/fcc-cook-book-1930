@@ -8,7 +8,7 @@ const allowed=new Set(['id','slug','title','description','collection','language_
 for(const r of data.recipes){
  for(const key of Object.keys(r))assert.ok(allowed.has(key),'Unexpected public field '+key);
  assert.ok(r.collection.slug&&r.collection.name&&r.language_code);
- assert.ok(typeof r.description==='string'&&r.description.trim(),'Missing native-language description');
+ assert.ok(typeof r.description==='string'&&r.description.trim(),'Missing native-language description');assert.match(r.description,/^A 1930 recipe featuring .+\.$/,'Catalog description must summarize recipe ingredients');assert.ok(r.description.length<=180,'Catalog description must remain concise');
  assert.ok(['en','pt'].includes(r.language_code),'Unexpected native language');
  for(const t of Object.values(r.translations)){assert.equal(t.ingredients.length,r.ingredients.length);assert.equal(t.steps.length,r.steps.length);assert.ok(t.title&&typeof t.instructions==='string'&&typeof t.description==='string'&&t.description.trim());for(const text of [...t.ingredients,...t.steps])assert.ok(typeof text==='string'&&text.trim());}
  for(const o of r.originals){assert.ok(!/[\\/]/.test(o.document_name),'Source name exposes a path');assert.ok(o.text);if(o.source_kind!=='transcription')assert.ok(o.locator);}
