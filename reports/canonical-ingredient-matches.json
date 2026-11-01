@@ -2,13 +2,13 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3326,
-    "extension": 745,
-    "unmatched": 517,
-    "historical_alias": 108
+    "alias": 3384,
+    "extension": 795,
+    "unmatched": 391,
+    "historical_alias": 126
   },
   "review_summary": {
-    "unresolved_identity": 507,
+    "unresolved_identity": 381,
     "structural_heading": 8,
     "stray_number": 2
   },
@@ -368,8 +368,14 @@
       "recipe_id": "mg1930-p017-r01",
       "recipe_title": "MACARONI WITH CARROTS AND EGGS",
       "display_text": "1 cup cooked carrot cubes",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "carrot",
+      "ingredient_id": 668,
+      "canonical_name": "cenoura",
+      "canonical_name_normalized": "cenoura",
+      "display_name_en": null,
+      "display_name_pt": "cenoura",
+      "match_kind": "alias",
+      "matched_term": "carrot"
     },
     {
       "recipe_id": "mg1930-p017-r01",
@@ -551,14 +557,14 @@
       "recipe_id": "mg1930-p017-r04",
       "recipe_title": "VEGETABLE SANDWICHES",
       "display_text": "1 carrot, turnip, or small handful shredded cabbage",
-      "alias_normalized": "cabbage",
-      "ingredient_id": 1023,
-      "canonical_name": "repolho",
-      "canonical_name_normalized": "repolho",
+      "alias_normalized": "carrot",
+      "ingredient_id": 668,
+      "canonical_name": "cenoura",
+      "canonical_name_normalized": "cenoura",
       "display_name_en": null,
-      "display_name_pt": "repolho",
+      "display_name_pt": "cenoura",
       "match_kind": "alias",
-      "matched_term": "cabbage"
+      "matched_term": "carrot"
     },
     {
       "recipe_id": "mg1930-p017-r04",
@@ -740,8 +746,14 @@
       "recipe_id": "mg1930-p020-r02",
       "recipe_title": "GINGER ALE SODA",
       "display_text": "1 large tbsp. vanilla ice cream in each glass.",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2060,
+      "canonical_name": "vanilla ice cream",
+      "canonical_name_normalized": "vanilla-ice-cream",
+      "display_name_en": "vanilla ice cream",
+      "display_name_pt": "sorvete de baunilha",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "vanilla-ice-cream"
     },
     {
       "recipe_id": "mg1930-p020-r03",
@@ -1150,14 +1162,14 @@
       "recipe_id": "mg1930-p021-r03",
       "recipe_title": "ORANGE GRAPE JUICE PUNCH",
       "display_text": "2 cups ice water",
-      "alias_normalized": "water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
-      "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "water"
+      "ingredient_id": 2052,
+      "canonical_name": "ice",
+      "canonical_name_normalized": "ice",
+      "display_name_en": "ice",
+      "display_name_pt": "gelo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ice"
     },
     {
       "recipe_id": "mg1930-p021-r03",
@@ -1397,8 +1409,14 @@
       "recipe_id": "mg1930-p022-r01",
       "recipe_title": "SPICED BLOCKS",
       "display_text": "2 lemons, juice",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2006,
+      "canonical_name": "lemon",
+      "canonical_name_normalized": "lemon",
+      "display_name_en": "lemon",
+      "display_name_pt": "limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemons"
     },
     {
       "recipe_id": "mg1930-p022-r01",
@@ -2224,8 +2242,14 @@
       "recipe_id": "mg1930-p025-r02",
       "recipe_title": "DELICIOUS WAFFLES",
       "display_text": "½ cup butter, melted and slightly cooled",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "butter",
+      "ingredient_id": 9,
+      "canonical_name": "manteiga",
+      "canonical_name_normalized": "manteiga",
+      "display_name_en": null,
+      "display_name_pt": "manteiga",
+      "match_kind": "alias",
+      "matched_term": "butter"
     },
     {
       "recipe_id": "mg1930-p025-r02",
@@ -2244,8 +2268,14 @@
       "recipe_id": "mg1930-p025-r03",
       "recipe_title": "EXCELLENT WAFFLES",
       "display_text": "2 cups bread flour, sifted 3 times",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2057,
+      "canonical_name": "bread flour",
+      "canonical_name_normalized": "bread-flour",
+      "display_name_en": "bread flour",
+      "display_name_pt": "farinha de pao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bread-flour"
     },
     {
       "recipe_id": "mg1930-p025-r03",
@@ -2303,8 +2333,14 @@
       "recipe_id": "mg1930-p025-r03",
       "recipe_title": "EXCELLENT WAFFLES",
       "display_text": "3 eggs beaten separately",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "eggs",
+      "ingredient_id": 18,
+      "canonical_name": "ovos",
+      "canonical_name_normalized": "ovos",
+      "display_name_en": null,
+      "display_name_pt": "ovos",
+      "match_kind": "alias",
+      "matched_term": "eggs"
     },
     {
       "recipe_id": "mg1930-p025-r04",
@@ -2720,8 +2756,14 @@
       "recipe_id": "mg1930-p028-r04",
       "recipe_title": "BAKING POWDER BISCUITS",
       "display_text": "2 tsp. baking powder (rounding) Royal",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "baking powder",
+      "ingredient_id": 6,
+      "canonical_name": "fermento em pó",
+      "canonical_name_normalized": "fermento-em-po",
+      "display_name_en": null,
+      "display_name_pt": "fermento em pó",
+      "match_kind": "alias",
+      "matched_term": "baking-powder"
     },
     {
       "recipe_id": "mg1930-p028-r04",
@@ -3143,14 +3185,14 @@
       "recipe_id": "mg1930-p032-r01",
       "recipe_title": "GINGER BREAD",
       "display_text": "1 tsp. soda in 1 tbsp. hot water",
-      "alias_normalized": "water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "water"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p032-r01",
@@ -3273,14 +3315,14 @@
       "recipe_id": "mg1930-p032-r02",
       "recipe_title": "GINGER BREAD",
       "display_text": "2 tsp. soda, dissolved in hot water",
-      "alias_normalized": "water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "water"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p032-r02",
@@ -3377,8 +3419,14 @@
       "recipe_id": "mg1930-p032-r03",
       "recipe_title": "GINGER BREAD",
       "display_text": "½ cup butter and lard mixed",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "butter",
+      "ingredient_id": 9,
+      "canonical_name": "manteiga",
+      "canonical_name_normalized": "manteiga",
+      "display_name_en": null,
+      "display_name_pt": "manteiga",
+      "match_kind": "alias",
+      "matched_term": "butter"
     },
     {
       "recipe_id": "mg1930-p032-r03",
@@ -3423,14 +3471,14 @@
       "recipe_id": "mg1930-p032-r03",
       "recipe_title": "GINGER BREAD",
       "display_text": "½ tsp. soda dissolved in boiling water",
-      "alias_normalized": "boiling water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "boiling-water"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p032-r03",
@@ -3657,14 +3705,14 @@
       "recipe_id": "mg1930-p033-r01",
       "recipe_title": "GINGER CAKE",
       "display_text": "2 tsp. soda dissolved in 1 cup boiling water",
-      "alias_normalized": "boiling water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "boiling-water"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p033-r01",
@@ -3774,14 +3822,14 @@
       "recipe_id": "mg1930-p033-r02",
       "recipe_title": "GINGERBREAD SOFT",
       "display_text": "¼ tsp. soda with the sour milk",
-      "ingredient_id": 2056,
-      "canonical_name": "sour milk",
-      "canonical_name_normalized": "sour-milk",
-      "display_name_en": "sour milk",
-      "display_name_pt": "leite azedo",
-      "match_kind": "extension",
-      "registry": "mayflower-extension",
-      "matched_term": "sour-milk"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p033-r02",
@@ -4502,14 +4550,14 @@
       "recipe_id": "mg1930-p035-r05",
       "recipe_title": "BOSTON STEAMED BROWN BREAD",
       "display_text": "3 cups butter milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
+      "alias_normalized": "butter",
+      "ingredient_id": 9,
+      "canonical_name": "manteiga",
+      "canonical_name_normalized": "manteiga",
       "display_name_en": null,
-      "display_name_pt": "leite",
+      "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "milk"
+      "matched_term": "butter"
     },
     {
       "recipe_id": "mg1930-p035-r05",
@@ -4944,14 +4992,14 @@
       "recipe_id": "mg1930-p036-r04",
       "recipe_title": "SPIDER CORN CAKE",
       "display_text": "1 cup sweet milk and 1 cup sour milk, or 2 cups sour milk",
-      "ingredient_id": 2056,
-      "canonical_name": "sour milk",
-      "canonical_name_normalized": "sour-milk",
-      "display_name_en": "sour milk",
-      "display_name_pt": "leite azedo",
-      "match_kind": "extension",
-      "registry": "mayflower-extension",
-      "matched_term": "sour-milk"
+      "alias_normalized": "sweet milk",
+      "ingredient_id": 8,
+      "canonical_name": "leite",
+      "canonical_name_normalized": "leite",
+      "display_name_en": null,
+      "display_name_pt": "leite",
+      "match_kind": "alias",
+      "matched_term": "sweet-milk"
     },
     {
       "recipe_id": "mg1930-p036-r05",
@@ -5100,8 +5148,14 @@
       "recipe_id": "mg1930-p037-r01",
       "recipe_title": "DATE BREAD",
       "display_text": "1 package dates (about 8 oz.), pitted and chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2009,
+      "canonical_name": "dates",
+      "canonical_name_normalized": "dates",
+      "display_name_en": "dates",
+      "display_name_pt": "tamaras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "dates"
     },
     {
       "recipe_id": "mg1930-p037-r01",
@@ -6095,27 +6149,27 @@
       "recipe_id": "mg1930-p038-r05",
       "recipe_title": "NUT BROWN BREAD",
       "display_text": "1 tsp. soda in 1½ cups sour milk",
-      "ingredient_id": 2056,
-      "canonical_name": "sour milk",
-      "canonical_name_normalized": "sour-milk",
-      "display_name_en": "sour milk",
-      "display_name_pt": "leite azedo",
-      "match_kind": "extension",
-      "registry": "mayflower-extension",
-      "matched_term": "sour-milk"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p038-r05",
       "recipe_title": "NUT BROWN BREAD",
       "display_text": "½ cup molasses filled up with sugar",
-      "alias_normalized": "sugar",
-      "ingredient_id": 3,
-      "canonical_name": "açúcar",
-      "canonical_name_normalized": "acucar",
-      "display_name_en": null,
-      "display_name_pt": "açúcar",
+      "alias_normalized": "molasses",
+      "ingredient_id": 1120,
+      "canonical_name": "molasses",
+      "canonical_name_normalized": "melaco",
+      "display_name_en": "molasses",
+      "display_name_pt": "melaço",
       "match_kind": "alias",
-      "matched_term": "sugar"
+      "matched_term": "molasses"
     },
     {
       "recipe_id": "mg1930-p038-r05",
@@ -7727,14 +7781,14 @@
       "recipe_id": "mg1930-p044-r02",
       "recipe_title": "MARSHALL FIELD: POTATO FLOUR MUFFINS",
       "display_text": "2 tbsp. ice water",
-      "alias_normalized": "water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
-      "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "water"
+      "ingredient_id": 2052,
+      "canonical_name": "ice",
+      "canonical_name_normalized": "ice",
+      "display_name_en": "ice",
+      "display_name_pt": "gelo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ice"
     },
     {
       "recipe_id": "mg1930-p044-r02",
@@ -7818,8 +7872,14 @@
       "recipe_id": "mg1930-p044-r03",
       "recipe_title": "PRUNE - NUT MUFFINS",
       "display_text": "½ cup cooked prunes, drained and cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2062,
+      "canonical_name": "prunes",
+      "canonical_name_normalized": "prunes",
+      "display_name_en": "prunes",
+      "display_name_pt": "ameixas secas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cooked-prunes"
     },
     {
       "recipe_id": "mg1930-p044-r03",
@@ -7962,14 +8022,14 @@
       "recipe_id": "mg1930-p044-r05",
       "recipe_title": "WHITE MUFFINS",
       "display_text": "1½ cups white bread flour (measured before sifting)",
-      "ingredient_id": 2057,
-      "canonical_name": "bread flour",
-      "canonical_name_normalized": "bread-flour",
-      "display_name_en": "bread flour",
-      "display_name_pt": "farinha de pao",
-      "match_kind": "extension",
-      "registry": "mayflower-extension",
-      "matched_term": "bread-flour"
+      "alias_normalized": "white bread",
+      "ingredient_id": 1126,
+      "canonical_name": "bread",
+      "canonical_name_normalized": "pao",
+      "display_name_en": "bread",
+      "display_name_pt": "pão",
+      "match_kind": "alias",
+      "matched_term": "white-bread"
     },
     {
       "recipe_id": "mg1930-p044-r05",
@@ -8170,8 +8230,14 @@
       "recipe_id": "mg1930-p046-r02",
       "recipe_title": "SOUR CREAM DOUGHNUTS",
       "display_text": "3 eggs, beaten separately",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "eggs",
+      "ingredient_id": 18,
+      "canonical_name": "ovos",
+      "canonical_name_normalized": "ovos",
+      "display_name_en": null,
+      "display_name_pt": "ovos",
+      "match_kind": "alias",
+      "matched_term": "eggs"
     },
     {
       "recipe_id": "mg1930-p046-r02",
@@ -8203,21 +8269,27 @@
       "recipe_id": "mg1930-p046-r02",
       "recipe_title": "SOUR CREAM DOUGHNUTS",
       "display_text": "1 tsp. soda added to milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p046-r02",
       "recipe_title": "SOUR CREAM DOUGHNUTS",
       "display_text": "1 tsp. baking powder added to enough flour to make soft dough",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "baking powder",
+      "ingredient_id": 6,
+      "canonical_name": "fermento em pó",
+      "canonical_name_normalized": "fermento-em-po",
+      "display_name_en": null,
+      "display_name_pt": "fermento em pó",
+      "match_kind": "alias",
+      "matched_term": "baking-powder"
     },
     {
       "recipe_id": "mg1930-p046-r03",
@@ -8340,8 +8412,14 @@
       "recipe_id": "mg1930-p048-r01",
       "recipe_title": "COCOANUT KISSES",
       "display_text": "2 cups cornflakes, Kellogg's",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2070,
+      "canonical_name": "cornflakes",
+      "canonical_name_normalized": "cornflakes",
+      "display_name_en": "cornflakes",
+      "display_name_pt": "flocos de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cornflakes"
     },
     {
       "recipe_id": "mg1930-p048-r01",
@@ -8490,8 +8568,14 @@
       "recipe_id": "mg1930-p048-r02",
       "recipe_title": "SOUR CREAM COCOANUT COOKIES",
       "display_text": "½ cup dates, cut finely",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2009,
+      "canonical_name": "dates",
+      "canonical_name_normalized": "dates",
+      "display_name_en": "dates",
+      "display_name_pt": "tamaras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "dates"
     },
     {
       "recipe_id": "mg1930-p048-r02",
@@ -8523,14 +8607,14 @@
       "recipe_id": "mg1930-p048-r03",
       "recipe_title": "CHOCOLATE COOKIES",
       "display_text": "½ tsp. soda in milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p048-r03",
@@ -8699,14 +8783,14 @@
       "recipe_id": "mg1930-p048-r04",
       "recipe_title": "CHOCOLATE DROP COOKIES",
       "display_text": "2 tsp. soda, dissolved in milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p048-r04",
@@ -9193,14 +9277,14 @@
       "recipe_id": "mg1930-p049-r04",
       "recipe_title": "QUICK DROP COOKIES",
       "display_text": "1/2 cup nut meats and raisins",
-      "ingredient_id": 2001,
-      "canonical_name": "raisins",
-      "canonical_name_normalized": "raisins",
-      "display_name_en": "raisins",
-      "display_name_pt": "uvas-passas",
+      "ingredient_id": 2003,
+      "canonical_name": "nuts",
+      "canonical_name_normalized": "nuts",
+      "display_name_en": "nuts",
+      "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "raisins"
+      "matched_term": "nut-meats"
     },
     {
       "recipe_id": "mg1930-p050-r01",
@@ -9622,8 +9706,14 @@
       "recipe_id": "mg1930-p050-r05",
       "recipe_title": "NUT AND RAISIN CAKES",
       "display_text": "1 level tsp. soda dissolved in a",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p050-r05",
@@ -9733,8 +9823,14 @@
       "recipe_id": "mg1930-p051-r01",
       "recipe_title": "HERMITS",
       "display_text": "3 cups flour, measured before sifting",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "flour",
+      "ingredient_id": 4,
+      "canonical_name": "farinha de trigo",
+      "canonical_name_normalized": "farinha-de-trigo",
+      "display_name_en": null,
+      "display_name_pt": "farinha de trigo",
+      "match_kind": "alias",
+      "matched_term": "flour"
     },
     {
       "recipe_id": "mg1930-p051-r01",
@@ -10325,14 +10421,14 @@
       "recipe_id": "mg1930-p052-r01",
       "recipe_title": "OATMEAL COOKIES",
       "display_text": "½ tsp. ground cloves and nutmeg",
-      "alias_normalized": "nutmeg",
-      "ingredient_id": 774,
-      "canonical_name": "noz-moscada",
-      "canonical_name_normalized": "noz-moscada",
+      "alias_normalized": "ground cloves",
+      "ingredient_id": 579,
+      "canonical_name": "cravo em pó",
+      "canonical_name_normalized": "cravo-em-po",
       "display_name_en": null,
-      "display_name_pt": "noz-moscada",
+      "display_name_pt": "cravo em pó",
       "match_kind": "alias",
-      "matched_term": "nutmeg"
+      "matched_term": "ground-cloves"
     },
     {
       "recipe_id": "mg1930-p052-r01",
@@ -11144,14 +11240,14 @@
       "recipe_id": "mg1930-p053-r02",
       "recipe_title": "ROCKS",
       "display_text": "½ cup nut meats and raisins",
-      "ingredient_id": 2001,
-      "canonical_name": "raisins",
-      "canonical_name_normalized": "raisins",
-      "display_name_en": "raisins",
-      "display_name_pt": "uvas-passas",
+      "ingredient_id": 2003,
+      "canonical_name": "nuts",
+      "canonical_name_normalized": "nuts",
+      "display_name_en": "nuts",
+      "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "raisins"
+      "matched_term": "nut-meats"
     },
     {
       "recipe_id": "mg1930-p053-r02",
@@ -11502,8 +11598,14 @@
       "recipe_id": "mg1930-p056-r03",
       "recipe_title": "CHOCOLATE DELIGHTS",
       "display_text": "1/2 cup candied cherries, pine-",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2072,
+      "canonical_name": "candied cherries",
+      "canonical_name_normalized": "candied-cherries",
+      "display_name_en": "candied cherries",
+      "display_name_pt": "cerejas cristalizadas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "candied-cherries"
     },
     {
       "recipe_id": "mg1930-p056-r03",
@@ -12629,8 +12731,14 @@
       "recipe_id": "mg1930-p060-r04",
       "recipe_title": "ICE BOX COOKIES",
       "display_text": "2½ cups sugar; white and brown",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "sugar",
+      "ingredient_id": 3,
+      "canonical_name": "açúcar",
+      "canonical_name_normalized": "acucar",
+      "display_name_en": null,
+      "display_name_pt": "açúcar",
+      "match_kind": "alias",
+      "matched_term": "sugar"
     },
     {
       "recipe_id": "mg1930-p060-r04",
@@ -12728,8 +12836,14 @@
       "recipe_id": "mg1930-p061-r01",
       "recipe_title": "BUTTER SCOTCH COOKIES",
       "display_text": "2 cups brown sugar 4",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "brown sugar",
+      "ingredient_id": 217,
+      "canonical_name": "açúcar mascavo",
+      "canonical_name_normalized": "acucar-mascavo",
+      "display_name_en": null,
+      "display_name_pt": "açúcar mascavo",
+      "match_kind": "alias",
+      "matched_term": "brown-sugar"
     },
     {
       "recipe_id": "mg1930-p061-r01",
@@ -13060,14 +13174,14 @@
       "recipe_id": "mg1930-p061-r04",
       "recipe_title": "CARAMEL COOKIES",
       "display_text": "¼ tsp. baking soda, dissolved in a little hot water",
-      "alias_normalized": "water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
+      "display_name_pt": "bicarbonato",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "baking-soda"
     },
     {
       "recipe_id": "mg1930-p061-r04",
@@ -14100,8 +14214,14 @@
       "recipe_id": "mg1930-p065-r04",
       "recipe_title": "YELLOW ANGEL FOOD CAKE",
       "display_text": "1½ cups sugar, sifted twice",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "sugar",
+      "ingredient_id": 3,
+      "canonical_name": "açúcar",
+      "canonical_name_normalized": "acucar",
+      "display_name_en": null,
+      "display_name_pt": "açúcar",
+      "match_kind": "alias",
+      "matched_term": "sugar"
     },
     {
       "recipe_id": "mg1930-p065-r04",
@@ -14146,8 +14266,14 @@
       "recipe_id": "mg1930-p065-r04",
       "recipe_title": "YELLOW ANGEL FOOD CAKE",
       "display_text": "1½ cups flour, sifted twice",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "flour",
+      "ingredient_id": 4,
+      "canonical_name": "farinha de trigo",
+      "canonical_name_normalized": "farinha-de-trigo",
+      "display_name_en": null,
+      "display_name_pt": "farinha de trigo",
+      "match_kind": "alias",
+      "matched_term": "flour"
     },
     {
       "recipe_id": "mg1930-p065-r04",
@@ -14244,8 +14370,14 @@
       "recipe_id": "mg1930-p065-r05",
       "recipe_title": "YELLOW CAKE",
       "display_text": "7 egg whites, beaten slightly",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg whites",
+      "ingredient_id": 87,
+      "canonical_name": "clara",
+      "canonical_name_normalized": "clara",
+      "display_name_en": null,
+      "display_name_pt": "clara",
+      "match_kind": "alias",
+      "matched_term": "egg-whites"
     },
     {
       "recipe_id": "mg1930-p065-r05",
@@ -14719,8 +14851,14 @@
       "recipe_id": "mg1930-p067-r01",
       "recipe_title": "SPONGE CAKE USING YOLKS ONLY",
       "display_text": "1½ cups flour, sifted before measuring",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "flour",
+      "ingredient_id": 4,
+      "canonical_name": "farinha de trigo",
+      "canonical_name_normalized": "farinha-de-trigo",
+      "display_name_en": null,
+      "display_name_pt": "farinha de trigo",
+      "match_kind": "alias",
+      "matched_term": "flour"
     },
     {
       "recipe_id": "mg1930-p067-r01",
@@ -15429,8 +15567,14 @@
       "recipe_id": "mg1930-p072-r04",
       "recipe_title": "BROWNIES",
       "display_text": "½ cup walnut meats cut in pieces",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2030,
+      "canonical_name": "walnuts",
+      "canonical_name_normalized": "walnuts",
+      "display_name_en": "walnuts",
+      "display_name_pt": "nozes",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "walnut-meats"
     },
     {
       "recipe_id": "mg1930-p072-r04",
@@ -16184,14 +16328,14 @@
       "recipe_id": "mg1930-p074-r04",
       "recipe_title": "CHOCOLATE CAKE",
       "display_text": "2 tbsp. cocoa dissolved in ½ cup boiling water",
-      "alias_normalized": "boiling water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "cocoa",
+      "ingredient_id": 85,
+      "canonical_name": "cacau em pó",
+      "canonical_name_normalized": "cacau-em-po",
       "display_name_en": null,
-      "display_name_pt": "água",
+      "display_name_pt": "cacau em pó",
       "match_kind": "alias",
-      "matched_term": "boiling-water"
+      "matched_term": "cocoa"
     },
     {
       "recipe_id": "mg1930-p074-r04",
@@ -17140,8 +17284,14 @@
       "recipe_id": "mg1930-p076-r04",
       "recipe_title": "SIMPLE CHOCOLATE TWO LAYER CAKE",
       "display_text": "1 tsp. soda dissolved in 1/4 cup",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p076-r04",
@@ -17784,8 +17934,14 @@
       "recipe_id": "mg1930-p077-r04",
       "recipe_title": "COLONIAL CAKE",
       "display_text": "1 egg in cup, fill with sweet",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg",
+      "ingredient_id": 10,
+      "canonical_name": "ovo",
+      "canonical_name_normalized": "ovo",
+      "display_name_en": null,
+      "display_name_pt": "ovo",
+      "match_kind": "alias",
+      "matched_term": "egg"
     },
     {
       "recipe_id": "mg1930-p077-r04",
@@ -18299,8 +18455,14 @@
       "recipe_id": "mg1930-p078-r04",
       "recipe_title": "ENGLISH WHITE FRUIT CAKE",
       "display_text": "1 lemon rind grated",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2006,
+      "canonical_name": "lemon",
+      "canonical_name_normalized": "lemon",
+      "display_name_en": "lemon",
+      "display_name_pt": "limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon"
     },
     {
       "recipe_id": "mg1930-p078-r04",
@@ -19055,14 +19217,14 @@
       "recipe_id": "mg1930-p080-r02",
       "recipe_title": "GINGER CAKE",
       "display_text": "2 tsp. soda, dissolved in 1 cup boiling water",
-      "alias_normalized": "boiling water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "boiling-water"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p080-r02",
@@ -19081,14 +19243,14 @@
       "recipe_id": "mg1930-p080-r03",
       "recipe_title": "SOFT HOT WATER GINGER CAKE",
       "display_text": "½ cup lard and butter",
-      "alias_normalized": "butter",
-      "ingredient_id": 9,
-      "canonical_name": "manteiga",
-      "canonical_name_normalized": "manteiga",
-      "display_name_en": null,
-      "display_name_pt": "manteiga",
-      "match_kind": "alias",
-      "matched_term": "butter"
+      "ingredient_id": 2019,
+      "canonical_name": "lard",
+      "canonical_name_normalized": "lard",
+      "display_name_en": "lard",
+      "display_name_pt": "banha",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lard"
     },
     {
       "recipe_id": "mg1930-p080-r03",
@@ -19543,8 +19705,14 @@
       "recipe_id": "mg1930-p081-r03",
       "recipe_title": "GRANDMA'S SPECIAL CAKE (LARGE CAKE)",
       "display_text": "8 egg whites, beaten very stiff",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg whites",
+      "ingredient_id": 87,
+      "canonical_name": "clara",
+      "canonical_name_normalized": "clara",
+      "display_name_en": null,
+      "display_name_pt": "clara",
+      "match_kind": "alias",
+      "matched_term": "egg-whites"
     },
     {
       "recipe_id": "mg1930-p081-r03",
@@ -19693,8 +19861,14 @@
       "recipe_id": "mg1930-p081-r04",
       "recipe_title": "PINEAPPLE FILLING",
       "display_text": "½ tsp. orange flavoring",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "orange",
+      "ingredient_id": 1017,
+      "canonical_name": "laranja",
+      "canonical_name_normalized": "laranja",
+      "display_name_en": null,
+      "display_name_pt": "laranja",
+      "match_kind": "alias",
+      "matched_term": "orange"
     },
     {
       "recipe_id": "mg1930-p082-r01",
@@ -19739,8 +19913,14 @@
       "recipe_id": "mg1930-p082-r01",
       "recipe_title": "HOT MILK CAKE",
       "display_text": "2 eggs beaten separately",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "eggs",
+      "ingredient_id": 18,
+      "canonical_name": "ovos",
+      "canonical_name_normalized": "ovos",
+      "display_name_en": null,
+      "display_name_pt": "ovos",
+      "match_kind": "alias",
+      "matched_term": "eggs"
     },
     {
       "recipe_id": "mg1930-p082-r01",
@@ -19876,14 +20056,14 @@
       "recipe_id": "mg1930-p082-r02",
       "recipe_title": "MOLASSES CAKE",
       "display_text": "1 tsp. soda, in milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "leite",
-      "match_kind": "alias",
-      "matched_term": "milk"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p082-r02",
@@ -19980,8 +20160,14 @@
       "recipe_id": "mg1930-p082-r03",
       "recipe_title": "MOLASSES CAKE",
       "display_text": "2 tsp. soda dissolved in 1 cup",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
+      "display_name_en": null,
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p082-r03",
@@ -20195,8 +20381,14 @@
       "recipe_id": "mg1930-p082-r05",
       "recipe_title": "ORANGE CAKE",
       "display_text": "1 cup cream sour (slightly)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2025,
+      "canonical_name": "cream",
+      "canonical_name_normalized": "cream",
+      "display_name_en": "cream",
+      "display_name_pt": "creme",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream"
     },
     {
       "recipe_id": "mg1930-p082-r05",
@@ -21854,8 +22046,14 @@
       "recipe_id": "mg1930-p086-r02",
       "recipe_title": "SNOWBALLS",
       "display_text": "1 egg and 2 yolks",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg",
+      "ingredient_id": 10,
+      "canonical_name": "ovo",
+      "canonical_name_normalized": "ovo",
+      "display_name_en": null,
+      "display_name_pt": "ovo",
+      "match_kind": "alias",
+      "matched_term": "egg"
     },
     {
       "recipe_id": "mg1930-p086-r02",
@@ -22108,8 +22306,14 @@
       "recipe_id": "mg1930-p087-r01",
       "recipe_title": "SOUR CREAM CAKE",
       "display_text": "1 egg and 1 egg yolk, placed in measuring cup",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg",
+      "ingredient_id": 10,
+      "canonical_name": "ovo",
+      "canonical_name_normalized": "ovo",
+      "display_name_en": null,
+      "display_name_pt": "ovo",
+      "match_kind": "alias",
+      "matched_term": "egg"
     },
     {
       "recipe_id": "mg1930-p087-r01",
@@ -22818,8 +23022,14 @@
       "recipe_id": "mg1930-p088-r04",
       "recipe_title": "WHITE CAKE",
       "display_text": "2½ cups flour before sifting",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "flour",
+      "ingredient_id": 4,
+      "canonical_name": "farinha de trigo",
+      "canonical_name_normalized": "farinha-de-trigo",
+      "display_name_en": null,
+      "display_name_pt": "farinha de trigo",
+      "match_kind": "alias",
+      "matched_term": "flour"
     },
     {
       "recipe_id": "mg1930-p088-r04",
@@ -22864,15 +23074,27 @@
       "recipe_id": "mg1930-p088-r04",
       "recipe_title": "WHITE CAKE",
       "display_text": "4 egg whites beaten and added",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg whites",
+      "ingredient_id": 87,
+      "canonical_name": "clara",
+      "canonical_name_normalized": "clara",
+      "display_name_en": null,
+      "display_name_pt": "clara",
+      "match_kind": "alias",
+      "matched_term": "egg-whites"
     },
     {
       "recipe_id": "mg1930-p092-r01",
       "recipe_title": "FIG FILLING",
       "display_text": "½ lb. figs, finely chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2022,
+      "canonical_name": "figs",
+      "canonical_name_normalized": "figs",
+      "display_name_en": "figs",
+      "display_name_pt": "figos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "figs"
     },
     {
       "recipe_id": "mg1930-p092-r01",
@@ -23880,8 +24102,14 @@
       "recipe_id": "mg1930-p095-r01",
       "recipe_title": "LADY BALTIMORE ICING",
       "display_text": "6 figs, cut in shreds",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2022,
+      "canonical_name": "figs",
+      "canonical_name_normalized": "figs",
+      "display_name_en": "figs",
+      "display_name_pt": "figos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "figs"
     },
     {
       "recipe_id": "mg1930-p095-r02",
@@ -23991,8 +24219,14 @@
       "recipe_id": "mg1930-p095-r04",
       "recipe_title": "RICH ICING",
       "display_text": "1 cup powdered sugar free from lumps.",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "powdered sugar",
+      "ingredient_id": 7,
+      "canonical_name": "açúcar confeiteiro",
+      "canonical_name_normalized": "acucar-confeiteiro",
+      "display_name_en": null,
+      "display_name_pt": "açúcar confeiteiro",
+      "match_kind": "alias",
+      "matched_term": "powdered-sugar"
     },
     {
       "recipe_id": "mg1930-p095-r05",
@@ -24850,8 +25084,14 @@
       "recipe_id": "mg1930-p102-r01",
       "recipe_title": "APRICOT ICE CREAM",
       "display_text": "1 pt. milk, top",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "milk",
+      "ingredient_id": 8,
+      "canonical_name": "leite",
+      "canonical_name_normalized": "leite",
+      "display_name_en": null,
+      "display_name_pt": "leite",
+      "match_kind": "alias",
+      "matched_term": "milk"
     },
     {
       "recipe_id": "mg1930-p102-r01",
@@ -25176,14 +25416,14 @@
       "recipe_id": "mg1930-p103-r01",
       "recipe_title": "GRAPE FRUIT SHERBET",
       "display_text": "1 orange, 1 lemon, white 1 egg",
-      "alias_normalized": "egg",
-      "ingredient_id": 10,
-      "canonical_name": "ovo",
-      "canonical_name_normalized": "ovo",
+      "alias_normalized": "orange",
+      "ingredient_id": 1017,
+      "canonical_name": "laranja",
+      "canonical_name_normalized": "laranja",
       "display_name_en": null,
-      "display_name_pt": "ovo",
+      "display_name_pt": "laranja",
       "match_kind": "alias",
-      "matched_term": "egg"
+      "matched_term": "orange"
     },
     {
       "recipe_id": "mg1930-p103-r01",
@@ -25841,8 +26081,14 @@
       "recipe_id": "mg1930-p106-r02",
       "recipe_title": "FRESH STRAWBERRY CHARLOTTE RUSSE",
       "display_text": "1 pt. fresh strawberries, carefully cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2081,
+      "canonical_name": "strawberries",
+      "canonical_name_normalized": "strawberries",
+      "display_name_en": "strawberries",
+      "display_name_pt": "morangos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "strawberries"
     },
     {
       "recipe_id": "mg1930-p106-r02",
@@ -26024,8 +26270,14 @@
       "recipe_id": "mg1930-p106-r04",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "1/2 cup pecans, cut or chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "pecans",
+      "ingredient_id": 1130,
+      "canonical_name": "pecans",
+      "canonical_name_normalized": "noz-peca",
+      "display_name_en": "pecans",
+      "display_name_pt": "nozes pecã",
+      "match_kind": "alias",
+      "matched_term": "pecans"
     },
     {
       "recipe_id": "mg1930-p106-r04",
@@ -26044,8 +26296,14 @@
       "recipe_id": "mg1930-p106-r04",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "12 marshmallows, cut in pieces",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2021,
+      "canonical_name": "marshmallows",
+      "canonical_name_normalized": "marshmallows",
+      "display_name_en": "marshmallows",
+      "display_name_pt": "marshmallow",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "marshmallows"
     },
     {
       "recipe_id": "mg1930-p106-r04",
@@ -26272,8 +26530,14 @@
       "recipe_id": "mg1930-p107-r04",
       "recipe_title": "ICE BOX CAKE",
       "display_text": "½ lb. shelled almonds, blanched and ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2093,
+      "canonical_name": "almonds",
+      "canonical_name_normalized": "almonds",
+      "display_name_en": "almonds",
+      "display_name_pt": "amendoas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "shelled-almonds"
     },
     {
       "recipe_id": "mg1930-p107-r04",
@@ -26579,8 +26843,14 @@
       "recipe_id": "mg1930-p108-r02",
       "recipe_title": "PINEAPPLE DESSERT",
       "display_text": "½ lb. marshmallows, cut in small pieces",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2021,
+      "canonical_name": "marshmallows",
+      "canonical_name_normalized": "marshmallows",
+      "display_name_en": "marshmallows",
+      "display_name_pt": "marshmallow",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "marshmallows"
     },
     {
       "recipe_id": "mg1930-p108-r02",
@@ -26690,8 +26960,14 @@
       "recipe_id": "mg1930-p108-r04",
       "recipe_title": "PINEAPPLE SALAD",
       "display_text": "½ lb. marshmallows, halved",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2021,
+      "canonical_name": "marshmallows",
+      "canonical_name_normalized": "marshmallows",
+      "display_name_en": "marshmallows",
+      "display_name_pt": "marshmallow",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "marshmallows"
     },
     {
       "recipe_id": "mg1930-p108-r04",
@@ -27445,8 +27721,14 @@
       "recipe_id": "mg1930-p113-r01",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup nut meats, coarse",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2003,
+      "canonical_name": "nuts",
+      "canonical_name_normalized": "nuts",
+      "display_name_en": "nuts",
+      "display_name_pt": "nozes",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "nut-meats"
     },
     {
       "recipe_id": "mg1930-p113-r01",
@@ -27465,8 +27747,14 @@
       "recipe_id": "mg1930-p113-r01",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup dates, cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2009,
+      "canonical_name": "dates",
+      "canonical_name_normalized": "dates",
+      "display_name_en": "dates",
+      "display_name_pt": "tamaras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "dates"
     },
     {
       "recipe_id": "mg1930-p113-r02",
@@ -27498,8 +27786,14 @@
       "recipe_id": "mg1930-p113-r02",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup nut meats, cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2003,
+      "canonical_name": "nuts",
+      "canonical_name_normalized": "nuts",
+      "display_name_en": "nuts",
+      "display_name_pt": "nozes",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "nut-meats"
     },
     {
       "recipe_id": "mg1930-p113-r02",
@@ -27642,8 +27936,14 @@
       "recipe_id": "mg1930-p113-r03",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup nutmeats, cliopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2003,
+      "canonical_name": "nuts",
+      "canonical_name_normalized": "nuts",
+      "display_name_en": "nuts",
+      "display_name_pt": "nozes",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "nutmeats"
     },
     {
       "recipe_id": "mg1930-p113-r04",
@@ -28021,8 +28321,14 @@
       "recipe_id": "mg1930-p114-r03",
       "recipe_title": "LEMON SPONGE CUSTARD",
       "display_text": "1 lemon, juice and grated rind",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "lemon juice",
+      "ingredient_id": 267,
+      "canonical_name": "suco de limão",
+      "canonical_name_normalized": "suco-de-limao",
+      "display_name_en": null,
+      "display_name_pt": "suco de limão",
+      "match_kind": "alias",
+      "matched_term": "lemon-juice"
     },
     {
       "recipe_id": "mg1930-p114-r03",
@@ -28106,8 +28412,14 @@
       "recipe_id": "mg1930-p114-r04",
       "recipe_title": "LEMON CREAM",
       "display_text": "1 tsp. lemon rind",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2006,
+      "canonical_name": "lemon",
+      "canonical_name_normalized": "lemon",
+      "display_name_en": "lemon",
+      "display_name_pt": "limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon"
     },
     {
       "recipe_id": "mg1930-p114-r04",
@@ -28217,8 +28529,14 @@
       "recipe_id": "mg1930-p114-r06",
       "recipe_title": "PINEAPPLE TAPIOCA",
       "display_text": "2 cups water and juice",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "water",
+      "ingredient_id": 52,
+      "canonical_name": "água",
+      "canonical_name_normalized": "agua",
+      "display_name_en": null,
+      "display_name_pt": "água",
+      "match_kind": "alias",
+      "matched_term": "water"
     },
     {
       "recipe_id": "mg1930-p114-r06",
@@ -28328,8 +28646,14 @@
       "recipe_id": "mg1930-p115-r01",
       "recipe_title": "ORANGE PARISIAN",
       "display_text": "¼ cup fresh mint, finely chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2049,
+      "canonical_name": "mint",
+      "canonical_name_normalized": "mint",
+      "display_name_en": "mint",
+      "display_name_pt": "hortela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mint"
     },
     {
       "recipe_id": "mg1930-p115-r01",
@@ -28609,21 +28933,27 @@
       "recipe_id": "mg1930-p116-r01",
       "recipe_title": "CHEESE TORTE",
       "display_text": "2 lbs. cottage cheese",
-      "ingredient_id": 2028,
-      "canonical_name": "cheese",
-      "canonical_name_normalized": "cheese",
-      "display_name_en": "cheese",
-      "display_name_pt": "queijo",
-      "match_kind": "extension",
-      "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "alias_normalized": "cottage",
+      "ingredient_id": 841,
+      "canonical_name": "cottage",
+      "canonical_name_normalized": "cottage",
+      "display_name_en": null,
+      "display_name_pt": "cottage",
+      "match_kind": "alias",
+      "matched_term": "cottage"
     },
     {
       "recipe_id": "mg1930-p116-r01",
       "recipe_title": "CHEESE TORTE",
       "display_text": "1 heaping tbsp. flour (more if",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "flour",
+      "ingredient_id": 4,
+      "canonical_name": "farinha de trigo",
+      "canonical_name_normalized": "farinha-de-trigo",
+      "display_name_en": null,
+      "display_name_pt": "farinha de trigo",
+      "match_kind": "alias",
+      "matched_term": "flour"
     },
     {
       "recipe_id": "mg1930-p116-r01",
@@ -29007,8 +29337,14 @@
       "recipe_id": "mg1930-p116-r05",
       "recipe_title": "NUT TORTE",
       "display_text": "1½ cups graham cracker crumbs, rolled medium fine",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2099,
+      "canonical_name": "graham crackers",
+      "canonical_name_normalized": "graham-crackers",
+      "display_name_en": "graham crackers",
+      "display_name_pt": "biscoitos graham",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "graham-cracker-crumbs"
     },
     {
       "recipe_id": "mg1930-p116-r05",
@@ -29947,8 +30283,14 @@
       "recipe_id": "mg1930-p121-r02",
       "recipe_title": "CHERRY PUDDING",
       "display_text": "1 egg, placed in a cup, with milk added to fill cup",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg",
+      "ingredient_id": 10,
+      "canonical_name": "ovo",
+      "canonical_name_normalized": "ovo",
+      "display_name_en": null,
+      "display_name_pt": "ovo",
+      "match_kind": "alias",
+      "matched_term": "egg"
     },
     {
       "recipe_id": "mg1930-p121-r02",
@@ -30859,8 +31201,14 @@
       "recipe_id": "mg1930-p123-r01",
       "recipe_title": "STEAMED DATE AND NUT PUDDING",
       "display_text": "¾ lb. dates, cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2009,
+      "canonical_name": "dates",
+      "canonical_name_normalized": "dates",
+      "display_name_en": "dates",
+      "display_name_pt": "tamaras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "dates"
     },
     {
       "recipe_id": "mg1930-p123-r01",
@@ -31342,8 +31690,14 @@
       "recipe_id": "mg1930-p124-r02",
       "recipe_title": "PEACH COBBLER",
       "display_text": "2 cups peaches, in bottom of basin",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2113,
+      "canonical_name": "peaches",
+      "canonical_name_normalized": "peaches",
+      "display_name_en": "peaches",
+      "display_name_pt": "pessegos",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peaches"
     },
     {
       "recipe_id": "mg1930-p124-r02",
@@ -31531,14 +31885,14 @@
       "recipe_id": "mg1930-p124-r03",
       "recipe_title": "POOR MAN'S PUDDING",
       "display_text": "1 tsp. soda in hot water",
-      "alias_normalized": "water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "water"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p124-r04",
@@ -31726,8 +32080,14 @@
       "recipe_id": "mg1930-p125-r01",
       "recipe_title": "RASPBERRY PUDDING",
       "display_text": "2 tbsp. raspberry jam",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2109,
+      "canonical_name": "raspberries",
+      "canonical_name_normalized": "raspberries",
+      "display_name_en": "raspberries",
+      "display_name_pt": "framboesas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "raspberry"
     },
     {
       "recipe_id": "mg1930-p125-r01",
@@ -31746,14 +32106,14 @@
       "recipe_id": "mg1930-p125-r01",
       "recipe_title": "RASPBERRY PUDDING",
       "display_text": "¾ tbsp. soda, dissolved in 1 tbsp. water",
-      "alias_normalized": "water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "water"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p125-r02",
@@ -31811,14 +32171,14 @@
       "recipe_id": "mg1930-p125-r02",
       "recipe_title": "SAILOR'S DUFF PUDDING",
       "display_text": "½ tsp. soda, dissolved in ½ cup water",
-      "alias_normalized": "water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "baking soda",
+      "ingredient_id": 78,
+      "canonical_name": "bicarbonato",
+      "canonical_name_normalized": "bicarbonato",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "water"
+      "display_name_pt": "bicarbonato",
+      "match_kind": "historical_alias",
+      "matched_term": "soda"
     },
     {
       "recipe_id": "mg1930-p125-r02",
@@ -32111,8 +32471,14 @@
       "recipe_id": "mg1930-p128-r01",
       "recipe_title": "CARAMEL WHIPPED CREAM",
       "display_text": "3 tbsp. Karo, blue or orange label",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2079,
+      "canonical_name": "corn syrup",
+      "canonical_name_normalized": "corn-syrup",
+      "display_name_en": "corn syrup",
+      "display_name_pt": "xarope de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "karo"
     },
     {
       "recipe_id": "mg1930-p128-r02",
@@ -32275,8 +32641,14 @@
       "recipe_id": "mg1930-p128-r04",
       "recipe_title": "FLUFFY FRUIT SAUCE",
       "display_text": "½ cup Karo, Red Label",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2079,
+      "canonical_name": "corn syrup",
+      "canonical_name_normalized": "corn-syrup",
+      "display_name_en": "corn syrup",
+      "display_name_pt": "xarope de milho",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "karo"
     },
     {
       "recipe_id": "mg1930-p128-r04",
@@ -32393,8 +32765,14 @@
       "recipe_id": "mg1930-p129-r02",
       "recipe_title": "LEMON PUDDING SAUCE",
       "display_text": "1 lemon,juice and grated rind",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "lemon juice",
+      "ingredient_id": 267,
+      "canonical_name": "suco de limão",
+      "canonical_name_normalized": "suco-de-limao",
+      "display_name_en": null,
+      "display_name_pt": "suco de limão",
+      "match_kind": "alias",
+      "matched_term": "lemon-juice"
     },
     {
       "recipe_id": "mg1930-p129-r02",
@@ -33560,8 +33938,14 @@
       "recipe_id": "mg1930-p133-r01",
       "recipe_title": "LEMON FLUFF PIE FILLING",
       "display_text": "1 lemon, grated rind and juice",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2006,
+      "canonical_name": "lemon",
+      "canonical_name_normalized": "lemon",
+      "display_name_en": "lemon",
+      "display_name_pt": "limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemon"
     },
     {
       "recipe_id": "mg1930-p133-r01",
@@ -33789,8 +34173,14 @@
       "recipe_id": "mg1930-p133-r04",
       "recipe_title": "LEMON PIE",
       "display_text": "1 lemon, juice and grated rind",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "lemon juice",
+      "ingredient_id": 267,
+      "canonical_name": "suco de limão",
+      "canonical_name_normalized": "suco-de-limao",
+      "display_name_en": null,
+      "display_name_pt": "suco de limão",
+      "match_kind": "alias",
+      "matched_term": "lemon-juice"
     },
     {
       "recipe_id": "mg1930-p133-r04",
@@ -34115,8 +34505,14 @@
       "recipe_id": "mg1930-p134-r03",
       "recipe_title": "ORANGE PIE",
       "display_text": "1 tsp. orange rind, grated",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "orange",
+      "ingredient_id": 1017,
+      "canonical_name": "laranja",
+      "canonical_name_normalized": "laranja",
+      "display_name_en": null,
+      "display_name_pt": "laranja",
+      "match_kind": "alias",
+      "matched_term": "orange"
     },
     {
       "recipe_id": "mg1930-p134-r03",
@@ -34337,8 +34733,14 @@
       "recipe_id": "mg1930-p135-r01",
       "recipe_title": "PINEAPPLE PIE",
       "display_text": "1 cup chopped pineapple, strained",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2029,
+      "canonical_name": "pineapple",
+      "canonical_name_normalized": "pineapple",
+      "display_name_en": "pineapple",
+      "display_name_pt": "abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple"
     },
     {
       "recipe_id": "mg1930-p135-r01",
@@ -34435,14 +34837,14 @@
       "recipe_id": "mg1930-p135-r02",
       "recipe_title": "PUMPKIN PIE",
       "display_text": "1/4 tsp. cinnamon, nutmeg, ginger",
-      "alias_normalized": "ginger",
-      "ingredient_id": 1123,
-      "canonical_name": "ginger",
-      "canonical_name_normalized": "gengibre",
-      "display_name_en": "ginger",
-      "display_name_pt": "gengibre",
+      "alias_normalized": "cinnamon",
+      "ingredient_id": 5,
+      "canonical_name": "canela",
+      "canonical_name_normalized": "canela",
+      "display_name_en": null,
+      "display_name_pt": "canela",
       "match_kind": "alias",
-      "matched_term": "ginger"
+      "matched_term": "cinnamon"
     },
     {
       "recipe_id": "mg1930-p135-r02",
@@ -34669,14 +35071,14 @@
       "recipe_id": "mg1930-p136-r01",
       "recipe_title": "COCKTAIL SAUCE",
       "display_text": "½ cup tomato catsup",
-      "alias_normalized": "catsup",
-      "ingredient_id": 617,
-      "canonical_name": "ketchup",
-      "canonical_name_normalized": "ketchup",
+      "alias_normalized": "tomato",
+      "ingredient_id": 884,
+      "canonical_name": "tomate",
+      "canonical_name_normalized": "tomate",
       "display_name_en": null,
-      "display_name_pt": "ketchup",
+      "display_name_pt": "tomate",
       "match_kind": "alias",
-      "matched_term": "catsup"
+      "matched_term": "tomato"
     },
     {
       "recipe_id": "mg1930-p136-r01",
@@ -35437,8 +35839,14 @@
       "recipe_id": "mg1930-p137-r02",
       "recipe_title": "WINTER SALAD",
       "display_text": "2 qts. vinegar, dilute if very strong",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "vinegar",
+      "ingredient_id": 655,
+      "canonical_name": "vinagre",
+      "canonical_name_normalized": "vinagre",
+      "display_name_en": null,
+      "display_name_pt": "vinagre",
+      "match_kind": "alias",
+      "matched_term": "vinegar"
     },
     {
       "recipe_id": "mg1930-p137-r03",
@@ -35823,8 +36231,14 @@
       "recipe_id": "mg1930-p138-r02",
       "recipe_title": "CELERY ICE PICKLES",
       "display_text": "1 large onion slice per jar",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "onion",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onion"
     },
     {
       "recipe_id": "mg1930-p138-r02",
@@ -35837,8 +36251,14 @@
       "recipe_id": "mg1930-p138-r02",
       "recipe_title": "CELERY ICE PICKLES",
       "display_text": "2 tsp. celery seed per jar",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "celery seed",
+      "ingredient_id": 1122,
+      "canonical_name": "celery seed",
+      "canonical_name_normalized": "sementes-de-aipo",
+      "display_name_en": "celery seed",
+      "display_name_pt": "sementes de aipo",
+      "match_kind": "alias",
+      "matched_term": "celery-seed"
     },
     {
       "recipe_id": "mg1930-p138-r02",
@@ -36735,15 +37155,27 @@
       "recipe_id": "mg1930-p140-r03",
       "recipe_title": "CHERRY AND RASPBERRY CONSERVE",
       "display_text": "2 oranges, zest and juice",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "oranges",
+      "ingredient_id": 1017,
+      "canonical_name": "laranja",
+      "canonical_name_normalized": "laranja",
+      "display_name_en": null,
+      "display_name_pt": "laranja",
+      "match_kind": "alias",
+      "matched_term": "oranges"
     },
     {
       "recipe_id": "mg1930-p140-r03",
       "recipe_title": "CHERRY AND RASPBERRY CONSERVE",
       "display_text": "2 lemons, zest and juice",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2006,
+      "canonical_name": "lemon",
+      "canonical_name_normalized": "lemon",
+      "display_name_en": "lemon",
+      "display_name_pt": "limao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lemons"
     },
     {
       "recipe_id": "mg1930-p140-r03",
@@ -36775,8 +37207,14 @@
       "recipe_id": "mg1930-p140-r04",
       "recipe_title": "SPICED GOOSEBERRIES",
       "display_text": "2 qts. gooseberries, stemmed and washed",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2111,
+      "canonical_name": "gooseberries",
+      "canonical_name_normalized": "gooseberries",
+      "display_name_en": "gooseberries",
+      "display_name_pt": "groselhas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "gooseberries"
     },
     {
       "recipe_id": "mg1930-p140-r04",
@@ -36977,8 +37415,14 @@
       "recipe_id": "mg1930-p141-r02",
       "recipe_title": "PEACH CONSERVE",
       "display_text": "3 oranges, grated rind of 2, juice of 3",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "oranges",
+      "ingredient_id": 1017,
+      "canonical_name": "laranja",
+      "canonical_name_normalized": "laranja",
+      "display_name_en": null,
+      "display_name_pt": "laranja",
+      "match_kind": "alias",
+      "matched_term": "oranges"
     },
     {
       "recipe_id": "mg1930-p141-r02",
@@ -38196,8 +38640,14 @@
       "recipe_id": "mg1930-p147-r02",
       "recipe_title": "COOKED MAYONNAISE WITH OIL",
       "display_text": "1 cup oil, added gradually while hot",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "oil",
+      "ingredient_id": 1,
+      "canonical_name": "óleo",
+      "canonical_name_normalized": "oleo",
+      "display_name_en": null,
+      "display_name_pt": "óleo",
+      "match_kind": "alias",
+      "matched_term": "oil"
     },
     {
       "recipe_id": "mg1930-p147-r03",
@@ -39102,14 +39552,14 @@
       "recipe_id": "mg1930-p148-r05",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "1 cup oil mayonnaise",
-      "alias_normalized": "mayonnaise",
-      "ingredient_id": 127,
-      "canonical_name": "maionese",
-      "canonical_name_normalized": "maionese",
+      "alias_normalized": "oil",
+      "ingredient_id": 1,
+      "canonical_name": "óleo",
+      "canonical_name_normalized": "oleo",
       "display_name_en": null,
-      "display_name_pt": "maionese",
+      "display_name_pt": "óleo",
       "match_kind": "alias",
-      "matched_term": "mayonnaise"
+      "matched_term": "oil"
     },
     {
       "recipe_id": "mg1930-p148-r05",
@@ -39417,8 +39867,14 @@
       "recipe_id": "mg1930-p149-r04",
       "recipe_title": "DRESSING FOR CABBAGE SALAD",
       "display_text": "½ cup cream, sweet or sour",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2025,
+      "canonical_name": "cream",
+      "canonical_name_normalized": "cream",
+      "display_name_en": "cream",
+      "display_name_pt": "creme",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream"
     },
     {
       "recipe_id": "mg1930-p149-r04",
@@ -40005,8 +40461,14 @@
       "recipe_id": "mg1930-p153-r01",
       "recipe_title": "BREAKFAST SALAD",
       "display_text": "1 tomato slice, ½ inch thick, per serving",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "tomato",
+      "ingredient_id": 884,
+      "canonical_name": "tomate",
+      "canonical_name_normalized": "tomate",
+      "display_name_en": null,
+      "display_name_pt": "tomate",
+      "match_kind": "alias",
+      "matched_term": "tomato"
     },
     {
       "recipe_id": "mg1930-p153-r01",
@@ -40228,8 +40690,14 @@
       "recipe_id": "mg1930-p153-r04",
       "recipe_title": "CABBAGE AND SHRIMP SALAD",
       "display_text": "1½ cups canned shrimp, cleaned",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "shrimp",
+      "ingredient_id": 801,
+      "canonical_name": "camarão",
+      "canonical_name_normalized": "camarao",
+      "display_name_en": null,
+      "display_name_pt": "camarão",
+      "match_kind": "alias",
+      "matched_term": "shrimp"
     },
     {
       "recipe_id": "mg1930-p153-r04",
@@ -40346,14 +40814,14 @@
       "recipe_id": "mg1930-p153-r06",
       "recipe_title": "CHERRY SALAD",
       "display_text": "½ pecan meat per cherry",
-      "ingredient_id": 2101,
-      "canonical_name": "cherries",
-      "canonical_name_normalized": "cherries",
-      "display_name_en": "cherries",
-      "display_name_pt": "cerejas",
+      "ingredient_id": 2077,
+      "canonical_name": "pecans",
+      "canonical_name_normalized": "pecans",
+      "display_name_en": "pecans",
+      "display_name_pt": "nozes-peca",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cherry"
+      "matched_term": "pecan"
     },
     {
       "recipe_id": "mg1930-p153-r06",
@@ -40502,8 +40970,14 @@
       "recipe_id": "mg1930-p154-r01",
       "recipe_title": "OVERNIGHT WHITE CHERRY SALAD",
       "display_text": "½ pint cream, whipped, to fold in after dressing",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2025,
+      "canonical_name": "cream",
+      "canonical_name_normalized": "cream",
+      "display_name_en": "cream",
+      "display_name_pt": "creme",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream"
     },
     {
       "recipe_id": "mg1930-p154-r02",
@@ -40562,8 +41036,14 @@
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1 cup mayonnaise salad dressing",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "mayonnaise",
+      "ingredient_id": 127,
+      "canonical_name": "maionese",
+      "canonical_name_normalized": "maionese",
+      "display_name_en": null,
+      "display_name_pt": "maionese",
+      "match_kind": "alias",
+      "matched_term": "mayonnaise"
     },
     {
       "recipe_id": "mg1930-p154-r02",
@@ -40720,15 +41200,27 @@
       "recipe_id": "mg1930-p155-r01",
       "recipe_title": "MIXED FRUIT SALAD",
       "display_text": "½ cup orange pulp",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "orange",
+      "ingredient_id": 1017,
+      "canonical_name": "laranja",
+      "canonical_name_normalized": "laranja",
+      "display_name_en": null,
+      "display_name_pt": "laranja",
+      "match_kind": "alias",
+      "matched_term": "orange"
     },
     {
       "recipe_id": "mg1930-p155-r01",
       "recipe_title": "MIXED FRUIT SALAD",
       "display_text": "½ cup grapefruit pulp",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2114,
+      "canonical_name": "grapefruit",
+      "canonical_name_normalized": "grapefruit",
+      "display_name_en": "grapefruit",
+      "display_name_pt": "toranja",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "grapefruit"
     },
     {
       "recipe_id": "mg1930-p155-r01",
@@ -41390,8 +41882,14 @@
       "recipe_id": "mg1930-p156-r06",
       "recipe_title": "PINEAPPLE SALAD",
       "display_text": "1 cup pineapple juice, drained from can",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2061,
+      "canonical_name": "pineapple juice",
+      "canonical_name_normalized": "pineapple-juice",
+      "display_name_en": "pineapple juice",
+      "display_name_pt": "suco de abacaxi",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pineapple-juice"
     },
     {
       "recipe_id": "mg1930-p156-r06",
@@ -41521,8 +42019,14 @@
       "recipe_id": "mg1930-p157-r01",
       "recipe_title": "PRINCESS SALAD",
       "display_text": "1 ripe tomato slice, peeled, per serving",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "tomato",
+      "ingredient_id": 884,
+      "canonical_name": "tomate",
+      "canonical_name_normalized": "tomate",
+      "display_name_en": null,
+      "display_name_pt": "tomate",
+      "match_kind": "alias",
+      "matched_term": "tomato"
     },
     {
       "recipe_id": "mg1930-p157-r01",
@@ -41770,8 +42274,14 @@
       "recipe_id": "mg1930-p157-r04",
       "recipe_title": "SHRIMP SALAD",
       "display_text": "2 cans shrimp, drained, cleaned and chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "shrimp",
+      "ingredient_id": 801,
+      "canonical_name": "camarão",
+      "canonical_name_normalized": "camarao",
+      "display_name_en": null,
+      "display_name_pt": "camarão",
+      "match_kind": "alias",
+      "matched_term": "shrimp"
     },
     {
       "recipe_id": "mg1930-p157-r04",
@@ -42125,14 +42635,14 @@
       "recipe_id": "mg1930-p160-r04",
       "recipe_title": "MOLDED CARROT PINEAPPLE SALAD",
       "display_text": "1 tbsp. Knox gelatine dissolved in 1/4 cup cold water",
-      "alias_normalized": "cold water",
-      "ingredient_id": 52,
-      "canonical_name": "água",
-      "canonical_name_normalized": "agua",
+      "alias_normalized": "gelatina",
+      "ingredient_id": 546,
+      "canonical_name": "gelatina",
+      "canonical_name_normalized": "gelatina",
       "display_name_en": null,
-      "display_name_pt": "água",
-      "match_kind": "alias",
-      "matched_term": "cold-water"
+      "display_name_pt": "gelatina",
+      "match_kind": "historical_alias",
+      "matched_term": "knox-gelatine"
     },
     {
       "recipe_id": "mg1930-p160-r04",
@@ -42727,14 +43237,14 @@
       "recipe_id": "mg1930-p162-r01",
       "recipe_title": "FRUIT SALAD DRESSING",
       "display_text": "1/4 tsp. celery salt",
-      "alias_normalized": "salt",
-      "ingredient_id": 45,
-      "canonical_name": "sal",
-      "canonical_name_normalized": "sal",
+      "alias_normalized": "celery",
+      "ingredient_id": 1021,
+      "canonical_name": "salsão",
+      "canonical_name_normalized": "salsao",
       "display_name_en": null,
-      "display_name_pt": "sal",
+      "display_name_pt": "salsão",
       "match_kind": "alias",
-      "matched_term": "salt"
+      "matched_term": "celery"
     },
     {
       "recipe_id": "mg1930-p162-r01",
@@ -43670,8 +44180,14 @@
       "recipe_id": "mg1930-p164-r01",
       "recipe_title": "MOLDED VEGETABLE SALAD",
       "display_text": "1½ tbsp. mint sauce",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2049,
+      "canonical_name": "mint",
+      "canonical_name_normalized": "mint",
+      "display_name_en": "mint",
+      "display_name_pt": "hortela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "mint"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -43814,8 +44330,14 @@
       "recipe_id": "mg1930-p164-r02",
       "recipe_title": "VEGETABLE JELLO SALAD",
       "display_text": "2 tbsp. onion, rounded",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "onion",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onion"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -44077,8 +44599,14 @@
       "recipe_id": "mg1930-p166-r06",
       "recipe_title": "FRUIT AND CHEESE SANDWICHES",
       "display_text": "12 dates, cut into small pieces",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2009,
+      "canonical_name": "dates",
+      "canonical_name_normalized": "dates",
+      "display_name_en": "dates",
+      "display_name_pt": "tamaras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "dates"
     },
     {
       "recipe_id": "mg1930-p166-r06",
@@ -44110,8 +44638,14 @@
       "recipe_id": "mg1930-p166-r06",
       "recipe_title": "FRUIT AND CHEESE SANDWICHES",
       "display_text": "1 banana, mashed to pulp",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "banana",
+      "ingredient_id": 460,
+      "canonical_name": "banana",
+      "canonical_name_normalized": "banana",
+      "display_name_en": null,
+      "display_name_pt": "banana",
+      "match_kind": "alias",
+      "matched_term": "banana"
     },
     {
       "recipe_id": "mg1930-p166-r06",
@@ -44577,8 +45111,14 @@
       "recipe_id": "mg1930-p170-r02",
       "recipe_title": "DUTCH POT ROAST",
       "display_text": "2 tbsp. bacon fat or drippings",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "bacon",
+      "ingredient_id": 689,
+      "canonical_name": "bacon",
+      "canonical_name_normalized": "bacon",
+      "display_name_en": null,
+      "display_name_pt": "bacon",
+      "match_kind": "alias",
+      "matched_term": "bacon"
     },
     {
       "recipe_id": "mg1930-p170-r02",
@@ -44735,8 +45275,14 @@
       "recipe_id": "mg1930-p170-r03",
       "recipe_title": "TOMALEE PIE",
       "display_text": "1 cup tomato juice",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "tomato",
+      "ingredient_id": 884,
+      "canonical_name": "tomate",
+      "canonical_name_normalized": "tomate",
+      "display_name_en": null,
+      "display_name_pt": "tomate",
+      "match_kind": "alias",
+      "matched_term": "tomato"
     },
     {
       "recipe_id": "mg1930-p170-r04",
@@ -44861,8 +45407,14 @@
       "recipe_id": "mg1930-p171-r04",
       "recipe_title": "SAVORY BEEF LOAF",
       "display_text": "¼ lb. salt pork, diced fine",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2119,
+      "canonical_name": "salt pork",
+      "canonical_name_normalized": "salt-pork",
+      "display_name_en": "salt pork",
+      "display_name_pt": "porco salgado",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "salt-pork"
     },
     {
       "recipe_id": "mg1930-p171-r04",
@@ -44973,14 +45525,14 @@
       "recipe_id": "mg1930-p171-r05",
       "recipe_title": "BEEFSTEAK WITH MUSHROOM SAUCE",
       "display_text": "1 cup cold water 1 can mushrooms",
-      "alias_normalized": "mushrooms",
-      "ingredient_id": 649,
-      "canonical_name": "cogumelos",
-      "canonical_name_normalized": "cogumelos",
+      "alias_normalized": "cold water",
+      "ingredient_id": 52,
+      "canonical_name": "água",
+      "canonical_name_normalized": "agua",
       "display_name_en": null,
-      "display_name_pt": "cogumelos",
+      "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "mushrooms"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p172-r01",
@@ -45287,8 +45839,14 @@
       "recipe_id": "mg1930-p172-r04",
       "recipe_title": "LUNCHEON DISH",
       "display_text": "1 cup ham, ground, about ½ lb.",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "ham",
+      "ingredient_id": 759,
+      "canonical_name": "presunto",
+      "canonical_name_normalized": "presunto",
+      "display_name_en": null,
+      "display_name_pt": "presunto",
+      "match_kind": "alias",
+      "matched_term": "ham"
     },
     {
       "recipe_id": "mg1930-p172-r04",
@@ -45438,8 +45996,14 @@
       "recipe_id": "mg1930-p173-r02",
       "recipe_title": "BAKED SLICE OF PREMIUM HAM",
       "display_text": "1 slice ham, about 1 inch thick",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "ham",
+      "ingredient_id": 759,
+      "canonical_name": "presunto",
+      "canonical_name_normalized": "presunto",
+      "display_name_en": null,
+      "display_name_pt": "presunto",
+      "match_kind": "alias",
+      "matched_term": "ham"
     },
     {
       "recipe_id": "mg1930-p173-r02",
@@ -45608,8 +46172,14 @@
       "recipe_id": "mg1930-p173-r04",
       "recipe_title": "HAM LOAF",
       "display_text": "1 lb. ham, raw",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "ham",
+      "ingredient_id": 759,
+      "canonical_name": "presunto",
+      "canonical_name_normalized": "presunto",
+      "display_name_en": null,
+      "display_name_pt": "presunto",
+      "match_kind": "alias",
+      "matched_term": "ham"
     },
     {
       "recipe_id": "mg1930-p173-r04",
@@ -46227,21 +46797,27 @@
       "recipe_id": "mg1930-p175-r06",
       "recipe_title": "BAKED BREADED PORK CHOPS",
       "display_text": "6 pork chops crumbs",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2043,
+      "canonical_name": "pork chops",
+      "canonical_name_normalized": "pork-chops",
+      "display_name_en": "pork chops",
+      "display_name_pt": "costeletas de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork-chops"
     },
     {
       "recipe_id": "mg1930-p175-r06",
       "recipe_title": "BAKED BREADED PORK CHOPS",
       "display_text": "1 egg milk",
-      "alias_normalized": "milk",
-      "ingredient_id": 8,
-      "canonical_name": "leite",
-      "canonical_name_normalized": "leite",
+      "alias_normalized": "egg",
+      "ingredient_id": 10,
+      "canonical_name": "ovo",
+      "canonical_name_normalized": "ovo",
       "display_name_en": null,
-      "display_name_pt": "leite",
+      "display_name_pt": "ovo",
       "match_kind": "alias",
-      "matched_term": "milk"
+      "matched_term": "egg"
     },
     {
       "recipe_id": "mg1930-p175-r06",
@@ -46405,8 +46981,14 @@
       "recipe_id": "mg1930-p176-r03",
       "recipe_title": "MOCK CHICKEN LEGS",
       "display_text": "1 lb. veal, cut 1 inch thick",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2044,
+      "canonical_name": "veal",
+      "canonical_name_normalized": "veal",
+      "display_name_en": "veal",
+      "display_name_pt": "vitela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "veal"
     },
     {
       "recipe_id": "mg1930-p176-r03",
@@ -46511,8 +47093,14 @@
       "recipe_id": "mg1930-p176-r05",
       "recipe_title": "VEAL CROQUETTES",
       "display_text": "3 cups ground veal, cooked and cold",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2044,
+      "canonical_name": "veal",
+      "canonical_name_normalized": "veal",
+      "display_name_en": "veal",
+      "display_name_pt": "vitela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "veal"
     },
     {
       "recipe_id": "mg1930-p176-r05",
@@ -46590,8 +47178,14 @@
       "recipe_id": "mg1930-p177-r01",
       "recipe_title": "TARTAR SAUCE",
       "display_text": "½ tsp. mustard, dry",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "mustard",
+      "ingredient_id": 639,
+      "canonical_name": "mostarda",
+      "canonical_name_normalized": "mostarda",
+      "display_name_en": null,
+      "display_name_pt": "mostarda",
+      "match_kind": "alias",
+      "matched_term": "mustard"
     },
     {
       "recipe_id": "mg1930-p177-r01",
@@ -46742,8 +47336,14 @@
       "recipe_id": "mg1930-p177-r03",
       "recipe_title": "PRESSED VEAL",
       "display_text": "5 lbs. veal cooked in salted water with celery and onion until",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2044,
+      "canonical_name": "veal",
+      "canonical_name_normalized": "veal",
+      "display_name_en": "veal",
+      "display_name_pt": "vitela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "veal"
     },
     {
       "recipe_id": "mg1930-p177-r04",
@@ -47207,8 +47807,14 @@
       "recipe_id": "mg1930-p178-r05",
       "recipe_title": "CHINESE MEAT LOAF",
       "display_text": "2 cups fresh tomatoes, cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "tomatoes",
+      "ingredient_id": 884,
+      "canonical_name": "tomate",
+      "canonical_name_normalized": "tomate",
+      "display_name_en": null,
+      "display_name_pt": "tomate",
+      "match_kind": "alias",
+      "matched_term": "tomatoes"
     },
     {
       "recipe_id": "mg1930-p178-r05",
@@ -47326,8 +47932,14 @@
       "recipe_id": "mg1930-p178-r06",
       "recipe_title": "MEAT LOAF FOR TWELVE",
       "display_text": "1 onion cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "onion",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onion"
     },
     {
       "recipe_id": "mg1930-p179-r01",
@@ -47464,8 +48076,14 @@
       "recipe_id": "mg1930-p179-r02",
       "recipe_title": "MEAT LOAF",
       "display_text": "4 tbsp. onion, finely chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "onion",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onion"
     },
     {
       "recipe_id": "mg1930-p179-r02",
@@ -47966,8 +48584,14 @@
       "recipe_id": "mg1930-p180-r04",
       "recipe_title": "FOR LEFT- OVER MEAT",
       "display_text": "1 egg per muffin-cup portion",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "egg",
+      "ingredient_id": 10,
+      "canonical_name": "ovo",
+      "canonical_name_normalized": "ovo",
+      "display_name_en": null,
+      "display_name_pt": "ovo",
+      "match_kind": "alias",
+      "matched_term": "egg"
     },
     {
       "recipe_id": "mg1930-p180-r04",
@@ -48357,8 +48981,14 @@
       "recipe_id": "mg1930-p182-r04",
       "recipe_title": "MEXICAN GOULASH",
       "display_text": "1 tbsp. bacon fat",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "bacon",
+      "ingredient_id": 689,
+      "canonical_name": "bacon",
+      "canonical_name_normalized": "bacon",
+      "display_name_en": null,
+      "display_name_pt": "bacon",
+      "match_kind": "alias",
+      "matched_term": "bacon"
     },
     {
       "recipe_id": "mg1930-p182-r04",
@@ -48449,8 +49079,14 @@
       "recipe_id": "mg1930-p182-r04",
       "recipe_title": "MEXICAN GOULASH",
       "display_text": "½ cup water, if needed",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "water",
+      "ingredient_id": 52,
+      "canonical_name": "água",
+      "canonical_name_normalized": "agua",
+      "display_name_en": null,
+      "display_name_pt": "água",
+      "match_kind": "alias",
+      "matched_term": "water"
     },
     {
       "recipe_id": "mg1930-p182-r05",
@@ -49170,8 +49806,14 @@
       "recipe_id": "mg1930-p184-r03",
       "recipe_title": "MACARONI WITH VEGETABLES",
       "display_text": "1 pt. water, boiling",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "water",
+      "ingredient_id": 52,
+      "canonical_name": "água",
+      "canonical_name_normalized": "agua",
+      "display_name_en": null,
+      "display_name_pt": "água",
+      "match_kind": "alias",
+      "matched_term": "water"
     },
     {
       "recipe_id": "mg1930-p184-r03",
@@ -50611,8 +51253,14 @@
       "recipe_id": "mg1930-p189-r02",
       "recipe_title": "CHEESE AND RICE RING",
       "display_text": "4 eggs, beaten separately",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "eggs",
+      "ingredient_id": 18,
+      "canonical_name": "ovos",
+      "canonical_name_normalized": "ovos",
+      "display_name_en": null,
+      "display_name_pt": "ovos",
+      "match_kind": "alias",
+      "matched_term": "eggs"
     },
     {
       "recipe_id": "mg1930-p189-r02",
@@ -51521,8 +52169,14 @@
       "recipe_id": "mg1930-p194-r02",
       "recipe_title": "CHICKEN A LA KING",
       "display_text": "1 cooked chicken, meat diced",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "cooked chicken",
+      "ingredient_id": 1027,
+      "canonical_name": "frango",
+      "canonical_name_normalized": "frango",
+      "display_name_en": null,
+      "display_name_pt": "frango",
+      "match_kind": "alias",
+      "matched_term": "cooked-chicken"
     },
     {
       "recipe_id": "mg1930-p194-r02",
@@ -51541,8 +52195,14 @@
       "recipe_id": "mg1930-p194-r02",
       "recipe_title": "CHICKEN A LA KING",
       "display_text": "2 tbsp. chicken fat",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2120,
+      "canonical_name": "chicken fat",
+      "canonical_name_normalized": "chicken-fat",
+      "display_name_en": "chicken fat",
+      "display_name_pt": "gordura de frango",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chicken-fat"
     },
     {
       "recipe_id": "mg1930-p194-r02",
@@ -51770,8 +52430,14 @@
       "recipe_id": "mg1930-p194-r04",
       "recipe_title": "SAUCE BECHAMEL",
       "display_text": "1 parsley sprig",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "parsley",
+      "ingredient_id": 489,
+      "canonical_name": "Salsa",
+      "canonical_name_normalized": "salsa",
+      "display_name_en": null,
+      "display_name_pt": "Salsa",
+      "match_kind": "alias",
+      "matched_term": "parsley"
     },
     {
       "recipe_id": "mg1930-p194-r04",
@@ -52230,8 +52896,14 @@
       "recipe_id": "mg1930-p196-r02",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "1 cup cream, heavy",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2025,
+      "canonical_name": "cream",
+      "canonical_name_normalized": "cream",
+      "display_name_en": "cream",
+      "display_name_pt": "creme",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream"
     },
     {
       "recipe_id": "mg1930-p196-r02",
@@ -52349,14 +53021,14 @@
       "recipe_id": "mg1930-p196-r04",
       "recipe_title": "OYSTER PAN ROAST",
       "display_text": "½ cup tomato catsup",
-      "alias_normalized": "catsup",
-      "ingredient_id": 617,
-      "canonical_name": "ketchup",
-      "canonical_name_normalized": "ketchup",
+      "alias_normalized": "tomato",
+      "ingredient_id": 884,
+      "canonical_name": "tomate",
+      "canonical_name_normalized": "tomate",
       "display_name_en": null,
-      "display_name_pt": "ketchup",
+      "display_name_pt": "tomate",
       "match_kind": "alias",
-      "matched_term": "catsup"
+      "matched_term": "tomato"
     },
     {
       "recipe_id": "mg1930-p196-r04",
@@ -52560,8 +53232,14 @@
       "recipe_id": "mg1930-p197-r03",
       "recipe_title": "DEVILED SHRIMP",
       "display_text": "6 eggs, hard cooked",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "eggs",
+      "ingredient_id": 18,
+      "canonical_name": "ovos",
+      "canonical_name_normalized": "ovos",
+      "display_name_en": null,
+      "display_name_pt": "ovos",
+      "match_kind": "alias",
+      "matched_term": "eggs"
     },
     {
       "recipe_id": "mg1930-p197-r03",
@@ -53352,8 +54030,14 @@
       "recipe_id": "mg1930-p202-r02",
       "recipe_title": "NEW ENGLAND BAKED BEANS",
       "display_text": "1½ lb. salt pork",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2119,
+      "canonical_name": "salt pork",
+      "canonical_name_normalized": "salt-pork",
+      "display_name_en": "salt pork",
+      "display_name_pt": "porco salgado",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "salt-pork"
     },
     {
       "recipe_id": "mg1930-p202-r02",
@@ -53405,8 +54089,14 @@
       "recipe_id": "mg1930-p202-r03",
       "recipe_title": "BAKED BEANS",
       "display_text": "Salt pork (small piece for soup, plus 1½ lb. for beans)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2119,
+      "canonical_name": "salt pork",
+      "canonical_name_normalized": "salt-pork",
+      "display_name_en": "salt pork",
+      "display_name_pt": "porco salgado",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "salt-pork"
     },
     {
       "recipe_id": "mg1930-p202-r03",
@@ -54331,15 +55021,27 @@
       "recipe_id": "mg1930-p205-r01",
       "recipe_title": "CARROTS AU GRATIN",
       "display_text": "1 tbsp. green pepper, finely chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "green pepper",
+      "ingredient_id": 931,
+      "canonical_name": "pimentão",
+      "canonical_name_normalized": "pimentao",
+      "display_name_en": null,
+      "display_name_pt": "pimentão",
+      "match_kind": "alias",
+      "matched_term": "green-pepper"
     },
     {
       "recipe_id": "mg1930-p205-r01",
       "recipe_title": "CARROTS AU GRATIN",
       "display_text": "1 tbsp. onion, finely chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "onion",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onion"
     },
     {
       "recipe_id": "mg1930-p205-r01",
@@ -54484,8 +55186,14 @@
       "recipe_id": "mg1930-p205-r05",
       "recipe_title": "SCALLOPED CAULIFLOWER WITH MUSHROOMS",
       "display_text": "1 small onion, finely minced",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "onion",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onion"
     },
     {
       "recipe_id": "mg1930-p205-r05",
@@ -54530,8 +55238,14 @@
       "recipe_id": "mg1930-p205-r05",
       "recipe_title": "SCALLOPED CAULIFLOWER WITH MUSHROOMS",
       "display_text": "½ cup mushroom liquor",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "mushroom",
+      "ingredient_id": 649,
+      "canonical_name": "cogumelos",
+      "canonical_name_normalized": "cogumelos",
+      "display_name_en": null,
+      "display_name_pt": "cogumelos",
+      "match_kind": "alias",
+      "matched_term": "mushroom"
     },
     {
       "recipe_id": "mg1930-p205-r05",
@@ -55155,8 +55869,14 @@
       "recipe_id": "mg1930-p207-r02",
       "recipe_title": "CORN AND CHEESE SOUFFLE",
       "display_text": "2 tbsp. flour, about",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "flour",
+      "ingredient_id": 4,
+      "canonical_name": "farinha de trigo",
+      "canonical_name_normalized": "farinha-de-trigo",
+      "display_name_en": null,
+      "display_name_pt": "farinha de trigo",
+      "match_kind": "alias",
+      "matched_term": "flour"
     },
     {
       "recipe_id": "mg1930-p207-r02",
@@ -55292,8 +56012,14 @@
       "recipe_id": "mg1930-p207-r04",
       "recipe_title": "EGG PLANT VEGETABLE DISH",
       "display_text": "2½ cups chopped egg plant",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2118,
+      "canonical_name": "eggplant",
+      "canonical_name_normalized": "eggplant",
+      "display_name_en": "eggplant",
+      "display_name_pt": "beringela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "egg-plant"
     },
     {
       "recipe_id": "mg1930-p207-r04",
@@ -55332,8 +56058,14 @@
       "recipe_id": "mg1930-p207-r05",
       "recipe_title": "SCALLOPED EGGPLANT",
       "display_text": "1 eggplant",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2118,
+      "canonical_name": "eggplant",
+      "canonical_name_normalized": "eggplant",
+      "display_name_en": "eggplant",
+      "display_name_pt": "beringela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "eggplant"
     },
     {
       "recipe_id": "mg1930-p207-r05",
@@ -56725,8 +57457,14 @@
       "recipe_id": "mg1930-p212-r03",
       "recipe_title": "ONION SOUFFLE",
       "display_text": "1 cup cream sauce",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2025,
+      "canonical_name": "cream",
+      "canonical_name_normalized": "cream",
+      "display_name_en": "cream",
+      "display_name_pt": "creme",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cream"
     },
     {
       "recipe_id": "mg1930-p212-r03",
@@ -56797,14 +57535,14 @@
       "recipe_id": "mg1930-p212-r04",
       "recipe_title": "SPINACH LUNCHEON DISH",
       "display_text": "½ tsp. salt and pepper",
-      "alias_normalized": "pepper",
-      "ingredient_id": 531,
-      "canonical_name": "pimenta",
-      "canonical_name_normalized": "pimenta",
+      "alias_normalized": "salt",
+      "ingredient_id": 45,
+      "canonical_name": "sal",
+      "canonical_name_normalized": "sal",
       "display_name_en": null,
-      "display_name_pt": "pimenta",
+      "display_name_pt": "sal",
       "match_kind": "alias",
-      "matched_term": "pepper"
+      "matched_term": "salt"
     },
     {
       "recipe_id": "mg1930-p212-r04",
@@ -57394,8 +58132,14 @@
       "recipe_id": "mg1930-p214-r04",
       "recipe_title": "CREAM OF MUSHROOM SOUP",
       "display_text": "1 can mushrooms, cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "mushrooms",
+      "ingredient_id": 649,
+      "canonical_name": "cogumelos",
+      "canonical_name_normalized": "cogumelos",
+      "display_name_en": null,
+      "display_name_pt": "cogumelos",
+      "match_kind": "alias",
+      "matched_term": "mushrooms"
     },
     {
       "recipe_id": "mg1930-p214-r05",
@@ -57453,8 +58197,14 @@
       "recipe_id": "mg1930-p214-r05",
       "recipe_title": "CREAM OF ONION SOUP",
       "display_text": "2 tbsp. bacon fat",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "bacon",
+      "ingredient_id": 689,
+      "canonical_name": "bacon",
+      "canonical_name_normalized": "bacon",
+      "display_name_en": null,
+      "display_name_pt": "bacon",
+      "match_kind": "alias",
+      "matched_term": "bacon"
     },
     {
       "recipe_id": "mg1930-p214-r05",
@@ -57571,8 +58321,14 @@
       "recipe_id": "mg1930-p215-r02",
       "recipe_title": "CHICKEN SOUP",
       "display_text": "⅓ cup rice, washed",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "alias_normalized": "rice",
+      "ingredient_id": 938,
+      "canonical_name": "arroz",
+      "canonical_name_normalized": "arroz",
+      "display_name_en": null,
+      "display_name_pt": "arroz",
+      "match_kind": "alias",
+      "matched_term": "rice"
     },
     {
       "recipe_id": "mg1930-p215-r02",

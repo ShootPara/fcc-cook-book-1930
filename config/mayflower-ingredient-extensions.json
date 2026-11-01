@@ -118,6 +118,9 @@
     {"ingredient_id": 2114, "canonical_name": "grapefruit", "display_name_en": "grapefruit", "display_name_pt": "toranja", "aliases": ["grapefruit", "grape fruit"]},
     {"ingredient_id": 2115, "canonical_name": "commercial pectin", "display_name_en": "commercial pectin", "display_name_pt": "pectina comercial", "aliases": ["commercial pectin"]},
     {"ingredient_id": 2116, "canonical_name": "cassia", "display_name_en": "cassia", "display_name_pt": "cassia", "aliases": ["cassia"]},
-    {"ingredient_id": 2117, "canonical_name": "Tabasco sauce", "display_name_en": "Tabasco sauce", "display_name_pt": "molho Tabasco", "aliases": ["tobasco sauce", "tabasco sauce"]}
+    {"ingredient_id": 2117, "canonical_name": "Tabasco sauce", "display_name_en": "Tabasco sauce", "display_name_pt": "molho Tabasco", "aliases": ["tobasco sauce", "tabasco sauce"]},
+    {"ingredient_id": 2118, "canonical_name": "eggplant", "display_name_en": "eggplant", "display_name_pt": "beringela", "aliases": ["eggplant", "egg plant"]},
+    {"ingredient_id": 2119, "canonical_name": "salt pork", "display_name_en": "salt pork", "display_name_pt": "porco salgado", "aliases": ["salt pork"]},
+    {"ingredient_id": 2120, "canonical_name": "chicken fat", "display_name_en": "chicken fat", "display_name_pt": "gordura de frango", "aliases": ["chicken fat"]}
   ]
 }

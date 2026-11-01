@@ -1,10 +1,10 @@
 {
   "schema_version": 3,
   "edition": "20261101-v8-01",
-  "created_at": "2026-11-01T21:26:27.296978+00:00",
+  "created_at": "2026-11-01T21:37:00.555319+00:00",
   "recipes": 708,
   "recipes_with_captured_originals": 0,
   "files": {
-    "recipes.json": "e9c899f12ed0114377892790b844ffcbcb4f138264920653b68562db04170259"
+    "recipes.json": "c8f26214a24d238c98f305bd20aa7f2928358610dcf5e7ac7ebd559312bb54d7"
   }
 }

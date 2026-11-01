@@ -45,6 +45,7 @@ def slug(value: str) -> str:
 def ingredient_candidates(line: str) -> list[str]:
     """Produce conservative identity candidates without altering display text."""
     value = line.lower()
+    has_measured_lead = bool(re.match(r"^\s*(?:\d+(?:[./]\d+|[½¼¾⅓⅔⅛⅜⅝⅞�])?|[½¼¾⅓⅔⅛⅜⅝⅞]+|(?:one|two|three)\b)", value))
     value = re.sub(r"^\s*(?:\d+(?:[./]\d+|[½¼¾⅓⅔⅛⅜⅝⅞�])?|[½¼¾⅓⅔⅛⅜⅝⅞]+|one|two|three)\s*", "", value)
     value = re.sub(r"\b(?:cups?|c\.?|tablespoons?|tbsp\.?|teaspoons?|tsp\.?|pounds?|lbs?\.?|ounces?|oz\.?|quarts?|qts?\.?|pints?|pt\.?|gallons?|cans?|packages?|pkg\.?|slices?)\b", "", value)
     value = re.sub(r"\([^)]*\)", "", value)
@@ -61,6 +62,8 @@ def ingredient_candidates(line: str) -> list[str]:
         words = candidate_value.split()
         for width in (3, 2, 1):
             if len(words) >= width:
+                if has_measured_lead:
+                    candidates.append(normalized(" ".join(words[:width])))
                 candidates.append(normalized(" ".join(words[-width:])))
     return [candidate for candidate in dict.fromkeys(candidates) if candidate]
 
@@ -98,6 +101,11 @@ def load_registry(path: Path) -> tuple[dict[str, dict], dict[int, int]]:
 
 
 def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int, int]) -> dict:
+    text = line.strip()
+    if re.fullmatch(r"\[[^\]]+\]", text) or re.fullmatch(r"[A-Za-z][A-Za-z ,'-]+:", text):
+        return {"match_kind": "unmatched", "review_class": "structural_heading"}
+    if re.fullmatch(r"\d+", text):
+        return {"match_kind": "unmatched", "review_class": "stray_number"}
     for candidate in ingredient_candidates(line):
         target = HISTORICAL_ALIASES.get(candidate, candidate)
         if target not in registry:
@@ -112,13 +120,7 @@ def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int
         if candidate != target:
             result["match_kind"] = "historical_alias"
         return result
-    text = line.strip()
-    review_class = "unresolved_identity"
-    if re.fullmatch(r"\[[^\]]+\]", text) or re.fullmatch(r"[A-Za-z][A-Za-z ,'-]+:", text):
-        review_class = "structural_heading"
-    elif re.fullmatch(r"\d+", text):
-        review_class = "stray_number"
-    return {"match_kind": "unmatched", "review_class": review_class}
+    return {"match_kind": "unmatched", "review_class": "unresolved_identity"}
 
 
 def make_recipe(source: dict, numeric_id: int, registry: dict[str, dict], redirects: dict[int, int]) -> tuple[dict, list[dict]]:
