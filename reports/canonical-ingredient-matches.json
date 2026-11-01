@@ -2,9 +2,9 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3252,
-    "extension": 516,
-    "unmatched": 824,
+    "alias": 3293,
+    "extension": 520,
+    "unmatched": 779,
     "historical_alias": 104
   },
   "matches": [
@@ -589,14 +589,14 @@
       "recipe_id": "mg1930-p017-r05",
       "recipe_title": "CHILDREN'S RAISIN CANDY",
       "display_text": "2 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p017-r05",
@@ -932,7 +932,7 @@
       "display_name_pt": "cha",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "tea"
+      "matched_term": "hot-tea"
     },
     {
       "recipe_id": "mg1930-p021-r01",
@@ -1198,7 +1198,14 @@
       "recipe_id": "mg1930-p021-r04",
       "recipe_title": "ORIENTAL PUNCH",
       "display_text": "6 whole cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p021-r04",
@@ -1224,7 +1231,7 @@
       "display_name_pt": "cha",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "tea"
+      "matched_term": "hot-tea"
     },
     {
       "recipe_id": "mg1930-p021-r04",
@@ -1327,7 +1334,14 @@
       "recipe_id": "mg1930-p022-r01",
       "recipe_title": "SPICED BLOCKS",
       "display_text": "1 tbsp. whole cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p022-r01",
@@ -1728,14 +1742,14 @@
       "recipe_id": "mg1930-p024-r02",
       "recipe_title": "GRIDDLE CAKES",
       "display_text": "1/4 cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p024-r02",
@@ -1832,14 +1846,14 @@
       "recipe_id": "mg1930-p024-r03",
       "recipe_title": "WAFFLES",
       "display_text": "4 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p024-r04",
@@ -1910,14 +1924,14 @@
       "recipe_id": "mg1930-p024-r04",
       "recipe_title": "WAFFLES",
       "display_text": "4 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p024-r05",
@@ -1942,14 +1956,14 @@
       "recipe_id": "mg1930-p024-r05",
       "recipe_title": "WAFFLES",
       "display_text": "4 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p024-r05",
@@ -2020,14 +2034,14 @@
       "recipe_id": "mg1930-p025-r01",
       "recipe_title": "WAFFLES ( WITH ELECTRIC IRON)",
       "display_text": "6 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p025-r01",
@@ -2214,14 +2228,14 @@
       "recipe_id": "mg1930-p025-r03",
       "recipe_title": "EXCELLENT WAFFLES",
       "display_text": "½ cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p025-r03",
@@ -2362,14 +2376,14 @@
       "recipe_id": "mg1930-p025-r05",
       "recipe_title": "UNIVERSAL WAFFLE RECIPE",
       "display_text": "4 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p028-r01",
@@ -2427,14 +2441,14 @@
       "recipe_id": "mg1930-p028-r01",
       "recipe_title": "ICE BOX BISCUITS",
       "display_text": "1 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p028-r01",
@@ -2718,7 +2732,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p029-r01",
@@ -3380,14 +3394,14 @@
       "recipe_id": "mg1930-p032-r03",
       "recipe_title": "GINGER BREAD",
       "display_text": "1¼ cups sifted flour (level)",
-      "alias_normalized": "flour",
+      "alias_normalized": "sifted flour",
       "ingredient_id": 4,
       "canonical_name": "farinha de trigo",
       "canonical_name_normalized": "farinha-de-trigo",
       "display_name_en": null,
       "display_name_pt": "farinha de trigo",
       "match_kind": "alias",
-      "matched_term": "flour"
+      "matched_term": "sifted-flour"
     },
     {
       "recipe_id": "mg1930-p032-r04",
@@ -3419,14 +3433,14 @@
       "recipe_id": "mg1930-p032-r04",
       "recipe_title": "SOFT MOLASSES GINGERBREAD",
       "display_text": "1/4 cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p032-r04",
@@ -3549,14 +3563,14 @@
       "recipe_id": "mg1930-p033-r01",
       "recipe_title": "GINGER CAKE",
       "display_text": "1 tsp. each ginger, cinnamon, cloves",
-      "alias_normalized": "cinnamon",
-      "ingredient_id": 5,
-      "canonical_name": "canela",
-      "canonical_name_normalized": "canela",
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
       "display_name_en": null,
-      "display_name_pt": "canela",
+      "display_name_pt": "Cravo",
       "match_kind": "alias",
-      "matched_term": "cinnamon"
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p033-r01",
@@ -3783,7 +3797,14 @@
       "recipe_id": "mg1930-p033-r03",
       "recipe_title": "SOFT GINGER BREAD",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p033-r03",
@@ -5094,14 +5115,14 @@
       "recipe_id": "mg1930-p037-r02",
       "recipe_title": "DATE AND NUT BREAD",
       "display_text": "1 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p037-r02",
@@ -5211,14 +5232,14 @@
       "recipe_id": "mg1930-p037-r03",
       "recipe_title": "GRAHAM PRUNE BREAD",
       "display_text": "2 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p037-r03",
@@ -5496,7 +5517,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p038-r01",
@@ -5645,14 +5666,14 @@
       "recipe_id": "mg1930-p038-r02",
       "recipe_title": "NUT BREAD",
       "display_text": "1 beaten egg",
-      "alias_normalized": "egg",
+      "alias_normalized": "beaten egg",
       "ingredient_id": 10,
       "canonical_name": "ovo",
       "canonical_name_normalized": "ovo",
       "display_name_en": null,
       "display_name_pt": "ovo",
       "match_kind": "alias",
-      "matched_term": "egg"
+      "matched_term": "beaten-egg"
     },
     {
       "recipe_id": "mg1930-p038-r02",
@@ -6897,14 +6918,14 @@
       "recipe_id": "mg1930-p042-r05",
       "recipe_title": "BLUEBERRY MUFFINS",
       "display_text": "1 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p043-r01",
@@ -7169,14 +7190,14 @@
       "recipe_id": "mg1930-p043-r03",
       "recipe_title": "CORN MUFFINS",
       "display_text": "1 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p043-r04",
@@ -7208,14 +7229,14 @@
       "recipe_id": "mg1930-p043-r04",
       "recipe_title": "CORN MEAL MUFFINS OR JOHNNY CAKE",
       "display_text": "1/3 cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p043-r04",
@@ -7481,14 +7502,14 @@
       "recipe_id": "mg1930-p044-r01",
       "recipe_title": "GRAHAM GEMS",
       "display_text": "3 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p044-r02",
@@ -7753,14 +7774,14 @@
       "recipe_id": "mg1930-p044-r05",
       "recipe_title": "WHITE MUFFINS",
       "display_text": "2 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p044-r05",
@@ -8090,14 +8111,14 @@
       "recipe_id": "mg1930-p046-r03",
       "recipe_title": "SWEET MILK DOUGHNUTS",
       "display_text": "6 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p046-r03",
@@ -8323,14 +8344,14 @@
       "recipe_id": "mg1930-p048-r03",
       "recipe_title": "CHOCOLATE COOKIES",
       "display_text": "1 cup light brown sugar",
-      "alias_normalized": "brown sugar",
-      "ingredient_id": 217,
-      "canonical_name": "açúcar mascavo",
-      "canonical_name_normalized": "acucar-mascavo",
-      "display_name_en": null,
-      "display_name_pt": "açúcar mascavo",
+      "alias_normalized": "light brown sugar",
+      "ingredient_id": 1132,
+      "canonical_name": "açúcar mascavo claro",
+      "canonical_name_normalized": "acucar-mascavo-claro",
+      "display_name_en": "light brown sugar",
+      "display_name_pt": "açúcar mascavo claro",
       "match_kind": "alias",
-      "matched_term": "brown-sugar"
+      "matched_term": "light-brown-sugar"
     },
     {
       "recipe_id": "mg1930-p048-r03",
@@ -8453,7 +8474,14 @@
       "recipe_id": "mg1930-p048-r04",
       "recipe_title": "CHOCOLATE DROP COOKIES",
       "display_text": "1 cup raisins cut fine",
-      "match_kind": "unmatched"
+      "ingredient_id": 2001,
+      "canonical_name": "raisins",
+      "canonical_name_normalized": "raisins",
+      "display_name_en": "raisins",
+      "display_name_pt": "uvas-passas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "raisins"
     },
     {
       "recipe_id": "mg1930-p048-r04",
@@ -8485,14 +8513,14 @@
       "recipe_id": "mg1930-p048-r04",
       "recipe_title": "CHOCOLATE DROP COOKIES",
       "display_text": "1 cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p048-r04",
@@ -8901,7 +8929,7 @@
       "display_name_pt": "tamaras",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "dates"
+      "matched_term": "chopped-dates"
     },
     {
       "recipe_id": "mg1930-p049-r04",
@@ -9218,14 +9246,14 @@
       "recipe_id": "mg1930-p050-r03",
       "recipe_title": "LACE CAKES",
       "display_text": "3 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p050-r03",
@@ -9581,7 +9609,14 @@
       "recipe_id": "mg1930-p051-r01",
       "recipe_title": "HERMITS",
       "display_text": "1 tsp. ground cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "ground cloves",
+      "ingredient_id": 579,
+      "canonical_name": "cravo em pó",
+      "canonical_name_normalized": "cravo-em-po",
+      "display_name_en": null,
+      "display_name_pt": "cravo em pó",
+      "match_kind": "alias",
+      "matched_term": "ground-cloves"
     },
     {
       "recipe_id": "mg1930-p051-r01",
@@ -9607,7 +9642,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p051-r01",
@@ -9808,7 +9843,14 @@
       "recipe_id": "mg1930-p051-r03",
       "recipe_title": "HERMITS",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p051-r03",
@@ -9866,14 +9908,14 @@
       "recipe_id": "mg1930-p051-r04",
       "recipe_title": "ROLLED OATS CQOKIES",
       "display_text": "2 cups light brown sugar",
-      "alias_normalized": "brown sugar",
-      "ingredient_id": 217,
-      "canonical_name": "açúcar mascavo",
-      "canonical_name_normalized": "acucar-mascavo",
-      "display_name_en": null,
-      "display_name_pt": "açúcar mascavo",
+      "alias_normalized": "light brown sugar",
+      "ingredient_id": 1132,
+      "canonical_name": "açúcar mascavo claro",
+      "canonical_name_normalized": "acucar-mascavo-claro",
+      "display_name_en": "light brown sugar",
+      "display_name_pt": "açúcar mascavo claro",
       "match_kind": "alias",
-      "matched_term": "brown-sugar"
+      "matched_term": "light-brown-sugar"
     },
     {
       "recipe_id": "mg1930-p051-r04",
@@ -9938,7 +9980,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p051-r04",
@@ -10009,14 +10051,14 @@
       "recipe_id": "mg1930-p052-r01",
       "recipe_title": "OATMEAL COOKIES",
       "display_text": "1 cup light brown sugar",
-      "alias_normalized": "brown sugar",
-      "ingredient_id": 217,
-      "canonical_name": "açúcar mascavo",
-      "canonical_name_normalized": "acucar-mascavo",
-      "display_name_en": null,
-      "display_name_pt": "açúcar mascavo",
+      "alias_normalized": "light brown sugar",
+      "ingredient_id": 1132,
+      "canonical_name": "açúcar mascavo claro",
+      "canonical_name_normalized": "acucar-mascavo-claro",
+      "display_name_en": "light brown sugar",
+      "display_name_pt": "açúcar mascavo claro",
       "match_kind": "alias",
-      "matched_term": "brown-sugar"
+      "matched_term": "light-brown-sugar"
     },
     {
       "recipe_id": "mg1930-p052-r01",
@@ -10061,14 +10103,14 @@
       "recipe_id": "mg1930-p052-r01",
       "recipe_title": "OATMEAL COOKIES",
       "display_text": "7 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p052-r01",
@@ -10146,7 +10188,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p052-r01",
@@ -10594,14 +10636,14 @@
       "recipe_id": "mg1930-p052-r05",
       "recipe_title": "CHOCOLATE ROCKS",
       "display_text": "1 cup light brown sugar",
-      "alias_normalized": "brown sugar",
-      "ingredient_id": 217,
-      "canonical_name": "açúcar mascavo",
-      "canonical_name_normalized": "acucar-mascavo",
-      "display_name_en": null,
-      "display_name_pt": "açúcar mascavo",
+      "alias_normalized": "light brown sugar",
+      "ingredient_id": 1132,
+      "canonical_name": "açúcar mascavo claro",
+      "canonical_name_normalized": "acucar-mascavo-claro",
+      "display_name_en": "light brown sugar",
+      "display_name_pt": "açúcar mascavo claro",
       "match_kind": "alias",
-      "matched_term": "brown-sugar"
+      "matched_term": "light-brown-sugar"
     },
     {
       "recipe_id": "mg1930-p052-r05",
@@ -10620,14 +10662,14 @@
       "recipe_id": "mg1930-p052-r05",
       "recipe_title": "CHOCOLATE ROCKS",
       "display_text": "½ cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p052-r05",
@@ -10692,7 +10734,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nutmeats"
+      "matched_term": "chopped-nutmeats"
     },
     {
       "recipe_id": "mg1930-p052-r05",
@@ -10867,7 +10909,14 @@
       "recipe_id": "mg1930-p053-r02",
       "recipe_title": "ROCKS",
       "display_text": "¼ tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p053-r02",
@@ -11055,14 +11104,14 @@
       "recipe_id": "mg1930-p056-r01",
       "recipe_title": "COCOANUT COOKIES",
       "display_text": "⅓ cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p056-r01",
@@ -12071,14 +12120,14 @@
       "recipe_id": "mg1930-p060-r01",
       "recipe_title": "BUTTERSCOTCH COOKIES",
       "display_text": "1 cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p060-r01",
@@ -12168,14 +12217,14 @@
       "recipe_id": "mg1930-p060-r02",
       "recipe_title": "ICE BOX COOKIES",
       "display_text": "1½ cups melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p060-r02",
@@ -12478,14 +12527,14 @@
       "recipe_id": "mg1930-p061-r01",
       "recipe_title": "BUTTER SCOTCH COOKIES",
       "display_text": "1 cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p061-r01",
@@ -12718,7 +12767,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p061-r03",
@@ -13263,7 +13312,14 @@
       "recipe_id": "mg1930-p062-r03",
       "recipe_title": "MOLASSES CREAM BARS",
       "display_text": "½ tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p062-r03",
@@ -13503,14 +13559,14 @@
       "recipe_id": "mg1930-p064-r03",
       "recipe_title": "ECONOMY ANGEL FOOD CAKE",
       "display_text": "1/4 cup ice cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p064-r03",
@@ -13652,14 +13708,14 @@
       "recipe_id": "mg1930-p065-r02",
       "recipe_title": "YELLOW MOCK ANGEL FOOD",
       "display_text": "1 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p065-r02",
@@ -13814,14 +13870,14 @@
       "recipe_id": "mg1930-p065-r04",
       "recipe_title": "YELLOW ANGEL FOOD CAKE",
       "display_text": "1 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p065-r04",
@@ -13943,14 +13999,14 @@
       "recipe_id": "mg1930-p065-r05",
       "recipe_title": "YELLOW CAKE",
       "display_text": "1 cup sifted flour",
-      "alias_normalized": "flour",
+      "alias_normalized": "sifted flour",
       "ingredient_id": 4,
       "canonical_name": "farinha de trigo",
       "canonical_name_normalized": "farinha-de-trigo",
       "display_name_en": null,
       "display_name_pt": "farinha de trigo",
       "match_kind": "alias",
-      "matched_term": "flour"
+      "matched_term": "sifted-flour"
     },
     {
       "recipe_id": "mg1930-p066-r01",
@@ -14034,7 +14090,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nutmeats"
+      "matched_term": "chopped-nutmeats"
     },
     {
       "recipe_id": "mg1930-p066-r01",
@@ -14241,14 +14297,14 @@
       "recipe_id": "mg1930-p066-r04",
       "recipe_title": "CREAM SPONGE CAKE",
       "display_text": "3 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p066-r04",
@@ -14435,14 +14491,14 @@
       "recipe_id": "mg1930-p067-r02",
       "recipe_title": "SPONGE CAKE",
       "display_text": "3 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p067-r02",
@@ -14967,7 +15023,14 @@
       "recipe_id": "mg1930-p072-r03",
       "recipe_title": "APPLE SAUCE CAKE",
       "display_text": "½ tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p072-r03",
@@ -15051,14 +15114,14 @@
       "recipe_id": "mg1930-p072-r04",
       "recipe_title": "BROWNIES",
       "display_text": "1/4 cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p072-r04",
@@ -15128,14 +15191,14 @@
       "recipe_id": "mg1930-p073-r01",
       "recipe_title": "BROWNIES",
       "display_text": "½ cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p073-r01",
@@ -15316,14 +15379,14 @@
       "recipe_id": "mg1930-p073-r03",
       "recipe_title": "CHOCOLATE BROWNIES",
       "display_text": "½ cup softened butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "softened butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "softened-butter"
     },
     {
       "recipe_id": "mg1930-p073-r03",
@@ -15667,14 +15730,14 @@
       "recipe_id": "mg1930-p074-r03",
       "recipe_title": "COCOA CAKE",
       "display_text": "4 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p074-r03",
@@ -16161,14 +16224,14 @@
       "recipe_id": "mg1930-p075-r02",
       "recipe_title": "QUICK DEVIL'S FOOD",
       "display_text": "1 beaten egg",
-      "alias_normalized": "egg",
+      "alias_normalized": "beaten egg",
       "ingredient_id": 10,
       "canonical_name": "ovo",
       "canonical_name_normalized": "ovo",
       "display_name_en": null,
       "display_name_pt": "ovo",
       "match_kind": "alias",
-      "matched_term": "egg"
+      "matched_term": "beaten-egg"
     },
     {
       "recipe_id": "mg1930-p075-r02",
@@ -16829,14 +16892,14 @@
       "recipe_id": "mg1930-p076-r04",
       "recipe_title": "SIMPLE CHOCOLATE TWO LAYER CAKE",
       "display_text": "1½ cups sifted flour",
-      "alias_normalized": "flour",
+      "alias_normalized": "sifted flour",
       "ingredient_id": 4,
       "canonical_name": "farinha de trigo",
       "canonical_name_normalized": "farinha-de-trigo",
       "display_name_en": null,
       "display_name_pt": "farinha de trigo",
       "match_kind": "alias",
-      "matched_term": "flour"
+      "matched_term": "sifted-flour"
     },
     {
       "recipe_id": "mg1930-p076-r04",
@@ -17596,7 +17659,7 @@
       "display_name_pt": "tamaras",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "dates"
+      "matched_term": "chopped-dates"
     },
     {
       "recipe_id": "mg1930-p078-r01",
@@ -17667,14 +17730,14 @@
       "recipe_id": "mg1930-p078-r02",
       "recipe_title": "DUTCH APPLE CAKE",
       "display_text": "1 beaten egg",
-      "alias_normalized": "egg",
+      "alias_normalized": "beaten egg",
       "ingredient_id": 10,
       "canonical_name": "ovo",
       "canonical_name_normalized": "ovo",
       "display_name_en": null,
       "display_name_pt": "ovo",
       "match_kind": "alias",
-      "matched_term": "egg"
+      "matched_term": "beaten-egg"
     },
     {
       "recipe_id": "mg1930-p078-r02",
@@ -18337,14 +18400,14 @@
       "recipe_id": "mg1930-p079-r04",
       "recipe_title": "FEATHER CAKE",
       "display_text": "10 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p079-r04",
@@ -18531,7 +18594,14 @@
       "recipe_id": "mg1930-p080-r01",
       "recipe_title": "FRUIT CAKE",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p080-r01",
@@ -18615,7 +18685,14 @@
       "recipe_id": "mg1930-p080-r02",
       "recipe_title": "GINGER CAKE",
       "display_text": "1 tsp. each ginger, cinnamon, and cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p080-r02",
@@ -18725,20 +18802,27 @@
       "recipe_id": "mg1930-p080-r03",
       "recipe_title": "SOFT HOT WATER GINGER CAKE",
       "display_text": "⅔ cup molasses dissolved in ⅓ cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p080-r03",
       "recipe_title": "SOFT HOT WATER GINGER CAKE",
       "display_text": "½ tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p080-r03",
@@ -19444,7 +19528,14 @@
       "recipe_id": "mg1930-p082-r02",
       "recipe_title": "MOLASSES CAKE",
       "display_text": "½ tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p082-r02",
@@ -20312,14 +20403,14 @@
       "recipe_id": "mg1930-p084-r01",
       "recipe_title": "PECAN CHRISTMAS CAKE",
       "display_text": "1½ tsp. ground nutmeg",
-      "alias_normalized": "nutmeg",
+      "alias_normalized": "ground nutmeg",
       "ingredient_id": 774,
       "canonical_name": "noz-moscada",
       "canonical_name_normalized": "noz-moscada",
       "display_name_en": null,
       "display_name_pt": "noz-moscada",
       "match_kind": "alias",
-      "matched_term": "nutmeg"
+      "matched_term": "ground-nutmeg"
     },
     {
       "recipe_id": "mg1930-p084-r01",
@@ -20357,14 +20448,14 @@
       "recipe_id": "mg1930-p084-r02",
       "recipe_title": "HOT WATER SPICE CAKE",
       "display_text": "3 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p084-r02",
@@ -20480,14 +20571,14 @@
       "recipe_id": "mg1930-p084-r03",
       "recipe_title": "SPICE CAKE",
       "display_text": "½ cup softened butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "softened butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "softened-butter"
     },
     {
       "recipe_id": "mg1930-p084-r03",
@@ -20558,7 +20649,14 @@
       "recipe_id": "mg1930-p084-r03",
       "recipe_title": "SPICE CAKE",
       "display_text": "1 tsp. ground cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "ground cloves",
+      "ingredient_id": 579,
+      "canonical_name": "cravo em pó",
+      "canonical_name_normalized": "cravo-em-po",
+      "display_name_en": null,
+      "display_name_pt": "cravo em pó",
+      "match_kind": "alias",
+      "matched_term": "ground-cloves"
     },
     {
       "recipe_id": "mg1930-p084-r03",
@@ -20681,7 +20779,14 @@
       "recipe_id": "mg1930-p085-r01",
       "recipe_title": "SOUR MILK SPICE CAKE",
       "display_text": "½ tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p085-r01",
@@ -20953,7 +21058,14 @@
       "recipe_id": "mg1930-p085-r03",
       "recipe_title": "SPICE CAKE",
       "display_text": "½ tsp. each ginger and cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p085-r04",
@@ -21180,7 +21292,14 @@
       "recipe_id": "mg1930-p085-r04",
       "recipe_title": "SPICE CAKE WITH BROWN SUGAR FROSTING",
       "display_text": "scant tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p086-r01",
@@ -21510,7 +21629,14 @@
       "recipe_id": "mg1930-p086-r04",
       "recipe_title": "STRAWBERRY CAKE",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p086-r04",
@@ -21568,14 +21694,14 @@
       "recipe_id": "mg1930-p086-r04",
       "recipe_title": "STRAWBERRY CAKE",
       "display_text": "2 cups sifted flour",
-      "alias_normalized": "flour",
+      "alias_normalized": "sifted flour",
       "ingredient_id": 4,
       "canonical_name": "farinha de trigo",
       "canonical_name_normalized": "farinha-de-trigo",
       "display_name_en": null,
       "display_name_pt": "farinha de trigo",
       "match_kind": "alias",
-      "matched_term": "flour"
+      "matched_term": "sifted-flour"
     },
     {
       "recipe_id": "mg1930-p087-r01",
@@ -21671,7 +21797,14 @@
       "recipe_id": "mg1930-p087-r02",
       "recipe_title": "TEA CAKE",
       "display_text": "½ tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p087-r02",
@@ -21820,14 +21953,14 @@
       "recipe_id": "mg1930-p087-r03",
       "recipe_title": "WHITE CAKE THREE LAYERS",
       "display_text": "1 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p087-r03",
@@ -23198,14 +23331,14 @@
       "recipe_id": "mg1930-p094-r04",
       "recipe_title": "INCH HIGH ICING",
       "display_text": "3 tsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p094-r04",
@@ -23308,7 +23441,7 @@
       "display_name_pt": "creme",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cream"
+      "matched_term": "thin-cream"
     },
     {
       "recipe_id": "mg1930-p095-r03",
@@ -23411,14 +23544,14 @@
       "recipe_id": "mg1930-p095-r05",
       "recipe_title": "SEVEN MINUTE ICING",
       "display_text": "4 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p095-r05",
@@ -23463,14 +23596,14 @@
       "recipe_id": "mg1930-p095-r06",
       "recipe_title": "SEVEN MINUTE ICING",
       "display_text": "3 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p095-r06",
@@ -24958,14 +25091,14 @@
       "recipe_id": "mg1930-p104-r05",
       "recipe_title": "PEANUT BRITTLE ICE CREAM",
       "display_text": "3 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p104-r05",
@@ -25482,14 +25615,14 @@
       "recipe_id": "mg1930-p107-r05",
       "recipe_title": "MAPLE GELATINE PUDDING",
       "display_text": "1/2 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p107-r05",
@@ -25865,14 +25998,14 @@
       "recipe_id": "mg1930-p109-r01",
       "recipe_title": "RICE AND PINEAPPLE BAVARIAN CREAM",
       "display_text": "1 cup cooked rice",
-      "alias_normalized": "rice",
+      "alias_normalized": "cooked rice",
       "ingredient_id": 938,
       "canonical_name": "arroz",
       "canonical_name_normalized": "arroz",
       "display_name_en": null,
       "display_name_pt": "arroz",
       "match_kind": "alias",
-      "matched_term": "rice"
+      "matched_term": "cooked-rice"
     },
     {
       "recipe_id": "mg1930-p109-r01",
@@ -25897,14 +26030,14 @@
       "recipe_id": "mg1930-p109-r01",
       "recipe_title": "RICE AND PINEAPPLE BAVARIAN CREAM",
       "display_text": "½ cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p109-r01",
@@ -26006,14 +26139,14 @@
       "recipe_id": "mg1930-p109-r02",
       "recipe_title": "JELLIED RHUBARB",
       "display_text": "½ cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p109-r03",
@@ -26517,20 +26650,27 @@
       "recipe_id": "mg1930-p113-r02",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 cup dates, cut fine",
-      "match_kind": "unmatched"
+      "ingredient_id": 2009,
+      "canonical_name": "dates",
+      "canonical_name_normalized": "dates",
+      "display_name_en": "dates",
+      "display_name_pt": "tamaras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "dates"
     },
     {
       "recipe_id": "mg1930-p113-r02",
       "recipe_title": "DATE PUDDING",
       "display_text": "½ cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p113-r02",
@@ -27472,14 +27612,14 @@
       "recipe_id": "mg1930-p115-r03",
       "recipe_title": "TAPIOCA PUDDING",
       "display_text": "2 cups light brown sugar",
-      "alias_normalized": "brown sugar",
-      "ingredient_id": 217,
-      "canonical_name": "açúcar mascavo",
-      "canonical_name_normalized": "acucar-mascavo",
-      "display_name_en": null,
-      "display_name_pt": "açúcar mascavo",
+      "alias_normalized": "light brown sugar",
+      "ingredient_id": 1132,
+      "canonical_name": "açúcar mascavo claro",
+      "canonical_name_normalized": "acucar-mascavo-claro",
+      "display_name_en": "light brown sugar",
+      "display_name_pt": "açúcar mascavo claro",
       "match_kind": "alias",
-      "matched_term": "brown-sugar"
+      "matched_term": "light-brown-sugar"
     },
     {
       "recipe_id": "mg1930-p115-r03",
@@ -27763,7 +27903,7 @@
       "display_name_pt": "tamaras",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "dates"
+      "matched_term": "chopped-dates"
     },
     {
       "recipe_id": "mg1930-p116-r02",
@@ -28028,14 +28168,14 @@
       "recipe_id": "mg1930-p117-r01",
       "recipe_title": "MAPLE NUT TORTE",
       "display_text": "1/2 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p117-r01",
@@ -28080,7 +28220,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p117-r01",
@@ -28837,14 +28977,14 @@
       "recipe_id": "mg1930-p121-r02",
       "recipe_title": "CHERRY PUDDING",
       "display_text": "¼ cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p121-r02",
@@ -29055,7 +29195,14 @@
       "recipe_id": "mg1930-p121-r05",
       "recipe_title": "STEAMED CHERRY PUDDING",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p121-r05",
@@ -29619,7 +29766,14 @@
       "recipe_id": "mg1930-p123-r01",
       "recipe_title": "STEAMED DATE AND NUT PUDDING",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p123-r01",
@@ -30091,14 +30245,14 @@
       "recipe_id": "mg1930-p124-r01",
       "recipe_title": "PEACH COBBLER",
       "display_text": "1 beaten egg",
-      "alias_normalized": "egg",
+      "alias_normalized": "beaten egg",
       "ingredient_id": 10,
       "canonical_name": "ovo",
       "canonical_name_normalized": "ovo",
       "display_name_en": null,
       "display_name_pt": "ovo",
       "match_kind": "alias",
-      "matched_term": "egg"
+      "matched_term": "beaten-egg"
     },
     {
       "recipe_id": "mg1930-p124-r01",
@@ -30292,14 +30446,14 @@
       "recipe_id": "mg1930-p124-r03",
       "recipe_title": "POOR MAN'S PUDDING",
       "display_text": "3 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p124-r03",
@@ -30370,7 +30524,14 @@
       "recipe_id": "mg1930-p124-r03",
       "recipe_title": "POOR MAN'S PUDDING",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p124-r03",
@@ -30615,14 +30776,14 @@
       "recipe_id": "mg1930-p125-r02",
       "recipe_title": "SAILOR'S DUFF PUDDING",
       "display_text": "2 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p125-r02",
@@ -30803,14 +30964,14 @@
       "recipe_id": "mg1930-p125-r03",
       "recipe_title": "STRAWBERRY MERINGUE",
       "display_text": "1 tsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p125-r04",
@@ -31571,14 +31732,14 @@
       "recipe_id": "mg1930-p130-r04",
       "recipe_title": "PIE CRUST",
       "display_text": "1/4 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p130-r05",
@@ -32406,14 +32567,14 @@
       "recipe_id": "mg1930-p133-r02",
       "recipe_title": "LEMON PIE",
       "display_text": "1 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p133-r02",
@@ -32860,7 +33021,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p134-r02",
@@ -33124,14 +33285,14 @@
       "recipe_id": "mg1930-p135-r01",
       "recipe_title": "PINEAPPLE PIE",
       "display_text": "1 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p135-r01",
@@ -33544,7 +33705,14 @@
       "recipe_id": "mg1930-p136-r02",
       "recipe_title": "CHILI SAUCE",
       "display_text": "1 tbsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p136-r03",
@@ -33589,7 +33757,14 @@
       "recipe_id": "mg1930-p136-r03",
       "recipe_title": "A WINTER CHILI SAUCE",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p136-r03",
@@ -33860,7 +34035,14 @@
       "recipe_id": "mg1930-p136-r05",
       "recipe_title": "CHILI SAUCE",
       "display_text": "1 tsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p136-r05",
@@ -34276,14 +34458,14 @@
       "recipe_id": "mg1930-p137-r04",
       "recipe_title": "CORN RELISH",
       "display_text": "10 cups chopped celery",
-      "alias_normalized": "celery",
+      "alias_normalized": "chopped celery",
       "ingredient_id": 1021,
       "canonical_name": "salsão",
       "canonical_name_normalized": "salsao",
       "display_name_en": null,
       "display_name_pt": "salsão",
       "match_kind": "alias",
-      "matched_term": "celery"
+      "matched_term": "chopped-celery"
     },
     {
       "recipe_id": "mg1930-p137-r04",
@@ -34990,7 +35172,14 @@
       "recipe_id": "mg1930-p139-r05",
       "recipe_title": "CHUNK PICKLES",
       "display_text": "Syrup: 1 oz. whole cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p139-r05",
@@ -35073,7 +35262,14 @@
       "recipe_id": "mg1930-p139-r06",
       "recipe_title": "RIPE CUCUMBER PICKLES",
       "display_text": "2 tbsp. whole cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p139-r06",
@@ -35195,7 +35391,14 @@
       "recipe_id": "mg1930-p140-r02",
       "recipe_title": "SPICED CURRANTS",
       "display_text": "½ tbsp. cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p140-r02",
@@ -35302,7 +35505,14 @@
       "recipe_id": "mg1930-p140-r04",
       "recipe_title": "SPICED GOOSEBERRIES",
       "display_text": "cinnamon and cloves to taste",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p140-r05",
@@ -36194,14 +36404,14 @@
       "recipe_id": "mg1930-p146-r04",
       "recipe_title": "TOMATO FRENCH DRESSING",
       "display_text": "clove garlic",
-      "alias_normalized": "garlic",
+      "alias_normalized": "clove garlic",
       "ingredient_id": 226,
       "canonical_name": "alho",
       "canonical_name_normalized": "alho",
       "display_name_en": null,
       "display_name_pt": "alho",
       "match_kind": "alias",
-      "matched_term": "garlic"
+      "matched_term": "clove-garlic"
     },
     {
       "recipe_id": "mg1930-p146-r04",
@@ -37045,14 +37255,14 @@
       "recipe_id": "mg1930-p148-r02",
       "recipe_title": "BOILED DRESSING",
       "display_text": "1½ tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p148-r02",
@@ -37943,7 +38153,14 @@
       "recipe_id": "mg1930-p150-r01",
       "recipe_title": "A GOOD CABBAGE DRESSING",
       "display_text": "3 cups cabbage, cut fine",
-      "match_kind": "unmatched"
+      "alias_normalized": "cabbage",
+      "ingredient_id": 1023,
+      "canonical_name": "repolho",
+      "canonical_name_normalized": "repolho",
+      "display_name_en": null,
+      "display_name_pt": "repolho",
+      "match_kind": "alias",
+      "matched_term": "cabbage"
     },
     {
       "recipe_id": "mg1930-p152-r01",
@@ -37955,7 +38172,14 @@
       "recipe_id": "mg1930-p152-r01",
       "recipe_title": "ADIRONDACK SALAD",
       "display_text": "2 medium sized onions, cut fine",
-      "match_kind": "unmatched"
+      "alias_normalized": "onions",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onions"
     },
     {
       "recipe_id": "mg1930-p152-r01",
@@ -38472,14 +38696,14 @@
       "recipe_id": "mg1930-p153-r03",
       "recipe_title": "CABBAGE IN SOUR CREAM DRESSING",
       "display_text": "1 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p153-r03",
@@ -38779,14 +39003,14 @@
       "recipe_id": "mg1930-p154-r02",
       "recipe_title": "CRAB MEAT SALAD",
       "display_text": "1 tsp. chopped onion",
-      "alias_normalized": "onion",
-      "ingredient_id": 667,
-      "canonical_name": "cebola",
-      "canonical_name_normalized": "cebola",
+      "alias_normalized": "chopped onion",
+      "ingredient_id": 528,
+      "canonical_name": "cebola picada",
+      "canonical_name_normalized": "cebola-picada",
       "display_name_en": null,
-      "display_name_pt": "cebola",
+      "display_name_pt": "cebola picada",
       "match_kind": "alias",
-      "matched_term": "onion"
+      "matched_term": "chopped-onion"
     },
     {
       "recipe_id": "mg1930-p154-r02",
@@ -38940,7 +39164,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nutmeats"
+      "matched_term": "chopped-nutmeats"
     },
     {
       "recipe_id": "mg1930-p155-r01",
@@ -39401,14 +39625,14 @@
       "recipe_id": "mg1930-p156-r02",
       "recipe_title": "MACARONI LUNCHEON SALAD",
       "display_text": "1¼ cups chopped celery",
-      "alias_normalized": "celery",
+      "alias_normalized": "chopped celery",
       "ingredient_id": 1021,
       "canonical_name": "salsão",
       "canonical_name_normalized": "salsao",
       "display_name_en": null,
       "display_name_pt": "salsão",
       "match_kind": "alias",
-      "matched_term": "celery"
+      "matched_term": "chopped-celery"
     },
     {
       "recipe_id": "mg1930-p156-r02",
@@ -39459,7 +39683,14 @@
       "recipe_id": "mg1930-p156-r03",
       "recipe_title": "NATURE'S THUMB PRINT SALAD",
       "display_text": "4 stalks celery, cut fine",
-      "match_kind": "unmatched"
+      "alias_normalized": "celery",
+      "ingredient_id": 1021,
+      "canonical_name": "salsão",
+      "canonical_name_normalized": "salsao",
+      "display_name_en": null,
+      "display_name_pt": "salsão",
+      "match_kind": "alias",
+      "matched_term": "celery"
     },
     {
       "recipe_id": "mg1930-p156-r03",
@@ -40129,13 +40360,27 @@
       "recipe_id": "mg1930-p160-r02",
       "recipe_title": "JELLIED CHICKEN SALAD",
       "display_text": "1 cup chicken, cut medium",
-      "match_kind": "unmatched"
+      "alias_normalized": "chicken",
+      "ingredient_id": 1027,
+      "canonical_name": "frango",
+      "canonical_name_normalized": "frango",
+      "display_name_en": null,
+      "display_name_pt": "frango",
+      "match_kind": "alias",
+      "matched_term": "chicken"
     },
     {
       "recipe_id": "mg1930-p160-r02",
       "recipe_title": "JELLIED CHICKEN SALAD",
       "display_text": "1 cup celery, cut fine",
-      "match_kind": "unmatched"
+      "alias_normalized": "celery",
+      "ingredient_id": 1021,
+      "canonical_name": "salsão",
+      "canonical_name_normalized": "salsao",
+      "display_name_en": null,
+      "display_name_pt": "salsão",
+      "match_kind": "alias",
+      "matched_term": "celery"
     },
     {
       "recipe_id": "mg1930-p160-r02",
@@ -40218,14 +40463,14 @@
       "recipe_id": "mg1930-p160-r04",
       "recipe_title": "MOLDED CARROT PINEAPPLE SALAD",
       "display_text": "1 tbsp. Knox gelatine dissolved in 1/4 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p160-r04",
@@ -40353,14 +40598,14 @@
       "recipe_id": "mg1930-p161-r01",
       "recipe_title": "FRUIT AND GINGER ALE SALAD",
       "display_text": "2 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p161-r01",
@@ -40443,7 +40688,14 @@
       "recipe_id": "mg1930-p161-r01",
       "recipe_title": "FRUIT AND GINGER ALE SALAD",
       "display_text": "2 tbsp. Canton ginger, cut small",
-      "match_kind": "unmatched"
+      "alias_normalized": "ginger",
+      "ingredient_id": 1123,
+      "canonical_name": "ginger",
+      "canonical_name_normalized": "gengibre",
+      "display_name_en": "ginger",
+      "display_name_pt": "gengibre",
+      "match_kind": "alias",
+      "matched_term": "ginger"
     },
     {
       "recipe_id": "mg1930-p161-r01",
@@ -40913,14 +41165,14 @@
       "recipe_id": "mg1930-p162-r02",
       "recipe_title": "PARTY SALAD",
       "display_text": "1/4 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p162-r02",
@@ -40945,14 +41197,14 @@
       "recipe_id": "mg1930-p162-r02",
       "recipe_title": "PARTY SALAD",
       "display_text": "1 cup chopped celery",
-      "alias_normalized": "celery",
+      "alias_normalized": "chopped celery",
       "ingredient_id": 1021,
       "canonical_name": "salsão",
       "canonical_name_normalized": "salsao",
       "display_name_en": null,
       "display_name_pt": "salsão",
       "match_kind": "alias",
-      "matched_term": "celery"
+      "matched_term": "chopped-celery"
     },
     {
       "recipe_id": "mg1930-p162-r02",
@@ -41029,14 +41281,14 @@
       "recipe_id": "mg1930-p162-r03",
       "recipe_title": "SALMON SALAD",
       "display_text": "4 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p162-r03",
@@ -41263,14 +41515,14 @@
       "recipe_id": "mg1930-p163-r01",
       "recipe_title": "JELLIED SALMON",
       "display_text": "2 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p163-r01",
@@ -41302,14 +41554,14 @@
       "recipe_id": "mg1930-p163-r01",
       "recipe_title": "JELLIED SALMON",
       "display_text": "2 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p163-r01",
@@ -41393,14 +41645,14 @@
       "recipe_id": "mg1930-p163-r02",
       "recipe_title": "TOMATO ASPIC",
       "display_text": "½ cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p163-r02",
@@ -41510,14 +41762,14 @@
       "recipe_id": "mg1930-p163-r03",
       "recipe_title": "TOMATO CHEESE SALAD",
       "display_text": "½ cup chopped celery",
-      "alias_normalized": "celery",
+      "alias_normalized": "chopped celery",
       "ingredient_id": 1021,
       "canonical_name": "salsão",
       "canonical_name_normalized": "salsao",
       "display_name_en": null,
       "display_name_pt": "salsão",
       "match_kind": "alias",
-      "matched_term": "celery"
+      "matched_term": "chopped-celery"
     },
     {
       "recipe_id": "mg1930-p163-r04",
@@ -41614,14 +41866,14 @@
       "recipe_id": "mg1930-p164-r01",
       "recipe_title": "MOLDED VEGETABLE SALAD",
       "display_text": "½ cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p164-r01",
@@ -41737,14 +41989,14 @@
       "recipe_id": "mg1930-p164-r02",
       "recipe_title": "VEGETABLE JELLO SALAD",
       "display_text": "1/4 cup cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -41776,7 +42028,14 @@
       "recipe_id": "mg1930-p164-r02",
       "recipe_title": "VEGETABLE JELLO SALAD",
       "display_text": "1 cup celery, cut fine",
-      "match_kind": "unmatched"
+      "alias_normalized": "celery",
+      "ingredient_id": 1021,
+      "canonical_name": "salsão",
+      "canonical_name_normalized": "salsao",
+      "display_name_en": null,
+      "display_name_pt": "salsão",
+      "match_kind": "alias",
+      "matched_term": "celery"
     },
     {
       "recipe_id": "mg1930-p164-r02",
@@ -41980,7 +42239,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p166-r04",
@@ -42389,7 +42648,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nuts"
+      "matched_term": "chopped-nuts"
     },
     {
       "recipe_id": "mg1930-p167-r05",
@@ -42579,14 +42838,14 @@
       "recipe_id": "mg1930-p170-r02",
       "recipe_title": "DUTCH POT ROAST",
       "display_text": "¾ cup chopped celery",
-      "alias_normalized": "celery",
+      "alias_normalized": "chopped celery",
       "ingredient_id": 1021,
       "canonical_name": "salsão",
       "canonical_name_normalized": "salsao",
       "display_name_en": null,
       "display_name_pt": "salsão",
       "match_kind": "alias",
-      "matched_term": "celery"
+      "matched_term": "chopped-celery"
     },
     {
       "recipe_id": "mg1930-p170-r02",
@@ -43109,7 +43368,14 @@
       "recipe_id": "mg1930-p172-r03",
       "recipe_title": "BAKED SWIFT'S PREMIUM HAM",
       "display_text": "Whole cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p172-r03",
@@ -43158,7 +43424,14 @@
       "recipe_id": "mg1930-p172-r04",
       "recipe_title": "LUNCHEON DISH",
       "display_text": "1 cup American cheese, cut fine",
-      "match_kind": "unmatched"
+      "ingredient_id": 2028,
+      "canonical_name": "cheese",
+      "canonical_name_normalized": "cheese",
+      "display_name_en": "cheese",
+      "display_name_pt": "queijo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cheese"
     },
     {
       "recipe_id": "mg1930-p172-r04",
@@ -43305,14 +43578,14 @@
       "recipe_id": "mg1930-p173-r02",
       "recipe_title": "BAKED SLICE OF PREMIUM HAM",
       "display_text": "1 cup light brown sugar",
-      "alias_normalized": "brown sugar",
-      "ingredient_id": 217,
-      "canonical_name": "açúcar mascavo",
-      "canonical_name_normalized": "acucar-mascavo",
-      "display_name_en": null,
-      "display_name_pt": "açúcar mascavo",
+      "alias_normalized": "light brown sugar",
+      "ingredient_id": 1132,
+      "canonical_name": "açúcar mascavo claro",
+      "canonical_name_normalized": "acucar-mascavo-claro",
+      "display_name_en": "light brown sugar",
+      "display_name_pt": "açúcar mascavo claro",
       "match_kind": "alias",
-      "matched_term": "brown-sugar"
+      "matched_term": "light-brown-sugar"
     },
     {
       "recipe_id": "mg1930-p173-r02",
@@ -43659,7 +43932,14 @@
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "Whole cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p174-r03",
@@ -44456,14 +44736,14 @@
       "recipe_id": "mg1930-p177-r02",
       "recipe_title": "VEAL BIRDS ( BEEF BIRDS )",
       "display_text": "2 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p177-r02",
@@ -44641,14 +44921,14 @@
       "recipe_id": "mg1930-p177-r05",
       "recipe_title": "VEAL STEW AND DUMPLING",
       "display_text": "1/4 cup chopped onion",
-      "alias_normalized": "onion",
-      "ingredient_id": 667,
-      "canonical_name": "cebola",
-      "canonical_name_normalized": "cebola",
+      "alias_normalized": "chopped onion",
+      "ingredient_id": 528,
+      "canonical_name": "cebola picada",
+      "canonical_name_normalized": "cebola-picada",
       "display_name_en": null,
-      "display_name_pt": "cebola",
+      "display_name_pt": "cebola picada",
       "match_kind": "alias",
-      "matched_term": "onion"
+      "matched_term": "chopped-onion"
     },
     {
       "recipe_id": "mg1930-p177-r05",
@@ -45052,7 +45332,14 @@
       "recipe_id": "mg1930-p179-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "1½ lbs. ground beef",
-      "match_kind": "unmatched"
+      "alias_normalized": "ground beef",
+      "ingredient_id": 704,
+      "canonical_name": "carne moída",
+      "canonical_name_normalized": "carne-moida",
+      "display_name_en": null,
+      "display_name_pt": "carne moída",
+      "match_kind": "alias",
+      "matched_term": "ground-beef"
     },
     {
       "recipe_id": "mg1930-p179-r01",
@@ -45212,7 +45499,14 @@
       "recipe_id": "mg1930-p179-r02",
       "recipe_title": "MEAT LOAF",
       "display_text": "½ lb. ground beef",
-      "match_kind": "unmatched"
+      "alias_normalized": "ground beef",
+      "ingredient_id": 704,
+      "canonical_name": "carne moída",
+      "canonical_name_normalized": "carne-moida",
+      "display_name_en": null,
+      "display_name_pt": "carne moída",
+      "match_kind": "alias",
+      "matched_term": "ground-beef"
     },
     {
       "recipe_id": "mg1930-p179-r02",
@@ -45984,7 +46278,14 @@
       "recipe_id": "mg1930-p182-r03",
       "recipe_title": "CHILI CON CARNE",
       "display_text": "1½ lbs. ground beef",
-      "match_kind": "unmatched"
+      "alias_normalized": "ground beef",
+      "ingredient_id": 704,
+      "canonical_name": "carne moída",
+      "canonical_name_normalized": "carne-moida",
+      "display_name_en": null,
+      "display_name_pt": "carne moída",
+      "match_kind": "alias",
+      "matched_term": "ground-beef"
     },
     {
       "recipe_id": "mg1930-p182-r03",
@@ -46130,7 +46431,14 @@
       "recipe_id": "mg1930-p182-r05",
       "recipe_title": "CHOP SUEY",
       "display_text": "1 lb. veal, cut fine",
-      "match_kind": "unmatched"
+      "ingredient_id": 2044,
+      "canonical_name": "veal",
+      "canonical_name_normalized": "veal",
+      "display_name_en": "veal",
+      "display_name_pt": "vitela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "veal"
     },
     {
       "recipe_id": "mg1930-p182-r05",
@@ -46296,27 +46604,27 @@
       "recipe_id": "mg1930-p183-r02",
       "recipe_title": "CHOP SUEY",
       "display_text": "2 cups chopped celery",
-      "alias_normalized": "celery",
+      "alias_normalized": "chopped celery",
       "ingredient_id": 1021,
       "canonical_name": "salsão",
       "canonical_name_normalized": "salsao",
       "display_name_en": null,
       "display_name_pt": "salsão",
       "match_kind": "alias",
-      "matched_term": "celery"
+      "matched_term": "chopped-celery"
     },
     {
       "recipe_id": "mg1930-p183-r02",
       "recipe_title": "CHOP SUEY",
       "display_text": "2 cups chopped onion",
-      "alias_normalized": "onion",
-      "ingredient_id": 667,
-      "canonical_name": "cebola",
-      "canonical_name_normalized": "cebola",
+      "alias_normalized": "chopped onion",
+      "ingredient_id": 528,
+      "canonical_name": "cebola picada",
+      "canonical_name_normalized": "cebola-picada",
       "display_name_en": null,
-      "display_name_pt": "cebola",
+      "display_name_pt": "cebola picada",
       "match_kind": "alias",
-      "matched_term": "onion"
+      "matched_term": "chopped-onion"
     },
     {
       "recipe_id": "mg1930-p183-r03",
@@ -46450,14 +46758,14 @@
       "recipe_id": "mg1930-p183-r04",
       "recipe_title": "ITALIAN MACARONI",
       "display_text": "1 clove garlic",
-      "alias_normalized": "garlic",
+      "alias_normalized": "clove garlic",
       "ingredient_id": 226,
       "canonical_name": "alho",
       "canonical_name_normalized": "alho",
       "display_name_en": null,
       "display_name_pt": "alho",
       "match_kind": "alias",
-      "matched_term": "garlic"
+      "matched_term": "clove-garlic"
     },
     {
       "recipe_id": "mg1930-p183-r04",
@@ -46496,7 +46804,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p184-r01",
@@ -46535,7 +46843,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p184-r01",
@@ -46599,14 +46907,14 @@
       "recipe_id": "mg1930-p184-r02",
       "recipe_title": "CREAMETTES ( OR SHELL MACARONI )",
       "display_text": "¼ cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p184-r02",
@@ -46697,7 +47005,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p184-r02",
@@ -46831,14 +47139,14 @@
       "recipe_id": "mg1930-p185-r01",
       "recipe_title": "NOODLE RING",
       "display_text": "2 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p185-r01",
@@ -46864,7 +47172,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p185-r01",
@@ -46935,7 +47243,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p185-r02",
@@ -47019,7 +47327,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p185-r03",
@@ -47217,14 +47525,14 @@
       "recipe_id": "mg1930-p186-r02",
       "recipe_title": "SPAGHETTI KING",
       "display_text": "1 tbsp. chopped onion",
-      "alias_normalized": "onion",
-      "ingredient_id": 667,
-      "canonical_name": "cebola",
-      "canonical_name_normalized": "cebola",
+      "alias_normalized": "chopped onion",
+      "ingredient_id": 528,
+      "canonical_name": "cebola picada",
+      "canonical_name_normalized": "cebola-picada",
       "display_name_en": null,
-      "display_name_pt": "cebola",
+      "display_name_pt": "cebola picada",
       "match_kind": "alias",
-      "matched_term": "onion"
+      "matched_term": "chopped-onion"
     },
     {
       "recipe_id": "mg1930-p186-r02",
@@ -47661,14 +47969,14 @@
       "recipe_id": "mg1930-p187-r04",
       "recipe_title": "SPANISH RICE",
       "display_text": "1½ cups cooked rice",
-      "alias_normalized": "rice",
+      "alias_normalized": "cooked rice",
       "ingredient_id": 938,
       "canonical_name": "arroz",
       "canonical_name_normalized": "arroz",
       "display_name_en": null,
       "display_name_pt": "arroz",
       "match_kind": "alias",
-      "matched_term": "rice"
+      "matched_term": "cooked-rice"
     },
     {
       "recipe_id": "mg1930-p187-r04",
@@ -47920,14 +48228,14 @@
       "recipe_id": "mg1930-p188-r01",
       "recipe_title": "FRENCH RICE",
       "display_text": "1 cup peeled and diced tomatoes",
-      "alias_normalized": "tomatoes",
+      "alias_normalized": "diced tomatoes",
       "ingredient_id": 884,
       "canonical_name": "tomate",
       "canonical_name_normalized": "tomate",
       "display_name_en": null,
       "display_name_pt": "tomate",
       "match_kind": "alias",
-      "matched_term": "tomatoes"
+      "matched_term": "diced-tomatoes"
     },
     {
       "recipe_id": "mg1930-p188-r01",
@@ -48121,14 +48429,14 @@
       "recipe_id": "mg1930-p188-r03",
       "recipe_title": "CASSEROLE OF RICE AND MEAT",
       "display_text": "4 cups cooked rice",
-      "alias_normalized": "rice",
+      "alias_normalized": "cooked rice",
       "ingredient_id": 938,
       "canonical_name": "arroz",
       "canonical_name_normalized": "arroz",
       "display_name_en": null,
       "display_name_pt": "arroz",
       "match_kind": "alias",
-      "matched_term": "rice"
+      "matched_term": "cooked-rice"
     },
     {
       "recipe_id": "mg1930-p189-r01",
@@ -48316,7 +48624,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p189-r04",
@@ -48695,14 +49003,14 @@
       "recipe_id": "mg1930-p193-r01",
       "recipe_title": "ROAST TURKEY AND DRESSING",
       "display_text": "8 tbsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p193-r01",
@@ -49015,14 +49323,14 @@
       "recipe_id": "mg1930-p194-r01",
       "recipe_title": "CHICKEN MOUSSE",
       "display_text": "2 tbsp. cold water",
-      "alias_normalized": "water",
+      "alias_normalized": "cold water",
       "ingredient_id": 52,
       "canonical_name": "água",
       "canonical_name_normalized": "agua",
       "display_name_en": null,
       "display_name_pt": "água",
       "match_kind": "alias",
-      "matched_term": "water"
+      "matched_term": "cold-water"
     },
     {
       "recipe_id": "mg1930-p194-r01",
@@ -49588,7 +49896,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p195-r05",
@@ -49659,7 +49967,7 @@
       "display_name_pt": "creme",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cream"
+      "matched_term": "thin-cream"
     },
     {
       "recipe_id": "mg1930-p196-r01",
@@ -50139,14 +50447,14 @@
       "recipe_id": "mg1930-p197-r03",
       "recipe_title": "DEVILED SHRIMP",
       "display_text": "1/4 cup melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p197-r04",
@@ -51079,7 +51387,14 @@
       "recipe_id": "mg1930-p203-r02",
       "recipe_title": "LUNCHEON BEANS AND SPAGHETTI",
       "display_text": "3 whole cloves",
-      "match_kind": "unmatched"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p203-r02",
@@ -52418,14 +52733,14 @@
       "recipe_id": "mg1930-p206-r05",
       "recipe_title": "SPANISH CORN PUDDING",
       "display_text": "1 tbsp. chopped onion",
-      "alias_normalized": "onion",
-      "ingredient_id": 667,
-      "canonical_name": "cebola",
-      "canonical_name_normalized": "cebola",
+      "alias_normalized": "chopped onion",
+      "ingredient_id": 528,
+      "canonical_name": "cebola picada",
+      "canonical_name_normalized": "cebola-picada",
       "display_name_en": null,
-      "display_name_pt": "cebola",
+      "display_name_pt": "cebola picada",
       "match_kind": "alias",
-      "matched_term": "onion"
+      "matched_term": "chopped-onion"
     },
     {
       "recipe_id": "mg1930-p206-r05",
@@ -52638,7 +52953,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p207-r02",
@@ -53023,7 +53338,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p208-r04",
@@ -53125,14 +53440,14 @@
       "recipe_id": "mg1930-p208-r05",
       "recipe_title": "PEPPERS WITH FISH STUFFING",
       "display_text": "2 tbsp. chopped onion",
-      "alias_normalized": "onion",
-      "ingredient_id": 667,
-      "canonical_name": "cebola",
-      "canonical_name_normalized": "cebola",
+      "alias_normalized": "chopped onion",
+      "ingredient_id": 528,
+      "canonical_name": "cebola picada",
+      "canonical_name_normalized": "cebola-picada",
       "display_name_en": null,
-      "display_name_pt": "cebola",
+      "display_name_pt": "cebola picada",
       "match_kind": "alias",
-      "matched_term": "onion"
+      "matched_term": "chopped-onion"
     },
     {
       "recipe_id": "mg1930-p208-r05",
@@ -53158,7 +53473,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p209-r01",
@@ -53177,14 +53492,14 @@
       "recipe_id": "mg1930-p209-r01",
       "recipe_title": "POTATO PUFF",
       "display_text": "1 tsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p209-r02",
@@ -53397,7 +53712,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p209-r04",
@@ -53558,14 +53873,14 @@
       "recipe_id": "mg1930-p210-r02",
       "recipe_title": "GLACÉ SWEET POTATOES",
       "display_text": "½ cup light brown sugar",
-      "alias_normalized": "brown sugar",
-      "ingredient_id": 217,
-      "canonical_name": "açúcar mascavo",
-      "canonical_name_normalized": "acucar-mascavo",
-      "display_name_en": null,
-      "display_name_pt": "açúcar mascavo",
+      "alias_normalized": "light brown sugar",
+      "ingredient_id": 1132,
+      "canonical_name": "açúcar mascavo claro",
+      "canonical_name_normalized": "acucar-mascavo-claro",
+      "display_name_en": "light brown sugar",
+      "display_name_pt": "açúcar mascavo claro",
       "match_kind": "alias",
-      "matched_term": "brown-sugar"
+      "matched_term": "light-brown-sugar"
     },
     {
       "recipe_id": "mg1930-p210-r02",
@@ -53848,7 +54163,7 @@
       "display_name_pt": "nozes",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "nutmeats"
+      "matched_term": "chopped-nutmeats"
     },
     {
       "recipe_id": "mg1930-p211-r04",
@@ -53867,14 +54182,14 @@
       "recipe_id": "mg1930-p211-r04",
       "recipe_title": "STUFFED ONIONS",
       "display_text": "5 tsp. melted butter",
-      "alias_normalized": "butter",
+      "alias_normalized": "melted butter",
       "ingredient_id": 9,
       "canonical_name": "manteiga",
       "canonical_name_normalized": "manteiga",
       "display_name_en": null,
       "display_name_pt": "manteiga",
       "match_kind": "alias",
-      "matched_term": "butter"
+      "matched_term": "melted-butter"
     },
     {
       "recipe_id": "mg1930-p211-r04",
@@ -53991,7 +54306,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p211-r04",
@@ -54211,7 +54526,7 @@
       "display_name_pt": "queijo",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cheese"
+      "matched_term": "grated-cheese"
     },
     {
       "recipe_id": "mg1930-p212-r04",
@@ -54269,14 +54584,14 @@
       "recipe_id": "mg1930-p212-r05",
       "recipe_title": "MUSTARD SAUCE FOR SPINACH",
       "display_text": "1 beaten egg",
-      "alias_normalized": "egg",
+      "alias_normalized": "beaten egg",
       "ingredient_id": 10,
       "canonical_name": "ovo",
       "canonical_name_normalized": "ovo",
       "display_name_en": null,
       "display_name_pt": "ovo",
       "match_kind": "alias",
-      "matched_term": "egg"
+      "matched_term": "beaten-egg"
     },
     {
       "recipe_id": "mg1930-p212-r05",
