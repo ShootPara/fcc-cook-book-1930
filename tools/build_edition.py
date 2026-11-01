@@ -155,20 +155,36 @@ def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int
 
 
 def card_description(source: dict) -> str:
-    """Create a compact, source-derived catalog summary without rewriting the recipe."""
-    highlights = []
-    for line in source["ingredients"]:
-        text = re.sub(r"\s+", " ", line).strip(" ,;.-")
-        if not text or text.startswith("[") or re.fullmatch(r"\d+", text):
-            continue
-        highlights.append(text)
-        if len(highlights) == 3:
-            break
-    if not highlights:
-        return f"A 1930 {source['chapter'].lower()} recipe."
-    joined = ", ".join(highlights[:2]) if len(highlights) < 3 else f"{highlights[0]}, {highlights[1]}, and {highlights[2]}"
-    summary = f"A 1930 recipe featuring {joined}."
-    return summary if len(summary) <= 180 else f"A 1930 recipe featuring {highlights[0]} and {highlights[1]}."
+    """Create a brief menu-style description without exposing an ingredient list."""
+    dish = source["title"].title().replace("Mc ", "Mc")
+    lower = dish.lower()
+    if any(word in lower for word in ("pudding", "custard")):
+        return f"A smooth, old-fashioned {lower} with a comforting homemade finish."
+    if "soup" in lower:
+        return f"A comforting bowl of {lower}, made for a simple supper."
+    if "salad" in lower:
+        return f"A crisp, composed {lower} for the table."
+    if "sandwich" in lower:
+        if lower.endswith("sandwiches"):
+            return f"A satisfying platter of {lower} for lunch or a light supper."
+        return f"A satisfying {lower} for lunch or a light supper."
+    if any(word in lower for word in ("cake", "gingerbread", "shortcake")):
+        return f"A home-style {lower} for the cake table."
+    if any(word in lower for word in ("cookie", "biscuit", "waffle", "griddle cake")):
+        return f"A classic {lower} with old-fashioned charm."
+    if any(word in lower for word in ("pie", "pastry", "tart")):
+        return f"A classic baked {lower} for dessert or tea."
+    if source["chapter"] == "Beverages":
+        if lower.startswith("hot "):
+            return f"A warming {lower} with a distinctly 1930s touch."
+        if lower.startswith("iced "):
+            return f"A cooling {lower} with a distinctly 1930s touch."
+        return f"A refreshing {lower} with a distinctly 1930s touch."
+    if any(word in lower for word in ("candy", "confection", "fudge", "caramel")):
+        return f"A sweet homemade {lower} from the Mayflower Guild table."
+    if source["chapter"] in {"Meats", "Fish, Poultry, and Game", "Meat Substitutes, Pasta, and Rice"}:
+        return f"A hearty {lower} for a family-style supper."
+    return f"A classic {lower} from the 1930 Mayflower Guild table."
 
 
 def make_recipe(source: dict, numeric_id: int, registry: dict[str, dict], redirects: dict[int, int]) -> tuple[dict, list[dict]]:
