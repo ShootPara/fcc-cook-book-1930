@@ -32,6 +32,10 @@ HISTORICAL_ALIASES = {
     "cream-tartar": "cream-of-tartar",
 }
 
+BRANDED_REFERENCE = re.compile(r"\b(?:argo|kingsford|india relish|liquid life|white rock|swift'?s|savor-tite|show you|chop suey)\b", re.IGNORECASE)
+GENERIC_INGREDIENT = re.compile(r"\b(?:fat|flavoring|seasonings?|pastry|fruit|meat|vegetables?|crumbs|berries|fish|juice|stock|dressing|sauce|icing|coloring|brine|batter|dough|gravy)\b", re.IGNORECASE)
+TEXTUAL_FRAGMENT = re.compile(r"^(?:\([^)]*\)|but\b|chopped\.?|finely\.?|ground\.?|melted\.?|thin on board\.?|skewers\.?|bud\.?|cheese is mushy\)?)$", re.IGNORECASE)
+
 
 def normalized(value: str) -> str:
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
@@ -120,7 +124,15 @@ def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int
         if candidate != target:
             result["match_kind"] = "historical_alias"
         return result
-    return {"match_kind": "unmatched", "review_class": "unresolved_identity"}
+    if TEXTUAL_FRAGMENT.fullmatch(text):
+        review_class = "textual_fragment"
+    elif BRANDED_REFERENCE.search(text):
+        review_class = "branded_or_proprietary_reference"
+    elif GENERIC_INGREDIENT.search(text):
+        review_class = "underspecified_ingredient"
+    else:
+        review_class = "unresolved_food_identity"
+    return {"match_kind": "unmatched", "review_class": review_class}
 
 
 def make_recipe(source: dict, numeric_id: int, registry: dict[str, dict], redirects: dict[int, int]) -> tuple[dict, list[dict]]:

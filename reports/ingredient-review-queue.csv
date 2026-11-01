@@ -1,193 +1,193 @@
 review_class,display_text,occurrences,recipe_ids,recipe_titles
-unresolved_identity,2 tbsp. fat,5,mg1930-p072-r03; mg1930-p170-r03; mg1930-p181-r02; mg1930-p187-r02; mg1930-p207-r05,APPLE SAUCE CAKE; TOMALEE PIE; LAMB AND STRING BEANS; CREOLE SPAGHETTI; SCALLOPED EGGPLANT
-unresolved_identity,1 tsp. flavoring,3,mg1930-p067-r01; mg1930-p081-r01; mg1930-p087-r04,SPONGE CAKE USING YOLKS ONLY; GOLD MEDAL CAKE; WHITE CAKE
-unresolved_identity,seasoning,3,mg1930-p167-r01; mg1930-p170-r03; mg1930-p178-r05,FRENCH TOAST CHICKEN SANDWICHES; TOMALEE PIE; CHINESE MEAT LOAF
+underspecified_ingredient,2 tbsp. fat,5,mg1930-p072-r03; mg1930-p170-r03; mg1930-p181-r02; mg1930-p187-r02; mg1930-p207-r05,APPLE SAUCE CAKE; TOMALEE PIE; LAMB AND STRING BEANS; CREOLE SPAGHETTI; SCALLOPED EGGPLANT
+underspecified_ingredient,1 tsp. flavoring,3,mg1930-p067-r01; mg1930-p081-r01; mg1930-p087-r04,SPONGE CAKE USING YOLKS ONLY; GOLD MEDAL CAKE; WHITE CAKE
+underspecified_ingredient,seasoning,3,mg1930-p167-r01; mg1930-p170-r03; mg1930-p178-r05,FRENCH TOAST CHICKEN SANDWICHES; TOMALEE PIE; CHINESE MEAT LOAF
 structural_heading,[Batter],2,mg1930-p057-r02; mg1930-p121-r04,RAISIN FILLED COOKIES; CHERRY CUP PUDDING
-unresolved_identity,pastry,2,mg1930-p131-r01; mg1930-p132-r02,APPLE PIE; COCOANUT CREAM PIE
-unresolved_identity,(each sq. one ounce),1,mg1930-p075-r03,DEVIL'S FOOD CAKE
+underspecified_ingredient,pastry,2,mg1930-p131-r01; mg1930-p132-r02,APPLE PIE; COCOANUT CREAM PIE
+textual_fragment,(each sq. one ounce),1,mg1930-p075-r03,DEVIL'S FOOD CAKE
 stray_number,1,1,mg1930-p116-r01,CHEESE TORTE
-unresolved_identity,1 baked pastry shell,1,mg1930-p131-r04,BUTTERSCOTCH PIE
-unresolved_identity,1 baked pie crust,1,mg1930-p133-r02,LEMON PIE
-unresolved_identity,"1 bottle cherries, maraschino",1,mg1930-p117-r04,DAINTY DESSERT
-unresolved_identity,1 bottle white rock,1,mg1930-p022-r02,SOFT DRINK
-unresolved_identity,"1 box dates, cut up fine",1,mg1930-p113-r03,DATE PUDDING
-unresolved_identity,1 can fruit for salad,1,mg1930-p161-r03,FROZEN FRUIT SALAD
-unresolved_identity,"1 cup boiling chicken broth, free from fat",1,mg1930-p160-r02,JELLIED CHICKEN SALAD
-unresolved_identity,1 cup chopped meat,1,mg1930-p194-r03,"TIMBLES, CHICKEN OR VEAL"
-unresolved_identity,"1 cup cooked vegetables ( any variety, rice is very good)",1,mg1930-p186-r01,NUT LOAF
-unresolved_identity,"1 cup crumbs, for topping",1,mg1930-p178-r04,CHIPPED BEEF AND CANNED CORN
-unresolved_identity,1 cup crushed berries,1,mg1930-p125-r03,STRAWBERRY MERINGUE
-unresolved_identity,"1 cup flaked, cooked fish",1,mg1930-p208-r05,PEPPERS WITH FISH STUFFING
-unresolved_identity,1 cup prepared fruit,1,mg1930-p123-r03,FRUIT FRITTERS
-unresolved_identity,"1 dressed rabbit, jointed",1,mg1930-p193-r04,RABBIT
-unresolved_identity,1 jar peanut butter 6 oz.,1,mg1930-p039-r03,PEANUT BUTTER BREAD
-unresolved_identity,"1 pickle, medium size",1,mg1930-p148-r05,THOUSAND ISLAND DRESSING
-unresolved_identity,"1 plain rusk or crisp toast, crumbled",1,mg1930-p192-r01,EGG AND CHEESE DAINTY
-unresolved_identity,1 qt. beans ( wax are best),1,mg1930-p203-r01,SOUR BEANS
-unresolved_identity,"1 slice Swift’s Premium Savor-tite ham, about ½ inch thick",1,mg1930-p173-r05,SWIFT'S PREMIUM HAM SMOTHERED IN MUSHROOMS
-unresolved_identity,1 small bottle Maraschino,1,mg1930-p106-r04,ICE BOX DESSERT
-unresolved_identity,"1 Swift’s Premium ham, 10–12 lb.",1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
-unresolved_identity,1 tbsp. fat,1,mg1930-p173-r01,ESCALLOPED HAM AND POTATOES
-unresolved_identity,1 tbsp. glacé plums,1,mg1930-p155-r04,GLACÉ FRUIT DRESSING
-unresolved_identity,1 tbsp. melted fat,1,mg1930-p178-r05,CHINESE MEAT LOAF
-unresolved_identity,1 tbsp. salad dressing,1,mg1930-p161-r03,FROZEN FRUIT SALAD
-unresolved_identity,1 tin Liquid Life,1,mg1930-p215-r01,CREAM LIQUID LIFE SOUP
-unresolved_identity,1/4 cup juice,1,mg1930-p128-r04,FLUFFY FRUIT SAUCE
-unresolved_identity,1/4 cupflour,1,mg1930-p113-r04,DATE PUDDING
-unresolved_identity,1½ cups diced cooked white chicken meat,1,mg1930-p194-r01,CHICKEN MOUSSE
-unresolved_identity,1½ cupsflour,1,mg1930-p087-r04,WHITE CAKE
-unresolved_identity,1½ lbs. ground steak,1,mg1930-p179-r04,MEAT LOAF
-unresolved_identity,1–2 cooked asparagus spears per sandwich,1,mg1930-p166-r05,ROLLED ASPARAGUS SANDWICHES
-unresolved_identity,"1–2 cups celery, finely chopped",1,mg1930-p157-r04,SHRIMP SALAD
-unresolved_identity,"2 cups chopped, cooked meat",1,mg1930-p188-r03,CASSEROLE OF RICE AND MEAT
-unresolved_identity,2 cups diced cooked meat,1,mg1930-p180-r05,SHEPHERDS PIE
-unresolved_identity,2 cups rich cream sauce,1,mg1930-p195-r05,CREAMED CRABMEAT WITH MUSHROOMS
-unresolved_identity,2 qts. berries,1,mg1930-p142-r04,STRAWBERRY PRESERVES
-unresolved_identity,2 small seeded peppers,1,mg1930-p136-r04,UNCOOKED CHILI SAUCE
-unresolved_identity,2 stalks celery. Slice and let stand in salt water over night.,1,mg1930-p138-r05,SLICED PICKLES
-unresolved_identity,2 sweet peppers,1,mg1930-p213-r05,TOMATO AND CABBAGE MULLIGAN
-unresolved_identity,2 tablespoons fat,1,mg1930-p028-r03,BAKING POWDER BISCUIT
-unresolved_identity,2 tbsp. Argo or Kingsford,1,mg1930-p123-r03,FRUIT FRITTERS
-unresolved_identity,2 tbsp. India relish,1,mg1930-p157-r04,SHRIMP SALAD
-unresolved_identity,2 tbsp. melted fat,1,mg1930-p044-r03,PRUNE - NUT MUFFINS
-unresolved_identity,2 tsp. poultry dressing,1,mg1930-p204-r06,SCALLOPED CABBAGE
-unresolved_identity,2 yolks,1,mg1930-p132-r04,CREAM PIE FILLING
-unresolved_identity,"24 ears corn, kernels cut from cob",1,mg1930-p137-r03,CORN RELISH
-unresolved_identity,2½ cups cooked shredded,1,mg1930-p204-r06,SCALLOPED CABBAGE
-unresolved_identity,3 lbs. fruit,1,mg1930-p140-r02,SPICED CURRANTS
-unresolved_identity,3 red sweet peppers,1,mg1930-p139-r02,ARISTOCRAT PICKLES
-unresolved_identity,3/4 cup madeira or sherry wine,1,mg1930-p196-r02,LOBSTER A LA NEWBERG
-unresolved_identity,4 beaten whites,1,mg1930-p113-r06,DATE PUDDING
-unresolved_identity,4 beaten yolks,1,mg1930-p113-r06,DATE PUDDING
-unresolved_identity,4 cups berries,1,mg1930-p142-r03,STRAWBERRY PRESERVES
-unresolved_identity,4 lb. cut of brisket,1,mg1930-p171-r02,POT ROAST
-unresolved_identity,"4 lb. rump, shank or chuck, cut for stew",1,mg1930-p170-r02,DUTCH POT ROAST
-unresolved_identity,"4 radishes,button size",1,mg1930-p148-r05,THOUSAND ISLAND DRESSING
-unresolved_identity,4 rolled crackers,1,mg1930-p177-r04,VEAL LOAF
-unresolved_identity,4 sq. chocolate melted in double boiler,1,mg1930-p128-r02,CHOCOLATE SAUCE
-unresolved_identity,4 tbsp. buttered crumbs,1,mg1930-p185-r03,CREAMED NOODLE WITH CHEESE
-unresolved_identity,"4 tbsp. sugar-let melt, then add",1,mg1930-p128-r02,CHOCOLATE SAUCE
-unresolved_identity,6 pieces fresh celery per jar,1,mg1930-p138-r02,CELERY ICE PICKLES
-unresolved_identity,"6 tbsp. finely minced, uncooked",1,mg1930-p209-r02,STUFFED BAKED POTATOES
-unresolved_identity,6 tsp. chop suey sauce,1,mg1930-p183-r03,CHOP SUEY
+underspecified_ingredient,1 baked pastry shell,1,mg1930-p131-r04,BUTTERSCOTCH PIE
+unresolved_food_identity,1 baked pie crust,1,mg1930-p133-r02,LEMON PIE
+unresolved_food_identity,"1 bottle cherries, maraschino",1,mg1930-p117-r04,DAINTY DESSERT
+branded_or_proprietary_reference,1 bottle white rock,1,mg1930-p022-r02,SOFT DRINK
+unresolved_food_identity,"1 box dates, cut up fine",1,mg1930-p113-r03,DATE PUDDING
+underspecified_ingredient,1 can fruit for salad,1,mg1930-p161-r03,FROZEN FRUIT SALAD
+underspecified_ingredient,"1 cup boiling chicken broth, free from fat",1,mg1930-p160-r02,JELLIED CHICKEN SALAD
+underspecified_ingredient,1 cup chopped meat,1,mg1930-p194-r03,"TIMBLES, CHICKEN OR VEAL"
+underspecified_ingredient,"1 cup cooked vegetables ( any variety, rice is very good)",1,mg1930-p186-r01,NUT LOAF
+underspecified_ingredient,"1 cup crumbs, for topping",1,mg1930-p178-r04,CHIPPED BEEF AND CANNED CORN
+underspecified_ingredient,1 cup crushed berries,1,mg1930-p125-r03,STRAWBERRY MERINGUE
+underspecified_ingredient,"1 cup flaked, cooked fish",1,mg1930-p208-r05,PEPPERS WITH FISH STUFFING
+underspecified_ingredient,1 cup prepared fruit,1,mg1930-p123-r03,FRUIT FRITTERS
+unresolved_food_identity,"1 dressed rabbit, jointed",1,mg1930-p193-r04,RABBIT
+unresolved_food_identity,1 jar peanut butter 6 oz.,1,mg1930-p039-r03,PEANUT BUTTER BREAD
+unresolved_food_identity,"1 pickle, medium size",1,mg1930-p148-r05,THOUSAND ISLAND DRESSING
+unresolved_food_identity,"1 plain rusk or crisp toast, crumbled",1,mg1930-p192-r01,EGG AND CHEESE DAINTY
+unresolved_food_identity,1 qt. beans ( wax are best),1,mg1930-p203-r01,SOUR BEANS
+branded_or_proprietary_reference,"1 slice Swift’s Premium Savor-tite ham, about ½ inch thick",1,mg1930-p173-r05,SWIFT'S PREMIUM HAM SMOTHERED IN MUSHROOMS
+unresolved_food_identity,1 small bottle Maraschino,1,mg1930-p106-r04,ICE BOX DESSERT
+unresolved_food_identity,"1 Swift’s Premium ham, 10–12 lb.",1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
+underspecified_ingredient,1 tbsp. fat,1,mg1930-p173-r01,ESCALLOPED HAM AND POTATOES
+unresolved_food_identity,1 tbsp. glacé plums,1,mg1930-p155-r04,GLACÉ FRUIT DRESSING
+underspecified_ingredient,1 tbsp. melted fat,1,mg1930-p178-r05,CHINESE MEAT LOAF
+underspecified_ingredient,1 tbsp. salad dressing,1,mg1930-p161-r03,FROZEN FRUIT SALAD
+branded_or_proprietary_reference,1 tin Liquid Life,1,mg1930-p215-r01,CREAM LIQUID LIFE SOUP
+underspecified_ingredient,1/4 cup juice,1,mg1930-p128-r04,FLUFFY FRUIT SAUCE
+unresolved_food_identity,1/4 cupflour,1,mg1930-p113-r04,DATE PUDDING
+underspecified_ingredient,1½ cups diced cooked white chicken meat,1,mg1930-p194-r01,CHICKEN MOUSSE
+unresolved_food_identity,1½ cupsflour,1,mg1930-p087-r04,WHITE CAKE
+unresolved_food_identity,1½ lbs. ground steak,1,mg1930-p179-r04,MEAT LOAF
+unresolved_food_identity,1–2 cooked asparagus spears per sandwich,1,mg1930-p166-r05,ROLLED ASPARAGUS SANDWICHES
+unresolved_food_identity,"1–2 cups celery, finely chopped",1,mg1930-p157-r04,SHRIMP SALAD
+underspecified_ingredient,"2 cups chopped, cooked meat",1,mg1930-p188-r03,CASSEROLE OF RICE AND MEAT
+underspecified_ingredient,2 cups diced cooked meat,1,mg1930-p180-r05,SHEPHERDS PIE
+underspecified_ingredient,2 cups rich cream sauce,1,mg1930-p195-r05,CREAMED CRABMEAT WITH MUSHROOMS
+underspecified_ingredient,2 qts. berries,1,mg1930-p142-r04,STRAWBERRY PRESERVES
+unresolved_food_identity,2 small seeded peppers,1,mg1930-p136-r04,UNCOOKED CHILI SAUCE
+unresolved_food_identity,2 stalks celery. Slice and let stand in salt water over night.,1,mg1930-p138-r05,SLICED PICKLES
+unresolved_food_identity,2 sweet peppers,1,mg1930-p213-r05,TOMATO AND CABBAGE MULLIGAN
+underspecified_ingredient,2 tablespoons fat,1,mg1930-p028-r03,BAKING POWDER BISCUIT
+branded_or_proprietary_reference,2 tbsp. Argo or Kingsford,1,mg1930-p123-r03,FRUIT FRITTERS
+branded_or_proprietary_reference,2 tbsp. India relish,1,mg1930-p157-r04,SHRIMP SALAD
+underspecified_ingredient,2 tbsp. melted fat,1,mg1930-p044-r03,PRUNE - NUT MUFFINS
+underspecified_ingredient,2 tsp. poultry dressing,1,mg1930-p204-r06,SCALLOPED CABBAGE
+unresolved_food_identity,2 yolks,1,mg1930-p132-r04,CREAM PIE FILLING
+unresolved_food_identity,"24 ears corn, kernels cut from cob",1,mg1930-p137-r03,CORN RELISH
+unresolved_food_identity,2½ cups cooked shredded,1,mg1930-p204-r06,SCALLOPED CABBAGE
+underspecified_ingredient,3 lbs. fruit,1,mg1930-p140-r02,SPICED CURRANTS
+unresolved_food_identity,3 red sweet peppers,1,mg1930-p139-r02,ARISTOCRAT PICKLES
+unresolved_food_identity,3/4 cup madeira or sherry wine,1,mg1930-p196-r02,LOBSTER A LA NEWBERG
+unresolved_food_identity,4 beaten whites,1,mg1930-p113-r06,DATE PUDDING
+unresolved_food_identity,4 beaten yolks,1,mg1930-p113-r06,DATE PUDDING
+underspecified_ingredient,4 cups berries,1,mg1930-p142-r03,STRAWBERRY PRESERVES
+unresolved_food_identity,4 lb. cut of brisket,1,mg1930-p171-r02,POT ROAST
+unresolved_food_identity,"4 lb. rump, shank or chuck, cut for stew",1,mg1930-p170-r02,DUTCH POT ROAST
+unresolved_food_identity,"4 radishes,button size",1,mg1930-p148-r05,THOUSAND ISLAND DRESSING
+unresolved_food_identity,4 rolled crackers,1,mg1930-p177-r04,VEAL LOAF
+unresolved_food_identity,4 sq. chocolate melted in double boiler,1,mg1930-p128-r02,CHOCOLATE SAUCE
+underspecified_ingredient,4 tbsp. buttered crumbs,1,mg1930-p185-r03,CREAMED NOODLE WITH CHEESE
+unresolved_food_identity,"4 tbsp. sugar-let melt, then add",1,mg1930-p128-r02,CHOCOLATE SAUCE
+unresolved_food_identity,6 pieces fresh celery per jar,1,mg1930-p138-r02,CELERY ICE PICKLES
+unresolved_food_identity,"6 tbsp. finely minced, uncooked",1,mg1930-p209-r02,STUFFED BAKED POTATOES
+branded_or_proprietary_reference,6 tsp. chop suey sauce,1,mg1930-p183-r03,CHOP SUEY
 stray_number,7,1,mg1930-p181-r02,LAMB AND STRING BEANS
-unresolved_identity,8–10 cups dry bread cubes for dressing,1,mg1930-p193-r01,ROAST TURKEY AND DRESSING
+underspecified_ingredient,8–10 cups dry bread cubes for dressing,1,mg1930-p193-r01,ROAST TURKEY AND DRESSING
 structural_heading,[Chocolate Creams],1,mg1930-p100-r03,ORIENTALS
 structural_heading,[Filling],1,mg1930-p057-r02,RAISIN FILLED COOKIES
 structural_heading,[Large Recipe],1,mg1930-p130-r01,PASTE
 structural_heading,[Level Measurements],1,mg1930-p024-r05,WAFFLES
 structural_heading,[Meat Substitute],1,mg1930-p186-r01,NUT LOAF
-unresolved_identity,any fruit desired,1,mg1930-p160-r05,FANCY SALAD
-unresolved_identity,"apples, rather tart",1,mg1930-p131-r01,APPLE PIE
-unresolved_identity,artificial coloring,1,mg1930-p106-r01,CHARLOTTE RUSSE
-unresolved_identity,"Bacon strips, for lining and topping",1,mg1930-p193-r02,WILD DUCK
-unresolved_identity,Bamboo Sprouts may be added,1,mg1930-p183-r01,CHOP SUEY
-unresolved_identity,Boiled icing (quantity not specified),1,mg1930-p095-r01,LADY BALTIMORE ICING
-unresolved_identity,Bread dressing,1,mg1930-p171-r03,MOCK DUCK
-unresolved_identity,"Bread rounds, 12",1,mg1930-p192-r04,HORSE RADISH EGGS
-unresolved_identity,bud,1,mg1930-p143-r02,WATER MELON RIND PICKLES
-unresolved_identity,but not strained,1,mg1930-p180-r01,MEAT LOAF
-unresolved_identity,Butter a Pyrex baking dish and put some butter in the bottom.,1,mg1930-p196-r05,SCALLOPED OYSTERS
-unresolved_identity,Butter and seasoning,1,mg1930-p172-r02,MEAT BALLS
-unresolved_identity,"Butter casserole. Slice into it a layer of squash, small pieces.",1,mg1930-p213-r02,HUBBARD SQUASH IN CASSEROLE
-unresolved_identity,"Butter two slices of bread. Place a slice of corned beef between,",1,mg1930-p168-r02,DINTY MOORE SANDWICH
-unresolved_identity,"Butter, melted and in small pieces",1,mg1930-p197-r01,SCALLOPED OYSTERS
-unresolved_identity,Buttered crumbs,1,mg1930-p205-r01,CARROTS AU GRATIN
-unresolved_identity,buttered crumbs,1,mg1930-p213-r05,TOMATO AND CABBAGE MULLIGAN
-unresolved_identity,"Buttered toast, for serving",1,mg1930-p181-r01,LUNCHEON DISH
-unresolved_identity,Canned asparagus tips,1,mg1930-p152-r04,DELICIOUS CANNED ASPARAGUS SALAD
-unresolved_identity,cheese is mushy),1,mg1930-p116-r01,CHEESE TORTE
-unresolved_identity,Chop Suey Sauce,1,mg1930-p182-r05,CHOP SUEY
-unresolved_identity,chopped,1,mg1930-p210-r01,"POTATOES, EGG TIMBALES"
-unresolved_identity,"Chopped nuts, to garnish",1,mg1930-p103-r04,LADY FINGERS - ICE CREAM
-unresolved_identity,"Cinnamon apple rings, optional garnish",1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
-unresolved_identity,Coarsely crushed crackers,1,mg1930-p197-r01,SCALLOPED OYSTERS
-unresolved_identity,Cooking fat,1,mg1930-p186-r05,SPAGHETTI WITH ROUND STEAK
-unresolved_identity,"Cream sauce, enough to coat",1,mg1930-p199-r01,CREAMED TUNA FISH
-unresolved_identity,Currant jelly,1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
+underspecified_ingredient,any fruit desired,1,mg1930-p160-r05,FANCY SALAD
+unresolved_food_identity,"apples, rather tart",1,mg1930-p131-r01,APPLE PIE
+underspecified_ingredient,artificial coloring,1,mg1930-p106-r01,CHARLOTTE RUSSE
+unresolved_food_identity,"Bacon strips, for lining and topping",1,mg1930-p193-r02,WILD DUCK
+unresolved_food_identity,Bamboo Sprouts may be added,1,mg1930-p183-r01,CHOP SUEY
+underspecified_ingredient,Boiled icing (quantity not specified),1,mg1930-p095-r01,LADY BALTIMORE ICING
+underspecified_ingredient,Bread dressing,1,mg1930-p171-r03,MOCK DUCK
+unresolved_food_identity,"Bread rounds, 12",1,mg1930-p192-r04,HORSE RADISH EGGS
+textual_fragment,bud,1,mg1930-p143-r02,WATER MELON RIND PICKLES
+unresolved_food_identity,but not strained,1,mg1930-p180-r01,MEAT LOAF
+unresolved_food_identity,Butter a Pyrex baking dish and put some butter in the bottom.,1,mg1930-p196-r05,SCALLOPED OYSTERS
+underspecified_ingredient,Butter and seasoning,1,mg1930-p172-r02,MEAT BALLS
+unresolved_food_identity,"Butter casserole. Slice into it a layer of squash, small pieces.",1,mg1930-p213-r02,HUBBARD SQUASH IN CASSEROLE
+unresolved_food_identity,"Butter two slices of bread. Place a slice of corned beef between,",1,mg1930-p168-r02,DINTY MOORE SANDWICH
+unresolved_food_identity,"Butter, melted and in small pieces",1,mg1930-p197-r01,SCALLOPED OYSTERS
+underspecified_ingredient,Buttered crumbs,1,mg1930-p205-r01,CARROTS AU GRATIN
+underspecified_ingredient,buttered crumbs,1,mg1930-p213-r05,TOMATO AND CABBAGE MULLIGAN
+unresolved_food_identity,"Buttered toast, for serving",1,mg1930-p181-r01,LUNCHEON DISH
+unresolved_food_identity,Canned asparagus tips,1,mg1930-p152-r04,DELICIOUS CANNED ASPARAGUS SALAD
+textual_fragment,cheese is mushy),1,mg1930-p116-r01,CHEESE TORTE
+branded_or_proprietary_reference,Chop Suey Sauce,1,mg1930-p182-r05,CHOP SUEY
+textual_fragment,chopped,1,mg1930-p210-r01,"POTATOES, EGG TIMBALES"
+unresolved_food_identity,"Chopped nuts, to garnish",1,mg1930-p103-r04,LADY FINGERS - ICE CREAM
+unresolved_food_identity,"Cinnamon apple rings, optional garnish",1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
+unresolved_food_identity,Coarsely crushed crackers,1,mg1930-p197-r01,SCALLOPED OYSTERS
+underspecified_ingredient,Cooking fat,1,mg1930-p186-r05,SPAGHETTI WITH ROUND STEAK
+underspecified_ingredient,"Cream sauce, enough to coat",1,mg1930-p199-r01,CREAMED TUNA FISH
+unresolved_food_identity,Currant jelly,1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
 structural_heading,Custard:,1,mg1930-p116-r01,CHEESE TORTE
-unresolved_identity,"Dates, split lengthwise",1,mg1930-p153-r02,BUTTERFLY SALAD
-unresolved_identity,enough boiling water to mix stiff,1,mg1930-p017-r05,CHILDREN'S RAISIN CANDY
-unresolved_identity,Fat for browning,1,mg1930-p177-r02,VEAL BIRDS ( BEEF BIRDS )
-unresolved_identity,"Fat, for browning",1,mg1930-p175-r03,SMOTHERED PORK CHOPS
-unresolved_identity,"Fat, for frying",1,mg1930-p172-r01,MEAT PATTIES
-unresolved_identity,"Fat, for sautéing",1,mg1930-p208-r03,PARSNIP PATTIES
-unresolved_identity,finely,1,mg1930-p195-r01,BAKED BASS
-unresolved_identity,Flavoring,1,mg1930-p073-r02,BROWNIES
-unresolved_identity,flavoring,1,mg1930-p078-r03,DELICATE CAKE
-unresolved_identity,Flavoring (amount unspecified),1,mg1930-p079-r01,EASY CAKE -
-unresolved_identity,Flavoring.,1,mg1930-p094-r02,FLUFFY BOILED ICING
-unresolved_identity,flour to right consistency,1,mg1930-p056-r02,MOLASSES COOKIES
-unresolved_identity,flour to roll soft,1,mg1930-p058-r01,SUGAR COOKIES
-unresolved_identity,"Flour, if needed to thicken gravy",1,mg1930-p175-r03,SMOTHERED PORK CHOPS
-unresolved_identity,"Fresh whitefish, 2½–3 lbs.",1,mg1930-p195-r04,BROILED WHITEFISH
-unresolved_identity,Fruit salad dressing (4 tbsp. for mixing and more for serving),1,mg1930-p161-r04,FROZEN PINEAPPLE AND CHEESE SALAD
-unresolved_identity,Glacé fruit dressing,1,mg1930-p155-r03,GRAPEFRUIT SALAD
-unresolved_identity,Grapefruit pieces,1,mg1930-p161-r02,GINGER ALE SALAD
-unresolved_identity,"Grapefruit sections, membranes removed",1,mg1930-p156-r05,PINEAPPLE - GRAPEFRUIT SALAD
-unresolved_identity,Grapefruit segments,1,mg1930-p155-r03,GRAPEFRUIT SALAD
-unresolved_identity,Green-pepper strips,1,mg1930-p157-r01,PRINCESS SALAD
-unresolved_identity,ground,1,mg1930-p174-r02,SWIFT'S PREMIUM HAM LOAF
-unresolved_identity,"Ground peanuts, for coating",1,mg1930-p083-r03,PEANUT BARS
-unresolved_identity,"Ground round steak, about ½ lb. per ½ lb. dry pasta",1,mg1930-p186-r05,SPAGHETTI WITH ROUND STEAK
-unresolved_identity,"Hot water, equal in volume to jelly",1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
-unresolved_identity,"Hot water, to loosen mash",1,mg1930-p210-r03,SWEET POTATOES
-unresolved_identity,juice 1 lemon or 2 tsp. extract,1,mg1930-p079-r02,ENGLISH QUEENS CAKES
-unresolved_identity,juice and grated rind of 1,1,mg1930-p133-r03,LEMON PIE FILLING
-unresolved_identity,juice of ½ lemon or extract,1,mg1930-p060-r04,ICE BOX COOKIES
-unresolved_identity,"Leftover cooked meat, chopped",1,mg1930-p180-r04,FOR LEFT- OVER MEAT
-unresolved_identity,"Leftover gravy, optional",1,mg1930-p180-r05,SHEPHERDS PIE
-unresolved_identity,"Lobster coral, if available",1,mg1930-p155-r05,LOBSTER SALAD
-unresolved_identity,Lobster meat,1,mg1930-p167-r04,LOBSTER SALAD SANDWICHES
-unresolved_identity,"Mayonnaise and pimiento strips, to garnish",1,mg1930-p204-r03,STUFFED BEETS
-unresolved_identity,"Medium onions, all about the same size, skins on",1,mg1930-p212-r02,BAKED ONIONS
-unresolved_identity,melted,1,mg1930-p060-r04,ICE BOX COOKIES
-unresolved_identity,"Milk, sweet cider, or diluted peach-pickle juice, enough to cover",1,mg1930-p172-r05,BAKED SLICE OF HAM
-unresolved_identity,"Mushrooms, fresh or canned",1,mg1930-p173-r05,SWIFT'S PREMIUM HAM SMOTHERED IN MUSHROOMS
-unresolved_identity,"Onion, finely chopped",1,mg1930-p204-r03,STUFFED BEETS
-unresolved_identity,"Onions, thinly sliced",1,mg1930-p170-r01,SPANISH STEAK
-unresolved_identity,Pan drippings from broiled steak,1,mg1930-p170-r04,STEAK GRAVY
-unresolved_identity,"Paprika, to finish",1,mg1930-p153-r03,CABBAGE IN SOUR CREAM DRESSING
-unresolved_identity,Pimiento cheese spread,1,mg1930-p167-r02,ROLLED SANDWICHES WITH CHEESE
-unresolved_identity,pinch of cayenne,1,mg1930-p189-r04,CHEESE FONDU
-unresolved_identity,Pineapple pieces,1,mg1930-p156-r05,PINEAPPLE - GRAPEFRUIT SALAD
-unresolved_identity,"Pineapple rings, halved",1,mg1930-p153-r02,BUTTERFLY SALAD
-unresolved_identity,"Pineapple, grated or ground",1,mg1930-p141-r03,PINEAPPLE JAM
-unresolved_identity,"Pink coloring, as needed",1,mg1930-p102-r05,COLD DESSERT
-unresolved_identity,Plain or puff paste,1,mg1930-p134-r04,PINEAPPLE PIE
-unresolved_identity,"Pork tenderloin, cubed",1,mg1930-p175-r04,CREAMED PORK TENDERLOIN
-unresolved_identity,"Pork tenderloin, split lengthwise",1,mg1930-p176-r02,STUFFED PORK TENDERLOIN
-unresolved_identity,Prepared bread dressing,1,mg1930-p176-r02,STUFFED PORK TENDERLOIN
-unresolved_identity,"Prepared bread dressing, enough to fill cavity",1,mg1930-p193-r02,WILD DUCK
-unresolved_identity,Prepared fritter batter,1,mg1930-p205-r02,CARROT FRITTERS
-unresolved_identity,rich biscuit dough,1,mg1930-p120-r02,APPLE ROLL
-unresolved_identity,Rind 1 large water melon,1,mg1930-p143-r02,WATER MELON RIND PICKLES
-unresolved_identity,salad dressing,1,mg1930-p017-r02,CHILDREN'S SALAD
-unresolved_identity,"Salt and other seasoning, to taste",1,mg1930-p210-r03,SWEET POTATOES
-unresolved_identity,seasonings,1,mg1930-p207-r05,SCALLOPED EGGPLANT
-unresolved_identity,Show You Chop Suey Sauce,1,mg1930-p183-r01,CHOP SUEY
-unresolved_identity,skewers,1,mg1930-p176-r03,MOCK CHICKEN LEGS
-unresolved_identity,"small onion, finely chopped",1,mg1930-p207-r05,SCALLOPED EGGPLANT
-unresolved_identity,Sour sauce (see accompanying recipe),1,mg1930-p204-r01,BEETS WITH SOUR SAUCE
-unresolved_identity,"Spinach juice or green coloring, optional",1,mg1930-p167-r02,ROLLED SANDWICHES WITH CHEESE
-unresolved_identity,"Steak, cut 1½ inches thick",1,mg1930-p170-r01,SPANISH STEAK
-unresolved_identity,"Strong brine, for soaking",1,mg1930-p139-r04,CHUNK PICKLES
-unresolved_identity,"Strong salt brine, to cover vegetables",1,mg1930-p139-r02,ARISTOCRAT PICKLES
-unresolved_identity,"Sweetened whipped cream, optionally tinted",1,mg1930-p103-r04,LADY FINGERS - ICE CREAM
-unresolved_identity,thin on board,1,mg1930-p057-r03,SUGAR COOKIES
-unresolved_identity,"Toast, for serving",1,mg1930-p175-r04,CREAMED PORK TENDERLOIN
-unresolved_identity,"Tomatoes, fresh or canned",1,mg1930-p214-r02,VEGETABLE DISH FOR OVEN MEAL
-unresolved_identity,"Turkey giblets, optional",1,mg1930-p193-r01,ROAST TURKEY AND DRESSING
-unresolved_identity,"Veal cutlets or thin beef steak, ½ inch thick",1,mg1930-p177-r02,VEAL BIRDS ( BEEF BIRDS )
-unresolved_identity,"Very fresh sandwich bread, cut lengthwise into thin slices",1,mg1930-p167-r02,ROLLED SANDWICHES WITH CHEESE
-unresolved_identity,"Winter squash, halved and seeded",1,mg1930-p213-r01,BAKED SQUASH WITH SAUSAGE
-unresolved_identity,½ cup bran,1,mg1930-p071-r01,Providence Muffins
-unresolved_identity,½ cup reserved beet-cooking liquid,1,mg1930-p204-r01,BEETS WITH SOUR SAUCE
-unresolved_identity,"½ lb. Swift's Premium bacon, cut in squares",1,mg1930-p209-r03,POTATO CHOWDER
-unresolved_identity,"½ loaf bread, moistened, for dressing",1,mg1930-p177-r02,VEAL BIRDS ( BEEF BIRDS )
-unresolved_identity,½ tsp. flavoring,1,mg1930-p083-r03,PEANUT BARS
-unresolved_identity,¾ cup crumbs,1,mg1930-p197-r03,DEVILED SHRIMP
-unresolved_identity,¾ cup stock,1,mg1930-p205-r01,CARROTS AU GRATIN
-unresolved_identity,"⅓ cup Malaga grapes, skinned, seeded and halved",1,mg1930-p161-r01,FRUIT AND GINGER ALE SALAD
-unresolved_identity,"⅔ cup meat, put through food chopper",1,mg1930-p180-r03,MEAT SOUFFLE
-unresolved_identity,⅔ lb. top of round,1,mg1930-p171-r03,MOCK DUCK
+unresolved_food_identity,"Dates, split lengthwise",1,mg1930-p153-r02,BUTTERFLY SALAD
+unresolved_food_identity,enough boiling water to mix stiff,1,mg1930-p017-r05,CHILDREN'S RAISIN CANDY
+underspecified_ingredient,Fat for browning,1,mg1930-p177-r02,VEAL BIRDS ( BEEF BIRDS )
+underspecified_ingredient,"Fat, for browning",1,mg1930-p175-r03,SMOTHERED PORK CHOPS
+underspecified_ingredient,"Fat, for frying",1,mg1930-p172-r01,MEAT PATTIES
+underspecified_ingredient,"Fat, for sautéing",1,mg1930-p208-r03,PARSNIP PATTIES
+textual_fragment,finely,1,mg1930-p195-r01,BAKED BASS
+underspecified_ingredient,Flavoring,1,mg1930-p073-r02,BROWNIES
+underspecified_ingredient,flavoring,1,mg1930-p078-r03,DELICATE CAKE
+underspecified_ingredient,Flavoring (amount unspecified),1,mg1930-p079-r01,EASY CAKE -
+underspecified_ingredient,Flavoring.,1,mg1930-p094-r02,FLUFFY BOILED ICING
+unresolved_food_identity,flour to right consistency,1,mg1930-p056-r02,MOLASSES COOKIES
+unresolved_food_identity,flour to roll soft,1,mg1930-p058-r01,SUGAR COOKIES
+underspecified_ingredient,"Flour, if needed to thicken gravy",1,mg1930-p175-r03,SMOTHERED PORK CHOPS
+unresolved_food_identity,"Fresh whitefish, 2½–3 lbs.",1,mg1930-p195-r04,BROILED WHITEFISH
+underspecified_ingredient,Fruit salad dressing (4 tbsp. for mixing and more for serving),1,mg1930-p161-r04,FROZEN PINEAPPLE AND CHEESE SALAD
+underspecified_ingredient,Glacé fruit dressing,1,mg1930-p155-r03,GRAPEFRUIT SALAD
+unresolved_food_identity,Grapefruit pieces,1,mg1930-p161-r02,GINGER ALE SALAD
+unresolved_food_identity,"Grapefruit sections, membranes removed",1,mg1930-p156-r05,PINEAPPLE - GRAPEFRUIT SALAD
+unresolved_food_identity,Grapefruit segments,1,mg1930-p155-r03,GRAPEFRUIT SALAD
+unresolved_food_identity,Green-pepper strips,1,mg1930-p157-r01,PRINCESS SALAD
+textual_fragment,ground,1,mg1930-p174-r02,SWIFT'S PREMIUM HAM LOAF
+unresolved_food_identity,"Ground peanuts, for coating",1,mg1930-p083-r03,PEANUT BARS
+unresolved_food_identity,"Ground round steak, about ½ lb. per ½ lb. dry pasta",1,mg1930-p186-r05,SPAGHETTI WITH ROUND STEAK
+unresolved_food_identity,"Hot water, equal in volume to jelly",1,mg1930-p174-r03,SWIFT'S PREMIUM HAM SUPREME
+unresolved_food_identity,"Hot water, to loosen mash",1,mg1930-p210-r03,SWEET POTATOES
+underspecified_ingredient,juice 1 lemon or 2 tsp. extract,1,mg1930-p079-r02,ENGLISH QUEENS CAKES
+underspecified_ingredient,juice and grated rind of 1,1,mg1930-p133-r03,LEMON PIE FILLING
+underspecified_ingredient,juice of ½ lemon or extract,1,mg1930-p060-r04,ICE BOX COOKIES
+underspecified_ingredient,"Leftover cooked meat, chopped",1,mg1930-p180-r04,FOR LEFT- OVER MEAT
+underspecified_ingredient,"Leftover gravy, optional",1,mg1930-p180-r05,SHEPHERDS PIE
+unresolved_food_identity,"Lobster coral, if available",1,mg1930-p155-r05,LOBSTER SALAD
+underspecified_ingredient,Lobster meat,1,mg1930-p167-r04,LOBSTER SALAD SANDWICHES
+unresolved_food_identity,"Mayonnaise and pimiento strips, to garnish",1,mg1930-p204-r03,STUFFED BEETS
+unresolved_food_identity,"Medium onions, all about the same size, skins on",1,mg1930-p212-r02,BAKED ONIONS
+textual_fragment,melted,1,mg1930-p060-r04,ICE BOX COOKIES
+underspecified_ingredient,"Milk, sweet cider, or diluted peach-pickle juice, enough to cover",1,mg1930-p172-r05,BAKED SLICE OF HAM
+unresolved_food_identity,"Mushrooms, fresh or canned",1,mg1930-p173-r05,SWIFT'S PREMIUM HAM SMOTHERED IN MUSHROOMS
+unresolved_food_identity,"Onion, finely chopped",1,mg1930-p204-r03,STUFFED BEETS
+unresolved_food_identity,"Onions, thinly sliced",1,mg1930-p170-r01,SPANISH STEAK
+unresolved_food_identity,Pan drippings from broiled steak,1,mg1930-p170-r04,STEAK GRAVY
+unresolved_food_identity,"Paprika, to finish",1,mg1930-p153-r03,CABBAGE IN SOUR CREAM DRESSING
+unresolved_food_identity,Pimiento cheese spread,1,mg1930-p167-r02,ROLLED SANDWICHES WITH CHEESE
+unresolved_food_identity,pinch of cayenne,1,mg1930-p189-r04,CHEESE FONDU
+unresolved_food_identity,Pineapple pieces,1,mg1930-p156-r05,PINEAPPLE - GRAPEFRUIT SALAD
+unresolved_food_identity,"Pineapple rings, halved",1,mg1930-p153-r02,BUTTERFLY SALAD
+unresolved_food_identity,"Pineapple, grated or ground",1,mg1930-p141-r03,PINEAPPLE JAM
+underspecified_ingredient,"Pink coloring, as needed",1,mg1930-p102-r05,COLD DESSERT
+unresolved_food_identity,Plain or puff paste,1,mg1930-p134-r04,PINEAPPLE PIE
+unresolved_food_identity,"Pork tenderloin, cubed",1,mg1930-p175-r04,CREAMED PORK TENDERLOIN
+unresolved_food_identity,"Pork tenderloin, split lengthwise",1,mg1930-p176-r02,STUFFED PORK TENDERLOIN
+underspecified_ingredient,Prepared bread dressing,1,mg1930-p176-r02,STUFFED PORK TENDERLOIN
+underspecified_ingredient,"Prepared bread dressing, enough to fill cavity",1,mg1930-p193-r02,WILD DUCK
+underspecified_ingredient,Prepared fritter batter,1,mg1930-p205-r02,CARROT FRITTERS
+underspecified_ingredient,rich biscuit dough,1,mg1930-p120-r02,APPLE ROLL
+unresolved_food_identity,Rind 1 large water melon,1,mg1930-p143-r02,WATER MELON RIND PICKLES
+underspecified_ingredient,salad dressing,1,mg1930-p017-r02,CHILDREN'S SALAD
+underspecified_ingredient,"Salt and other seasoning, to taste",1,mg1930-p210-r03,SWEET POTATOES
+underspecified_ingredient,seasonings,1,mg1930-p207-r05,SCALLOPED EGGPLANT
+branded_or_proprietary_reference,Show You Chop Suey Sauce,1,mg1930-p183-r01,CHOP SUEY
+textual_fragment,skewers,1,mg1930-p176-r03,MOCK CHICKEN LEGS
+unresolved_food_identity,"small onion, finely chopped",1,mg1930-p207-r05,SCALLOPED EGGPLANT
+underspecified_ingredient,Sour sauce (see accompanying recipe),1,mg1930-p204-r01,BEETS WITH SOUR SAUCE
+underspecified_ingredient,"Spinach juice or green coloring, optional",1,mg1930-p167-r02,ROLLED SANDWICHES WITH CHEESE
+unresolved_food_identity,"Steak, cut 1½ inches thick",1,mg1930-p170-r01,SPANISH STEAK
+underspecified_ingredient,"Strong brine, for soaking",1,mg1930-p139-r04,CHUNK PICKLES
+underspecified_ingredient,"Strong salt brine, to cover vegetables",1,mg1930-p139-r02,ARISTOCRAT PICKLES
+unresolved_food_identity,"Sweetened whipped cream, optionally tinted",1,mg1930-p103-r04,LADY FINGERS - ICE CREAM
+textual_fragment,thin on board,1,mg1930-p057-r03,SUGAR COOKIES
+unresolved_food_identity,"Toast, for serving",1,mg1930-p175-r04,CREAMED PORK TENDERLOIN
+unresolved_food_identity,"Tomatoes, fresh or canned",1,mg1930-p214-r02,VEGETABLE DISH FOR OVEN MEAL
+unresolved_food_identity,"Turkey giblets, optional",1,mg1930-p193-r01,ROAST TURKEY AND DRESSING
+unresolved_food_identity,"Veal cutlets or thin beef steak, ½ inch thick",1,mg1930-p177-r02,VEAL BIRDS ( BEEF BIRDS )
+unresolved_food_identity,"Very fresh sandwich bread, cut lengthwise into thin slices",1,mg1930-p167-r02,ROLLED SANDWICHES WITH CHEESE
+unresolved_food_identity,"Winter squash, halved and seeded",1,mg1930-p213-r01,BAKED SQUASH WITH SAUSAGE
+unresolved_food_identity,½ cup bran,1,mg1930-p071-r01,Providence Muffins
+unresolved_food_identity,½ cup reserved beet-cooking liquid,1,mg1930-p204-r01,BEETS WITH SOUR SAUCE
+branded_or_proprietary_reference,"½ lb. Swift's Premium bacon, cut in squares",1,mg1930-p209-r03,POTATO CHOWDER
+underspecified_ingredient,"½ loaf bread, moistened, for dressing",1,mg1930-p177-r02,VEAL BIRDS ( BEEF BIRDS )
+underspecified_ingredient,½ tsp. flavoring,1,mg1930-p083-r03,PEANUT BARS
+underspecified_ingredient,¾ cup crumbs,1,mg1930-p197-r03,DEVILED SHRIMP
+underspecified_ingredient,¾ cup stock,1,mg1930-p205-r01,CARROTS AU GRATIN
+unresolved_food_identity,"⅓ cup Malaga grapes, skinned, seeded and halved",1,mg1930-p161-r01,FRUIT AND GINGER ALE SALAD
+underspecified_ingredient,"⅔ cup meat, put through food chopper",1,mg1930-p180-r03,MEAT SOUFFLE
+unresolved_food_identity,⅔ lb. top of round,1,mg1930-p171-r03,MOCK DUCK
