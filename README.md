@@ -6,6 +6,7 @@ An accessible, static website for the corrected 1930 Mayflower Guild cookbook. I
 
 - `source/` — immutable Version 8 editorial source: 708 recipes in 31 chapters.
 - `dist/` — the published static site and its versioned JSON edition.
+- `dist/catalog.css` — open-by-default, collapsible chapter-catalog presentation.
 - `tools/build_edition.py` — reproducibly generates the public data and matching report.
 - `reports/canonical-ingredient-matches.json` — every ingredient-line matching decision.
 - `reports/ingredient-review-queue.csv` — unresolved terms grouped with affected recipe IDs and titles.
@@ -19,6 +20,7 @@ node check-caching.mjs
 node check-ingredient-matches.mjs
 node check-accessibility.mjs
 ```
+
 - `docs/` — site use, accessibility, build, and data-status documentation.
 
 ## Build and verify
@@ -27,6 +29,8 @@ node check-accessibility.mjs
 python tools/build_edition.py
 node check-edition.mjs
 node check-caching.mjs
+node check-ingredient-matches.mjs
+node check-accessibility.mjs
 ```
 
 The build requires the existing R5 SQLite registry at `D:\Projects\Online\recipes\generated\backups\live-20261027-r5-descriptions.sqlite`. The source dataset is never modified by the build.

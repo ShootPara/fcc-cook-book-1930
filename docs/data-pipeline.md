@@ -36,18 +36,20 @@ The latest generated report resolves 3,410 ingredient lines through R5 aliases, 
 
 ## Validation
 
-Run both checks after every build:
+Run all checks after every build:
 
 ```powershell
 node check-edition.mjs
 node check-caching.mjs
+node check-ingredient-matches.mjs
+node check-accessibility.mjs
 ```
 
-The first validates the 708-record edition, unique numeric IDs, retained source metadata, schema allowlist, and manifest checksum. The second validates the browser’s manifest-first caching behavior.
+These validate the 708-record edition, unique numeric IDs, retained source metadata, schema allowlist, manifest checksum, browser caching behavior, ingredient-match coverage, and the accessibility-first catalog controls.
 
 ## Remaining publication work
 
-1. Review the unmatched historical ingredient terms and approve only defensible R5 aliases or new canonical identities.
+1. Optionally review the documented underspecified, proprietary, fragmentary, prepared-component, heading, and numeric entries; no unresolved food identity remains.
 2. Generate and review Portuguese derived content while leaving Version 8 English source untouched.
 3. Add any desired historical images or cover artwork as static site assets.
 

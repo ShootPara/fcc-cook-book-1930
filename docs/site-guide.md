@@ -7,10 +7,10 @@ The site is designed for people who may be older, unfamiliar with complex websit
 The interface deliberately favors:
 
 - a short, consistent header;
-- a visible search field before any dense navigation;
+- a visible search field followed immediately by the chapter catalog;
 - high-contrast navy, white, and blue controls;
 - large labeled controls with keyboard focus indicators;
-- a clickable chapter catalog, modeled on a directory rather than a modern “discovery feed”; and
+- an open-by-default, collapsible chapter catalog modeled on a directory rather than a modern “discovery feed”; and
 - a large-print recipe view with a dedicated print action.
 
 There is no account, sign-in, or hidden navigation requirement.
@@ -39,7 +39,9 @@ Open **Advanced search options** to:
 - show only recipes with a contributor name or printed page; and
 - include edition notes and source metadata in the search.
 
-The chapter catalog below the results is an alternative to search. Choosing a chapter applies that chapter as a filter and returns the visitor to the top of the recipe list.
+The chapter catalog appears immediately below search and is displayed when the page opens. Select its heading to collapse it when you want more room for results. Choosing a chapter applies that chapter as a filter and returns the visitor to the top of the recipe list.
+
+Recipe tiles use short, menu-style descriptions to help identify a dish at a glance; the complete historical ingredient list is shown on the recipe page.
 
 ## Recipe pages
 
