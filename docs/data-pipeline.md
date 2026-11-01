@@ -26,7 +26,9 @@ The builder reads the established Recipe Box R5 SQLite registry:
 
 It preserves every Version 8 display line, derives search terms from valid registry matches, follows redirects, and records the assigned canonical IDs in the generated data. Registry aliases and Mayflower ingredient parsing now use the same normalization rule, preventing separator differences such as `baking powder` versus `baking-powder` from hiding valid matches. A small, reviewed historical-alias list handles terms with an unambiguous culinary meaning—for example, historical `soda` maps to the R5 baking-soda identity and `gelatine` to the generic gelatin identity.
 
-The latest generated report resolves 3,171 ingredient lines through R5 aliases and 98 through explicit historical aliases. The remaining 1,427 lines are intentionally marked unmatched rather than silently forced into potentially incorrect canonical identities. Most require either a reviewed historical alias or a genuinely new canonical term. The report is the review queue.
+`config/mayflower-ingredient-extensions.json` is the separate, version-controlled registry for unmistakable Mayflower ingredients absent from R5. It assigns stable IDs above the R5 range and records English, Portuguese, and historical aliases. It never overwrites an existing R5 term and never changes the R5 SQLite file.
+
+The latest generated report resolves 3,171 ingredient lines through R5 aliases, 98 through explicit historical aliases, and 289 through the Mayflower extension registry. The remaining 1,138 lines are intentionally marked unmatched rather than silently forced into potentially incorrect canonical identities. Most require either a reviewed historical alias or a genuinely new canonical term. The report is the review queue.
 
 ## Validation
 

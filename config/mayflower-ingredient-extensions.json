@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "purpose": "Stable, reviewable canonical identities for clear Mayflower ingredients absent from the R5 registry. These do not modify R5.",
+  "ingredients": [
+    {"ingredient_id": 2001, "canonical_name": "raisins", "display_name_en": "raisins", "display_name_pt": "uvas-passas", "aliases": ["raisin", "raisins"]},
+    {"ingredient_id": 2002, "canonical_name": "cloves", "display_name_en": "cloves", "display_name_pt": "cravo-da-india", "aliases": ["clove", "cloves", "ground cloves"]},
+    {"ingredient_id": 2003, "canonical_name": "nuts", "display_name_en": "nuts", "display_name_pt": "nozes", "aliases": ["nut", "nuts", "nut meats", "nutmeats", "chopped nuts", "chopped nutmeats"]},
+    {"ingredient_id": 2004, "canonical_name": "cream of tartar", "display_name_en": "cream of tartar", "display_name_pt": "cremor de tartaro", "aliases": ["cream of tartar"]},
+    {"ingredient_id": 2005, "canonical_name": "lettuce", "display_name_en": "lettuce", "display_name_pt": "alface", "aliases": ["lettuce", "lettuce leaves", "head lettuce"]},
+    {"ingredient_id": 2006, "canonical_name": "lemon", "display_name_en": "lemon", "display_name_pt": "limao", "aliases": ["lemon", "lemons"]},
+    {"ingredient_id": 2007, "canonical_name": "French dressing", "display_name_en": "French dressing", "display_name_pt": "molho frances", "aliases": ["French dressing"]},
+    {"ingredient_id": 2008, "canonical_name": "tomato soup", "display_name_en": "tomato soup", "display_name_pt": "sopa de tomate", "aliases": ["tomato soup"]},
+    {"ingredient_id": 2009, "canonical_name": "dates", "display_name_en": "dates", "display_name_pt": "tamaras", "aliases": ["date", "dates", "chopped dates"]},
+    {"ingredient_id": 2010, "canonical_name": "allspice", "display_name_en": "allspice", "display_name_pt": "pimenta-da-jamaica", "aliases": ["allspice"]},
+    {"ingredient_id": 2011, "canonical_name": "orange extract", "display_name_en": "orange extract", "display_name_pt": "extrato de laranja", "aliases": ["orange extract"]},
+    {"ingredient_id": 2012, "canonical_name": "macaroni", "display_name_en": "macaroni", "display_name_pt": "macarrao", "aliases": ["macaroni"]},
+    {"ingredient_id": 2013, "canonical_name": "white sauce", "display_name_en": "white sauce", "display_name_pt": "molho branco", "aliases": ["white sauce"]},
+    {"ingredient_id": 2014, "canonical_name": "orange juice", "display_name_en": "orange juice", "display_name_pt": "suco de laranja", "aliases": ["orange juice"]},
+    {"ingredient_id": 2015, "canonical_name": "grape juice", "display_name_en": "grape juice", "display_name_pt": "suco de uva", "aliases": ["grape juice"]},
+    {"ingredient_id": 2016, "canonical_name": "maraschino cherries", "display_name_en": "maraschino cherries", "display_name_pt": "cerejas marrasquino", "aliases": ["maraschino cherries"]},
+    {"ingredient_id": 2017, "canonical_name": "cornmeal", "display_name_en": "cornmeal", "display_name_pt": "fuba", "aliases": ["cornmeal", "corn meal"]},
+    {"ingredient_id": 2018, "canonical_name": "coconut", "display_name_en": "coconut", "display_name_pt": "coco", "aliases": ["coconut", "cocoanut"]},
+    {"ingredient_id": 2019, "canonical_name": "lard", "display_name_en": "lard", "display_name_pt": "banha", "aliases": ["lard", "silverleaf lard"]},
+    {"ingredient_id": 2020, "canonical_name": "maple syrup", "display_name_en": "maple syrup", "display_name_pt": "xarope de bordo", "aliases": ["maple syrup"]},
+    {"ingredient_id": 2021, "canonical_name": "marshmallows", "display_name_en": "marshmallows", "display_name_pt": "marshmallow", "aliases": ["marshmallow", "marshmallows"]},
+    {"ingredient_id": 2022, "canonical_name": "figs", "display_name_en": "figs", "display_name_pt": "figos", "aliases": ["fig", "figs"]},
+    {"ingredient_id": 2023, "canonical_name": "green peppers", "display_name_en": "green peppers", "display_name_pt": "pimentoes verdes", "aliases": ["green pepper", "green peppers"]},
+    {"ingredient_id": 2024, "canonical_name": "red peppers", "display_name_en": "red peppers", "display_name_pt": "pimentoes vermelhos", "aliases": ["red pepper", "red peppers"]}
+  ]
+}

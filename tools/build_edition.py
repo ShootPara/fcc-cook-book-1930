@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "source" / "mayflower-recipes-v8-edited.json"
 OUTPUT = ROOT / "dist" / "data"
 DEFAULT_REGISTRY = Path(r"D:\Projects\Online\recipes\generated\backups\live-20261027-r5-descriptions.sqlite")
+EXTENSIONS = ROOT / "config" / "mayflower-ingredient-extensions.json"
 
 # Historical cookbook terms whose meanings are unambiguous in this culinary context.
 # Values are normalized R5 registry aliases; additions remain visible in the report.
@@ -70,6 +71,20 @@ def load_registry(path: Path) -> tuple[dict[str, dict], dict[int, int]]:
         "SELECT a.alias_normalized, a.ingredient_id, c.canonical_name, c.canonical_name_normalized, c.display_name_en, c.display_name_pt FROM ingredient_aliases a JOIN ingredients_canonical c ON c.ingredient_id = a.ingredient_id"
     ):
         entries[normalized(row["alias_normalized"])] = dict(row, match_kind="alias")
+    extensions = json.loads(EXTENSIONS.read_text(encoding="utf-8"))["ingredients"]
+    for extension in extensions:
+        entry = {
+            "ingredient_id": extension["ingredient_id"],
+            "canonical_name": extension["canonical_name"],
+            "canonical_name_normalized": normalized(extension["canonical_name"]),
+            "display_name_en": extension["display_name_en"],
+            "display_name_pt": extension["display_name_pt"],
+            "match_kind": "extension",
+            "registry": "mayflower-extension",
+        }
+        entries.setdefault(entry["canonical_name_normalized"], entry)
+        for alias in extension["aliases"]:
+            entries.setdefault(normalized(alias), entry)
     return entries, redirects
 
 
