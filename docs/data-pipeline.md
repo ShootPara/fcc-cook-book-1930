@@ -30,7 +30,7 @@ It preserves every Version 8 display line, derives search terms from valid regis
 
 The build also emits `reports/ingredient-review-queue.csv`. It groups each unresolved display line by review class and includes every affected source ID and title. The queue separates unresolved food identities from underspecified ingredients, proprietary references, textual fragments, structural headings, and stray numeric fragments, so only defensible canonical additions reach the registry.
 
-The latest generated report resolves 3,405 ingredient lines through R5 aliases, 127 through explicit historical aliases, and 1,032 through the Mayflower extension registry. The remaining 132 lines are intentionally marked unmatched rather than silently forced into potentially incorrect canonical identities. Most require either a reviewed historical alias or a genuinely new canonical term. The report is the review queue.
+The latest generated report resolves 3,410 ingredient lines through R5 aliases, 129 through explicit historical aliases, and 1,036 through the Mayflower extension registry. The remaining 121 lines are intentionally marked unmatched rather than silently forced into potentially incorrect canonical identities. No unresolved food identities remain: every outstanding entry is classified as underspecified, proprietary, fragmentary, a prepared component, a structural heading, or a numeric artifact. The report is the review queue.
 
 ## Validation
 

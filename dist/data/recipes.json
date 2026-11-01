@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "created_at": "2026-11-01T21:55:02.873798+00:00",
+  "created_at": "2026-11-01T21:57:45.954904+00:00",
   "recipes": [
     {
       "id": 1,
@@ -7064,7 +7064,6 @@
         "acucar",
         "ameixas secas",
         "baking powder",
-        "cooked prunes",
         "egg",
         "farinha de trigo",
         "fermento em po",
@@ -9928,6 +9927,8 @@
         "acucar",
         "bicarbonato",
         "butter",
+        "farinha de trigo",
+        "flour",
         "flour to right consistency",
         "gengibre",
         "ginger",
@@ -9975,6 +9976,7 @@
       },
       "canonical_ingredient_ids": [
         3,
+        4,
         9,
         78,
         1120,
@@ -24490,6 +24492,7 @@
         "3 tbsp milk",
         "acucar",
         "baking powder",
+        "dates",
         "eggs",
         "farinha de trigo",
         "fermento em po",
@@ -24500,7 +24503,8 @@
         "nutmeats",
         "nuts",
         "ovos",
-        "sugar"
+        "sugar",
+        "tamaras"
       ],
       "yield": null,
       "prep_time": null,
@@ -24543,7 +24547,8 @@
         6,
         8,
         18,
-        2003
+        2003,
+        2009
       ]
     },
     {
@@ -24876,11 +24881,13 @@
       "description": "A cold desserts recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "cornstarch",
         "cornstarch about 1 tbsp per 2 cups thinned ice cream",
         "cream",
         "creme",
         "leftover ice cream",
         "leite",
+        "maisena",
         "milk",
         "milk as needed to thin"
       ],
@@ -24917,6 +24924,7 @@
       },
       "canonical_ingredient_ids": [
         8,
+        41,
         2025
       ]
     },
@@ -33185,9 +33193,9 @@
         "2 oranges zest and juice",
         "3 lb sugar",
         "acucar",
-        "currants",
+        "cerejas",
+        "cherries",
         "framboesas",
-        "groselhas secas",
         "laranja",
         "lemon",
         "lemons",
@@ -33241,8 +33249,8 @@
         1017,
         2003,
         2006,
-        2071,
         2097,
+        2101,
         2109
       ]
     },
@@ -33538,8 +33546,10 @@
       "translations": {},
       "ingredient_search_terms": [
         "abacaxi",
+        "acucar",
         "pineapple",
         "pineapple grated or ground",
+        "sugar",
         "sugar 1 lb per 1 lb prepared pineapple"
       ],
       "yield": null,
@@ -33573,6 +33583,7 @@
         ]
       },
       "canonical_ingredient_ids": [
+        3,
         2029
       ]
     },
@@ -34106,6 +34117,7 @@
         "acucar",
         "agua",
         "bud",
+        "casca de melancia",
         "cassia",
         "cerejas marrasquino",
         "cider vinegar",
@@ -34120,7 +34132,9 @@
         "salt",
         "stick cinnamon cloves cassia",
         "vinagre",
-        "water"
+        "water",
+        "water melon rind",
+        "watermelon rind"
       ],
       "yield": null,
       "prep_time": null,
@@ -34166,7 +34180,8 @@
         655,
         2016,
         2107,
-        2116
+        2116,
+        2190
       ]
     },
     {
@@ -41676,7 +41691,6 @@
         "cravo",
         "folha louro",
         "grated rind of 1 lemon",
-        "ham",
         "lemon",
         "limao",
         "mostarda",
@@ -41687,6 +41701,7 @@
         "presunto",
         "suco de cebola",
         "sugar",
+        "swifts premium ham",
         "swifts premium ham 1012 lb",
         "vinagre",
         "vinegar",
@@ -42346,6 +42361,8 @@
       "ingredient_search_terms": [
         "1 swifts premium ham 1012 lb",
         "agua",
+        "apple",
+        "apples",
         "brown sugar to rub onto ham",
         "cinnamon apple rings optional garnish",
         "cloves",
@@ -42357,7 +42374,9 @@
         "geleia de groselha",
         "ham",
         "hot water equal in volume to jelly",
+        "macas",
         "presunto",
+        "swifts premium ham",
         "water",
         "whole cloves"
       ],
@@ -42398,6 +42417,7 @@
         52,
         418,
         759,
+        2132,
         2187
       ]
     },
@@ -45354,7 +45374,10 @@
         "1 lb veal",
         "2 or 3 stalks celery",
         "6 medium sized onions",
+        "bamboo shoots",
+        "bamboo sprouts",
         "bamboo sprouts may be added",
+        "brotos de bambu",
         "carne de porco",
         "cebola",
         "celery",
@@ -45407,7 +45430,8 @@
         667,
         1021,
         2044,
-        2137
+        2137,
+        2171
       ]
     },
     {
@@ -46586,10 +46610,13 @@
       "description": "A meat substitutes, pasta, and rice recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "bife redondo",
         "cooking fat",
         "espaguete",
         "ground round steak about 12 lb per 12 lb dry pasta",
         "molho de tomate",
+        "round steak",
+        "round steak",
         "spaghetti",
         "spaghetti enough for desired servings",
         "tomato sauce",
@@ -46629,7 +46656,8 @@
       },
       "canonical_ingredient_ids": [
         687,
-        2133
+        2133,
+        2157
       ]
     },
     {
@@ -48819,8 +48847,10 @@
         "limao",
         "manteiga",
         "molho ingles",
+        "peixe branco",
         "pimenta caiena",
         "water",
+        "whitefish",
         "worcestershire sauce"
       ],
       "yield": null,
@@ -48863,6 +48893,7 @@
         52,
         651,
         2006,
+        2172,
         2183
       ]
     },
@@ -49323,12 +49354,14 @@
       "translations": {},
       "ingredient_search_terms": [
         "biscoitos salgados",
+        "butter",
         "butter melted and in small pieces",
         "coarsely crushed crackers",
         "crackers",
         "cream",
         "cream to moisten",
         "creme",
+        "manteiga",
         "ostras",
         "oysters",
         "paprica",
@@ -49370,6 +49403,7 @@
         ]
       },
       "canonical_ingredient_ids": [
+        9,
         1115,
         2025,
         2147,
@@ -53739,7 +53773,9 @@
       "description": "A vegetables and soups recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
-        "medium onions all about the same size skins on"
+        "cebola",
+        "medium onions all about the same size skins on",
+        "onions"
       ],
       "yield": null,
       "prep_time": null,
@@ -53770,7 +53806,9 @@
           "Mrs. K. S. Russell."
         ]
       },
-      "canonical_ingredient_ids": []
+      "canonical_ingredient_ids": [
+        667
+      ]
     },
     {
       "id": 690,

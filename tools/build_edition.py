@@ -34,11 +34,13 @@ HISTORICAL_ALIASES = {
     "yolks": "egg-yolks",
     "toast": "bread",
     "swift-s-premium-ham": "ham",
+    "swifts-premium-ham": "ham",
 }
 
 BRANDED_REFERENCE = re.compile(r"\b(?:argo|kingsford|india relish|liquid life|white rock|swift'?s|savor-tite|show you|chop suey)\b", re.IGNORECASE)
-GENERIC_INGREDIENT = re.compile(r"\b(?:fat|flavoring|seasonings?|pastry|fruit|meat|vegetables?|crumbs|berries|fish|juice|stock|dressing|sauce|icing|coloring|brine|batter|dough|gravy)\b", re.IGNORECASE)
-TEXTUAL_FRAGMENT = re.compile(r"^(?:\([^)]*\)|but\b|chopped\.?|finely\.?|ground\.?|melted\.?|thin on board\.?|skewers\.?|bud\.?|cheese is mushy\)?)$", re.IGNORECASE)
+GENERIC_INGREDIENT = re.compile(r"\b(?:fat|flavoring|seasonings?|pastry|fruit|meat|vegetables?|crumbs|berries|fish|juice|stock|dressing|sauce|icing|coloring|brine|batter|dough|gravy|pickle|beans|steak)\b", re.IGNORECASE)
+TEXTUAL_FRAGMENT = re.compile(r"^(?:\([^)]*\)|but\b|but not strained|chopped\.?|finely\.?|ground\.?|melted\.?|thin on board\.?|skewers\.?|bud\.?|cheese is mushy\)?|\d.*\b(?:cooked shredded|finely minced,? uncooked)\b|butter (?:a|casserole|two)\b.*)$", re.IGNORECASE)
+PREPARED_COMPONENT = re.compile(r"\b(?:pan drippings|reserved beet-cooking liquid)\b", re.IGNORECASE)
 
 
 def normalized(value: str) -> str:
@@ -56,17 +58,22 @@ def ingredient_candidates(line: str) -> list[str]:
     has_measured_lead = bool(re.match(r"^\s*(?:\d+(?:[–-]\d+)?(?:[./]\d+|[½¼¾⅓⅔⅛⅜⅝⅞�])?|[½¼¾⅓⅔⅛⅜⅝⅞]+|(?:one|two|three)\b)", value))
     value = re.sub(r"\bcups?(?=flour\b)", lambda match: f"{match.group()} ", value)
     value = re.sub(r"^\s*(?:\d+(?:[–-]\d+)?(?:[./]\d+|[½¼¾⅓⅔⅛⅜⅝⅞�])?|[½¼¾⅓⅔⅛⅜⅝⅞]+|one|two|three)\s*", "", value)
-    value = re.sub(r"\b(?:cups?|c\.?|tablespoons?|tbsp\.?|teaspoons?|tsp\.?|pounds?|lbs?\.?|ounces?|oz\.?|quarts?|qts?\.?|pints?|pt\.?|gallons?|cans?|packages?|pkg\.?|slices?|jars?|bottles?|boxes?|dozens?|ears?|stalks?|loaves?|tins?|squares?|sq\.?|heads?|sprigs?)\b", "", value)
+    value = re.sub(r"\b(?:cups?|c\.?|tablespoons?|tbsp\.?|teaspoons?|tsp\.?|pounds?|lbs?\.?|ounces?|oz\.?|quarts?|qts?\.?|pints?|pt\.?|gallons?|cans?|packages?|pkg\.?|slices?|jars?|bottles?|box(?:es)?|dozens?|ears?|stalks?|loaves?|tins?|squares?|sq\.?|heads?|sprigs?)\b", "", value)
     value = re.sub(r"\([^)]*\)", "", value)
     value = re.sub(r"^enough\s+", "", value)
+    value = re.sub(r"\bcut up\b", "", value)
+    value = re.sub(r"^rind\s+\d+\s+(?:large\s+)?water\s+melon$", "water melon rind", value)
     identity_value = value
     value = re.sub(r"\b(?:scalded|melted|softened|beaten|sifted|chopped|diced|minced|ground|grated|cooked|cold|hot|fresh|small|large|medium|optional|optionally|if desired|to taste|for garnish|stiff|separated|well|heaping|level|scant|thin|thinly|light|rounding|fine|finely|cut|cubed|whipped|creamed|sliced|added|dissolved|crumbled|drained|blanched|shelled|tinted|sweetened|canned|ripe|prepared|unbeaten|whole|times|crushed|shredded|peeled|quartered|halved|skinned|seeded|buttered|rolled|stuffed|freshly|carefully|uncooked|hard-boiled|boiled|flaked|pieces|rings|sections|segments|strips|split|tips|rounds|lengthwise|membranes|removed|dressed|jointed|rather|tart|coarsely|very|about)\b", "", value)
     value = re.sub(r"\s+", " ", value).strip(" ,;.-")
-    value = re.sub(r"\bcut up\b", "", value)
     value = re.sub(r",?\s*\d+(?:[½¼¾⅓⅔⅛⅜⅝⅞])?(?:[–-]\d+(?:[½¼¾⅓⅔⅛⅜⅝⅞])?)?\s*(?:lbs?|pounds?)\.?\s*$", "", value)
+    value = re.sub(r",?\s*(?:\d+(?:[½¼¾⅓⅔⅛⅜⅝⅞])?|[½¼¾⅓⅔⅛⅜⅝⅞]+)(?:[–-](?:\d+(?:[½¼¾⅓⅔⅛⅜⅝⅞])?|[½¼¾⅓⅔⅛⅜⅝⅞]+))?\s*$", "", value)
     value = re.sub(r"[,;]\s*\d+\s*$", "", value)
-    value = re.split(r"\b(?:enough|for|as needed|to make|to mix|to cover|to bind|to serve|to season|to moisten|to coat|to garnish|to finish|to loosen|to roll|into|if available|all about|per)\b", value, maxsplit=1)[0].strip(" ,;.-")
+    value = re.split(r"\b(?:enough|for|as needed|to make|to mix|to cover|to bind|to serve|to season|to moisten|to coat|to garnish|to finish|to loosen|to roll|to right|equal in volume to|into|if available|may be added|may be|all about|all the same|per)\b", value, maxsplit=1)[0].strip(" ,;.-")
+    value = re.sub(r",?\s*(?:\d+(?:[½¼¾⅓⅔⅛⅜⅝⅞])?|[½¼¾⅓⅔⅛⅜⅝⅞]+)(?:[–-](?:\d+(?:[½¼¾⅓⅔⅛⅜⅝⅞])?|[½¼¾⅓⅔⅛⅜⅝⅞]+))?\s*$", "", value)
+    value = re.sub(r"\bgarnish\s*$", "", value).strip(" ,;.-")
     value = re.sub(r"\b(?:and|or)\s*$", "", value).strip(" ,;.-")
+    value = re.sub(r"^(butter),?\s+and\s+in$", r"\1", value)
     candidates = [normalized(identity_value), normalized(value)]
     if " of " in value:
         candidates.append(normalized(value.rsplit(" of ", 1)[-1]))
@@ -138,6 +145,8 @@ def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int
         review_class = "textual_fragment"
     elif BRANDED_REFERENCE.search(text):
         review_class = "branded_or_proprietary_reference"
+    elif PREPARED_COMPONENT.search(text):
+        review_class = "prepared_component"
     elif GENERIC_INGREDIENT.search(text):
         review_class = "underspecified_ingredient"
     else:

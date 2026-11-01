@@ -2,18 +2,18 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3405,
-    "extension": 1032,
-    "unmatched": 132,
-    "historical_alias": 127
+    "alias": 3410,
+    "extension": 1036,
+    "unmatched": 121,
+    "historical_alias": 129
   },
   "review_summary": {
-    "underspecified_ingredient": 82,
+    "underspecified_ingredient": 85,
     "branded_or_proprietary_reference": 9,
     "structural_heading": 8,
-    "unresolved_food_identity": 22,
-    "textual_fragment": 9,
-    "stray_number": 2
+    "textual_fragment": 15,
+    "stray_number": 2,
+    "prepared_component": 2
   },
   "matches": [
     {
@@ -7894,7 +7894,7 @@
       "display_name_pt": "ameixas secas",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "cooked-prunes"
+      "matched_term": "prunes"
     },
     {
       "recipe_id": "mg1930-p044-r03",
@@ -11573,8 +11573,14 @@
       "recipe_id": "mg1930-p056-r02",
       "recipe_title": "MOLASSES COOKIES",
       "display_text": "flour to right consistency",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "flour",
+      "ingredient_id": 4,
+      "canonical_name": "farinha de trigo",
+      "canonical_name_normalized": "farinha-de-trigo",
+      "display_name_en": null,
+      "display_name_pt": "farinha de trigo",
+      "match_kind": "alias",
+      "matched_term": "flour"
     },
     {
       "recipe_id": "mg1930-p056-r03",
@@ -28009,8 +28015,14 @@
       "recipe_id": "mg1930-p113-r03",
       "recipe_title": "DATE PUDDING",
       "display_text": "1 box dates, cut up fine",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2009,
+      "canonical_name": "dates",
+      "canonical_name_normalized": "dates",
+      "display_name_en": "dates",
+      "display_name_pt": "tamaras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "dates"
     },
     {
       "recipe_id": "mg1930-p113-r03",
@@ -28419,14 +28431,14 @@
       "recipe_id": "mg1930-p114-r02",
       "recipe_title": "LEFT OVER ICE CREAM",
       "display_text": "Cornstarch, about 1 tbsp. per 2 cups thinned ice cream",
-      "ingredient_id": 2025,
-      "canonical_name": "cream",
-      "canonical_name_normalized": "cream",
-      "display_name_en": "cream",
-      "display_name_pt": "creme",
-      "match_kind": "extension",
-      "registry": "mayflower-extension",
-      "matched_term": "cream"
+      "alias_normalized": "cornstarch",
+      "ingredient_id": 41,
+      "canonical_name": "maisena",
+      "canonical_name_normalized": "maisena",
+      "display_name_en": null,
+      "display_name_pt": "maisena",
+      "match_kind": "alias",
+      "matched_term": "cornstarch"
     },
     {
       "recipe_id": "mg1930-p114-r03",
@@ -37443,14 +37455,14 @@
       "recipe_id": "mg1930-p140-r03",
       "recipe_title": "CHERRY AND RASPBERRY CONSERVE",
       "display_text": "1 box cherries or currants",
-      "ingredient_id": 2071,
-      "canonical_name": "currants",
-      "canonical_name_normalized": "currants",
-      "display_name_en": "currants",
-      "display_name_pt": "groselhas secas",
+      "ingredient_id": 2101,
+      "canonical_name": "cherries",
+      "canonical_name_normalized": "cherries",
+      "display_name_en": "cherries",
+      "display_name_pt": "cerejas",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "currants"
+      "matched_term": "cherries"
     },
     {
       "recipe_id": "mg1930-p140-r03",
@@ -37794,14 +37806,14 @@
       "recipe_id": "mg1930-p141-r03",
       "recipe_title": "PINEAPPLE JAM",
       "display_text": "Sugar, 1 lb. per 1 lb. prepared pineapple",
-      "ingredient_id": 2029,
-      "canonical_name": "pineapple",
-      "canonical_name_normalized": "pineapple",
-      "display_name_en": "pineapple",
-      "display_name_pt": "abacaxi",
-      "match_kind": "extension",
-      "registry": "mayflower-extension",
-      "matched_term": "pineapple"
+      "alias_normalized": "sugar",
+      "ingredient_id": 3,
+      "canonical_name": "açúcar",
+      "canonical_name_normalized": "acucar",
+      "display_name_en": null,
+      "display_name_pt": "açúcar",
+      "match_kind": "alias",
+      "matched_term": "sugar"
     },
     {
       "recipe_id": "mg1930-p141-r04",
@@ -38185,8 +38197,14 @@
       "recipe_id": "mg1930-p143-r02",
       "recipe_title": "WATER MELON RIND PICKLES",
       "display_text": "Rind 1 large water melon",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2190,
+      "canonical_name": "watermelon rind",
+      "canonical_name_normalized": "watermelon-rind",
+      "display_name_en": "watermelon rind",
+      "display_name_pt": "casca de melancia",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "water-melon-rind"
     },
     {
       "recipe_id": "mg1930-p143-r02",
@@ -39838,7 +39856,7 @@
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "1 pickle, medium size",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "underspecified_ingredient"
     },
     {
       "recipe_id": "mg1930-p148-r05",
@@ -45713,14 +45731,14 @@
       "recipe_title": "DINTY MOORE SANDWICH",
       "display_text": "Butter two slices of bread. Place a slice of corned beef between,",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "textual_fragment"
     },
     {
       "recipe_id": "mg1930-p170-r01",
       "recipe_title": "SPANISH STEAK",
       "display_text": "Steak, cut 1½ inches thick",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "underspecified_ingredient"
     },
     {
       "recipe_id": "mg1930-p170-r01",
@@ -45988,7 +46006,7 @@
       "recipe_title": "STEAK GRAVY",
       "display_text": "Pan drippings from broiled steak",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "prepared_component"
     },
     {
       "recipe_id": "mg1930-p170-r04",
@@ -46398,8 +46416,8 @@
       "canonical_name_normalized": "presunto",
       "display_name_en": null,
       "display_name_pt": "presunto",
-      "match_kind": "alias",
-      "matched_term": "ham"
+      "match_kind": "historical_alias",
+      "matched_term": "swifts-premium-ham"
     },
     {
       "recipe_id": "mg1930-p172-r03",
@@ -47141,8 +47159,14 @@
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "1 Swift’s Premium ham, 10–12 lb.",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "ham",
+      "ingredient_id": 759,
+      "canonical_name": "presunto",
+      "canonical_name_normalized": "presunto",
+      "display_name_en": null,
+      "display_name_pt": "presunto",
+      "match_kind": "historical_alias",
+      "matched_term": "swifts-premium-ham"
     },
     {
       "recipe_id": "mg1930-p174-r03",
@@ -47187,8 +47211,14 @@
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "Hot water, equal in volume to jelly",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "water",
+      "ingredient_id": 52,
+      "canonical_name": "água",
+      "canonical_name_normalized": "agua",
+      "display_name_en": null,
+      "display_name_pt": "água",
+      "match_kind": "alias",
+      "matched_term": "water"
     },
     {
       "recipe_id": "mg1930-p174-r03",
@@ -47207,8 +47237,14 @@
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "Cinnamon apple rings, optional garnish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2132,
+      "canonical_name": "apples",
+      "canonical_name_normalized": "apples",
+      "display_name_en": "apples",
+      "display_name_pt": "macas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "apple"
     },
     {
       "recipe_id": "mg1930-p174-r04",
@@ -49410,7 +49446,7 @@
       "recipe_title": "MEAT LOAF",
       "display_text": "but not strained",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "textual_fragment"
     },
     {
       "recipe_id": "mg1930-p180-r02",
@@ -50291,8 +50327,14 @@
       "recipe_id": "mg1930-p183-r01",
       "recipe_title": "CHOP SUEY",
       "display_text": "Bamboo Sprouts may be added",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2171,
+      "canonical_name": "bamboo shoots",
+      "canonical_name_normalized": "bamboo-shoots",
+      "display_name_en": "bamboo shoots",
+      "display_name_pt": "brotos de bambu",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bamboo-sprouts"
     },
     {
       "recipe_id": "mg1930-p183-r01",
@@ -51574,8 +51616,14 @@
       "recipe_id": "mg1930-p186-r05",
       "recipe_title": "SPAGHETTI WITH ROUND STEAK",
       "display_text": "Ground round steak, about ½ lb. per ½ lb. dry pasta",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2157,
+      "canonical_name": "round steak",
+      "canonical_name_normalized": "round-steak",
+      "display_name_en": "round steak",
+      "display_name_pt": "bife redondo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "round-steak"
     },
     {
       "recipe_id": "mg1930-p186-r05",
@@ -53834,8 +53882,14 @@
       "recipe_id": "mg1930-p195-r04",
       "recipe_title": "BROILED WHITEFISH",
       "display_text": "Fresh whitefish, 2½–3 lbs.",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2172,
+      "canonical_name": "whitefish",
+      "canonical_name_normalized": "whitefish",
+      "display_name_en": "whitefish",
+      "display_name_pt": "peixe branco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "whitefish"
     },
     {
       "recipe_id": "mg1930-p195-r04",
@@ -54343,7 +54397,7 @@
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Butter a Pyrex baking dish and put some butter in the bottom.",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "textual_fragment"
     },
     {
       "recipe_id": "mg1930-p197-r01",
@@ -54375,8 +54429,14 @@
       "recipe_id": "mg1930-p197-r01",
       "recipe_title": "SCALLOPED OYSTERS",
       "display_text": "Butter, melted and in small pieces",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "butter",
+      "ingredient_id": 9,
+      "canonical_name": "manteiga",
+      "canonical_name_normalized": "manteiga",
+      "display_name_en": null,
+      "display_name_pt": "manteiga",
+      "match_kind": "alias",
+      "matched_term": "butter"
     },
     {
       "recipe_id": "mg1930-p197-r01",
@@ -55580,7 +55640,7 @@
       "recipe_title": "SOUR BEANS",
       "display_text": "1 qt. beans ( wax are best)",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "underspecified_ingredient"
     },
     {
       "recipe_id": "mg1930-p203-r01",
@@ -55964,7 +56024,7 @@
       "recipe_title": "BEETS WITH SOUR SAUCE",
       "display_text": "½ cup reserved beet-cooking liquid",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "prepared_component"
     },
     {
       "recipe_id": "mg1930-p204-r01",
@@ -56329,7 +56389,7 @@
       "recipe_title": "SCALLOPED CABBAGE",
       "display_text": "2½ cups cooked shredded",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "textual_fragment"
     },
     {
       "recipe_id": "mg1930-p204-r06",
@@ -58017,7 +58077,7 @@
       "recipe_title": "STUFFED BAKED POTATOES",
       "display_text": "6 tbsp. finely minced, uncooked",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "textual_fragment"
     },
     {
       "recipe_id": "mg1930-p209-r02",
@@ -58941,8 +59001,14 @@
       "recipe_id": "mg1930-p212-r02",
       "recipe_title": "BAKED ONIONS",
       "display_text": "Medium onions, all about the same size, skins on",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "onions",
+      "ingredient_id": 667,
+      "canonical_name": "cebola",
+      "canonical_name_normalized": "cebola",
+      "display_name_en": null,
+      "display_name_pt": "cebola",
+      "match_kind": "alias",
+      "matched_term": "onions"
     },
     {
       "recipe_id": "mg1930-p212-r03",
@@ -59209,7 +59275,7 @@
       "recipe_title": "HUBBARD SQUASH IN CASSEROLE",
       "display_text": "Butter casserole. Slice into it a layer of squash, small pieces.",
       "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "review_class": "textual_fragment"
     },
     {
       "recipe_id": "mg1930-p213-r03",
