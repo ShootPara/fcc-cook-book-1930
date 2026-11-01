@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "created_at": "2026-11-01T21:42:49.889091+00:00",
+  "created_at": "2026-11-01T21:44:00.329851+00:00",
   "recipes": [
     {
       "id": 1,
@@ -7826,12 +7826,15 @@
         "leite azedo",
         "manteiga",
         "melted butter",
+        "nozes",
+        "nuts",
         "ovos",
         "raisins",
         "soda",
         "sour milk",
         "sour milk",
-        "uvas passas"
+        "uvas passas",
+        "walnutmeats"
       ],
       "yield": null,
       "prep_time": null,
@@ -7878,6 +7881,7 @@
         217,
         360,
         2001,
+        2003,
         2056
       ]
     },
@@ -22539,6 +22543,9 @@
         "creme",
         "gelatina",
         "knox gelatine",
+        "pe de moleque",
+        "peanut brittle",
+        "peanut brittle",
         "whipped cream"
       ],
       "yield": null,
@@ -22576,7 +22583,8 @@
       "canonical_ingredient_ids": [
         52,
         546,
-        2025
+        2025,
+        2160
       ]
     },
     {
@@ -25109,6 +25117,7 @@
         "butter",
         "lemon juice",
         "manteiga",
+        "minute tapioca",
         "pinch salt",
         "pineapple",
         "sal",
@@ -25159,8 +25168,8 @@
         45,
         52,
         267,
-        355,
-        2029
+        2029,
+        2159
       ]
     },
     {
@@ -25726,6 +25735,7 @@
         "baking powder",
         "baunilha",
         "clara",
+        "dates",
         "egg whites",
         "egg yolks",
         "farinha de trigo",
@@ -25734,7 +25744,9 @@
         "gema",
         "nozes",
         "nuts",
+        "seeded dates",
         "sugar",
+        "tamaras",
         "vanilla"
       ],
       "yield": null,
@@ -25780,7 +25792,8 @@
         12,
         87,
         204,
-        2003
+        2003,
+        2009
       ]
     },
     {
@@ -28484,6 +28497,8 @@
         "flour",
         "gordura vegetal",
         "leite",
+        "marmalade",
+        "marmelada",
         "milk",
         "ovo",
         "sal",
@@ -28534,7 +28549,8 @@
         8,
         10,
         45,
-        606
+        606,
+        2166
       ]
     },
     {
@@ -31672,10 +31688,13 @@
         "cebola",
         "celery seed",
         "celery seed",
+        "cucumber",
+        "cucumbers",
         "green peppers",
         "green peppers",
         "mustard seed",
         "onions",
+        "pepino",
         "pimentoes verdes",
         "pimentoes vermelhos",
         "red peppers",
@@ -31733,6 +31752,7 @@
         1122,
         2023,
         2024,
+        2036,
         2104
       ]
     },
@@ -31857,6 +31877,8 @@
         "cebola",
         "celery seed",
         "celery seed",
+        "cucumber",
+        "cucumbers",
         "green peppers",
         "green peppers",
         "mostarda",
@@ -31864,6 +31886,7 @@
         "mustard seed",
         "mustard seed",
         "onions",
+        "pepino",
         "pimentoes verdes",
         "pimentoes vermelhos",
         "red peppers",
@@ -31926,6 +31949,7 @@
         1122,
         2023,
         2024,
+        2036,
         2104
       ]
     },
@@ -32043,7 +32067,10 @@
         "12 large cucumbers",
         "6 large onions",
         "cebola",
-        "onions"
+        "cucumber",
+        "cucumbers",
+        "onions",
+        "pepino"
       ],
       "yield": null,
       "prep_time": null,
@@ -32076,7 +32103,8 @@
         ]
       },
       "canonical_ingredient_ids": [
-        667
+        667,
+        2036
       ]
     },
     {
@@ -32172,8 +32200,11 @@
         "cebola",
         "celery seed",
         "celery seed",
+        "cucumber",
+        "cucumbers",
         "medium cucumbers enough to fill the jars",
         "onion",
+        "pepino",
         "sal",
         "salt",
         "sementes de aipo",
@@ -32219,7 +32250,8 @@
         45,
         655,
         667,
-        1122
+        1122,
+        2036
       ]
     },
     {
@@ -32238,7 +32270,10 @@
         "1 qt sliced onions",
         "4 qts peeled and sliced cucumbers",
         "cebola",
-        "onions"
+        "cucumber",
+        "cucumbers",
+        "onions",
+        "pepino"
       ],
       "yield": null,
       "prep_time": null,
@@ -32269,7 +32304,8 @@
         "contributors": []
       },
       "canonical_ingredient_ids": [
-        667
+        667,
+        2036
       ]
     },
     {
@@ -32296,9 +32332,12 @@
         "cebola",
         "celery seed",
         "celery seed",
+        "cucumber",
+        "cucumbers",
         "mustard seed",
         "olive oil",
         "onions",
+        "pepino",
         "pimenta",
         "sal",
         "salt",
@@ -32353,6 +32392,7 @@
         655,
         667,
         1122,
+        2036,
         2104
       ]
     },
@@ -32373,7 +32413,10 @@
         "8 onions",
         "8 or 10 medium sized cucumbers",
         "cebola",
-        "onions"
+        "cucumber",
+        "cucumbers",
+        "onions",
+        "pepino"
       ],
       "yield": null,
       "prep_time": null,
@@ -32407,7 +32450,8 @@
         ]
       },
       "canonical_ingredient_ids": [
-        667
+        667,
+        2036
       ]
     },
     {
@@ -32428,9 +32472,12 @@
         "1 gallon vinegar",
         "2 cups sugar",
         "acucar",
+        "cucumber",
+        "cucumbers",
         "especiarias para conserva",
         "mostarda",
         "mustard",
+        "pepino",
         "pickling spices",
         "pickling spices",
         "pickling spices to taste",
@@ -32478,6 +32525,7 @@
         45,
         639,
         655,
+        2036,
         2107
       ]
     },
@@ -32505,9 +32553,12 @@
         "cebola",
         "celery seed",
         "celery seeds",
+        "cucumber",
+        "cucumbers",
         "mustard seed",
         "mustard seeds",
         "onions",
+        "pepino",
         "semente de mostarda",
         "sementes de aipo",
         "strong salt brine to cover vegetables",
@@ -32554,6 +32605,7 @@
         655,
         667,
         1122,
+        2036,
         2104
       ]
     },
@@ -32575,8 +32627,11 @@
         "1 cup sugar",
         "1 gallon cucumbers",
         "acucar",
+        "cucumber",
+        "cucumbers",
         "mostarda",
         "mustard",
+        "pepino",
         "sal",
         "salt",
         "sugar",
@@ -32621,7 +32676,8 @@
         3,
         45,
         639,
-        655
+        655,
+        2036
       ]
     },
     {
@@ -32651,7 +32707,10 @@
         "celery seed",
         "celery seed",
         "cinnamon",
+        "cucumber",
+        "cucumbers",
         "cucumbers as needed",
+        "pepino",
         "pimenta da jamaica",
         "pinch powdered alum historical ingredient omit in edited preparation",
         "powdered alum",
@@ -32702,6 +32761,7 @@
         655,
         1122,
         2010,
+        2036,
         2108
       ]
     },
@@ -32730,6 +32790,9 @@
         "cinnamon",
         "cloves",
         "cravo",
+        "cucumber",
+        "cucumbers",
+        "pepino",
         "sal",
         "salt",
         "sementes de aipo",
@@ -32792,6 +32855,7 @@
         418,
         655,
         1122,
+        2036,
         2108
       ]
     },
@@ -32823,6 +32887,9 @@
         "cinnamon",
         "cloves",
         "cravo",
+        "cucumber",
+        "cucumbers",
+        "pepino",
         "powdered alum",
         "sal",
         "salt",
@@ -32875,6 +32942,7 @@
         52,
         418,
         655,
+        2036,
         2108
       ]
     },
@@ -35351,10 +35419,13 @@
         "green pepper",
         "olives",
         "ovo",
+        "picles doces",
         "pimentao",
         "pimentao",
         "pimento",
-        "pimiento"
+        "pimiento",
+        "sweet gherkins",
+        "sweet pickles"
       ],
       "yield": null,
       "prep_time": null,
@@ -35393,7 +35464,8 @@
         10,
         931,
         2034,
-        2041
+        2041,
+        2165
       ]
     },
     {
@@ -35419,6 +35491,9 @@
         "12 olives",
         "12 pint double cream",
         "azeitonas",
+        "beet",
+        "beets",
+        "beterrabas",
         "cebola",
         "cream",
         "creme",
@@ -35486,7 +35561,8 @@
         931,
         2025,
         2034,
-        2041
+        2041,
+        2161
       ]
     },
     {
@@ -35519,10 +35595,13 @@
         "oil mayonnaise 23 of sauce mixture",
         "onion",
         "ovos",
+        "picles doces",
         "pimentao",
         "pimentao",
         "pimento",
-        "pimiento"
+        "pimiento",
+        "sweet pickles",
+        "sweet pickles"
       ],
       "yield": null,
       "prep_time": null,
@@ -35565,7 +35644,8 @@
         667,
         931,
         1127,
-        2034
+        2034,
+        2165
       ]
     },
     {
@@ -35817,13 +35897,16 @@
         "onions",
         "ovos",
         "peas",
+        "picles doces",
         "pimentao",
         "pimentos",
         "pimiento",
         "queijo",
         "sal",
         "salt",
-        "salt to taste"
+        "salt to taste",
+        "sweet pickles",
+        "sweet pickles"
       ],
       "yield": null,
       "prep_time": null,
@@ -35866,7 +35949,8 @@
         667,
         2026,
         2028,
-        2034
+        2034,
+        2165
       ]
     },
     {
@@ -36495,6 +36579,8 @@
         "cenoura",
         "green pepper",
         "pimentao",
+        "rabanetes",
+        "radishes",
         "repolho",
         "small head of cabbage"
       ],
@@ -36533,7 +36619,8 @@
       "canonical_ingredient_ids": [
         668,
         931,
-        1023
+        1023,
+        2162
       ]
     },
     {
@@ -36797,6 +36884,8 @@
         "2 boned sardines",
         "2 hard cooked eggs",
         "butter",
+        "cucumber",
+        "cucumbers",
         "cucumbers",
         "eggs",
         "french dressing",
@@ -36805,6 +36894,7 @@
         "molho frances",
         "ovos",
         "parsley",
+        "pepino",
         "salsa",
         "sardines",
         "sardinhas",
@@ -36849,6 +36939,7 @@
         18,
         489,
         2007,
+        2036,
         2148
       ]
     },
@@ -37101,7 +37192,10 @@
       "description": "A salads recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "aipo",
         "alface",
+        "celery",
+        "celery curls",
         "celery curls",
         "glace fruit dressing",
         "grapefruit segments",
@@ -37140,7 +37234,8 @@
         "contributors": []
       },
       "canonical_ingredient_ids": [
-        2005
+        2005,
+        2037
       ]
     },
     {
@@ -37321,6 +37416,7 @@
         "cebola",
         "celery",
         "cucumber",
+        "elbow macaroni",
         "french dressing",
         "french dressing",
         "macaroni",
@@ -37396,6 +37492,9 @@
         "3 hard boiled eggs chopped",
         "chopped celery",
         "eggs",
+        "elbow macaroni",
+        "macaroni",
+        "macarrao",
         "maionese",
         "mayonnaise",
         "ovos",
@@ -37442,7 +37541,8 @@
         18,
         45,
         127,
-        1021
+        1021,
+        2012
       ]
     },
     {
@@ -37465,6 +37565,8 @@
         "azeitonas",
         "celery",
         "ervilhas",
+        "lentilhas",
+        "lentils",
         "olives",
         "peas",
         "salsao"
@@ -37504,7 +37606,8 @@
       "canonical_ingredient_ids": [
         1021,
         2026,
-        2041
+        2041,
+        2158
       ]
     },
     {
@@ -39856,10 +39959,13 @@
         "12 tbsp chow chow relish per sandwich",
         "bread",
         "butter and sandwich bread",
+        "chow chow relish",
+        "chow chow relish",
         "maionese",
         "mayonnaise",
         "mayonnaise to bind",
         "pao",
+        "relish chow chow",
         "sardine",
         "sardines",
         "sardinhas"
@@ -39900,7 +40006,8 @@
       "canonical_ingredient_ids": [
         127,
         1126,
-        2148
+        2148,
+        2167
       ]
     },
     {
@@ -40245,6 +40352,7 @@
       "description": "A sandwiches recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "agriao",
         "cream cheese",
         "cream cheese",
         "french dressing",
@@ -40258,6 +40366,7 @@
         "soft butter",
         "spinach juice or green coloring optional",
         "very fresh sandwich bread cut lengthwise into thin slices",
+        "watercress",
         "watercress chopped"
       ],
       "yield": null,
@@ -40298,7 +40407,8 @@
       "canonical_ingredient_ids": [
         9,
         307,
-        2007
+        2007,
+        2163
       ]
     },
     {
@@ -41086,15 +41196,20 @@
         "2 cups canned tomatoes",
         "2 lb round steak ground",
         "212 tsp salt",
+        "bife redondo",
         "canned tomatoes",
+        "minute tapioca",
         "molho ingles",
         "pepper",
         "pimenta",
         "porco salgado",
+        "round steak",
+        "round steak",
         "sal",
         "salt",
         "salt pork",
         "salt pork",
+        "tapioca",
         "tomate",
         "worcestershire sauce",
         "worcestershire sauce if desired"
@@ -41139,7 +41254,9 @@
         531,
         651,
         884,
-        2119
+        2119,
+        2157,
+        2159
       ]
     },
     {
@@ -41223,9 +41340,12 @@
       "ingredient_search_terms": [
         "1 can condensed tomato soup",
         "1 lb ground round steak",
+        "bife redondo",
         "fat for frying",
+        "ground round steak",
         "pepper",
         "pimenta",
+        "round steak",
         "salt and pepper",
         "sopa de tomate",
         "tomato soup",
@@ -41265,7 +41385,8 @@
       },
       "canonical_ingredient_ids": [
         531,
-        2008
+        2008,
+        2157
       ]
     },
     {
@@ -41287,12 +41408,15 @@
         "112 lbs round steak ground",
         "2 cans tomato soup",
         "2 eggs beaten",
+        "bife redondo",
         "butter and seasoning",
         "celery",
         "eggs",
         "farinha de trigo",
         "flour",
         "ovos",
+        "round steak",
+        "round steak",
         "sal",
         "salsao",
         "salt",
@@ -41340,7 +41464,8 @@
         18,
         45,
         1021,
-        2008
+        2008,
+        2157
       ]
     },
     {
@@ -41974,6 +42099,7 @@
         "ham",
         "leite",
         "milk",
+        "minute tapioca",
         "molho ingles",
         "onion",
         "paprica",
@@ -42024,13 +42150,13 @@
       },
       "canonical_ingredient_ids": [
         8,
-        355,
         531,
         651,
         667,
         759,
         1115,
-        2137
+        2137,
+        2159
       ]
     },
     {
@@ -43006,9 +43132,12 @@
         "onion",
         "ovos",
         "pepper",
+        "picles doces",
         "pimenta",
         "sal",
         "salt",
+        "sweet pickles",
+        "sweet pickles",
         "vinagre",
         "vinegar"
       ],
@@ -43055,7 +43184,8 @@
         531,
         639,
         655,
-        667
+        667,
+        2165
       ]
     },
     {
@@ -44184,6 +44314,7 @@
         "12 lb pork steak ground",
         "2 lbs round steak ground",
         "aveia",
+        "bife redondo",
         "but not strained",
         "carne de porco",
         "oatmeal",
@@ -44191,6 +44322,8 @@
         "pimenta",
         "pork",
         "pork steak",
+        "round steak",
+        "round steak",
         "salt and pepper"
       ],
       "yield": null,
@@ -44230,7 +44363,8 @@
       "canonical_ingredient_ids": [
         521,
         531,
-        2137
+        2137,
+        2157
       ]
     },
     {
@@ -44833,13 +44967,16 @@
         "acucar",
         "agua",
         "bacon",
+        "bife redondo",
         "cebola",
         "celery",
         "dash chili powder or 14 tsp paprika",
         "espaguete",
+        "ground round steak",
         "onions",
         "paprica",
         "paprika",
+        "round steak",
         "sal",
         "salsao",
         "salt",
@@ -44896,7 +45033,8 @@
         884,
         1021,
         1115,
-        2133
+        2133,
+        2157
       ]
     },
     {
@@ -45501,6 +45639,7 @@
         "2 small onions",
         "2 tbsp butter",
         "agua",
+        "bife redondo",
         "butter",
         "cebola",
         "cogumelos",
@@ -45511,6 +45650,8 @@
         "mushrooms",
         "onions",
         "peas",
+        "round steak",
+        "round steak",
         "tomate",
         "tomatoes",
         "water"
@@ -45558,7 +45699,8 @@
         667,
         884,
         2012,
-        2026
+        2026,
+        2157
       ]
     },
     {
@@ -48171,12 +48313,14 @@
         "flour",
         "folha louro",
         "frango",
+        "graos de pimenta",
         "leite",
         "manteiga",
         "milk",
         "onion",
         "parsley",
         "pepper",
+        "peppercorns",
         "pimenta",
         "salsa",
         "salt and pepper"
@@ -48228,7 +48372,8 @@
         667,
         668,
         670,
-        1027
+        1027,
+        2169
       ]
     },
     {
@@ -48306,9 +48451,12 @@
         "flour",
         "lake trout or white fish",
         "manteiga",
+        "peixe branco",
         "pepper",
         "pimenta",
-        "salt and pepper"
+        "salt and pepper",
+        "white fish",
+        "whitefish"
       ],
       "yield": null,
       "prep_time": null,
@@ -48345,7 +48493,8 @@
       "canonical_ingredient_ids": [
         4,
         9,
-        531
+        531,
+        2172
       ]
     },
     {
@@ -49002,6 +49151,7 @@
         "2 cups canned tomatoes",
         "acucar",
         "butter",
+        "camarao",
         "canned tomatoes",
         "cracker crumbs",
         "cracker crumbs",
@@ -49010,6 +49160,8 @@
         "pepper",
         "pimenta",
         "salt and pepper",
+        "shrimp",
+        "shrimps",
         "sugar",
         "tomate"
       ],
@@ -49052,7 +49204,8 @@
         9,
         531,
         884,
-        2045
+        2045,
+        2156
       ]
     },
     {
@@ -49169,6 +49322,7 @@
         "alho",
         "bit of garlic",
         "butter",
+        "camarao",
         "cebola",
         "egg",
         "farinha de trigo",
@@ -49181,7 +49335,12 @@
         "ovo",
         "pepper",
         "pimenta",
+        "pimentao",
+        "pimentoes",
+        "pimiento",
         "salt and pepper",
+        "shrimp",
+        "shrimps",
         "tomate",
         "tomato"
       ],
@@ -49231,7 +49390,9 @@
         226,
         531,
         667,
-        884
+        884,
+        2034,
+        2156
       ]
     },
     {
@@ -49496,7 +49657,10 @@
         "dry bread crumbs",
         "egg whites",
         "farinha de rosca",
+        "ground mace",
         "lemon juice",
+        "mace",
+        "macis",
         "pepper",
         "pimenta",
         "sal",
@@ -49548,7 +49712,8 @@
         267,
         531,
         2025,
-        2040
+        2040,
+        2168
       ]
     },
     {
@@ -49848,8 +50013,11 @@
         "112 lb salt pork",
         "2 tbsp molasses",
         "3 cups navy beans",
+        "feijao branco",
         "melaco",
         "molasses",
+        "navy beans",
+        "navy beans",
         "porco salgado",
         "sal",
         "salt",
@@ -49891,7 +50059,8 @@
       "canonical_ingredient_ids": [
         45,
         1120,
-        2119
+        2119,
+        2170
       ]
     },
     {
@@ -49920,11 +50089,14 @@
         "boiling water",
         "catsup",
         "cebola",
+        "feijao branco",
         "ketchup",
         "melaco",
         "molasses",
         "mostarda",
         "mustard",
+        "navy beans",
+        "navy beans",
         "onion",
         "ostras",
         "oyster",
@@ -49987,7 +50159,8 @@
         667,
         1120,
         2119,
-        2147
+        2147,
+        2170
       ]
     },
     {
@@ -50389,6 +50562,8 @@
         "12 cup reserved beet cooking liquid",
         "8 beets",
         "agua",
+        "beets",
+        "beterrabas",
         "boiling water",
         "salted boiling water",
         "sour sauce see accompanying recipe"
@@ -50424,7 +50599,8 @@
         "contributors": []
       },
       "canonical_ingredient_ids": [
-        52
+        52,
+        2161
       ]
     },
     {
@@ -50525,16 +50701,21 @@
       "description": "A vegetables and soups recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "beets",
+        "beterrabas",
         "eggs",
         "hard boiled eggs chopped",
         "mayonnaise and pimiento strips to garnish",
         "onion finely chopped",
         "ovos",
+        "picles doces",
         "sardines",
         "sardines or caviar chopped",
         "sardinhas",
         "small beets",
+        "sweet gherkins",
         "sweet gherkins chopped",
+        "sweet pickles",
         "sweet spiced vinegar for marinating",
         "vinagre",
         "vinegar"
@@ -50577,7 +50758,9 @@
       "canonical_ingredient_ids": [
         18,
         655,
-        2148
+        2148,
+        2161,
+        2165
       ]
     },
     {
@@ -54035,12 +54218,15 @@
         "3 medium onions",
         "5 medium potatoes",
         "batata",
+        "bife redondo",
         "carrots",
         "cebola",
         "cenoura",
         "holland rusks",
         "onions",
         "potatoes",
+        "round steak",
+        "round steak",
         "rusk",
         "torrada seca"
       ],
@@ -54081,7 +54267,8 @@
         667,
         668,
         900,
-        2146
+        2146,
+        2157
       ]
     },
     {

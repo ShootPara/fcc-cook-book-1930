@@ -2,13 +2,13 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3380,
-    "extension": 924,
-    "unmatched": 266,
+    "alias": 3378,
+    "extension": 974,
+    "unmatched": 218,
     "historical_alias": 126
   },
   "review_summary": {
-    "unresolved_identity": 256,
+    "unresolved_identity": 208,
     "structural_heading": 8,
     "stray_number": 2
   },
@@ -8776,8 +8776,14 @@
       "recipe_id": "mg1930-p048-r04",
       "recipe_title": "CHOCOLATE DROP COOKIES",
       "display_text": "1 cup walnutmeats cut fine",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2003,
+      "canonical_name": "nuts",
+      "canonical_name_normalized": "nuts",
+      "display_name_en": "nuts",
+      "display_name_pt": "nozes",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "walnutmeats"
     },
     {
       "recipe_id": "mg1930-p048-r04",
@@ -25936,8 +25942,14 @@
       "recipe_id": "mg1930-p104-r05",
       "recipe_title": "PEANUT BRITTLE ICE CREAM",
       "display_text": "½ lb. peanut brittle ground fine",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2160,
+      "canonical_name": "peanut brittle",
+      "canonical_name_normalized": "peanut-brittle",
+      "display_name_en": "peanut brittle",
+      "display_name_pt": "pe-de-moleque",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peanut-brittle"
     },
     {
       "recipe_id": "mg1930-p104-r05",
@@ -28534,14 +28546,14 @@
       "recipe_id": "mg1930-p114-r06",
       "recipe_title": "PINEAPPLE TAPIOCA",
       "display_text": "⅓ cup minute tapioca",
-      "alias_normalized": "tapioca",
-      "ingredient_id": 355,
+      "ingredient_id": 2159,
       "canonical_name": "tapioca",
       "canonical_name_normalized": "tapioca",
-      "display_name_en": null,
+      "display_name_en": "tapioca",
       "display_name_pt": "tapioca",
-      "match_kind": "alias",
-      "matched_term": "tapioca"
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "minute-tapioca"
     },
     {
       "recipe_id": "mg1930-p114-r06",
@@ -29231,8 +29243,14 @@
       "recipe_id": "mg1930-p116-r04",
       "recipe_title": "DATE DESSERT TORTE",
       "display_text": "1 cup seeded dates, cut up",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2009,
+      "canonical_name": "dates",
+      "canonical_name_normalized": "dates",
+      "display_name_en": "dates",
+      "display_name_pt": "tamaras",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "seeded-dates"
     },
     {
       "recipe_id": "mg1930-p116-r04",
@@ -32485,8 +32503,14 @@
       "recipe_id": "mg1930-p125-r04",
       "recipe_title": "STEAMED MARMALADE PUDDING",
       "display_text": "6 tbsp. marmalade",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2166,
+      "canonical_name": "marmalade",
+      "canonical_name_normalized": "marmalade",
+      "display_name_en": "marmalade",
+      "display_name_pt": "marmelada",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "marmalade"
     },
     {
       "recipe_id": "mg1930-p125-r04",
@@ -35723,8 +35747,14 @@
       "recipe_id": "mg1930-p137-r01",
       "recipe_title": "RELISH",
       "display_text": "12 cucumbers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p137-r01",
@@ -35997,8 +36027,14 @@
       "recipe_id": "mg1930-p137-r03",
       "recipe_title": "CORN RELISH",
       "display_text": "1½ qts. chopped cucumbers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p137-r03",
@@ -36199,8 +36235,14 @@
       "recipe_id": "mg1930-p137-r05",
       "recipe_title": "CUCUMBER RELISH",
       "display_text": "12 large cucumbers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p137-r05",
@@ -36284,8 +36326,14 @@
       "recipe_id": "mg1930-p138-r02",
       "recipe_title": "CELERY ICE PICKLES",
       "display_text": "Medium cucumbers, enough to fill the jars",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p138-r02",
@@ -36363,8 +36411,14 @@
       "recipe_id": "mg1930-p138-r03",
       "recipe_title": "TURMERIC PICKLES",
       "display_text": "4 qts. peeled and sliced cucumbers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p138-r03",
@@ -36383,8 +36437,14 @@
       "recipe_id": "mg1930-p138-r04",
       "recipe_title": "OIL PICKLES",
       "display_text": "100 medium cucumbers, sliced",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p138-r04",
@@ -36481,8 +36541,14 @@
       "recipe_id": "mg1930-p138-r05",
       "recipe_title": "SLICED PICKLES",
       "display_text": "8 or 10 medium sized cucumbers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p138-r05",
@@ -36508,8 +36574,14 @@
       "recipe_id": "mg1930-p139-r01",
       "recipe_title": "SMALL CUCUMBER PICKLES",
       "display_text": "Small cucumbers, enough to fill jars",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p139-r01",
@@ -36580,8 +36652,14 @@
       "recipe_id": "mg1930-p139-r02",
       "recipe_title": "ARISTOCRAT PICKLES",
       "display_text": "1 peck small cucumbers (about quarter-sized)",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p139-r02",
@@ -36666,8 +36744,14 @@
       "recipe_id": "mg1930-p139-r03",
       "recipe_title": "MUSTARD PICKLES",
       "display_text": "1 gallon cucumbers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p139-r03",
@@ -36725,8 +36809,14 @@
       "recipe_id": "mg1930-p139-r04",
       "recipe_title": "CHUNK PICKLES",
       "display_text": "Cucumbers, as needed",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p139-r04",
@@ -36830,8 +36920,14 @@
       "recipe_id": "mg1930-p139-r05",
       "recipe_title": "CHUNK PICKLES",
       "display_text": "10 lbs. cucumbers, cut in chunks",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p139-r05",
@@ -36954,8 +37050,14 @@
       "recipe_id": "mg1930-p139-r06",
       "recipe_title": "RIPE CUCUMBER PICKLES",
       "display_text": "Very ripe yellow cucumbers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p139-r06",
@@ -39676,8 +39778,14 @@
       "recipe_id": "mg1930-p149-r01",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "3 sweet gherkins",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2165,
+      "canonical_name": "sweet pickles",
+      "canonical_name_normalized": "sweet-pickles",
+      "display_name_en": "sweet pickles",
+      "display_name_pt": "picles doces",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sweet-gherkins"
     },
     {
       "recipe_id": "mg1930-p149-r01",
@@ -39748,8 +39856,14 @@
       "recipe_id": "mg1930-p149-r02",
       "recipe_title": "THOUSAND ISLAND DRESSING",
       "display_text": "½ medium-sized beet",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2161,
+      "canonical_name": "beets",
+      "canonical_name_normalized": "beets",
+      "display_name_en": "beets",
+      "display_name_pt": "beterrabas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beet"
     },
     {
       "recipe_id": "mg1930-p149-r02",
@@ -39846,8 +39960,14 @@
       "recipe_id": "mg1930-p149-r03",
       "recipe_title": "ONE PT. 1000 ISLAND DRESSING",
       "display_text": "4 sweet pickles",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2165,
+      "canonical_name": "sweet pickles",
+      "canonical_name_normalized": "sweet-pickles",
+      "display_name_en": "sweet pickles",
+      "display_name_pt": "picles doces",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sweet-pickles"
     },
     {
       "recipe_id": "mg1930-p149-r03",
@@ -40191,8 +40311,14 @@
       "recipe_id": "mg1930-p152-r01",
       "recipe_title": "ADIRONDACK SALAD",
       "display_text": "4 sweet pickles, cut fine",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2165,
+      "canonical_name": "sweet pickles",
+      "canonical_name_normalized": "sweet-pickles",
+      "display_name_en": "sweet pickles",
+      "display_name_pt": "picles doces",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sweet-pickles"
     },
     {
       "recipe_id": "mg1930-p152-r01",
@@ -40870,8 +40996,14 @@
       "recipe_id": "mg1930-p153-r05",
       "recipe_title": "CALIFORNIA SALAD",
       "display_text": "6 or 8 radishes",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2162,
+      "canonical_name": "radishes",
+      "canonical_name_normalized": "radishes",
+      "display_name_en": "radishes",
+      "display_name_pt": "rabanetes",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "radishes"
     },
     {
       "recipe_id": "mg1930-p153-r05",
@@ -41176,8 +41308,14 @@
       "recipe_id": "mg1930-p154-r03",
       "recipe_title": "STUFFED CUCUMBER SALAD",
       "display_text": "Cucumbers",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2036,
+      "canonical_name": "cucumber",
+      "canonical_name_normalized": "cucumber",
+      "display_name_en": "cucumber",
+      "display_name_pt": "pepino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "cucumbers"
     },
     {
       "recipe_id": "mg1930-p154-r03",
@@ -41528,8 +41666,14 @@
       "recipe_id": "mg1930-p155-r03",
       "recipe_title": "GRAPEFRUIT SALAD",
       "display_text": "Celery curls",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2037,
+      "canonical_name": "celery",
+      "canonical_name_normalized": "celery",
+      "display_name_en": "celery",
+      "display_name_pt": "aipo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "celery-curls"
     },
     {
       "recipe_id": "mg1930-p155-r03",
@@ -41739,7 +41883,7 @@
       "display_name_pt": "macarrao",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "macaroni"
+      "matched_term": "elbow-macaroni"
     },
     {
       "recipe_id": "mg1930-p156-r01",
@@ -41810,8 +41954,14 @@
       "recipe_id": "mg1930-p156-r02",
       "recipe_title": "MACARONI LUNCHEON SALAD",
       "display_text": "2 cups elbow macaroni, cooked and chilled",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2012,
+      "canonical_name": "macaroni",
+      "canonical_name_normalized": "macaroni",
+      "display_name_en": "macaroni",
+      "display_name_pt": "macarrao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "elbow-macaroni"
     },
     {
       "recipe_id": "mg1930-p156-r02",
@@ -41902,8 +42052,14 @@
       "recipe_id": "mg1930-p156-r03",
       "recipe_title": "NATURE'S THUMB PRINT SALAD",
       "display_text": "½ can lentils",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2158,
+      "canonical_name": "lentils",
+      "canonical_name_normalized": "lentils",
+      "display_name_en": "lentils",
+      "display_name_pt": "lentilhas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lentils"
     },
     {
       "recipe_id": "mg1930-p156-r03",
@@ -44626,8 +44782,14 @@
       "recipe_id": "mg1930-p166-r02",
       "recipe_title": "EGG CREOLE SANDWICHES",
       "display_text": "½ tbsp. chow-chow relish per sandwich",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2167,
+      "canonical_name": "chow-chow relish",
+      "canonical_name_normalized": "chow-chow-relish",
+      "display_name_en": "chow-chow relish",
+      "display_name_pt": "relish chow-chow",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "chow-chow-relish"
     },
     {
       "recipe_id": "mg1930-p166-r02",
@@ -44993,8 +45155,14 @@
       "recipe_id": "mg1930-p167-r02",
       "recipe_title": "ROLLED SANDWICHES WITH CHEESE",
       "display_text": "Watercress, chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2163,
+      "canonical_name": "watercress",
+      "canonical_name_normalized": "watercress",
+      "display_name_en": "watercress",
+      "display_name_pt": "agriao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "watercress"
     },
     {
       "recipe_id": "mg1930-p167-r02",
@@ -45630,15 +45798,27 @@
       "recipe_id": "mg1930-p171-r04",
       "recipe_title": "SAVORY BEEF LOAF",
       "display_text": "2 lb. round steak, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2157,
+      "canonical_name": "round steak",
+      "canonical_name_normalized": "round-steak",
+      "display_name_en": "round steak",
+      "display_name_pt": "bife redondo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "round-steak"
     },
     {
       "recipe_id": "mg1930-p171-r04",
       "recipe_title": "SAVORY BEEF LOAF",
       "display_text": "½ cup Minute Tapioca, uncooked",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2159,
+      "canonical_name": "tapioca",
+      "canonical_name_normalized": "tapioca",
+      "display_name_en": "tapioca",
+      "display_name_pt": "tapioca",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "minute-tapioca"
     },
     {
       "recipe_id": "mg1930-p171-r04",
@@ -45748,8 +45928,14 @@
       "recipe_id": "mg1930-p172-r01",
       "recipe_title": "MEAT PATTIES",
       "display_text": "1 lb. ground round steak",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2157,
+      "canonical_name": "round steak",
+      "canonical_name_normalized": "round-steak",
+      "display_name_en": "round steak",
+      "display_name_pt": "bife redondo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ground-round-steak"
     },
     {
       "recipe_id": "mg1930-p172-r01",
@@ -45788,8 +45974,14 @@
       "recipe_id": "mg1930-p172-r02",
       "recipe_title": "MEAT BALLS",
       "display_text": "1½ lbs. round steak, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2157,
+      "canonical_name": "round steak",
+      "canonical_name_normalized": "round-steak",
+      "display_name_en": "round steak",
+      "display_name_pt": "bife redondo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "round-steak"
     },
     {
       "recipe_id": "mg1930-p172-r02",
@@ -46603,14 +46795,14 @@
       "recipe_id": "mg1930-p174-r02",
       "recipe_title": "SWIFT'S PREMIUM HAM LOAF",
       "display_text": "½ cup Minute Tapioca",
-      "alias_normalized": "tapioca",
-      "ingredient_id": 355,
+      "ingredient_id": 2159,
       "canonical_name": "tapioca",
       "canonical_name_normalized": "tapioca",
-      "display_name_en": null,
+      "display_name_en": "tapioca",
       "display_name_pt": "tapioca",
-      "match_kind": "alias",
-      "matched_term": "tapioca"
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "minute-tapioca"
     },
     {
       "recipe_id": "mg1930-p174-r03",
@@ -47447,8 +47639,14 @@
       "recipe_id": "mg1930-p177-r01",
       "recipe_title": "TARTAR SAUCE",
       "display_text": "3 chopped small sweet pickles",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2165,
+      "canonical_name": "sweet pickles",
+      "canonical_name_normalized": "sweet-pickles",
+      "display_name_en": "sweet pickles",
+      "display_name_pt": "picles doces",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sweet-pickles"
     },
     {
       "recipe_id": "mg1930-p177-r01",
@@ -48765,8 +48963,14 @@
       "recipe_id": "mg1930-p180-r01",
       "recipe_title": "MEAT LOAF",
       "display_text": "2 lbs. round steak, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2157,
+      "canonical_name": "round steak",
+      "canonical_name_normalized": "round-steak",
+      "display_name_en": "round steak",
+      "display_name_pt": "bife redondo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "round-steak"
     },
     {
       "recipe_id": "mg1930-p180-r01",
@@ -49394,8 +49598,14 @@
       "recipe_id": "mg1930-p182-r04",
       "recipe_title": "MEXICAN GOULASH",
       "display_text": "¾ lb. ground round steak",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2157,
+      "canonical_name": "round steak",
+      "canonical_name_normalized": "round-steak",
+      "display_name_en": "round steak",
+      "display_name_pt": "bife redondo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ground-round-steak"
     },
     {
       "recipe_id": "mg1930-p182-r04",
@@ -50196,8 +50406,14 @@
       "recipe_id": "mg1930-p184-r03",
       "recipe_title": "MACARONI WITH VEGETABLES",
       "display_text": "1 lb. round steak",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2157,
+      "canonical_name": "round steak",
+      "canonical_name_normalized": "round-steak",
+      "display_name_en": "round steak",
+      "display_name_pt": "bife redondo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "round-steak"
     },
     {
       "recipe_id": "mg1930-p184-r03",
@@ -52948,8 +53164,14 @@
       "recipe_id": "mg1930-p194-r04",
       "recipe_title": "SAUCE BECHAMEL",
       "display_text": "6 peppercorns",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2169,
+      "canonical_name": "peppercorns",
+      "canonical_name_normalized": "peppercorns",
+      "display_name_en": "peppercorns",
+      "display_name_pt": "graos de pimenta",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "peppercorns"
     },
     {
       "recipe_id": "mg1930-p194-r04",
@@ -53092,8 +53314,14 @@
       "recipe_id": "mg1930-p195-r02",
       "recipe_title": "BAKED FISH",
       "display_text": "Lake Trout or White Fish",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2172,
+      "canonical_name": "whitefish",
+      "canonical_name_normalized": "whitefish",
+      "display_name_en": "whitefish",
+      "display_name_pt": "peixe branco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "white-fish"
     },
     {
       "recipe_id": "mg1930-p195-r02",
@@ -53733,8 +53961,14 @@
       "recipe_id": "mg1930-p197-r02",
       "recipe_title": "SHRIMPS BAKED WITH TOMATOES",
       "display_text": "1 pt. shrimps, cleaned",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2156,
+      "canonical_name": "shrimp",
+      "canonical_name_normalized": "shrimp",
+      "display_name_en": "shrimp",
+      "display_name_pt": "camarao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "shrimps"
     },
     {
       "recipe_id": "mg1930-p197-r02",
@@ -53942,8 +54176,14 @@
       "recipe_id": "mg1930-p197-r04",
       "recipe_title": "SHRIMP A LA CREOLE",
       "display_text": "2 pimentoes",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2034,
+      "canonical_name": "pimiento",
+      "canonical_name_normalized": "pimiento",
+      "display_name_en": "pimiento",
+      "display_name_pt": "pimentao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pimentoes"
     },
     {
       "recipe_id": "mg1930-p197-r04",
@@ -54040,8 +54280,14 @@
       "recipe_id": "mg1930-p197-r04",
       "recipe_title": "SHRIMP A LA CREOLE",
       "display_text": "1 can shrimps",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2156,
+      "canonical_name": "shrimp",
+      "canonical_name_normalized": "shrimp",
+      "display_name_en": "shrimp",
+      "display_name_pt": "camarao",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "shrimps"
     },
     {
       "recipe_id": "mg1930-p198-r01",
@@ -54372,8 +54618,14 @@
       "recipe_id": "mg1930-p198-r04",
       "recipe_title": "RING OF SALMON",
       "display_text": "⅛ tsp. ground mace",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2168,
+      "canonical_name": "mace",
+      "canonical_name_normalized": "mace",
+      "display_name_en": "mace",
+      "display_name_pt": "macis",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "ground-mace"
     },
     {
       "recipe_id": "mg1930-p198-r04",
@@ -54659,8 +54911,14 @@
       "recipe_id": "mg1930-p202-r02",
       "recipe_title": "NEW ENGLAND BAKED BEANS",
       "display_text": "3 cups navy beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2170,
+      "canonical_name": "navy beans",
+      "canonical_name_normalized": "navy-beans",
+      "display_name_en": "navy beans",
+      "display_name_pt": "feijao branco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "navy-beans"
     },
     {
       "recipe_id": "mg1930-p202-r02",
@@ -54705,8 +54963,14 @@
       "recipe_id": "mg1930-p202-r03",
       "recipe_title": "BAKED BEANS",
       "display_text": "2 qts. navy beans",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2170,
+      "canonical_name": "navy beans",
+      "canonical_name_normalized": "navy-beans",
+      "display_name_en": "navy beans",
+      "display_name_pt": "feijao branco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "navy-beans"
     },
     {
       "recipe_id": "mg1930-p202-r03",
@@ -55226,8 +55490,14 @@
       "recipe_id": "mg1930-p204-r01",
       "recipe_title": "BEETS WITH SOUR SAUCE",
       "display_text": "8 beets",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2161,
+      "canonical_name": "beets",
+      "canonical_name_normalized": "beets",
+      "display_name_en": "beets",
+      "display_name_pt": "beterrabas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beets"
     },
     {
       "recipe_id": "mg1930-p204-r01",
@@ -55364,8 +55634,14 @@
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Small beets",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2161,
+      "canonical_name": "beets",
+      "canonical_name_normalized": "beets",
+      "display_name_en": "beets",
+      "display_name_pt": "beterrabas",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "beets"
     },
     {
       "recipe_id": "mg1930-p204-r03",
@@ -55417,8 +55693,14 @@
       "recipe_id": "mg1930-p204-r03",
       "recipe_title": "STUFFED BEETS",
       "display_text": "Sweet gherkins, chopped",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2165,
+      "canonical_name": "sweet pickles",
+      "canonical_name_normalized": "sweet-pickles",
+      "display_name_en": "sweet pickles",
+      "display_name_pt": "picles doces",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "sweet-gherkins"
     },
     {
       "recipe_id": "mg1930-p204-r03",
@@ -58823,8 +59105,14 @@
       "recipe_id": "mg1930-p214-r03",
       "recipe_title": "VEGETABLE HASH",
       "display_text": "1 lb. round steak, ground",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_identity"
+      "ingredient_id": 2157,
+      "canonical_name": "round steak",
+      "canonical_name_normalized": "round-steak",
+      "display_name_en": "round steak",
+      "display_name_pt": "bife redondo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "round-steak"
     },
     {
       "recipe_id": "mg1930-p214-r03",
