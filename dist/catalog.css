@@ -1,0 +1,6 @@
+.catalog{margin-top:28px;border:3px solid var(--navy);background:#eef4fa}
+.catalog summary{display:flex;align-items:baseline;justify-content:space-between;gap:18px;padding:14px 16px;color:var(--navy-deep);font-family:Neuton,Georgia,serif;font-size:28px;line-height:1.15}
+.catalog summary span:last-child{font-family:Montserrat,Arial,sans-serif;font-size:14px;font-weight:500}
+.catalog[open] summary{border-bottom:2px solid var(--line)}
+.catalog-grid{padding:0 18px 8px}
+@media(max-width:760px){.catalog summary{display:block;font-size:26px}.catalog summary span:last-child{display:block;margin-top:4px}}

@@ -3,6 +3,7 @@ import fs from 'node:fs';
 
 const html = fs.readFileSync('dist/index.html', 'utf8');
 const css = fs.readFileSync('dist/style.css', 'utf8');
+const catalogCss = fs.readFileSync('dist/catalog.css', 'utf8');
 const requiredHtml = [
   '<html lang="en">',
   'name="viewport"',
@@ -12,18 +13,21 @@ const requiredHtml = [
   'type="search"',
   'role="status"',
   '<summary>Advanced search options</summary>',
+  '<details id="catalog" class="catalog" open>',
   'id="include-source" type="checkbox"',
   'data-text-size="18"',
   'data-text-size="25"',
   'id="print"',
 ];
 for (const snippet of requiredHtml) assert.ok(html.includes(snippet), `Missing accessibility control: ${snippet}`);
+assert.ok(html.indexOf('<details id="catalog"') < html.indexOf('<section class="results"'), 'Catalog must appear before recipe results');
 assert.ok(!/<footer\b/i.test(html), 'This edition intentionally has no footer');
 assert.match(css, /:focus-visible\{outline:3px solid var\(--focus\)/, 'Visible keyboard focus is required');
 assert.match(css, /button\{min-height:48px/, 'Buttons must keep a 48px target');
 assert.match(css, /input\[type=search\][^{]*\{[^}]*min-height:56px/, 'Search must keep a large target');
 assert.match(css, /@media\(max-width:760px\)/, 'A narrow-screen layout is required');
 assert.match(css, /@media print\{/, 'A print layout is required');
+assert.match(catalogCss, /\.catalog\[open\] summary/, 'Open catalog state must be visually clear');
 
 function luminance(hex) {
   const channels = hex.match(/[a-f\d]{2}/gi).map(part => Number.parseInt(part, 16) / 255);
