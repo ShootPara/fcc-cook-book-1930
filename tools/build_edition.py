@@ -1,0 +1,163 @@
+#!/usr/bin/env python3
+"""Build the public Mayflower cookbook edition from the immutable V8 source."""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import re
+import sqlite3
+import unicodedata
+from collections import Counter, defaultdict
+from datetime import datetime, timezone
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[1]
+SOURCE = ROOT / "source" / "mayflower-recipes-v8-edited.json"
+OUTPUT = ROOT / "dist" / "data"
+DEFAULT_REGISTRY = Path(r"D:\Projects\Online\recipes\generated\backups\live-20261027-r5-descriptions.sqlite")
+
+
+def normalized(value: str) -> str:
+    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
+    return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+
+
+def slug(value: str) -> str:
+    return normalized(value) or "recipe"
+
+
+def ingredient_candidates(line: str) -> list[str]:
+    """Produce conservative identity candidates without altering display text."""
+    value = line.lower()
+    value = re.sub(r"^\s*(?:\d+(?:[./]\d+)?|[½¼¾⅓⅔⅛⅜⅝⅞]+|one|two|three)\s*", "", value)
+    value = re.sub(r"\b(?:cups?|c\.?|tablespoons?|tbsp\.?|teaspoons?|tsp\.?|pounds?|lbs?\.?|ounces?|oz\.?|quarts?|qts?\.?|pints?|pt\.?|gallons?|cans?|packages?|pkg\.?|slices?|cloves?)\b", "", value)
+    value = re.sub(r"\([^)]*\)", "", value)
+    value = re.sub(r"\b(?:scalded|melted|softened|beaten|sifted|chopped|diced|minced|ground|grated|cooked|cold|hot|fresh|small|large|medium|optional|if desired|to taste|for garnish)\b", "", value)
+    value = re.sub(r"\s+", " ", value).strip(" ,;.-")
+    candidates = [normalized(value)]
+    if " of " in value:
+        candidates.append(normalized(value.rsplit(" of ", 1)[-1]))
+    words = value.split()
+    for width in (3, 2, 1):
+        if len(words) >= width:
+            candidates.append(normalized(" ".join(words[-width:])))
+    return [candidate for candidate in dict.fromkeys(candidates) if candidate]
+
+
+def load_registry(path: Path) -> tuple[dict[str, dict], dict[int, int]]:
+    connection = sqlite3.connect(path)
+    connection.row_factory = sqlite3.Row
+    entries: dict[str, dict] = {}
+    redirects = {row["duplicate_id"]: row["canonical_id"] for row in connection.execute(
+        "SELECT duplicate_id, canonical_id FROM ingredient_canonical_redirects"
+    )}
+    for row in connection.execute(
+        "SELECT ingredient_id, canonical_name, canonical_name_normalized, display_name_en, display_name_pt FROM ingredients_canonical WHERE is_active = 1"
+    ):
+        entries[row["canonical_name_normalized"]] = dict(row, match_kind="canonical")
+    for row in connection.execute(
+        "SELECT a.alias_normalized, a.ingredient_id, c.canonical_name, c.canonical_name_normalized, c.display_name_en, c.display_name_pt FROM ingredient_aliases a JOIN ingredients_canonical c ON c.ingredient_id = a.ingredient_id"
+    ):
+        entries[row["alias_normalized"]] = dict(row, match_kind="alias")
+    return entries, redirects
+
+
+def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int, int]) -> dict:
+    for candidate in ingredient_candidates(line):
+        if candidate not in registry:
+            continue
+        result = dict(registry[candidate])
+        ingredient_id = result["ingredient_id"]
+        if ingredient_id in redirects:
+            result["redirected_from"] = ingredient_id
+            result["ingredient_id"] = redirects[ingredient_id]
+            result["match_kind"] = "redirect"
+        result["matched_term"] = candidate
+        return result
+    return {"match_kind": "unmatched"}
+
+
+def make_recipe(source: dict, numeric_id: int, registry: dict[str, dict], redirects: dict[int, int]) -> tuple[dict, list[dict]]:
+    title = source["title"].strip()
+    chapter = source["chapter"].strip()
+    matches = [resolve_ingredient(line, registry, redirects) for line in source["ingredients"]]
+    search_terms = set(source["ingredients"])
+    canonical_ids = []
+    for match in matches:
+        if match["match_kind"] == "unmatched":
+            continue
+        canonical_ids.append(match["ingredient_id"])
+        search_terms.update(filter(None, [match.get("canonical_name"), match.get("display_name_en"), match.get("display_name_pt"), match.get("matched_term")]))
+    description = f"A {chapter.lower()} recipe from the 1930 Mayflower Guild cookbook."
+    original_locator = "; ".join(filter(None, [f"PDF page {source['page']}" if source.get("page") else None, f"printed page {source['printed_page']}" if source.get("printed_page") else None]))
+    record = {
+        "id": numeric_id,
+        "slug": f"{numeric_id:03d}-{slug(title)}",
+        "title": title,
+        "collection": {"slug": "mayflower-guild-cookbook-1930", "name": "Mayflower Guild Cookbook (1930)"},
+        "language_code": "en",
+        "content_kind": "recipe",
+        "description": description,
+        "translations": {},
+        "ingredient_search_terms": sorted(normalized(term).replace("-", " ") for term in search_terms if term),
+        "yield": None,
+        "prep_time": None,
+        "cook_time": None,
+        "total_time": None,
+        "servings": None,
+        "ingredients": source["ingredients"],
+        "steps": source["directions"],
+        "categories": [chapter],
+        "instructions": "\n".join(source["directions"]),
+        "notes": f"Edited Version 8. Source ID: {source['id']}. {original_locator}.",
+        "originals": [],
+        "photos": [],
+        "source_id": source["id"],
+        "source": {
+            "publication": "Cook Book",
+            "compiler": "Mayflower Guild of First Congregational Church, Kalamazoo, Michigan",
+            "year": 1930,
+            "pdf_page": source.get("page"),
+            "printed_page": source.get("printed_page"),
+            "contributors": source.get("contributors", []),
+        },
+        "canonical_ingredient_ids": sorted(set(canonical_ids)),
+    }
+    report_rows = [
+        {"recipe_id": source["id"], "recipe_title": title, "display_text": line, **match}
+        for line, match in zip(source["ingredients"], matches)
+    ]
+    return record, report_rows
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--registry", type=Path, default=DEFAULT_REGISTRY)
+    parser.add_argument("--edition", default="20261101-v8-01")
+    args = parser.parse_args()
+
+    source = json.loads(SOURCE.read_text(encoding="utf-8"))
+    if len(source["recipes"]) != 708:
+        raise ValueError("Version 8 source must contain exactly 708 recipes")
+    registry, redirects = load_registry(args.registry)
+    records, report = zip(*(make_recipe(recipe, index, registry, redirects) for index, recipe in enumerate(source["recipes"], start=1)))
+    OUTPUT.mkdir(parents=True, exist_ok=True)
+    public = {"schema_version": 3, "created_at": datetime.now(timezone.utc).isoformat(), "recipes": list(records)}
+    recipes_path = OUTPUT / "recipes.json"
+    recipes_path.write_text(json.dumps(public, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    digest = hashlib.sha256(recipes_path.read_bytes()).hexdigest()
+    matches = [row for recipe_rows in report for row in recipe_rows]
+    counts = Counter(row["match_kind"] for row in matches)
+    report_path = ROOT / "reports" / "canonical-ingredient-matches.json"
+    report_path.parent.mkdir(exist_ok=True)
+    report_path.write_text(json.dumps({"source": SOURCE.name, "registry": str(args.registry), "summary": dict(counts), "matches": matches}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    edition = {"schema_version": 3, "edition": args.edition, "created_at": public["created_at"], "recipes": len(records), "recipes_with_captured_originals": 0, "files": {"recipes.json": digest}}
+    (OUTPUT / "edition.json").write_text(json.dumps(edition, indent=2) + "\n", encoding="utf-8")
+    print(f"Built {len(records)} recipes; ingredient matching: {dict(counts)}")
+
+
+if __name__ == "__main__":
+    main()
