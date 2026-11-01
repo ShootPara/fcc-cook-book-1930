@@ -57,11 +57,11 @@ def load_registry(path: Path) -> tuple[dict[str, dict], dict[int, int]]:
     for row in connection.execute(
         "SELECT ingredient_id, canonical_name, canonical_name_normalized, display_name_en, display_name_pt FROM ingredients_canonical WHERE is_active = 1"
     ):
-        entries[row["canonical_name_normalized"]] = dict(row, match_kind="canonical")
+        entries[normalized(row["canonical_name_normalized"])] = dict(row, match_kind="canonical")
     for row in connection.execute(
         "SELECT a.alias_normalized, a.ingredient_id, c.canonical_name, c.canonical_name_normalized, c.display_name_en, c.display_name_pt FROM ingredient_aliases a JOIN ingredients_canonical c ON c.ingredient_id = a.ingredient_id"
     ):
-        entries[row["alias_normalized"]] = dict(row, match_kind="alias")
+        entries[normalized(row["alias_normalized"])] = dict(row, match_kind="alias")
     return entries, redirects
 
 
