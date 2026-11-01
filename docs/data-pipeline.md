@@ -16,6 +16,10 @@ The historical PDF is the underlying record. The published site intentionally pr
 
 The public recipe records retain their historical Mayflower source ID and source metadata alongside the frontend ID. The browser consumes only JSON; there is no runtime database, server API, or editor.
 
+## Card descriptions
+
+`config/card-descriptions.json` stores the 708 individually written public descriptions, keyed by immutable Version 8 source ID. The build requires exact source-ID coverage and uses this copy directly rather than generating title-based templates. It leaves historical titles, ingredients, and directions untouched.
+
 ## Ingredient normalization
 
 The builder reads the established Recipe Box R5 SQLite registry:
@@ -43,9 +47,10 @@ node check-edition.mjs
 node check-caching.mjs
 node check-ingredient-matches.mjs
 node check-accessibility.mjs
+node check-browsing.mjs
 ```
 
-These validate the 708-record edition, unique numeric IDs, retained source metadata, schema allowlist, manifest checksum, browser caching behavior, ingredient-match coverage, and the accessibility-first catalog controls.
+These validate the 708-record edition, unique numeric IDs, retained source metadata, schema allowlist, manifest checksum, browser caching behavior, ingredient-match coverage, the accessibility-first catalog controls, and complete chapter/result browsing.
 
 ## Remaining publication work
 

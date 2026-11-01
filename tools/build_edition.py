@@ -154,37 +154,12 @@ def resolve_ingredient(line: str, registry: dict[str, dict], redirects: dict[int
     return {"match_kind": "unmatched", "review_class": review_class}
 
 
+# Derived editorial copy lives outside the immutable historical source.
+CARD_DESCRIPTIONS = json.loads((ROOT / "config" / "card-descriptions.json").read_text(encoding="utf-8"))
+
+
 def card_description(source: dict) -> str:
-    """Create a brief menu-style description without exposing an ingredient list."""
-    dish = source["title"].title().replace("Mc ", "Mc")
-    lower = dish.lower()
-    if any(word in lower for word in ("pudding", "custard")):
-        return f"A smooth, old-fashioned {lower} with a comforting homemade finish."
-    if "soup" in lower:
-        return f"A comforting bowl of {lower}, made for a simple supper."
-    if "salad" in lower:
-        return f"A crisp, composed {lower} for the table."
-    if "sandwich" in lower:
-        if lower.endswith("sandwiches"):
-            return f"A satisfying platter of {lower} for lunch or a light supper."
-        return f"A satisfying {lower} for lunch or a light supper."
-    if any(word in lower for word in ("cake", "gingerbread", "shortcake")):
-        return f"A home-style {lower} for the cake table."
-    if any(word in lower for word in ("cookie", "biscuit", "waffle", "griddle cake")):
-        return f"A classic {lower} with old-fashioned charm."
-    if any(word in lower for word in ("pie", "pastry", "tart")):
-        return f"A classic baked {lower} for dessert or tea."
-    if source["chapter"] == "Beverages":
-        if lower.startswith("hot "):
-            return f"A warming {lower} with a distinctly 1930s touch."
-        if lower.startswith("iced "):
-            return f"A cooling {lower} with a distinctly 1930s touch."
-        return f"A refreshing {lower} with a distinctly 1930s touch."
-    if any(word in lower for word in ("candy", "confection", "fudge", "caramel")):
-        return f"A sweet homemade {lower} from the Mayflower Guild table."
-    if source["chapter"] in {"Meats", "Fish, Poultry, and Game", "Meat Substitutes, Pasta, and Rice"}:
-        return f"A hearty {lower} for a family-style supper."
-    return f"A classic {lower} from the 1930 Mayflower Guild table."
+    return CARD_DESCRIPTIONS[source["id"]]
 
 
 def make_recipe(source: dict, numeric_id: int, registry: dict[str, dict], redirects: dict[int, int]) -> tuple[dict, list[dict]]:
@@ -249,6 +224,11 @@ def main() -> None:
     source = json.loads(SOURCE.read_text(encoding="utf-8"))
     if len(source["recipes"]) != 708:
         raise ValueError("Version 8 source must contain exactly 708 recipes")
+    source_ids = {recipe["id"] for recipe in source["recipes"]}
+    if set(CARD_DESCRIPTIONS) != source_ids:
+        raise ValueError("Card descriptions must cover exactly the Version 8 source IDs")
+    if any(not isinstance(text, str) or not text.strip() or len(text) > 140 for text in CARD_DESCRIPTIONS.values()):
+        raise ValueError("Every card description must be nonempty and at most 140 characters")
     registry, redirects = load_registry(args.registry)
     records, report = zip(*(make_recipe(recipe, index, registry, redirects) for index, recipe in enumerate(source["recipes"], start=1)))
     OUTPUT.mkdir(parents=True, exist_ok=True)

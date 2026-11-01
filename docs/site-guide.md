@@ -41,7 +41,9 @@ Open **Advanced search options** to:
 
 The chapter catalog appears immediately below search and is displayed when the page opens. Select its heading to collapse it when you want more room for results. Choosing a chapter applies that chapter as a filter and returns the visitor to the top of the recipe list.
 
-Recipe tiles use short, menu-style descriptions to help identify a dish at a glance; the complete historical ingredient list is shown on the recipe page.
+All 31 chapters appear in the catalog. Results start with 24 recipes; select **Show more recipes** to reveal the next 24. The count shows how many are visible out of the total, and changing a search or filter starts a fresh set.
+
+Recipe tiles use individually written descriptions based on each recipe’s ingredients and directions. These distinguish dishes and variants without generic promotional filler; the complete historical ingredient list is shown on the recipe page.
 
 ## Recipe pages
 

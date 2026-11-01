@@ -19,6 +19,7 @@ node check-edition.mjs
 node check-caching.mjs
 node check-ingredient-matches.mjs
 node check-accessibility.mjs
+node check-browsing.mjs
 ```
 
 - `docs/` — site use, accessibility, build, and data-status documentation.
@@ -31,6 +32,7 @@ node check-edition.mjs
 node check-caching.mjs
 node check-ingredient-matches.mjs
 node check-accessibility.mjs
+node check-browsing.mjs
 ```
 
 The build requires the existing R5 SQLite registry at `D:\Projects\Online\recipes\generated\backups\live-20261027-r5-descriptions.sqlite`. The source dataset is never modified by the build.
