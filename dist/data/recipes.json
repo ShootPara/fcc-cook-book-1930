@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "created_at": "2026-11-01T21:52:42.001314+00:00",
+  "created_at": "2026-11-01T21:55:02.873798+00:00",
   "recipes": [
     {
       "id": 1,
@@ -598,7 +598,9 @@
         "2 tbsp cocoa",
         "2 tbsp melted butter",
         "acucar",
+        "agua",
         "baunilha",
+        "boiling water",
         "cacau em po",
         "cocoa",
         "enough boiling water to mix stiff",
@@ -643,6 +645,7 @@
       "canonical_ingredient_ids": [
         3,
         9,
+        52,
         85,
         204
       ]
@@ -10527,7 +10530,9 @@
         "brown sugar",
         "butter",
         "eggs",
+        "farinha de trigo",
         "fermento em po",
+        "flour",
         "flour to roll soft",
         "leite",
         "manteiga",
@@ -10574,6 +10579,7 @@
         ]
       },
       "canonical_ingredient_ids": [
+        4,
         6,
         8,
         9,
@@ -22852,13 +22858,16 @@
         "gelatina de limao",
         "lemon gelatin dessert",
         "lemon jello",
+        "licor maraschino",
         "macaroons",
+        "maraschino liqueur",
         "marshmallow",
         "marshmallows",
         "nozes peca",
         "pecans",
         "sal",
         "salt",
+        "small maraschino",
         "sugar",
         "vinagre",
         "vinegar",
@@ -22911,7 +22920,8 @@
         2025,
         2089,
         2090,
-        2101
+        2101,
+        2188
       ]
     },
     {
@@ -26557,7 +26567,6 @@
         "noz moscada",
         "nutmeg",
         "sugar",
-        "tart apples",
         "water"
       ],
       "yield": null,
@@ -30283,6 +30292,7 @@
         "3 eggs",
         "acucar",
         "agua",
+        "baked pie crust",
         "butter",
         "cold water",
         "eggs",
@@ -30293,7 +30303,9 @@
         "lemons",
         "limao",
         "manteiga",
+        "massa de torta",
         "ovos",
+        "pie crust",
         "sugar"
       ],
       "yield": null,
@@ -30337,7 +30349,8 @@
         9,
         18,
         52,
-        2006
+        2006,
+        2185
       ]
     },
     {
@@ -34020,7 +34033,8 @@
         "acucar",
         "canela",
         "cinnamon",
-        "peach",
+        "cloves",
+        "cravo",
         "peaches",
         "peaches peeled 1 qt prepared",
         "pessegos",
@@ -34065,6 +34079,7 @@
       "canonical_ingredient_ids": [
         3,
         5,
+        418,
         655,
         2113
       ]
@@ -37427,6 +37442,7 @@
         "chilled tomatoes quartered",
         "cooked asparagus tips about equal to the cucumber",
         "cooked lobster meat about equal to the cucumber",
+        "coral de lagosta",
         "cucumber",
         "cucumber diced",
         "french dressing",
@@ -37434,6 +37450,8 @@
         "lettuce",
         "lettuce leaves",
         "lettuce leaves",
+        "lobster coral",
+        "lobster coral",
         "lobster coral if available",
         "maionese",
         "mayonnaise",
@@ -37488,7 +37506,8 @@
         884,
         2005,
         2007,
-        2036
+        2036,
+        2178
       ]
     },
     {
@@ -40482,6 +40501,7 @@
       "translations": {},
       "ingredient_search_terms": [
         "agriao",
+        "bread",
         "cream cheese",
         "cream cheese",
         "french dressing",
@@ -40489,6 +40509,7 @@
         "french dressing for softening cheese",
         "manteiga",
         "molho frances",
+        "pao",
         "pasta de queijo e pimentao",
         "pimiento cheese spread",
         "pimiento cheese spread",
@@ -40539,6 +40560,7 @@
       "canonical_ingredient_ids": [
         9,
         307,
+        1126,
         2007,
         2163,
         2179
@@ -42329,7 +42351,10 @@
         "cloves",
         "cravo",
         "currant jelly",
+        "currant jelly",
+        "currant jelly",
         "flour and water for gravy",
+        "geleia de groselha",
         "ham",
         "hot water equal in volume to jelly",
         "presunto",
@@ -42372,7 +42397,8 @@
       "canonical_ingredient_ids": [
         52,
         418,
-        759
+        759,
+        2187
       ]
     },
     {
@@ -42722,16 +42748,22 @@
       "description": "A meats recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "bread",
         "butter",
         "butter or fat for frying",
+        "file de porco",
         "manteiga",
         "medium white sauce",
         "molho branco",
+        "pao",
         "pimentao",
         "pimiento",
         "pimientos",
         "pimientos chopped",
+        "pork tenderloin",
+        "pork tenderloin",
         "pork tenderloin cubed",
+        "toast",
         "toast for serving",
         "white sauce",
         "white sauce"
@@ -42771,8 +42803,10 @@
       },
       "canonical_ingredient_ids": [
         9,
+        1126,
         2013,
-        2034
+        2034,
+        2181
       ]
     },
     {
@@ -43362,6 +43396,7 @@
         "2 tbsp melted butter",
         "agua",
         "cebola",
+        "costeletas de vitela",
         "dried sage",
         "farinha de trigo",
         "fat for browning",
@@ -43376,6 +43411,8 @@
         "salt and pepper",
         "salvia",
         "stock or water for gravy",
+        "veal cutlets",
+        "veal cutlets",
         "veal cutlets or thin beef steak 12 inch thick",
         "water"
       ],
@@ -43422,7 +43459,8 @@
         52,
         531,
         667,
-        2151
+        2151,
+        2191
       ]
     },
     {
@@ -44824,13 +44862,16 @@
         "1 small onion chopped",
         "12 green pepper diced",
         "beef",
+        "bread",
         "buttered toast for serving",
         "carne bovina",
         "cebola",
         "cooked cold meat preferably roast beef diced",
         "green pepper",
         "onion",
+        "pao",
         "pimentao",
+        "toast",
         "tomate",
         "tomatoes"
       ],
@@ -44871,6 +44912,7 @@
         667,
         884,
         931,
+        1126,
         2136
       ]
     },
@@ -47576,6 +47618,7 @@
       "ingredient_search_terms": [
         "1 plain rusk or crisp toast crumbled",
         "4 eggs",
+        "bread",
         "butter",
         "butter",
         "cheese",
@@ -47586,10 +47629,12 @@
         "milk",
         "milk enough to come halfway up the dish",
         "ovos",
+        "pao",
         "pepper",
         "pimenta",
         "queijo",
-        "salt and pepper"
+        "salt and pepper",
+        "toast"
       ],
       "yield": null,
       "prep_time": null,
@@ -47630,6 +47675,7 @@
         9,
         18,
         531,
+        1126,
         2028
       ]
     },
@@ -47795,6 +47841,7 @@
         "1 tbsp freshly grated horseradish",
         "2 tbsp thick mayonnaise",
         "6 hard boiled eggs",
+        "bread",
         "bread rounds 12",
         "butter",
         "butter for frying bread optional",
@@ -47804,6 +47851,7 @@
         "manteiga",
         "mayonnaise",
         "ovos",
+        "pao",
         "paprica",
         "paprika",
         "paprika",
@@ -47848,6 +47896,7 @@
         18,
         127,
         1115,
+        1126,
         2103
       ]
     },
@@ -48999,15 +49048,18 @@
         "cream",
         "creme",
         "egg yolks",
+        "fortified wine",
         "gema",
         "lagosta",
         "lobster",
+        "madeira or sherry wine",
         "manteiga",
         "mushrooms",
         "paprica",
         "paprika",
         "sal",
-        "salt"
+        "salt",
+        "vinho fortificado"
       ],
       "yield": null,
       "prep_time": null,
@@ -49052,7 +49104,8 @@
         649,
         1115,
         2025,
-        2153
+        2153,
+        2186
       ]
     },
     {
@@ -53179,6 +53232,7 @@
       "description": "A vegetables and soups recipe from the 1930 Mayflower Guild cookbook.",
       "translations": {},
       "ingredient_search_terms": [
+        "agua",
         "batata",
         "boiled sweet potatoes",
         "butter",
@@ -53189,7 +53243,8 @@
         "marshmallows",
         "marshmallows for topping",
         "potatoes",
-        "salt and other seasoning to taste"
+        "salt and other seasoning to taste",
+        "water"
       ],
       "yield": null,
       "prep_time": null,
@@ -53226,6 +53281,7 @@
       },
       "canonical_ingredient_ids": [
         9,
+        52,
         900,
         2021
       ]
@@ -54781,8 +54837,10 @@
         "2 teaspoons sugar",
         "acucar",
         "baking powder",
+        "bran",
         "butter",
         "egg",
+        "farelo",
         "farinha graham",
         "fermento em po",
         "graham flour",
@@ -54841,7 +54899,8 @@
         10,
         45,
         2064,
-        2066
+        2066,
+        2189
       ]
     },
     {

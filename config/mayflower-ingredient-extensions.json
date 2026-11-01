@@ -185,6 +185,13 @@
     {"ingredient_id": 2181, "canonical_name": "pork tenderloin", "display_name_en": "pork tenderloin", "display_name_pt": "file de porco", "aliases": ["pork tenderloin"]},
     {"ingredient_id": 2182, "canonical_name": "turkey giblets", "display_name_en": "turkey giblets", "display_name_pt": "miudos de peru", "aliases": ["turkey giblets"]},
     {"ingredient_id": 2183, "canonical_name": "cayenne pepper", "display_name_en": "cayenne pepper", "display_name_pt": "pimenta-caiena", "aliases": ["cayenne", "cayenne pepper"]},
-    {"ingredient_id": 2184, "canonical_name": "crackers", "display_name_en": "crackers", "display_name_pt": "biscoitos salgados", "aliases": ["cracker", "crackers", "rolled crackers"]}
+    {"ingredient_id": 2184, "canonical_name": "crackers", "display_name_en": "crackers", "display_name_pt": "biscoitos salgados", "aliases": ["cracker", "crackers", "rolled crackers"]},
+    {"ingredient_id": 2185, "canonical_name": "pie crust", "display_name_en": "pie crust", "display_name_pt": "massa de torta", "aliases": ["pie crust", "baked pie crust"]},
+    {"ingredient_id": 2186, "canonical_name": "fortified wine", "display_name_en": "fortified wine", "display_name_pt": "vinho fortificado", "aliases": ["madeira or sherry wine", "madeira wine", "sherry wine"]},
+    {"ingredient_id": 2187, "canonical_name": "currant jelly", "display_name_en": "currant jelly", "display_name_pt": "geleia de groselha", "aliases": ["currant jelly"]},
+    {"ingredient_id": 2188, "canonical_name": "maraschino liqueur", "display_name_en": "maraschino liqueur", "display_name_pt": "licor maraschino", "aliases": ["small maraschino"]},
+    {"ingredient_id": 2189, "canonical_name": "bran", "display_name_en": "bran", "display_name_pt": "farelo", "aliases": ["bran"]},
+    {"ingredient_id": 2190, "canonical_name": "watermelon rind", "display_name_en": "watermelon rind", "display_name_pt": "casca de melancia", "aliases": ["watermelon rind", "water melon rind"]},
+    {"ingredient_id": 2191, "canonical_name": "veal cutlets", "display_name_en": "veal cutlets", "display_name_pt": "costeletas de vitela", "aliases": ["veal cutlets"]}
   ]
 }

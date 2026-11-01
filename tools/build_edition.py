@@ -32,6 +32,8 @@ HISTORICAL_ALIASES = {
     "cream-tartar": "cream-of-tartar",
     "whites": "egg-whites",
     "yolks": "egg-yolks",
+    "toast": "bread",
+    "swift-s-premium-ham": "ham",
 }
 
 BRANDED_REFERENCE = re.compile(r"\b(?:argo|kingsford|india relish|liquid life|white rock|swift'?s|savor-tite|show you|chop suey)\b", re.IGNORECASE)
@@ -56,10 +58,14 @@ def ingredient_candidates(line: str) -> list[str]:
     value = re.sub(r"^\s*(?:\d+(?:[–-]\d+)?(?:[./]\d+|[½¼¾⅓⅔⅛⅜⅝⅞�])?|[½¼¾⅓⅔⅛⅜⅝⅞]+|one|two|three)\s*", "", value)
     value = re.sub(r"\b(?:cups?|c\.?|tablespoons?|tbsp\.?|teaspoons?|tsp\.?|pounds?|lbs?\.?|ounces?|oz\.?|quarts?|qts?\.?|pints?|pt\.?|gallons?|cans?|packages?|pkg\.?|slices?|jars?|bottles?|boxes?|dozens?|ears?|stalks?|loaves?|tins?|squares?|sq\.?|heads?|sprigs?)\b", "", value)
     value = re.sub(r"\([^)]*\)", "", value)
+    value = re.sub(r"^enough\s+", "", value)
     identity_value = value
-    value = re.sub(r"\b(?:scalded|melted|softened|beaten|sifted|chopped|diced|minced|ground|grated|cooked|cold|hot|fresh|small|large|medium|optional|optionally|if desired|to taste|for garnish|stiff|separated|well|heaping|level|scant|thin|thinly|light|rounding|fine|finely|cut|whipped|creamed|sliced|added|dissolved|crumbled|drained|blanched|shelled|tinted|sweetened|canned|ripe|prepared|unbeaten|whole|times|crushed|shredded|peeled|quartered|halved|skinned|seeded|buttered|rolled|stuffed|freshly|carefully|uncooked|hard-boiled|boiled|flaked|pieces|rings|sections|segments|strips|split|tips|rounds|lengthwise|membranes|removed|dressed|jointed|rather|tart|coarsely|very)\b", "", value)
+    value = re.sub(r"\b(?:scalded|melted|softened|beaten|sifted|chopped|diced|minced|ground|grated|cooked|cold|hot|fresh|small|large|medium|optional|optionally|if desired|to taste|for garnish|stiff|separated|well|heaping|level|scant|thin|thinly|light|rounding|fine|finely|cut|cubed|whipped|creamed|sliced|added|dissolved|crumbled|drained|blanched|shelled|tinted|sweetened|canned|ripe|prepared|unbeaten|whole|times|crushed|shredded|peeled|quartered|halved|skinned|seeded|buttered|rolled|stuffed|freshly|carefully|uncooked|hard-boiled|boiled|flaked|pieces|rings|sections|segments|strips|split|tips|rounds|lengthwise|membranes|removed|dressed|jointed|rather|tart|coarsely|very|about)\b", "", value)
     value = re.sub(r"\s+", " ", value).strip(" ,;.-")
-    value = re.split(r"\b(?:enough|for|as needed|to make|to cover|to bind|to serve|to season|to moisten|to coat|to garnish|to finish|per serving|per sandwich|per jar)\b", value, maxsplit=1)[0].strip(" ,;.-")
+    value = re.sub(r"\bcut up\b", "", value)
+    value = re.sub(r",?\s*\d+(?:[½¼¾⅓⅔⅛⅜⅝⅞])?(?:[–-]\d+(?:[½¼¾⅓⅔⅛⅜⅝⅞])?)?\s*(?:lbs?|pounds?)\.?\s*$", "", value)
+    value = re.sub(r"[,;]\s*\d+\s*$", "", value)
+    value = re.split(r"\b(?:enough|for|as needed|to make|to mix|to cover|to bind|to serve|to season|to moisten|to coat|to garnish|to finish|to loosen|to roll|into|if available|all about|per)\b", value, maxsplit=1)[0].strip(" ,;.-")
     value = re.sub(r"\b(?:and|or)\s*$", "", value).strip(" ,;.-")
     candidates = [normalized(identity_value), normalized(value)]
     if " of " in value:

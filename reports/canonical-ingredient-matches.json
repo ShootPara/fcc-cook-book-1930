@@ -2,16 +2,16 @@
   "source": "mayflower-recipes-v8-edited.json",
   "registry": "D:\\Projects\\Online\\recipes\\generated\\backups\\live-20261027-r5-descriptions.sqlite",
   "summary": {
-    "alias": 3399,
-    "extension": 1025,
-    "unmatched": 148,
-    "historical_alias": 124
+    "alias": 3405,
+    "extension": 1032,
+    "unmatched": 132,
+    "historical_alias": 127
   },
   "review_summary": {
     "underspecified_ingredient": 82,
-    "unresolved_food_identity": 38,
     "branded_or_proprietary_reference": 9,
     "structural_heading": 8,
+    "unresolved_food_identity": 22,
     "textual_fragment": 9,
     "stray_number": 2
   },
@@ -651,8 +651,14 @@
       "recipe_id": "mg1930-p017-r05",
       "recipe_title": "CHILDREN'S RAISIN CANDY",
       "display_text": "enough boiling water to mix stiff",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "boiling water",
+      "ingredient_id": 52,
+      "canonical_name": "água",
+      "canonical_name_normalized": "agua",
+      "display_name_en": null,
+      "display_name_pt": "água",
+      "match_kind": "alias",
+      "matched_term": "boiling-water"
     },
     {
       "recipe_id": "mg1930-p017-r06",
@@ -12323,8 +12329,14 @@
       "recipe_id": "mg1930-p058-r01",
       "recipe_title": "SUGAR COOKIES",
       "display_text": "flour to roll soft",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "flour",
+      "ingredient_id": 4,
+      "canonical_name": "farinha de trigo",
+      "canonical_name_normalized": "farinha-de-trigo",
+      "display_name_en": null,
+      "display_name_pt": "farinha de trigo",
+      "match_kind": "alias",
+      "matched_term": "flour"
     },
     {
       "recipe_id": "mg1930-p058-r02",
@@ -26281,8 +26293,14 @@
       "recipe_id": "mg1930-p106-r04",
       "recipe_title": "ICE BOX DESSERT",
       "display_text": "1 small bottle Maraschino",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2188,
+      "canonical_name": "maraschino liqueur",
+      "canonical_name_normalized": "maraschino-liqueur",
+      "display_name_en": "maraschino liqueur",
+      "display_name_pt": "licor maraschino",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "small-maraschino"
     },
     {
       "recipe_id": "mg1930-p106-r04",
@@ -30217,7 +30235,7 @@
       "display_name_pt": "macas",
       "match_kind": "extension",
       "registry": "mayflower-extension",
-      "matched_term": "tart-apples"
+      "matched_term": "apples"
     },
     {
       "recipe_id": "mg1930-p120-r03",
@@ -34238,8 +34256,14 @@
       "recipe_id": "mg1930-p133-r02",
       "recipe_title": "LEMON PIE",
       "display_text": "1 baked pie crust",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2185,
+      "canonical_name": "pie crust",
+      "canonical_name_normalized": "pie-crust",
+      "display_name_en": "pie crust",
+      "display_name_pt": "massa de torta",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "baked-pie-crust"
     },
     {
       "recipe_id": "mg1930-p133-r03",
@@ -38109,14 +38133,14 @@
       "recipe_id": "mg1930-p143-r01",
       "recipe_title": "PICKLED PEACHES",
       "display_text": "3 whole cloves per peach",
-      "ingredient_id": 2113,
-      "canonical_name": "peaches",
-      "canonical_name_normalized": "peaches",
-      "display_name_en": "peaches",
-      "display_name_pt": "pessegos",
-      "match_kind": "extension",
-      "registry": "mayflower-extension",
-      "matched_term": "peach"
+      "alias_normalized": "cloves",
+      "ingredient_id": 418,
+      "canonical_name": "Cravo",
+      "canonical_name_normalized": "cravo",
+      "display_name_en": null,
+      "display_name_pt": "Cravo",
+      "match_kind": "alias",
+      "matched_term": "cloves"
     },
     {
       "recipe_id": "mg1930-p143-r01",
@@ -42063,8 +42087,14 @@
       "recipe_id": "mg1930-p155-r05",
       "recipe_title": "LOBSTER SALAD",
       "display_text": "Lobster coral, if available",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2178,
+      "canonical_name": "lobster coral",
+      "canonical_name_normalized": "lobster-coral",
+      "display_name_en": "lobster coral",
+      "display_name_pt": "coral de lagosta",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "lobster-coral"
     },
     {
       "recipe_id": "mg1930-p155-r05",
@@ -45369,8 +45399,14 @@
       "recipe_id": "mg1930-p167-r02",
       "recipe_title": "ROLLED SANDWICHES WITH CHEESE",
       "display_text": "Very fresh sandwich bread, cut lengthwise into thin slices",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "bread",
+      "ingredient_id": 1126,
+      "canonical_name": "bread",
+      "canonical_name_normalized": "pao",
+      "display_name_en": "bread",
+      "display_name_pt": "pão",
+      "match_kind": "alias",
+      "matched_term": "bread"
     },
     {
       "recipe_id": "mg1930-p167-r02",
@@ -47138,8 +47174,14 @@
       "recipe_id": "mg1930-p174-r03",
       "recipe_title": "SWIFT'S PREMIUM HAM SUPREME",
       "display_text": "Currant jelly",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2187,
+      "canonical_name": "currant jelly",
+      "canonical_name_normalized": "currant-jelly",
+      "display_name_en": "currant jelly",
+      "display_name_pt": "geleia de groselha",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "currant-jelly"
     },
     {
       "recipe_id": "mg1930-p174-r03",
@@ -47446,8 +47488,14 @@
       "recipe_id": "mg1930-p175-r04",
       "recipe_title": "CREAMED PORK TENDERLOIN",
       "display_text": "Pork tenderloin, cubed",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2181,
+      "canonical_name": "pork tenderloin",
+      "canonical_name_normalized": "pork-tenderloin",
+      "display_name_en": "pork tenderloin",
+      "display_name_pt": "file de porco",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "pork-tenderloin"
     },
     {
       "recipe_id": "mg1930-p175-r04",
@@ -47492,8 +47540,14 @@
       "recipe_id": "mg1930-p175-r04",
       "recipe_title": "CREAMED PORK TENDERLOIN",
       "display_text": "Toast, for serving",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "bread",
+      "ingredient_id": 1126,
+      "canonical_name": "bread",
+      "canonical_name_normalized": "pao",
+      "display_name_en": "bread",
+      "display_name_pt": "pão",
+      "match_kind": "historical_alias",
+      "matched_term": "toast"
     },
     {
       "recipe_id": "mg1930-p175-r05",
@@ -48020,8 +48074,14 @@
       "recipe_id": "mg1930-p177-r02",
       "recipe_title": "VEAL BIRDS ( BEEF BIRDS )",
       "display_text": "Veal cutlets or thin beef steak, ½ inch thick",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2191,
+      "canonical_name": "veal cutlets",
+      "canonical_name_normalized": "veal-cutlets",
+      "display_name_en": "veal cutlets",
+      "display_name_pt": "costeletas de vitela",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "veal-cutlets"
     },
     {
       "recipe_id": "mg1930-p177-r02",
@@ -49657,8 +49717,14 @@
       "recipe_id": "mg1930-p181-r01",
       "recipe_title": "LUNCHEON DISH",
       "display_text": "Buttered toast, for serving",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "bread",
+      "ingredient_id": 1126,
+      "canonical_name": "bread",
+      "canonical_name_normalized": "pao",
+      "display_name_en": "bread",
+      "display_name_pt": "pão",
+      "match_kind": "historical_alias",
+      "matched_term": "toast"
     },
     {
       "recipe_id": "mg1930-p181-r02",
@@ -52537,8 +52603,14 @@
       "recipe_id": "mg1930-p192-r01",
       "recipe_title": "EGG AND CHEESE DAINTY",
       "display_text": "1 plain rusk or crisp toast, crumbled",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "bread",
+      "ingredient_id": 1126,
+      "canonical_name": "bread",
+      "canonical_name_normalized": "pao",
+      "display_name_en": "bread",
+      "display_name_pt": "pão",
+      "match_kind": "historical_alias",
+      "matched_term": "toast"
     },
     {
       "recipe_id": "mg1930-p192-r01",
@@ -52791,8 +52863,14 @@
       "recipe_id": "mg1930-p192-r04",
       "recipe_title": "HORSE RADISH EGGS",
       "display_text": "Bread rounds, 12",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "bread",
+      "ingredient_id": 1126,
+      "canonical_name": "bread",
+      "canonical_name_normalized": "pao",
+      "display_name_en": "bread",
+      "display_name_pt": "pão",
+      "match_kind": "alias",
+      "matched_term": "bread"
     },
     {
       "recipe_id": "mg1930-p192-r04",
@@ -54043,8 +54121,14 @@
       "recipe_id": "mg1930-p196-r02",
       "recipe_title": "LOBSTER A LA NEWBERG",
       "display_text": "3/4 cup madeira or sherry wine",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2186,
+      "canonical_name": "fortified wine",
+      "canonical_name_normalized": "fortified-wine",
+      "display_name_en": "fortified wine",
+      "display_name_pt": "vinho fortificado",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "madeira-or-sherry-wine"
     },
     {
       "recipe_id": "mg1930-p196-r02",
@@ -58343,8 +58427,14 @@
       "recipe_id": "mg1930-p210-r03",
       "recipe_title": "SWEET POTATOES",
       "display_text": "Hot water, to loosen mash",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "alias_normalized": "water",
+      "ingredient_id": 52,
+      "canonical_name": "água",
+      "canonical_name_normalized": "agua",
+      "display_name_en": null,
+      "display_name_pt": "água",
+      "match_kind": "alias",
+      "matched_term": "water"
     },
     {
       "recipe_id": "mg1930-p210-r03",
@@ -59815,8 +59905,14 @@
       "recipe_id": "mg1930-p071-r01",
       "recipe_title": "Providence Muffins",
       "display_text": "½ cup bran",
-      "match_kind": "unmatched",
-      "review_class": "unresolved_food_identity"
+      "ingredient_id": 2189,
+      "canonical_name": "bran",
+      "canonical_name_normalized": "bran",
+      "display_name_en": "bran",
+      "display_name_pt": "farelo",
+      "match_kind": "extension",
+      "registry": "mayflower-extension",
+      "matched_term": "bran"
     },
     {
       "recipe_id": "mg1930-p071-r01",
