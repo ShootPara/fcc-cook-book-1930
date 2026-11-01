@@ -9,6 +9,15 @@ An accessible, static website for the corrected 1930 Mayflower Guild cookbook. I
 - `tools/build_edition.py` — reproducibly generates the public data and matching report.
 - `reports/canonical-ingredient-matches.json` — every ingredient-line matching decision.
 - `reports/ingredient-review-queue.csv` — unresolved terms grouped with affected recipe IDs and titles.
+
+Validate a generated edition before publishing:
+
+```powershell
+python tools/build_edition.py
+node check-edition.mjs
+node check-caching.mjs
+node check-ingredient-matches.mjs
+```
 - `docs/` — site use, accessibility, build, and data-status documentation.
 
 ## Build and verify
