@@ -137,7 +137,7 @@
     {"ingredient_id": 2133, "canonical_name": "spaghetti", "display_name_en": "spaghetti", "display_name_pt": "espaguete", "aliases": ["spaghetti"]},
     {"ingredient_id": 2134, "canonical_name": "sweet cucumber pickles", "display_name_en": "sweet cucumber pickles", "display_name_pt": "picles doces de pepino", "aliases": ["sweet cucumber pickles"]},
     {"ingredient_id": 2135, "canonical_name": "rabbit", "display_name_en": "rabbit", "display_name_pt": "coelho", "aliases": ["rabbit"]},
-    {"ingredient_id": 2136, "canonical_name": "beef", "display_name_en": "beef", "display_name_pt": "carne bovina", "aliases": ["beef", "chopped beef", "diced beef"]},
+    {"ingredient_id": 2136, "canonical_name": "beef", "display_name_en": "beef", "display_name_pt": "carne bovina", "aliases": ["beef", "chopped beef", "diced beef", "ground steak", "beef brisket", "brisket", "beef rump", "rump", "beef shank", "shank", "beef chuck", "chuck", "top of round"]},
     {"ingredient_id": 2137, "canonical_name": "pork", "display_name_en": "pork", "display_name_pt": "carne de porco", "aliases": ["pork", "fresh pork", "ground pork", "pork steak"]},
     {"ingredient_id": 2138, "canonical_name": "lamb", "display_name_en": "lamb", "display_name_pt": "cordeiro", "aliases": ["lamb", "lamb breast"]},
     {"ingredient_id": 2139, "canonical_name": "sausage", "display_name_en": "sausage", "display_name_pt": "linguica", "aliases": ["sausage", "sausages", "link sausage"]},
@@ -174,6 +174,17 @@
     {"ingredient_id": 2170, "canonical_name": "navy beans", "display_name_en": "navy beans", "display_name_pt": "feijao branco", "aliases": ["navy beans"]},
     {"ingredient_id": 2171, "canonical_name": "bamboo shoots", "display_name_en": "bamboo shoots", "display_name_pt": "brotos de bambu", "aliases": ["bamboo sprouts", "bamboo shoots"]},
     {"ingredient_id": 2172, "canonical_name": "whitefish", "display_name_en": "whitefish", "display_name_pt": "peixe branco", "aliases": ["whitefish", "white fish"]},
-    {"ingredient_id": 2173, "canonical_name": "corned beef", "display_name_en": "corned beef", "display_name_pt": "carne bovina em conserva", "aliases": ["corned beef"]}
+    {"ingredient_id": 2173, "canonical_name": "corned beef", "display_name_en": "corned beef", "display_name_pt": "carne bovina em conserva", "aliases": ["corned beef"]},
+    {"ingredient_id": 2174, "canonical_name": "sweet peppers", "display_name_en": "sweet peppers", "display_name_pt": "pimentoes doces", "aliases": ["sweet pepper", "sweet peppers", "red sweet pepper", "red sweet peppers", "seeded peppers"]},
+    {"ingredient_id": 2175, "canonical_name": "wax beans", "display_name_en": "wax beans", "display_name_pt": "vagem amarela", "aliases": ["wax beans"]},
+    {"ingredient_id": 2176, "canonical_name": "glace plums", "display_name_en": "glace plums", "display_name_pt": "ameixas glaceadas", "aliases": ["glace plums", "glace plum"]},
+    {"ingredient_id": 2177, "canonical_name": "peanuts", "display_name_en": "peanuts", "display_name_pt": "amendoins", "aliases": ["peanut", "peanuts", "ground peanuts"]},
+    {"ingredient_id": 2178, "canonical_name": "lobster coral", "display_name_en": "lobster coral", "display_name_pt": "coral de lagosta", "aliases": ["lobster coral"]},
+    {"ingredient_id": 2179, "canonical_name": "pimiento cheese spread", "display_name_en": "pimiento cheese spread", "display_name_pt": "pasta de queijo e pimentao", "aliases": ["pimiento cheese spread"]},
+    {"ingredient_id": 2180, "canonical_name": "puff pastry", "display_name_en": "puff pastry", "display_name_pt": "massa folhada", "aliases": ["puff pastry", "puff paste", "plain pastry"]},
+    {"ingredient_id": 2181, "canonical_name": "pork tenderloin", "display_name_en": "pork tenderloin", "display_name_pt": "file de porco", "aliases": ["pork tenderloin"]},
+    {"ingredient_id": 2182, "canonical_name": "turkey giblets", "display_name_en": "turkey giblets", "display_name_pt": "miudos de peru", "aliases": ["turkey giblets"]},
+    {"ingredient_id": 2183, "canonical_name": "cayenne pepper", "display_name_en": "cayenne pepper", "display_name_pt": "pimenta-caiena", "aliases": ["cayenne", "cayenne pepper"]},
+    {"ingredient_id": 2184, "canonical_name": "crackers", "display_name_en": "crackers", "display_name_pt": "biscoitos salgados", "aliases": ["cracker", "crackers", "rolled crackers"]}
   ]
 }
